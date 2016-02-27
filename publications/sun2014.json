@@ -1,0 +1,11 @@
+{
+    "title": "Solving Byzantine Problems in Synchronized Systems using Bitcoin",
+    "url": "http://web.mit.edu/felixsun/www/projects/bitcoin.pdf",
+    "year": 2014,
+    "peer-reviewed": false,
+    "authors": [
+	{"name": "Felix Sun"},
+	{"name": "Peitong Duan"}
+    ],
+    "id": "sun2014"
+}
