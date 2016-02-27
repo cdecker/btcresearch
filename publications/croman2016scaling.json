@@ -1,0 +1,48 @@
+{
+    "id": "croman2016scaling",
+    "title": "On Scaling Decentralized Blockchains",
+    "abstract": "The increasing popularity of blockchain-based cryptocurrencies has made scalability a primary and urgent concern. We analyze how fundamental and circumstantial bottlenecks in Bitcoin limit the ability of its current peer-to-peer overlay network to support substantially higher throughputs and lower latencies. Our results suggest that reparameterization of block size and intervals should be viewed only as a first increment toward achieving next-generation, high-load blockchain protocols, and major advances will additionally require a basic rethinking of technical approaches. We offer a structured perspective on the design space for such approaches. Within this perspective, we enumerate and briefly discuss a number of recently proposed protocol ideas and offer several new ideas and open challenges.",
+    "peer-reviewed": true,
+    "venue": "3rd Workshop on Bitcoin Research (BITCOIN), Barbados",
+    "year": 2016,
+    "authors":[
+	{
+	    "name": "Kyle Croman",
+	    "affiliation": "Cornell University"
+	}, {
+	    "name": "Christian Decker",
+	    "affiliation": "ETH Zurich"
+	}, {
+	    "name": "Ittay Eyal",
+	    "affiliation": "Cornell University"
+	}, {
+	    "name": "Adem Efe Gencer",
+	    "affiliation": "Cornell University"
+	}, {
+	    "name": "Ari Juels",
+	    "affiliation": "Jacobs, Cornell Tech"
+	}, {
+	    "name": "Ahmed Kosba",
+	    "affiliation": "University of Maryland"
+	}, {
+	    "name":"Andrew Miller",
+	    "affiliation": "University of Maryland"
+	}, {
+	    "name": "Prateek Saxena",
+	    "affiliation": "National University Singapore"
+	}, {
+	    "name": "Elaine Shi",
+	    "affiliation": "Cornell University"
+	}, {
+	    "name": "Emin Gun Sirer",
+	    "affiliation": "Cornell University"
+	}, {
+	    "name": "Dawn Song",
+	    "affiliation": "University of California, Berkeley"
+	}, {
+	    "name": "Roger Wattenhofer",
+	    "affiliation": "ETH Zurich"
+	}
+    ],
+    "url": "http://www.tik.ee.ethz.ch/file/74bc987e6ab4a8478c04950616612f69/CDE+16.pdf"
+}

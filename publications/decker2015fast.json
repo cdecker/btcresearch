@@ -1,0 +1,13 @@
+{
+    "title": "A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels",
+    "url": "http://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf",
+    "year": 2015,
+    "peer-reviewed": true,
+    "abstract": "Bitcoin does not scale, because its synchronization mechanism, the blockchain, limits the maximum rate of transactions the network can process. However, using off-blockchain transactions it is possible to create long-lived channels over which an arbitrary number of transfers can be processed locally between two users, without any burden to the Bitcoin network. These channels may form a network of payment service providers (PSPs). Payments can be routed between any two users in real time, without any confirmation delay. In this work we present a protocol for duplex micropayment channels, which guarantees end-to-end security and allow instant transfers, laying the foundation of the PSP network.",
+    "venue": "17th International Symposium on Stabilization, Safety,  and Security of Distributed Systems (SSS), Edmonton, Canada",
+    "authors": [
+	{"name": "Christian Decker", "affiliation": "ETH Zurich"},
+	{"name": "Roger Wattenhofer", "affiliation": "ETH Zurich"}
+    ],
+    "id": "decker2015fast"
+}

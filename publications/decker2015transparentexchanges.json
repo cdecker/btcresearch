@@ -1,0 +1,15 @@
+{
+    "title": "Making Bitcoin Exchanges Transparent",
+    "url": "http://www.tik.ee.ethz.ch/file/b89cb24ad2fa4e7ef01426d318c9b98b/decker2015making.pdf",
+    "year": 2015,
+    "abstract": "Bitcoin exchanges are a vital component of the Bitcoin ecosystem. They are a gateway from the classical economy to the cryptocurrency economy, facilitating the exchange between fiat currency and bitcoins. However, exchanges are also single points of failure, operating outside the Bitcoin blockchain, requiring users to entrust them with their funds in order to operate. In this work we present a solution, and a proof-of-concept implementation, that allows exchanges to prove their solvency, without publishing any information of strategic importance.",
+    "peer-reviewed": true,
+    "venue": "20th European Symposium on Research in Computer Security (ESORICS), Vienna, Austria",
+    "authors": [
+	{"name": "Christian Decker"},
+	{"name": "James Guthrie"},
+	{"name": "Jochen Seidel"},
+	{"name": "Roger Wattenhofer"}
+    ],
+    "id": "decker2015transparentexchanges"
+}
