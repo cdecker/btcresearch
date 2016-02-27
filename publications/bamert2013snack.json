@@ -1,0 +1,16 @@
+{
+    "title": "Have a Snack, Pay with Bitcoins",
+    "url": "http://www.tik.ee.ethz.ch/file/848064fa2e80f88a57aef43d7d5956c6/P2P2013_093.pdf",
+    "year": 2013,
+    "venue": "13th IEEE International Conference on Peer-to-Peer Computing (P2P), Trento, Italy",
+    "peer-reviewed": true,
+    "abstract": "Cashless payments are nowadays ubiquitous and decentralized digital currencies like Bitcoin are increasingly used as means of payment. However, due to the delay of the transaction confirmation in Bitcoin, it is not used for payments that rely on quick transaction confirmation. We present a concept that addresses this drawback of Bitcoin and allows it to be used for fast transactions. We evaluate the performance of the concept using double-spending attacks and show that, employing our concept, the success of such attacks diminishes to less than 0.09%. Moreover, we present a real world application: We modified a snack vending machine to accept Bitcoin payments and make use of fast transaction confirmations.",
+    "authors": [
+	{"name": "Tobias Bamert", "affiliation": "ETH Zurich"},
+	{"name": "Christian Decker", "affiliation": "ETH Zurich"},
+	{"name": "Lennart Elsen", "affiliation": "ETH Zurich"},
+	{"name": "Roger Wattenhofer", "affiliation": "ETH Zurich"},
+	{"name": "Samuel Welten", "affiliation": "ETH Zurich"}
+    ],
+    "id": "bamert2013snack"
+}

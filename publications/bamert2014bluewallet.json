@@ -1,0 +1,15 @@
+{
+    "title": "BlueWallet: The Secure Bitcoin Wallet",
+    "url": "http://www.tik.ee.ethz.ch/file/0c347a9a3803cb937d360cba511e5019/stm2014_submission_12.pdf",
+    "year": 2014,
+    "venue": "10th International Workshop on Security and Trust Management (STM), Wroclaw, Poland",
+    "abstract": "With the increasing popularity of Bitcoin, a digital decentralized currency and payment system, the number of malicious third parties attempting to steal bitcoins has grown substantially. Attackers have stolen bitcoins worth millions of dollars from victims by using malware to gain access to the private keys stored on the victims’ computers or smart phones. In order to protect the Bitcoin private keys, we propose the use of a hardware token for the authorization of transactions. We created a proof-of-concept Bitcoin hardware token: BlueWallet. The device communicates using Bluetooth Low Energy and is able to securely sign Bitcoin transactions. The device can also be used as an electronic wallet in combination with a point of sale and serves as an alternative to cash and credit cards",
+    "peer-reviewed": true,
+    "authors": [
+	{"name": "Tobias Bamert", "affiliation": "ETH Zurich"},
+	{"name": "Christian Decker", "affiliation": "ETH Zurich"},
+	{"name": "Roger Wattenhofer", "affiliation": "ETH Zurich"},
+	{"name": "Samuel Welten", "affiliation": "ETH Zurich"}
+    ],
+    "id": "bamert2014bluewallet"
+}
