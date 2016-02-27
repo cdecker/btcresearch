@@ -1,0 +1,14 @@
+{
+    "title": "Bitcoin Meets Strong Consistency",
+    "peer-reviewed": true,
+    "url": "http://www.tik.ee.ethz.ch/file/ed3e5da74fbca5584920e434d9976a12/peercensus.pdf",
+    "year": 2016,
+    "venue": "17th International Conference on Distributed Computing and Networking (ICDCN), Singapore",
+    "abstract": "The Bitcoin system only provides eventual consistency. For everyday life, the time to confirm a Bitcoin transaction is prohibitively slow. In this paper we propose a new system, built on the Bitcoin blockchain, which enables strong consistency. Our system, PeerCensus, acts as a certification authority, manages peer identities in a peer-to-peer network, and ultimately enhances Bitcoin and similar systems with strong consistency. Our extensive analysis shows that PeerCensus is in a secure state with high probability. We also show how Discoin, a Bitcoin variant that decouples block creation and transaction confirmation, can be built on top of PeerCensus, enabling real-time payments. Unlike Bitcoin, once transactions in Discoin are committed, they stay committed.",
+    "authors": [
+	{"name": "Christian Decker", "affiliation": "ETH Zurich"},
+	{"name": "Jochen Seidel", "affiliation": "ETH Zurich"},
+	{"name": "Roger Wattenhofer", "affiliation": "ETH Zurich"}
+    ],
+    "id": "decker2014strongconsistency"
+}
