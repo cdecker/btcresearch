@@ -1,0 +1,10 @@
+{
+    "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "year": 2008,
+    "authors": [
+	{"name": "Satoshi Nakamoto"}
+    ],
+    "peer-reviewed": false,
+    "id": "nakamoto2008bitcoin"
+}

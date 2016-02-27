@@ -1,0 +1,55 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "bibentry",
+    "description": "A bibliography entry",
+    "type": "object",
+    "properties":{
+	"id": {
+	    "type": "string",
+	    "description": "Unique entry id used to reference entries."
+	},
+	"title": {
+	    "type": "string",
+	    "description": "Paper title"
+	},
+	"authors": {
+	    "type": "array",
+	    "items": {
+		"type": "object",
+		"properties": {
+		    "name": {
+			"type": "string",
+			"description": "Full name of the author."
+		    },
+		    "affiliation": {
+			"type": "string",
+			"description": "Affiliation of the author."
+		    }
+		},
+		"required": ["name"]
+	    },
+	    "minItems": 1,
+	    "uniqueItems": true
+	},
+	"year": {
+	    "type": "integer",
+	    "description": "The publication year"
+	},
+	"peer-reviewed": {
+	    "type": "boolean",
+	    "description": "Was this publication reviewed for a Conference or Journal?"
+	},
+	"venue": {
+	    "type": "string",
+	    "description": "Name of the Conference or Journal this publication was published in (required if peer-reviewed is set)."
+	},
+	"abstract": {
+	    "type": "string"
+	},
+	"url": {
+	    "type": "string",
+	    "description": "URL where the publication can be downloaded (as PDF if possible)."
+	}
+    },
+    "required": ["id", "title", "authors", "year"]
+}
