@@ -1,0 +1,16 @@
+{
+    "id": "kokoris2016enhancing",
+    "title": "Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing",
+    "authors": [
+	{"name": "Eleftherios Kokoris-Kogias"},
+	{"name": "Philipp Jovanovic"},
+	{"name": "Nicolas Gailly"},
+	{"name": "Ismail Khoffi"},
+	{"name": "Linus Gasser"},
+	{"name": "Bryan Ford"}
+    ],
+    "url": "http://arxiv.org/pdf/1602.06997v1",
+    "abstract": "While showing great promise, Bitcoin requires users to wait tens of minutes for transactions to commit - even then offering only probabilistic guarantees. This paper introduces ByzCoin, a novel Byzantine consensus protocol that leverages scalable collective signing to commit Bitcoin transactions irreversibly within seconds. ByzCoin achieves Byzantine consensus while preserving Bitcoin's open membership by dynamically forming hash power-proportionate consensus groups representing recently-successful block miners. ByzCoin employs communication trees to optimize transaction commitment and verification under normal operation while guaranteeing safety and liveness under Byzantine faults, up to a near-optimal tolerance of f faulty group members among 3f+2 total. ByzCoin mitigates double spending and selfish mining attacks by producing collectively signed transaction blocks within one minute of transaction submission. Tree-structured communication further reduces this latency to less than 30 seconds. Thanks to these optimizations ByzCoin achieves a throughput higher than Paypal currently handles, with confirmation latencies of 15-20 seconds.",
+    "peer-reviewed": false,
+    "year": 2016
+}
