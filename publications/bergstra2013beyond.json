@@ -1,0 +1,12 @@
+{
+    "id": "bergstra2013beyond",
+    "title": "Bitcoin and Beyond: Exclusively Informational Monies",
+    "url": "http://arxiv.org/abs/1304.4758",
+    "year": 2013,
+    "authors": [
+	{"name": "Jan A. Bergstra"},
+	{"name": "Karl de Leeuw"}
+    ],
+    "abstract": "The famous new money Bitcoin is classified as a technical informational money (TIM). Besides introducing the idea of a TIM, a more extreme notion of informational money will be developed: exclusively informational money (EXIM).\nThe informational coins (INCOs) of an EXIM can be in control of an agent but are not owned by any agent. INCOs of an EXIM cannot be stolen, but they can be lost, or thrown away. The difference between an EXIM and a TIM shows up when considering a user perspective on security matters. Security for an EXIM user is discussed in substantial detail, with the remarkable conclusion that computer security (security models, access control, user names, passwords, firewalls etc.) is not always essential for an EXIM, while the application of cryptography based information security is unavoidable for the use of an EXIM.\nBitcoin seems to meet the criteria of an EXIM, but the assertion that \"Bitcoin is an EXIM\", might also be considered problematic. As a thought experiment we will contemplate Bitguilder, a hypothetical copy of Bitcoin that qualifies as an EXIM.\nA business ethics assessment of Bitcoin is made which reveals a number of worries. By combining Bitguilder with a so-called technical informational near-money (TINM) a dual money system, having two units with a fluctuating rate, may be obtained. It seems that a dual money can remedy some, but not all, of the ethical worries that arise when contemplating Bitcoin after hypothetically having become a dominant form of money.\nThe contributions that Bitcoin's designers can potentially make to the evolution of EXIMs and TIMs is analyzed in terms of the update of the portfolio of money related natural kinds that comes with Bitcoin.",
+    "peer-reviewed": false
+}

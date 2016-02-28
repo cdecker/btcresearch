@@ -1,0 +1,11 @@
+{
+    "title": "Cryptocurrency-Based Law",
+    "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2573788",
+    "year": 2015,
+    "peer-reviewed": false,
+    "authors": [
+	{"name": "Michael Abramowicz", "affiliation": "George Washington University Law School"}
+    ],
+    "id": "abramowicz2015",
+    "abstract": "Bitcoin is a protocol promoted as the first peer-to-peer institution, an alternative to a central bank. The decisions made through this protocol, however, involve no judgment. Could a peer-to-peer protocol underpin an institution that makes normative decisions? Indeed, an extension to the Bitcoin protocol could allow a cryptocurrency to make law. Tacit coordination games, in which players compete to identify consensus issue resolutions, would determine currency ownership. For example, an issue might be whether a cryptocurrency-based trust should disburse funds to a putative beneficiary, and the game’s outcome would resolve the question and result in gains or losses for coordination game participants. A cryptocurrency can also be used to generate rules or other written codes. Peer-to-peer law might be useful when official decisionmakers are corrupt or when agency or transactions costs are high. A modest starting point for cryptocurrency-based governance would be as a replacement for Bitcoin’s centralized system for changing its source code. A cryptocurrency incorporating tacit coordination games could serve as a foundation for other projects requiring peer-to-peer governance, ranging from arbitration to business associations, which would enjoy inherent limited liability and would lack designated management."
+}
