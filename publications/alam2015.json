@@ -1,0 +1,13 @@
+{
+    "title": "Smart Trading in Smart Grid Using Bitcoin",
+    "url": "http://www.ccsenet.org/journal/index.php/cis/article/download/46637/26131",
+    "year": 2015,
+    "venue": "Computer and Information Science; Vol. 8, No. 2",
+    "authors": [
+	{"name": "Muhammad Tanvir Alam", "affiliation": "University of Toronto"},
+	{"name": "Haozhang Li", "affiliation": "University of Toronto"},
+	{"name": "Atul Patidar", "affiliation": "University of Toronto"}
+    ],
+    "abstract": "Privacy aware anonymous trading for smart grid using digital currency has received very low attention so far. The popularity of digital currency has just beginning to become food for thought for the user friendly trade while conserving the anonymity. The current design of smart-grids raises serious concerns with respect to the privacy and anonymity of users. The widespread deployment of smart meters introduces serious privacy risks since the frequent collection of power data may reveal considerable information about residential appliance usage. Consumers worry that intelligent monitoring devices, which transmit power-usage information to the utility as frequently as every 15 minutes, would make them vulnerable to thieves, annoying marketers, and police investigations. In this paper, we analyze the possibility of Bitcoin serving as the user friendly and effective privacy aware trading currency to facilitate energy exchange for smart grid. A taxonomy to determine the parameters of the price functions backed up by microeconomic theories is also discussed in this report for trading energy. Another scope of this project is to identify the incentive for users at Government level with mere regulations under Canadian perspective",
+    "id": "alam2015"
+}
