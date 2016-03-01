@@ -1,0 +1,13 @@
+{
+    "id": "liu2016witness",
+    "title": "Extractable Witness Encryption and Timed-Release Encryption from Bitcoin",
+    "year": 2016,
+    "peer-reviewed": false,
+    "authors": [
+	{"name": "Jia Liu", "affiliation": "University of Bristol"},
+	{"name": "Saqib A. Kakvi", "affiliation": "University of Bristol"},
+	{"name": "Bogdan Warinschi", "affiliation": "University of Bristol"}
+    ],
+    "url": "http://eprint.iacr.org/eprint-bin/getfile.pl?entry=2015/482&version=20160210:190212&file=482.pdf",
+    "abstract": "We propose a new witness encryption based on Subset-Sum which achieves extractable security without relying on obfuscation and is more efficient than the existing ones. Our witness encryption employs multilinear maps of arbitrary order and it is independent of the implementations of multilinear maps. As an application, we construct a new timed-release encryption based on the Bitcoin protocol and extractable witness encryption. The novelty of our scheme is that the decryption key will be automatically revealed in the bitcoin block-chain when the block-chain reaches a certain length."
+}

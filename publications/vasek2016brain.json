@@ -1,0 +1,16 @@
+{
+    "title": "The Bitcoin Brain Drain: Examining the Use and Abuse of Bitcoin Brain Wallets",
+    "url": "http://www.jbonneau.com/doc/VBCKM16-FC-bitcoin_brain_wallets.pdf",
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Financial Cryptography and Data Security",
+    "authors": [
+	{"name": "Marie Vasek", "affiliation": "Tandy School of Computer Science, University of Tulsa"},
+	{"name": "Joseph Bonneau", "affiliation": "Stanford University"},
+	{"name": "Ryan Castellucci", "affiliation": "White Ops"},
+	{"name": "Cameron Keith", "affiliation": "Southern Methodist University"},
+	{"name": "Tyler Moore", "affiliation": "Tandy School of Computer Science, University of Tulsa"}
+    ],
+    "id": "vasek2016brain",
+    "abstract": "In the cryptocurrency Bitcoin, users can deterministically derive the private keys used for transmitting money from a password. Such “brain wallets” are appealing because they free users from storing their private keys on untrusted computers. Unfortunately, they also enable attackers to conduct unlimited offline password guessing. In this paper, we report on the first large-scale measurement of the use of brain wallets in Bitcoin. Using a wide range of word lists, we evaluated around 300 billion passwords. Surprisingly, after excluding activities by researchers, we identified just 884 brain wallets worth around $100K in use from September 2011 to August 2015. We find that all but 21 wallets were drained, usually within 24 hours but often within minutes. We find that around a dozen “drainers” are competing to liquidate brain wallets as soon as they are funded. We find no evidence that users of brain wallets loaded with more bitcoin select stronger passwords, but we do find that brain wallets with weaker passwords are cracked more quickly."
+}
