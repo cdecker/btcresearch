@@ -1,0 +1,15 @@
+{
+    "title": "ZombieCoin: Powering Next-Generation Botnets with Bitcoin",
+    "url": "http://homepages.cs.ncl.ac.uk/feng.hao/files/zcoin-camera-ready.pdf",
+    "year": 2015,
+    "venue": "Financial Cryptography and Data Security",
+    "authors": [
+	{"name": "Syed Taha Ali", "affiliation": "Newcastle University"},
+	{"name": "Patrick McCorry", "affiliation": "Newcastle University"},
+	{"name": "Peter Hyun-Jeen Lee", "affiliation": "Newcastle University"},
+	{"name": "Feng Hao", "affiliation": "Newcastle University"}
+    ],
+    "abstract": "Botnets are the preeminent source of online crime and arguably the greatest threat to the Internet infrastructure. In this paper, we present ZombieCoin, a botnet command-and-control (C&C) mechanism that runs on the Bitcoin network. ZombieCoin offers considerable advantages over existing C&C techniques, most notably the fact that Bitcoin is designed to resist the very regulatory processes currently used to combat botnets. We believe this is a desirable avenue botmasters may explore in the near future and our work is intended as a first step towards devising effective countermeasures.",
+    "peer-reviewed": true,
+    "id": "ali2015zombiecoin"
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Bitcoin: Perils of an Unregulated Global P2P Currency",
+    "url": "http://eprint.ncl.ac.uk/file_store/production/213785/7FD5FD57-A19B-4A9C-9E79-C16966C46708.pdf",
+    "year": 2015,
+    "venue": "Security Protocols XXIII: Volume 9379 of the series Lecture Notes in Computer Science",
+    "authors": [
+	{"name": "Syed Taha Ali"},
+	{"name": "Dylan Clarke"},
+	{"name": "Patrick McCorry"}
+    ],
+    "id": "ali2015",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin has, since 2009, become an increasingly popular online currency, in large part because it resists regulation and provides anonymity. We discuss how Bitcoin has become both a highly useful tool for criminals and a lucrative target for crime, and argue that this arises from the same essential ideological and design choices that have driven Bitcoin's success to date. In this paper, we survey the landscape of Bitcoinrelated crime, such as dark markets and bitcoin theft, and speculate about possible future possibilities, including tax evasion and money laundering."
+}
