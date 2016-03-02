@@ -1,4 +1,4 @@
-# CABRA &mdash; Comprehensive Academinc Bitcoin Research Archive
+# CABRA &mdash; Comprehensive Academic Bitcoin Research Archive
 
 CABRA is an attempt to collect and organize metadata about ongoing Bitcoin research.
 
