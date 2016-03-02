@@ -1,1 +1,14 @@
-{"title": "CoinShuffle: Practical Decentralized Coin Mixing for Bitcoin", "url": "http://link.springer.com/chapter/10.1007/978-3-319-11212-1_20", "year": 2014, "venue": "Computer Security - ESORICS 2014", "authors": [{"name": "Tim Ruffing"}, {"name": "Pedro Moreno-Sanchez"}, {"name": "Aniket Kate"}], "id": "ruffing2014coinshuffle"}
+{
+    "title": "CoinShuffle: Practical Decentralized Coin Mixing for Bitcoin",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-11212-1_20",
+    "year": 2014,
+    "venue": "Computer Security - ESORICS 2014",
+    "peer-reviewed": true,
+    "authors": [
+	{"name": "Tim Ruffing"},
+	{"name": "Pedro Moreno-Sanchez"},
+	{"name": "Aniket Kate"}
+    ],
+    "id": "ruffing2014coinshuffle",
+    "abstract": "The decentralized currency network Bitcoin is emerging as a potential new way of performing financial transactions across the globe. Its use of pseudonyms towards protecting users’ privacy has been an attractive feature to many of its adopters. Nevertheless, due to the inherent public nature of the Bitcoin transaction ledger, users’ privacy is severely restricted to linkable anonymity, and a few transaction deanonymization attacks have been reported thus far.\nIn this paper we propose CoinShuffle, a completely decentralized Bitcoin mixing protocol that allows users to utilize Bitcoin in a truly anonymous manner. CoinShuffle is inspired by the accountable anonymous group communication protocol Dissent and enjoys several advantages over its predecessor Bitcoin mixing protocols. It does not require any (trusted, accountable or untrusted) third party and it is perfectly compatible with the current Bitcoin system. CoinShuffle introduces only a small communication overhead for its users, while completely avoiding additional anonymization fees and minimalizing the computation and communication overhead for the rest of the Bitcoin system."
+}
