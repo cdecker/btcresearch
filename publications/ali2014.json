@@ -11,7 +11,5 @@
     ],
     "id": "ali2014",
     "peer-reviewed": false,
-    "abstract": "Modern electronic payment systems rely on trusted, central third parties to process payments securely. Recent developments have seen the creation of digital currencies like Bitcoin, which combine new currencies with decentralised payment systems. Although the monetary aspects of digital currencies have attracted considerable attention, the distributed ledger underlying their payment systems is a significant innovation. As with money held as bank deposits, most financial assets today exist as purely digital records. This opens up the possibility for distributed ledgers to transform the financial system more generally.
-
-"
+    "abstract": "Modern electronic payment systems rely on trusted, central third parties to process payments securely. Recent developments have seen the creation of digital currencies like Bitcoin, which combine new currencies with decentralised payment systems. Although the monetary aspects of digital currencies have attracted considerable attention, the distributed ledger underlying their payment systems is a significant innovation. As with money held as bank deposits, most financial assets today exist as purely digital records. This opens up the possibility for distributed ledgers to transform the financial system more generally."
 }
