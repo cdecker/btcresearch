@@ -1,0 +1,14 @@
+{
+    "title": "Bitcoin-Based Decentralized Carbon Emissions Trading Infrastructure Model",
+    "url": "http://dx.doi.org/10.1002/sys.21291",
+    "year": 2015,
+    "venue": "Systems Engineering",
+    "peer-reviewed": true,
+    "authors": [
+	{"name": "Enas Al Kawasmi", "affiliation": "Masdar Institute of Science and Technology"},
+	{"name": "Edin Arnautovic", "affiliation": "Masdar Institute of Science and Technology"},
+	{"name": "Davor Svetinovic", "affiliation": "Masdar Institute of Science and Technology"}
+    ],
+    "id": "alkawasmi2015",
+    "abstract": "This paper presents a system-of-systems architecture model for a Decentralized Carbon Emissions Trading Infrastructure (D-CETI) with focus on privacy and system security goals. The structure and behavior are implemented as a solution to the problem of trading carbon emissions anonymously among the trading agents. Privacy and security of the trading agents and their carbon credits are the main requirements behind the architecture of D-CETI. The decentralized structure of multiple systems and distributed behavior are the two main features of D-CETI that distinguish it from the traditional carbon trading schemes and protocols. D-CETI is based on Bitcoin, a peer-to-peer digital currency with no central authority, and Open Transactions, a system that simplifies the use of cryptography in financial transactions. The architecture of D-CETI is evaluated and compared with the architecture of five other carbon emissions trading platforms."
+}

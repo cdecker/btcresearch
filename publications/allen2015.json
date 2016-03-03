@@ -1,0 +1,11 @@
+{
+    "title": "$=€=Bitcoin?",
+    "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2645001",
+    "year": 2015,
+    "venue": "SSRN:Suffolk University Law School Research Paper No. 15-33",
+    "authors": [
+	{"name": "Hilary J. Allen", "affiliation": "Suffolk University Law School"}
+    ],
+    "abstract": "Bitcoin (and other virtual currencies) have the potential to revolutionize the way that payments are processed, but only if they become ubiquitous. At that scale, this Article argues that virtual currencies would pose threats to the stability of the financial system – threats that have been largely unexplored to date. Such threats will arise because the ability of a virtual currency to function as money is very fragile – Bitcoin can remain money only for so long as people have confidence that it will be readily accepted by others as a means of payment. Unlike the U.S. dollar, which is backed by both a national government and a central bank, and the euro, which is at least backed by a central bank, there is no institution that can shore up confidence in Bitcoin in the event of a panic.\nThe law is very limited in its ability to contain either the development of virtual currencies, or the fragilities they may introduce into the financial system. While this Article explores some regulatory measures that might mitigate the systemic risks posed by virtual currencies, the only real way to contain such risks is for regulated banks to outcompete virtual currencies by offering better payment services, thus consigning virtual currencies to a niche role in the economy. This Article therefore concludes by exploring how the distributed ledger technology pioneered by Bitcoin could be stripped from the virtual currency and adapted to allow regulated banks to provide vastly more efficient payment services.",
+    "id": "allen2015"
+}
