@@ -1,0 +1,11 @@
+{
+    "id": "fortuni2015adoption",
+    "year": 2015,
+    "title": "",
+    "authors": [
+	{"name": "Erich Fortuni", "affiliation": "Politecnico di Milano"}
+    ],
+    "peer-reviewed": false,
+    "type": "masterthesis",
+    "abstract": "This work examines how technology adoption can affect corporate reputation when publicly announced. Indeed, while positive impact on business performance has been extensively documented (Brammer and Pavelin, 2004; Clayton and Turner, 2000; Gatzert, 2015; Kay, 1993; Roberts and Dowling, 2002; Rose and Thomson, 2004; Rhee, 2009; Tidd, Bessant and Pavitt, 2005), the direct repercussion of technology adoption on reputational status is understudied at a quantitative level. The present analysis aims at evaluating stochastically how news about Bitcoin adoption impact drivers of corporate reputation for five selected case studies. The literature on corporate reputation provides us an exhaustive view about the construct dimensions, allowing to define proper reputation drivers to capture the effect across the whole definitional space. In particular, we analyze the effect of the adoption news on corporate reputation in terms of social response volume and sentiment, taking Twitter as a preferential source for measuring company exposure and users’ opinion. Applying a VAR (vector autoregression) model that integrates news, volume and sentiment series, we are able to simulate the news effect multiple times and analyze the confidence intervals of drivers responses. The outcomes of the analysis show an observable buzz, signaled by a relevant increase in tweet volumes for most of the selected companies. The effect on sentiment measures tends to be much less observable than the impact on tweet volumes, with a negative effect on four out of five companies. Overall, the results suggest that Bitcoin adoption would be more beneficial for businesses whose online visibility is low, but only if they are highly specialized, systematically integrated with their online customers."
+}
