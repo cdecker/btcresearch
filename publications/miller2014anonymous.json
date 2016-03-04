@@ -3,8 +3,8 @@
     "url": "https://socrates1024.s3.amazonaws.com/consensus.pdf",
     "year": 2014,
     "authors": [
-	{"name": "JJ LaViola Jr"}
-	{"name": "Andrew Miller", "affiliation": "University of Central Florida"},
+	{"name": "JJ LaViola Jr"},
+	{"name": "Andrew Miller", "affiliation": "University of Central Florida"}
     ],
     "id": "miller2014anonymous"
 }
