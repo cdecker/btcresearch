@@ -1,0 +1,16 @@
+{
+    "title": "Permacoin: Repurposing Bitcoin Work for Data Preservation",
+    "url": "http://cs.umd.edu/~amiller/permacoin.pdf",
+    "year": 2014,
+    "venue": "Security and Privacy (SP)",
+    "peer-reviewed": true,
+    "authors": [
+	{"name": "Andrew Miller", "affiliation": "University of Maryland"},
+	{"name": "Ari Juels", "affiliation": "Cornell Tech"},
+	{"name": "Elaine Shi", "affiliation": "University of Maryland"},
+	{"name": "Bryan Parno", "affiliation": "Microsoft Research"},
+	{"name": "Jonathan Katz", "affiliation": "University of Maryland"}
+    ],
+    "abstract": "Bitcoin is widely regarded as the first broadly successful ecash system. An oft-cited concern, though, is that mining Bitcoins wastes computational resources. Indeed, Bitcoin’s underlying mining mechanism, which we call a scratch-off puzzle (SOP), involves continuously attempting to solve computational puzzles that have no intrinsic utility. We propose a modification to Bitcoin that repurposes its mining resources to achieve a more broadly useful goal: distributed storage of archival data. We call our new scheme Permacoin. Unlike Bitcoin and its proposed alternatives, Permacoin requires clients to invest not just computational resources, but also storage. Our scheme involves an alternative scratch-off puzzle for Bitcoin based on Proofs-ofRetrievability (PORs). Successfully minting money with this SOP requires local, random access to a copy of a file. Given the competition among mining clients in Bitcoin, this modified SOP gives rise to highly decentralized file storage, thus reducing the overall waste of Bitcoin. Using a model of rational economic agents we show that our modified SOP preserves the essential properties of the original Bitcoin puzzle. We also provide parameterizations and calculations based on realistic hardware constraints to demonstrate the practicality of Permacoin as a whole.",
+    "id": "miller2014permacoin"
+}

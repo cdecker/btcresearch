@@ -1,0 +1,17 @@
+{
+    "title": "Discovering Bitcoin's public topology and influential nodes",
+    "url": "https://cs.umd.edu/projects/coinscope/coinscope.pdf",
+    "year": 2015,
+    "peer-reviewed": false,
+    "authors": [
+	{"name": "Andrew Miller", "affiliation": "University of Maryland"},
+	{"name": "James Litton", "affiliation": "University of Maryland"},
+	{"name": "Andrew Pachulski", "affiliation": "University of Maryland"},
+	{"name": "Neal Gupta", "affiliation": "University of Maryland"},
+	{"name": "Dave Levi", "affiliation": "University of Maryland"},
+	{"name": "Neil Spring", "affiliation": "University of Maryland"},
+	{"name": "Bobby Bhattacharjee", "affiliation": "University of Maryland"}
+    ],
+    "abstract": "The Bitcoin network relies on peer-to-peer broadcast to distribute pending transactions and confirmed blocks. The topology over which this broadcast is distributed affects which nodes have advantages and whether some attacks are feasible. As such, it is particularly important to understand not just which nodes participate in the Bitcoin network, but how they are connected. In this paper, we introduce AddressProbe, a technique that discovers peer-to-peer links in Bitcoin, and apply this to the live topology. To support AddressProbe and other tools, we develop CoinScope, an infrastructure to manage short, but large-scale experiments in Bitcoin. We analyze the measured topology to discover both highdegree nodes and a well connected giant component. Yet, efficient propagation over the Bitcoin backbone does not necessarily result in a transaction being accepted into the block chain. We introduce a “decloaking” method to find influential nodes in the topology that are well connected to a mining pool. Our results find that in contrast to Bitcoin’s idealized vision of spreading mining responsibility to each node, mining pools are prevalent and hidden: roughly 2% of the (influential) nodes represent threequarters of the mining power",
+    "id": "miller2015"
+}

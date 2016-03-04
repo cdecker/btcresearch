@@ -1,0 +1,13 @@
+{
+    "title": "Shadow-Bitcoin: Scalable Simulation via Direct Execution of Multi-threaded Applications",
+    "url": "https://eprint.iacr.org/2015/469.pdf",
+    "year": 2015,
+    "vanue": "8th Workshop on Cyber Security Experimentation and Test (CSET 15)",
+    "authors": [
+	{"name": "Andrew Miller", "affiliation": "University of Maryland"},
+	{"name": "Rob Jansen", "affiliation": "United States Naval Research Laboratory"}
+    ],
+    "peer-reviewed": true,
+    "id": "miller2015shadow",
+    "abstract": "We describe a new methodology that enables the direct execution of multi-threaded applications inside of Shadow, an existing parallel discrete-event network simulation framework. Our methodology utilizes function interposition and an application-layer thread library to emulate the ordinary thread interface to the application. Using this methodology, we implement a new Shadow plug-in that directly executes the Bitcoin reference client software. We describe optimizations that enable scalable execution of thousands of Bitcoin nodes on a single machine, and discuss how to model the Bitcoin network for experimental purposes. Finally, we present novel denialof-service attacks against the Bitcoin software, which exploit low-level implementation artifacts in the Bitcoin reference client. We demonstrate these attacks using our methodology, tools, and models."
+}
