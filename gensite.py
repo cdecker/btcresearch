@@ -10,15 +10,10 @@ entries = {}
 def main():
     global entries
     
-    # Load JSON files
-    for fname in glob("publications/**/*.json"):
-        entry = json.loads(open(fname, 'r').read())
-        entries[entry['id'] + ".json"] = entry
-
     s = make_site(
         contexts=[
             ('.*.json', load_publication),
-            ('index.html', lambda **kwargs: {'entries': entries.values()})
+            ('index.html', load_entries)
         ],
         rules=[
             ('.*.json', render_publication),
@@ -27,14 +22,31 @@ def main():
     )
     s.render()
 
+def load_entries(template):
+    # Load JSON files
+    entries = []
+    for fname in glob("publications/**/*.json"):
+        entry = json.loads(open(fname, 'r').read())
+        entries.append(entry)
+        
+    from collections import OrderedDict
+    groups = OrderedDict()
+    for year in sorted(set([e['year'] for e in entries]))[::-1]:
+        groups[year] = []
+    
+    for e in entries:
+        #if e['year'] not in groups:
+        #    groups[e['year']] = []
+        groups[e['year']].append(e)
+
+    return {'entry_groups': groups}
+    
 def load_publication(template):
     with codecs.open(template.filename, encoding='utf-8') as f:
         return json.loads(f.read())
 
 def render_publication(env, template, **entry):
     """Render a template as a publication."""
-    for i in xrange(len(entry['authors'])):
-        entry['authors'][i]['name'] = entry['authors'][i]['name'].encode('utf-8')
     post_template = env.get_template("_post.html")
     out = "%s/%d/%s.html" % (env.outpath, entry['year'], entry['id'])
     path = os.path.dirname(out)

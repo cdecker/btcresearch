@@ -3,6 +3,9 @@
 {% endblock %}
 
 {% block content %}
+
+{% for group, entries in entry_groups.iteritems() %}
+<h2>{{ group }}</h2>
 <table class="table table-striped">
   <tbody>
     {% for entry in entries %}
@@ -26,4 +29,6 @@
     {% endfor %}
   </tbody>
 </table>
+
+{% endfor %}
 {% endblock %}
