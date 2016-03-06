@@ -35,8 +35,6 @@ def load_entries(template):
         groups[year] = []
     
     for e in entries:
-        #if e['year'] not in groups:
-        #    groups[e['year']] = []
         groups[e['year']].append(e)
 
     return {'entry_groups': groups}
@@ -47,7 +45,7 @@ def load_publication(template):
 
 def render_publication(env, template, **entry):
     """Render a template as a publication."""
-    post_template = env.get_template("_post.html")
+    post_template = env.get_template("_publication.html")
     out = "%s/%d/%s.html" % (env.outpath, entry['year'], entry['id'])
     path = os.path.dirname(out)
     if not os.path.exists(path):
