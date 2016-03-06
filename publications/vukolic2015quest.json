@@ -1,0 +1,10 @@
+{
+    "id": "vukolic2015quest",
+    "title": "The Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication",
+    "authors": [
+	{"name": "Marko Vukolic", "affiliation": "IBM Research"}
+    ],
+    "vanue": "iNetSec",
+    "year": 2015,
+    "abstract": "Bitcoin cryptocurrency demonstrated the utility of global consensus across thousands of nodes, changing the world of digital transactions forever. In the early days of Bitcoin, the performance of its probabilistic proof-of-work (PoW) based consensus fabric, also known as blockchain, was not a major issue. Bitcoin became a success story, despite its consensus latencies on the order of an hour and the theoretical peak throughput of only up to 7 transactions per second. The situation today is radically different and the poor performance scalability of early PoW blockchains no longer makes sense. Specifically, the trend of modern cryptocurrency platforms, such as Ethereum, is to support execution of arbitrary distributed applications on blockchain fabric, needing much better performance. This approach, however, makes cryptocurrency platforms step away from their original purpose and enter the domain of database-replication protocols, notably, the classical state-machine replication, and in particular its Byzantine fault-tolerant (BFT) variants. In this paper, we contrast PoW-based blockchains to those based on BFT state machine replication, focusing on their scalability limits. We also discuss recent proposals to overcoming these scalability limits and outline key outstanding open problems in the quest for the “ultimate” blockchain fabric(s)."
+}

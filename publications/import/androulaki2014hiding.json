@@ -1,1 +1,13 @@
-{"title": "Hiding Transaction Amounts and Balances in Bitcoin", "url": "http://link.springer.com/chapter/10.1007/978-3-319-08593-7_11", "year": 2014, "venue": "Trust and Trustworthy Computing", "authors": [{"name": "Elli Androulaki"}, {"name": "Ghassan O. Karame"}], "id": "androulaki2014hiding"}
+{
+    "title": "Hiding Transaction Amounts and Balances in Bitcoin",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-08593-7_11",
+    "year": 2014,
+    "peer-reviewed": true,
+    "venue": "Trust and Trustworthy Computing",
+    "authors": [
+	{"name": "Elli Androulaki", "affiliation": "IBM Research Zurich"},
+	{"name": "Ghassan O. Karame", "affiliation": "NEC Laboratories Europe"}
+    ],
+    "id": "androulaki2014hiding",
+    "abstract": "Bitcoin is gaining increasing adoption and popularity nowadays. In spite of its reliance on pseudonyms, Bitcoin raises a number of privacy concerns due to the fact that all of the transactions that take place in the system are publicly announced.\nThe literature contains a number of proposals that aim at evaluating and enhancing user privacy in Bitcoin. To the best of our knowledge, ZeroCoin (ZC) is the first proposal which prevents the public tracing of coin expenditure in Bitcoin by leveraging zero-knowledge proofs of knowledge and one-way accumulators. While ZeroCoin hardens the traceability of coins, it does not hide the amount per transaction, nor does it prevent the leakage of the balances of Bitcoin addresses. In this paper, we propose, EZC, an extension of ZeroCoin which (i) enables the construction of multi-valued ZCs whose values are only known to the sender and recipient of the transaction and (ii) supports the expenditure of ZCs among users in the Bitcoin system, without the need to convert them back to Bitcoins. By doing so, EZC hides transaction values and address balances in Bitcoin, for those users who opt-out from exchanging their coins to BTCs. We performed a preliminary assessment of the performance of EZC; our findings suggest that EZC improves the communication overhead incurred in ZeroCoin."
+}
