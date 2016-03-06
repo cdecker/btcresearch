@@ -1,0 +1,16 @@
+{
+    "title": "Evaluating User Privacy in Bitcoin",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-642-39884-1_4",
+    "year": 2013,
+    "peer-reviewed": true,
+    "venue": "Financial Cryptography and Data Security",
+    "authors": [
+	{"name": "Elli Androulaki", "affiliation": "ETH Zurich"},
+	{"name": "Ghassan O. Karame", "affiliation": "NEC Laboratories Europe"},
+	{"name": "Marc Roeschlin", "affiliation": "ETH Zurich"},
+	{"name": "Tobias Scherer", "affiliation": "ETH Zurich"},
+	{"name": "Srdjan Capkun", "affiliation": "ETH Zurich"}
+    ],
+    "id": "androulaki2013",
+    "abstract": "Bitcoin is quickly emerging as a popular digital payment system. However, in spite of its reliance on pseudonyms, Bitcoin raises a number of privacy concerns due to the fact that all of the transactions that take place are publicly announced in the system.\nIn this paper, we investigate the privacy provisions in Bitcoin when it is used as a primary currency to support the daily transactions of individuals in a university setting. More specifically, we evaluate the privacy that is provided by Bitcoin (i) by analyzing the genuine Bitcoin system and (ii) through a simulator that faithfully mimics the use of Bitcoin within a university. In this setting, our results show that the profiles of almost 40% of the users can be, to a large extent, recovered even when users adopt privacy measures recommended by Bitcoin. To the best of our knowledge, this is the first work that comprehensively analyzes, and evaluates the privacy implications of Bitcoin."
+}
