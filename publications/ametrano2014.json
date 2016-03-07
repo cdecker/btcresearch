@@ -1,0 +1,11 @@
+{
+    "title": "Price Stability Using Cryptocurrency Seigniorage Shares",
+    "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2508296",
+    "year": 2014,
+    "authors": [
+	{"name": "Ferdinando M. Ametrano", "affiliation": "Milan Bicocca University"}
+    ],
+    "peer-reviewed": false,
+    "abstract": "Bitcoin extreme deflationary price instability has hampered its usability, making it impractical for spot transactions and unserviceable for deferred payments. Ametrano (2014) has proposed as Hayek Money a cryptocurrency price stability paradigm of elastic non-discretionary monetary policy. An implementation using a dual asset ledger for stable coins and seigniorage shares is presented here. A DeCentralized Reserve Bank (as Decentralized Autonomous Organization) is introduced as active market agent using bitcoin as reserve asset to preserve price parity. The socially inefficient over-investment of seigniorage revenues in transaction verification can be avoided using proof-of-payment.\n\nThis schema frees coins from any speculative value, thus favoring money velocity and increasing the number of transactions. Seigniorage shares are effectively to be considered as a participation in a distributed central bank: as such the owners are entitled to seigniorage revenues in exchange for being subjected to the losses associated to coin price stability defense, obliged to validation task duties, and in charge of price index observation.",
+    "id": "ametrano2014"
+}
