@@ -1,0 +1,11 @@
+{
+    "title": "Fisher Money: Empowering Bitcoin With Multiple Units of Account",
+    "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466879",
+    "year": 2014,
+    "authors": [
+	{"name": "Ferdinando M. Ametrano", "affiliation": "Milan Bicocca University"}
+    ],
+    "peer-reviewed": false,
+    "abstract": "In the history of money bitcoin represents an outstanding medium of exchange, independent from central authorities. Therefore, it has experienced impressive demand which, combined with inelastic supply, has led to huge price appreciation. Nonetheless, transaction volume has not been increasing accordingly. At the core of this conundrum is the very poor performance of bitcoin as unit of account: dramatic deflationary price instability makes bitcoin just impractical for commerce, but completely unserviceable for salaries, mortgages, and deferred payments in general. Ametrano (2014a) has championed as Hayek Money the proposal to engineer cryptocurrencies with fully automatic algorithmic non-discretionary elastic supply: the monetary rule of pegging to a price index would dynamically rebase the outstanding amount of money and achieve price stability. It is proposed here to implement Hayek Money as multiple coexisting units of account wrapped around the unmodified bitcoin (or any other cryptocurrency). Prices would be stable in terms of these rebased-bitcoin units of account: different coexisting cryptocurrencies all backed by the same bitcoins, each one with its own floating bitcoin-equivalent rebasing index. These cryptocurrencies would define a new monetary standard, with striking resemblance to the gold standard as improved by the compensated dollar proposed by Fisher (1913). In this Fisher Money scenario bitcoin would be digital crypto-gold and exchange rates would be floating, not fixed, being just the relative prices of the respective cryptocurrency price indexes.",
+    "id": "ametrano2014fisher"
+}
