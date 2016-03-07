@@ -1,0 +1,11 @@
+{
+    "title": "Hayek Money: The Cryptocurrency Price Stability Solution",
+    "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2425270",
+    "year": 2014,
+    "authors": [
+	{"name": "Ferdinando M. Ametrano", "affiliation": "Milan Bicocca University"}
+    ],
+    "peer-reviewed": false,
+    "abstract": "Bitcoin has enabled competition between digital cryptocurrencies and traditional legal tender fiat currencies. Despite rapidly increasing acceptance, so far the affirmation of cryptocurrency as better money has been thwarted by dramatic deflationary price instability. Successful at disposing of any central monetary authority using the Bitcoin protocol, the bitcoin currency has accidentally thrown away the flexibility of a fully automatic algorithmic non-discretionary monetary policy allowing for elastic supply of money. Price stability can be achieved by dynamically rebasing the outstanding amount of money: the number of currency units in every digital wallet is adjusted instead of each single unit changing its value. The apparent awkwardness of this unfamiliar paradigm is discussed at length, proving that its only real novelty is about fairness and effectiveness. Furthermore, suggestions are provided about how to ease the effect of contractionary monetary policy. The proposed monetary base adjustment has neutral impact on the overall wallet wealth, as it does not introduce any arbitrary distortion into the intrinsic value dynamics of the wallet. The adjustment is based on a commodity price index determined with a resilient consensus process that does not rely on central third party authorities. It is posited in this paper that a digital cryptocurrency adopting elastic monetary standard is Hayek Money, so named from the Nobel Prize-winning economist: possibly the best money ever devised, a good money standard providing stable prices for a new economic era.",
+    "id": "ametrano2014hayek"
+}
