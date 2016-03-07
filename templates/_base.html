@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <title>CABRA - Comprehensive Academic Bitcoin Research Archive</title>
     <meta charset="UTF-8"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"/>
@@ -9,10 +10,20 @@
   <body>
     <div class="container">
       <div class="row">
-	<!--<div class="col-md-3">
+      <div class="bs-component">
+          <div class="navbar navbar-default">
+            <div class="container-fluid">
+              <div class="navbar-header">
+                <a class="navbar-brand" href="#">CABRA &mdash; Comprehensive Academic Bitcoin Research Archive</a>
+              </div>
+            </div>
+          </div>
+      </div>
+      <div class="row">
+	<div class="col-md-2">
 	  {% block left_sidebar %}{% endblock %}
-	</div> -->
-	<div class="col-md-12">
+	</div>
+	<div class="col-md-10">
 	  {% block content %}{% endblock %}
 	</div>
       </div>
