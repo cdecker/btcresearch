@@ -1,5 +1,6 @@
 language: python
 install: "pip install jsonschema==2.5.1 staticjinja==0.3.2 glob2==0.4.1"
+cache: pip
 script:
   - find publications -name \*.json -exec echo -n ' -i ' \; -print0 | xargs jsonschema btcresearch-schema.json
   - cp -R publications templates/
