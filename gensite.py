@@ -21,7 +21,7 @@ def main():
         outpath='output',
         staticpaths=('static/',)
     )
-    s.render(use_reloader=True)
+    s.render()
 
 def load_entries(template):
     # Load JSON files
