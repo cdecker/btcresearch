@@ -19,8 +19,9 @@ def main():
             ('.*.json', render_publication),
         ],
         outpath='output',
+        staticpaths=('static/',)
     )
-    s.render()
+    s.render(use_reloader=True)
 
 def load_entries(template):
     # Load JSON files

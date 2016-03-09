@@ -4,21 +4,22 @@
     <title>CABRA - Comprehensive Academic Bitcoin Research Archive</title>
     <meta charset="UTF-8"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
   </head>
-  <body>
-    <div class="container">
-      <div class="row">
-      <div class="bs-component">
-          <div class="navbar navbar-default">
-            <div class="container-fluid">
-              <div class="navbar-header">
-                <a class="navbar-brand" href="#">CABRA &mdash; Comprehensive Academic Bitcoin Research Archive</a>
-              </div>
-            </div>
-          </div>
+  <body style="padding-bottom: 70px;">
+      <div class="container">
+	<nav class="navbar navbar-top" style="background-color: #434A54;">
+	  &nbsp;
+	<a class="navbar-brand" href="#" style="padding: 0px 10px 0px 10px; margin: 0px;">
+	  <img src="static/logo.png"/>
+	</a>
+    </nav>
       </div>
+    
+    <div class="container">
       <div class="row">
 	<div class="col-md-2">
 	  {% block left_sidebar %}{% endblock %}
@@ -28,6 +29,15 @@
 	</div>
       </div>
     </div>
+    <script>
+      anchors.add('h2');
+      $('#sidebar').affix({
+      offset: {
+      top: 0,
+      bottom: 0
+      }
+      })
+    </script>
   </body>
 </html>
 
