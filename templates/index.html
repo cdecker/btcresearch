@@ -1,0 +1,41 @@
+{% extends "_base.html" %}
+{% block left_sidebar %}
+<div class="panel panel-default" id="sidebar" style="width: 163px;">
+  <div class="panel-body">
+    <h3>Year</h3>
+    {% for year in entry_groups %}
+      <a class="btn btn-default" href="#{{ year }}" style="margin: 3px;">{{ year }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}
+
+
+{% block content %}
+
+{% for group, entries in entry_groups.iteritems() %}
+<h2>{{ group }}</h2>
+<table class="table table-striped">
+  <tbody>
+    {% for entry in entries %}
+    <tr class="year-{{ entry.year }} {% if entry['peer-reviewed'] %}peer-reviewed{% endif %}">
+      <td>
+	<a href="{{ entry.year }}/{{ entry.id }}.html">{{ entry.title }}</a><br/>
+	<small>
+	  {% for author in entry.authors%}
+	    {%- if author.affiliation %}<abbr title="{{ author.affiliation }}">{% endif -%}
+	    {{author.name|e}}
+	    {%- if author.affiliation %}</abbr>{% endif -%}
+	  {%- if not loop.last %}{{', '}}{% endif -%}
+	  {% endfor %} &mdash; {{ entry.year }}
+	</small>
+      </td>
+      <td>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endfor %}
+{% endblock %}
