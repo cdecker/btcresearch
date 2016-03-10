@@ -31,6 +31,7 @@
 	</small>
       </td>
       <td>
+	{% if entry.url %}<a href="{{ entry.url }}" target="_blank"><i class="fa fa-file-pdf-o fa-5"></i></a>{% endif %}
       </td>
     </tr>
     {% endfor %}
