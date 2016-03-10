@@ -6,5 +6,6 @@
 	{"name": "JJ LaViola Jr"},
 	{"name": "Andrew Miller", "affiliation": "University of Central Florida"}
     ],
-    "id": "miller2014anonymous"
+    "id": "miller2014anonymous",
+    "abstract": "We present a formal model of synchronous processes without distinct identifiers (i.e., anonymous processes) that communicate using one-way public broadcasts. Our main contribution is a proof that the Bitcoin protocol achieves consensus in this model, except for a negligible probability, when Byzantine faults make up less than half the network. The protocol is scalable, since the running time and message complexity are all independent of the size of the network, instead depending only on the relative computing power of the faulty processes. We also introduce a requirement that the protocol must tolerate an arbitrary number of passive clients that receive broadcasts but can not send. This leads to a tight 2f + 1 resilience bound."
 }
