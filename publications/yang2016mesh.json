@@ -1,0 +1,13 @@
+{
+    "id": "yang2016mesh",
+    "title": "Mesh networking with Bitcoin",
+    "authors": [
+	{"name": "Renlord N Yang", "affiliation": "University of Melbourne"}
+    ],
+    "year": 2016,
+    "abstract": "Mesh networks are gaining popularity as a means to provide internet connectivity to the public as the cost of deploying fixed network infrastructure increases. Despite an abundance of wireless devices available in the public, it is di!cult to incentivise collaboration between devices due to lack of coordination and absence of trust. We introduce the Biternet network, a proof of concept for mesh networking with Bitcoin. Connected mesh nodes form a mesh network where each node runs the Biternet daemon and the OLSR daemon for routing purposes. Each node operates at a peer-to-peer level with no strict requirement that there must be access to the Internet. Bitcoin micropayment channels are used to facilitate micropayments, allowing mesh nodes to charge end users based on the data usage with a fine granularity.",
+    "url": "ftp://ftp.tik.ee.ethz.ch/pub/students/2015-HS/SA-2015-34.pdf",
+    "peer-reviewed": true
+}
+
+
