@@ -1,0 +1,15 @@
+{
+    "title": "Stressing Out: Bitcoin “Stress Testing”",
+    "url": "http://fc16.ifca.ai/bitcoin/papers/BHMW16.pdf",
+    "year": 2016,
+    "venue": "Workshop on Bitcoin and Blockchain Research",
+    "peer-reviewed": false,
+    "authors": [
+	{"name": "Khaled Baqer", "affiliation": "University of Cambridge"},
+	{"name": "Danny Yuxing Huang", "affiliation": "University of California"},
+	{"name": "Damon McCoy", "affiliation": "New York University"},
+	{"name": "Nicholas Weaver", "affiliation": "International Computer Science Institute"}
+    ],
+    "abstract": " In this paper, we present an empirical study of a recent spam campaign (a “stress test”) that resulted in a DoS attack on Bitcoin. The goal of our investigation being to understand the methods spammers used and impact on Bitcoin users. To this end, we used a clustering based method to detect spam transactions. We then validate the clustering results and generate a conservative estimate that 385,256 (23.41%) out of 1,645,667 total transactions were spam during the 10 day period at the peak of the campaign. We show the impact of increasing nonspam transaction fees from 45 to 68 Satoshis/byte (from $0.11 to $0.17 USD per kilobyte of transaction) on average, and increasing delays in processing non-spam transactions from 0.33 to 2.67 hours on average, as well as estimate the cost of this spam attack at 201 BTC (or $49,000 USD). We conclude by pointing out changes that could be made to Bitcoin transaction fees that would mitigate some of the spam techniques used to effectively DoS Bitcoin.",
+    "id": "bager2016stressing"
+}

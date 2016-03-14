@@ -1,0 +1,12 @@
+{
+    "title": "Realizing physical bitcoin payments andmapping the enabled point of sales",
+    "url": "http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A774091&dswid=-2049",
+    "year": 2014,
+    "type": "misc",
+    "peer-reviewed": false,
+    "authors": [
+	{"name": "Marcus Andren", "affiliation": "KTH, School of Industrial Engineering and Management"}
+    ],
+    "abstract": "In today’s digital world digital money has become a reality. With the introduction of Bitcoin and this new branch of digital currency, cryptocurrency, digital money has begun competing with traditional official currencies, e.g. US dollar and Euro. Bitcoin is a decentralized peer-to-peer currency allowing anonymous transactions. The currency’s value is solely based on supply and demand and is mainly used for e-commerce. However, in order to really compete with traditional currencies and further push the evolution forward physical transaction that can be used in stores is necessary. The objective of the thesis is thus to explorer how this can be realized as well as investigate how physical stores that accept bitcoins can be mapped and turned into a service. The method used for this exploratory study is an extensive literature study. A survey is also used to give additional depth for the research and analyze the current situation concerning bitcoins and wireless communications technologies in Sweden.\n\nThe analysis and findings concluded that it is very much possible to realize the idea with the existing technologies. By using QR-codes and NFC for its intuitive way of communicating, transactions can reach the same accessibility as traditional system like credit/debit cards. Regarding mapping of service points the findings suggest to use both user based input and PoS/store based input. In other words, to utilize the Bitcoin community and its peer-to-peer nature by letting user contribute with information about bitcoin enabled stores as well as using the marketing argument to encourage stores to submit information about themselves",
+    "id": "andren2014"
+}

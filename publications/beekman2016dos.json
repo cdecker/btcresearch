@@ -1,0 +1,12 @@
+{
+    "title": "A Denial of Service attack against fair computations using Bitcoin deposits",
+    "url": "http://www.sciencedirect.com/science/article/pii/S0020019015001647",
+    "year": 2016,
+    "venue": "Information Processing Letters, Volume 116",
+    "peer-reviewed": false,
+    "authors": [
+	{"name": "Jethro G. Beekman", "affiliation": "University of California, Berkeley"}
+    ],
+    "abstract": "Bitcoin supports complex transactions where the recipient of a transaction can be programmatically determined. Using these transactions, multi-party computation protocols that aim to ensure fairness among participants have been designed. We present a Denial of Service attack against these protocols that results in a net loss for some or all of the honest parties involved, violating those fairness goals.",
+    "id": "beekman2016dos"
+}
