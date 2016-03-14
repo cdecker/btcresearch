@@ -1,0 +1,22 @@
+{
+    "title": "Refund attacks on Bitcoin’s Payment Protocol",
+    "url": "https://eprint.iacr.org/2016/024.pdf",
+    "year": 2016,
+    "peer-reviewed": false,
+    "authors": [
+        {
+            "name": "Patrick McCorry",
+	    "affiliation": "Newcastle University"
+        },
+        {
+            "name": "Siamak F. Shahandashti",
+	    "affiliation": "Newcastle University"
+        },
+        {
+            "name": "Feng Hao",
+	    "affiliation": "Newcastle University"
+        }
+    ],
+    "abstract": "BIP70 is a community-accepted Payment Protocol standard that governs how merchants and customers perform payments in Bitcoin. This standard is supported by most major wallets and the two dominant Payment Processors: Coinbase and BitPay, who collectively provide the infrastructure for accepting Bitcoin as a form of payment to more than 100,000 merchants. In this paper, we present new attacks on the Payment Protocol, which affect all BIP70 merchants. The Silkroad Trader attack highlights an authentication vulnerability in the Payment Protocol while the Marketplace Trader attack exploits the refund policies of existing Payment Processors. Both attacks have been experimentally verified on real-life merchants using a modified Bitcoin wallet. The attacks have been acknowledged by both Coinbase and Bitpay with temporary mitigation measures put in place. However, to fully address the identified issues will require revising the BIP70 standard. We present a concrete proposal to revise BIP70 by providing the merchant with publicly verifiable evidence to prevent both attacks.",
+    "id": "mccorry2016refund"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Retricoin: Bitcoin based on compact proofs of retrievability",
+    "url": "http://dl.acm.org/citation.cfm?id=2833317",
+    "year": 2016,
+    "venue": "ICDCN 'International Conference on Distributed Computing and Networking 2016",
+    "authors": [
+        {
+            "name": "Binanda Sengupta"
+        },
+        {
+            "name": "Samiran Bag"
+        },
+        {
+            "name": "Sushmita Ruj"
+        },
+        {
+            "name": "Kouichi Sakurai"
+        }
+    ],
+    "peer-reviewed": true,
+    "abstract": "Bitcoin [24] is a fully decentralized electronic cash system. The generation of the proof-of-work in Bitcoin requires large amount of computing resources. However, this huge amount of energy is wasted as one cannot make something useful out of it. In this paper, we propose a scheme called Retricoin which replaces the heavy computational proof-of-work of Bitcoin by proofs of retrievability that have practical benefits. To guarantee the availability of an important but large file, we distribute the segments of the file among the users in the Bitcoin network. Every user who wants to mine Bitcoins must store a considerable portion of this file and prove her storage to other peers in the network using proofs of retrievability. The file can be constructed at any point of time from the users storing their respective segments untampered. Retricoin is more efficient than the existing Permacoin scheme [23] in terms of storage overhead and network bandwidth required to broadcast the proof to the Bitcoin network. The verification time in our scheme is comparable to that of Permacoin and reasonable for all practical purposes. We also design an algorithm to let the miners in a group (or pool) mine collectively.",
+    "id": "sengupta2016retricoin"
+}

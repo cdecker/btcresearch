@@ -1,0 +1,27 @@
+{
+    "title": "The Other Side of the Coin: User Experiences with Bitcoin Security and Privacy?",
+    "url": "https://www.sba-research.org/wp-content/uploads/publications/TheOtherSideOfTheCoin_FC16preConf.pdf",
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Financial Cryptography and Data Security 2016",
+    "authors": [
+        {
+            "name": "Katharina Krombholz",
+	    "affiliation": "SBA Research, Vienna, Austria"
+        },
+        {
+            "name": "Aljosha Judmayer",
+	    "affiliation": "SBA Research, Vienna, Austria"
+        },
+        {
+            "name": "Matthias Gusenbauer",
+	    "affiliation": "SBA Research, Vienna, Austria"
+        },
+        {
+            "name": "Edgar Weippl",
+	    "affiliation": "SBA Research, Vienna, Austria"
+        }
+    ],
+    "abstract": "We present the first large-scale survey to investigate how users experience the Bitcoin ecosystem in terms of security, privacy and anonymity. We surveyed 990 Bitcoin users to determine Bitcoin management strategies and identified how users deploy security measures to protect their keys and bitcoins. We found that about 46% of our participants use web-hosted solutions to manage at least some of their bitcoins, and about half of them use exclusively such solutions. We also found that many users do not use all security capabilities of their selected Bitcoin management tool and have significant misconceptions on how to remain anonymous and protect their privacy in the Bitcoin network. Also, 22% of our participants have already lost money due to security breaches or self-induced errors. To get a deeper understanding, we conducted qualitative interviews to explain some of the observed phenomena.",
+    "id": "krombholz2016otherside"
+}

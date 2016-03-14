@@ -1,0 +1,14 @@
+{
+    "title": "Development of Universal Cryptocurrency Wallet Services: A Case Study of Bitplexus",
+    "url": "http://nemp.planet.ee/Development_of_Universal_Cryptocurrency_Wallet_Services_-_A_Case_Study_of_Bitplexus.pdf",
+    "year": 2016,
+    "type": "masterthesis",
+    "authors": [
+        {
+            "name": "Priidu Neemre"
+        }
+    ],
+    "id": "neemre2016development",
+    "peer-reviewed": false,
+    "abstract": "The purpose of this thesis is to develop a secure web-based wallet application allowing cryptocurrency users to manage their funds without any additional obligations (e.g. downloading the entire block chain) and responsibilities (e.g. encrypting & backing up their private keys). Considerable effort is put into designing the application’s multicurrency support to allow for the seamless integration of new block chain-based cryptocurrencies. To achieve these goals, a simplified system analysis is conducted and a preliminary system architecture established for the aforementioned application (Bitplexus). Next, the system’s data layer is implemented and several design decisions explained to identify the most common mistakes in modern cryptocurrency-related services. The main outcome of this thesis is a universal cryptocurrency wallet service that can be used to manage users’ Bitcoin and Litecoin funds. Additionally, a generic domain model for interfacing with other block chain-based cryptocurrencies is proposed. In order to communicate with the Bitcoin and Litecoin networks, two Java wrapper libraries named btcdcli4j and ltcd-cli4j are also developed."
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Bitcoin Covenants",
+    "url": "http://fc16.ifca.ai/bitcoin/papers/MES16.pdf",
+    "year": 2016,
+    "venue": "Workshop on Bitcoin and Blockchain Research 2016",
+    "peer-reviewed": true,
+    "authors": [
+        {
+            "name": "Malte Möser",
+	    "affiliation": "University of Münster"
+        },
+        {
+            "name": "Ittay Eyal",
+	    "affiliation": "Cornell University"
+        },
+        {
+            "name": "Emin Gün Sirer",
+	    "affiliation": "Cornell University"
+        }
+    ],
+    "abstract": "This paper presents an extension to Bitcoin’s script language enabling covenants, a primitive that allows transactions to restrict how the value they transfer is used in the future. Covenants expand the set of financial instruments expressible in Bitcoin, and enable new powerful and novel use cases. We illustrate two novel security constructs built using covenants. The first, vaults, focuses on improving the security of private cryptographic keys. Historically, maintaining these keys securely and reliably has been a critical vulnerability for Bitcoin users. We show how covenants enable vaults, which disincentivize key theft by preventing an attacker from gaining full access to stolen funds. The second construct, poison transactions, is a generally useful mechanism for penalizing double-spending attacks. Bitcoin-NG, a protocol that has been recently proposed to improve Bitcoin’s throughput, latency and overall scalability, requires this feature. We show how covenants enable poison transactions, and detail how Bitcoin-NG can be implemented progressively as an overlay on top of the Bitcoin blockchain.",
+    "id": "moser2016covenants"
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Incentive Compatibility of Bitcoin Mining Pool Reward Functions",
+    "url": "http://fc16.ifca.ai/preproceedings/28_Schrijvers.pdf",
+    "year": 2016,
+    "venue": "Financial Cryptography and Data Security 2016",
+    "authors": [
+        {
+            "name": "Okke Schrijvers"
+        },
+        {
+            "name": "Joseph Bonneau"
+        },
+        {
+            "name": "Dan Boneh"
+        },
+        {
+            "name": "Tim Roughgarden"
+        }
+    ],
+    "id": "schrijvers2016incentive",
+    "abstract": "In this paper we introduce a game-theoretic model for reward functions in Bitcoin mining pools. Our model consists only of an unordered history of reported shares and gives participating miners the strategy choices of either reporting or delaying when they discover a share or full solution. We defined a precise condition for incentive compatibility to ensure miners strategy choices optimize the welfare of the pool as a whole. With this definition we show that proportional mining rewards are not incentive compatible in this model. We introduce and analyze a novel reward function which is incentive compatible in this model. Finally we show that the popular reward function pay-per-last-N-shares is also incentive compatible in a more general model."
+}
