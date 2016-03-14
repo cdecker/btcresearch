@@ -1,0 +1,22 @@
+{
+    "title": "Speed Optimizations in Bitcoin Key Recovery Attacks",
+    "url": "http://eprint.iacr.org/2016/103.pdf",
+    "year": 2016,
+    "peer-reviewed": true,
+    "authors": [
+        {
+            "name": "Nicolas Courtois",
+	    "affiliation": "University College London"
+        },
+        {
+            "name": "Guangyan Song",
+	    "affiliation": "University College London"
+        },
+        {
+            "name": "Ryan Castellucci",
+	    "affiliation": "White Ops"
+        }
+    ],
+    "id": "courtois2016speed",
+    "abstract": "In this paper we study and give the first detailed benchmarks on existing implementations of the secp256k1 elliptic curve used by at least hundreds of thousands of users in Bitcoin and other cryptocurrencies. Our implementation improves the state of the art by a factor of 2.5, with focus on the cases where side channel attacks are not a concern and a large quantity of RAM is available. As a result, we are able to scan the Bitcoin blockchain for weak keys faster than any previous implementation. We also give some examples of passwords which have we have cracked, showing that brain wallets are not secure in practice even for quite complex passwords."
+}

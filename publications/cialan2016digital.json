@@ -1,0 +1,20 @@
+{
+    "title": "The digital agenda of virtual currencies: Can BitCoin become a global currency?",
+    "url": "http://link.springer.com/article/10.1007/s10257-016-0304-0/fulltext.html",
+    "year": 2016,
+    "venue": "Information Systems and e-Business Management",
+    "authors": [
+        {
+            "name": "Pavel Ciaian"
+        },
+        {
+            "name": "Miroslava Rajcaniova"
+        },
+        {
+            "name": "Kancs d’Artis"
+        }
+    ],
+    "id": "cialan2016digital",
+    "peer-reviewed": true,
+    "abstract": "This paper identifies and analyzes BitCoin features which may facilitate BitCoin to become a global currency, as well as characteristics which may impede the use of BitCoin as a medium of exchange, a unit of account and a store of value, and compares BitCoin with standard currencies with respect to the main functions of money. Among all analyzed BitCoin features, the extreme price volatility stands out most clearly compared to standard currencies. In order to understand the reasons for such extreme price volatility, we attempt to identify drivers of BitCoin price formation and estimate their importance econometrically. We apply time-series analytical mechanisms to daily data for the 2009–2014 period. Our estimation results suggest that BitCoin attractiveness indicators are the strongest drivers of BitCoin price followed by market forces. In contrast, macro-financial developments do not determine BitCoin price in the long-run. Our findings suggest that as long as BitCoin price will be mainly driven by speculative investments, BitCoin will not be able to compete with standard currencies."
+}
