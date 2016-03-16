@@ -2,8 +2,8 @@
     "id": "lischke2016analyzing",
     "title": "Analyzing the Bitcoin Network: The First Four Years",
     "authors": [
-	{"name": "Matthias Lischke"},
-	{"name": "Benjamin Fabian"}
+	{"name": "Matthias Lischke", "affiliation": "Humboldt-Universität zu Berlin"},
+	{"name": "Benjamin Fabian", "affiliation": "Humboldt-Universität zu Berlin"}
     ],
     "year": 2016,
     "peer-reviewed": true,
