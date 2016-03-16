@@ -1,42 +1,64 @@
 {% extends "_base.html" %}
-{% block left_sidebar %}
-<div class="panel panel-default" id="sidebar" style="width: 163px;">
-  <div class="panel-body">
-    <h3>Year</h3>
-    {% for year in entry_groups %}
-      <a class="btn btn-default" href="#{{ year }}" style="margin: 3px;">{{ year }}</a>
-    {% endfor %}
-  </div>
-</div>
-{% endblock %}
 
 
 {% block content %}
+<div class="row">
+  <div class="col-md-3">
+    <div class="card darken-1" id="card-year">
+      <div class="card-content">
+	<span class="card-title">Filter by Year</span>
+	<p>Use the buttons below to only show publications of a given year.</p>
+      </div>
+      <div class="card-action">
+	{% for year in entry_groups %}
+	<a class="btn btn-default btn-year white black-text" href="#{{ year }}" data="{{ year }}" style="margin: 3px;">{{ year }}</a>
+	{% endfor %}
+      </div>
+    </div>
 
-{% for group, entries in entry_groups.iteritems() %}
-<h2>{{ group }}</h2>
-<table class="table table-striped">
-  <tbody>
-    {% for entry in entries %}
-    <tr class="year-{{ entry.year }} {% if entry['peer-reviewed'] %}peer-reviewed{% endif %}">
-      <td>
-	<a href="{{ entry.year }}/{{ entry.id }}.html">{{ entry.title }}</a><br/>
-	<small>
-	  {% for author in entry.authors%}
-	    {%- if author.affiliation %}<abbr title="{{ author.affiliation }}">{% endif -%}
-	    {{author.name|e}}
-	    {%- if author.affiliation %}</abbr>{% endif -%}
-	  {%- if not loop.last %}{{', '}}{% endif -%}
-	  {% endfor %} &mdash; {{ entry.year }}
-	</small>
-      </td>
-      <td>
-	{% if entry.url %}<a href="{{ entry.url }}" target="_blank"><i class="fa fa-file-pdf-o fa-5"></i></a>{% endif %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
+  </div>
+  <div class="col-md-9">
+    {% for group, entries in entry_groups.iteritems() %}
+    <div class="card table-year" id="table-year-{{ group }}">
+      <div class="card-content">
+	<span class="card-title">{{ group }}</span>
+	<table class="table table-striped">
+	  <tbody>
+	    {% for entry in entries %}
+	    <tr class="year-{{ entry.year }} {% if entry['peer-reviewed'] %}peer-reviewed{% endif %}">
+	      <td>
+		<a href="{{ entry.year }}/{{ entry.id }}.html">{{ entry.title }}</a><br/>
+		<small>
+		  {% for author in entry.authors%}
+		  {%- if author.affiliation %}<abbr title="{{ author.affiliation }}">{% endif -%}
+		    {{author.name|e}}
+		    {%- if author.affiliation %}</abbr>{% endif -%}
+		  {%- if not loop.last %}{{', '}}{% endif -%}
+		  {% endfor %} &mdash; {{ entry.year }}
+		</small>
+	      </td>
+	      <td>
+	      </td>
+	    </tr>
+	    {% endfor %}
+	  </tbody>
+	</table>
+      </div>
+    </div>
 {% endfor %}
+
+<script>
+  $(".btn-year").click(function(ev){
+  var year = $(ev.target).attr("data");
+  $(".table-year").hide();
+  $("#table-year-" + year).show();
+  });
+
+  $(document).ready(function(){
+  console.log($('#card-year'))
+    $('#card-year').pushpin({ top: "100px" });
+  });
+</script>
+  </div>
+</div>
 {% endblock %}

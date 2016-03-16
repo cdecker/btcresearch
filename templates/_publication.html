@@ -1,7 +1,71 @@
 {% extends "_base.html" %}
 
 {% block content %}
+<div class="row">
+  <div class="col-md-7">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">{{ title }}</p>
+	{% for author in authors %}
+	<div class="chip" style="margin: 2px 0px 2px 0px;">
+	  {%- if author.affiliation %}<abbr title="{{ author.affiliation }}">{% endif %}
+	    {{ author.name }}
+	    {%- if author.affiliation %}</abbr>{% endif -%}
+	</div>
+	{% endfor %}
+	{% if abstract %}
+	<blockquote style="border-color: #607d8b;">
+	  {{ abstract }}
+	</blockquote>
+	{% endif %}
+      </div>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Metadata</p>
+	<table>
+          <tbody>
+            <tr>
+              <td>Year</td>
+              <td>{{ year }}</td>
+            </tr>
+            <tr>
+              <td>Peer Reviewed</td>
+              <td>
+		{% if pr %}
+		<i class="material-icons dp48">done</i>
+		{% else %}
+		<i class="material-icons dp48">not_interested</i>
+		{% endif %}
+	      </td>
+            </tr>
+	    {% if venue %}
+	    <tr>
+	      <td>Venue</td>
+	      <td>{{ venue }}</td>
+	    </tr>
+	    {% endif %}
+	    {% if url %}
+	    <tr>
+	      <td colspan="2">
+		<center>
+		  <a href="{{ url }}"><i class="fa fa-file-pdf-o fa-5x"></i></a>
+		</center>
+	      </td>
+	    </tr>
+	    {% endif %}
+          </tbody>
+	</table>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red" href="https://github.com/cdecker/btcresearch/blob/master/{{ filename }}">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+  </div>
 
-<h2>{{ title }}</h2>
-{{ abstract }}
-{% endblock %}
+ {% endblock %}

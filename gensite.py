@@ -26,8 +26,12 @@ def main():
 def load_entries(template):
     # Load JSON files
     entries = []
+    ids = []
     for fname in glob("publications/**/*.json"):
         entry = json.loads(open(fname, 'r').read())
+        if entry['id'] in ids:
+            raise ValueError('ID collision with %s' % (entry['id']))
+        ids.append(entry['id'])
         entries.append(entry)
         
     from collections import OrderedDict
@@ -42,7 +46,12 @@ def load_entries(template):
     
 def load_publication(template):
     with codecs.open(template.filename, encoding='utf-8') as f:
-        return json.loads(f.read())
+        entry = json.loads(f.read())
+        f = template.filename.split('/')
+        entry['filename'] = '/'.join(f[f.index('templates') + 1:])
+        if 'peer-reviewed' in entry:
+            entry['pr'] = entry['peer-reviewed']
+        return entry
 
 def render_publication(env, template, **entry):
     """Render a template as a publication."""
