@@ -1,0 +1,30 @@
+{
+    "title": "Securing Bitcoin wallets via threshold signatures",
+    "url": "http://www.cs.princeton.edu/~stevenag/bitcoin_threshold_signatures.pdf",
+    "year": 2014,
+    "venue": "Princeton",
+    "authors": [
+        {
+            "name": "Steven Goldfeder",
+	    "affiliation": "Princeton University"
+        },
+        {
+            "name": "Joseph Bonneau"
+	    "affiliation": "Princeton University"
+        },
+        {
+            "name": "Edward W. Felten"
+	    "affiliation": "Princeton University"
+        },
+        {
+            "name": "Joshua A. Kroll"
+	    "affiliation": "Princeton University"
+        },
+        {
+            "name": "Arvind Narayanan"
+	    "affiliation": "Princeton University"
+        }
+    ],
+    "id": "goldfeder2014",
+    "abstract": "The Bitcoin ecosystem has suffered frequent thefts and losses affecting both businesses and individuals. The insider threat faced by a business is particularly serious. Due to the irreversibility, automation, and pseudonymity of transactions, Bitcoin currently lacks support for the sophisticated internal control systems deployed by modern businesses to deter fraud.\n\nWe seek to bridge this gap. We show that a thresholdsignature scheme compatible with Bitcoin’s ECDSA signatures can be used to enforce complex yet useful security policies including: (1) shared control of a wallet, (2) secure bookkeeping, a Bitcoin-specific form of accountability, (3) secure delegation of authority, and (4) two-factor security for personal wallets."
+}
