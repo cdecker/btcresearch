@@ -1,0 +1,12 @@
+{
+    "id": "herbert2016ontology",
+    "title": "Bitcoin & Co: An Ontology For Categorising Cryptocurrencies",
+    "authors": [
+	{"name": "Jeff Herbert"},
+	{"name": "Martin Stabauer"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "m-Sphere",
+    "abstract": "As cryptocurrencies like Bitcoin become more and more influential and widely spread, a steadily growing target audience coming from the most diverse disciplines takes notice and interest in them. There are lots of discussions going on around the globe, whether or not Bitcoin can be considered a “real” currency and how to deal with its ecosystem from a juridical point of view as well as within the borders of monetary policy. This paper proposes a model and, based thereupon, an ontology for categorising the different manifestations of cryptocurrencies available today. It takes into consideration the relevant publications by the ECB and the US FinCEN and tries to find a common ground. We address various aspects related to the subject like compatible technologies, applications and their interconnections. The findings are consequently tested and validated using appropriate methodology. Our work results in an ontology implemented in languages of the semantic web that covers many of today’s cryptocurrencies and categorises them by the aspects discovered earlier in the paper. This ontology contributes to a fairly new knowledge domain where varying interpretations and misunderstandings are common occurrences."
+}
