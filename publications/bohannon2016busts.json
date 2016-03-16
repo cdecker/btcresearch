@@ -1,0 +1,13 @@
+{
+    "id": "bohannon2016busts",
+    "title": "The Bitcoin busts",
+    "authors": [
+	{"name": "John Bohannon"}
+    ],
+    "url": "http://science.sciencemag.org/content/sci/351/6278/1144.full.pdf",
+    "abstract": "A string of recent arrests has shown that even with Bitcoin, the Internet currency beloved by computer scientists, libertarians, and criminals, privacy is not guaranteed. The data associated with transactions in Bitcoin and other forms of cryptocurrency leave a forensic trail that can make one's entire financial history public information. Some academic researchers, operating in a new field at the crossroads of computer science, economics, and forensics, are trying to follow these trails. Partly as a result of their work, law enforcement officers increasingly see cryptocurrency as a tool for prosecuting crimes.",
+    "peer-reviewed": false,
+    "type": "article",
+    "venue": "Science",
+    "year": 2016
+}
