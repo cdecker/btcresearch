@@ -8,5 +8,6 @@
     "year": 2016,
     "peer-reviewed": true,
     "venue": "Future Internet 2016",
+    "url": "http://www.mdpi.com/1999-5903/8/1/7/pdf",
     "abstract": "In this explorative study, we examine the economy and transaction network of the decentralized digital currency Bitcoin during the first four years of its existence. The objective is to develop insights into the evolution of the Bitcoin economy during this period. For this, we establish and analyze a novel integrated dataset that enriches data from the Bitcoin blockchain with off-network data such as business categories and geo-locations. Our analyses reveal the major Bitcoin businesses and markets. Our results also give insights on the business distribution by countries and how businesses evolve over time. We also show that there is a gambling network that features many very small transactions. Furthermore, regional differences in the adoption and business distribution could be found. In the network analysis, the small world phenomenon is investigated and confirmed for several subgraphs of the Bitcoin network."
 }
