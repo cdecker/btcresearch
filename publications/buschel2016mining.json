@@ -1,0 +1,12 @@
+{
+    "id": "buschel2016mining",
+    "title": "Bitcoin Mining Decentralization via Cost Analysis",
+    "authors": [
+	{"name": "Jonathan Harvey-Buschel", "affiliation": "MIT"},
+	{"name": "Can Kisagun", "affiliation": "MIT"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1603.05240.pdf",
+    "abstract": "Bitcoin mining presents a significant economic incentive for efficient hashing and broadcast of data, both parameters stemming from the Proofs-of-Work used to advance the network. This incentive has led to the development of Bitcoin-specific application-specific integrated circuits (ASICs) and centralized mining pools, undermining the decentralized motivations behind Bitcoin’s design. In addition, the imminent block reward halving threatens the profitability of mining at any scale. Some work has been done in formal models for miner profitability, but existing models do not account for conditions such as the pricing of off-peak power and diverse investment strategies regarding sunken costs. There is also a lack of formal study of how the profit model changes as mining scales from the individual to the industrial level. Given the lack of analysis of these conditions, there are alternative models for profitable or net-zero mining that operate at smaller, and therefore more desirable, scale."
+}

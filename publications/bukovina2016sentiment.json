@@ -1,0 +1,12 @@
+{
+    "id": "bukovina2016sentiment",
+    "title": "Sentiment and Bitcoin Volatility",
+    "authors": [
+	{"name": "Jaroslav Bukovina", "affiliation": "Mendel University in Brno"},
+	{"name": "Matúš Martiček", "affiliation": "Mendel University in Brno"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://econpapers.repec.org/scripts/redir.pf?u=ftp%3A%2F%2Fftp.mendelu.cz%2FRePEc%2Fmen%2Fwpaper%2F58_2016.pdf;h=repec:men:wpaper:58_2015",
+    "abstract": " This paper augments the current research suggesting the less rational factors like attractiveness of Bitcoin and speculative investments to be influential for excessive volatility. In particular, it examines the sentiment as a driver of Bitcoin volatility. The paper contributes with economic rationale about a link between sentiment and Bitcoin. Further, the authors propose a unique decomposition of Bitcoin price to rational and less rational components. The paper tests this theoretical prediction with unique sentiment intraday data in the period of 12/12/2013 â€“ 12/31/2015. The findings of the paper show the marginal presence of sentiment during the overall studied period. However, the explanato- ry power of sentiment significantly increases during the period of excessive volatility, especially dur- ing the bubble period at the end of the year 2013 and beginning of 2014. Moreover, the findings show that positive sentiment is more influential for Bitcoin excessive volatility."
+}

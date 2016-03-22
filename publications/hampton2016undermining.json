@@ -1,0 +1,12 @@
+{
+    "id": "hampton2016undermining",
+    "title": "Undermining Bitcoin",
+    "authors": [
+	{"name": "Sam Hampton", "affiliation": "University of Washington"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Washington Journal of Law, Technology & Arts",
+    "url": "http://digital.law.washington.edu/dspace-law/bitstream/handle/1773.1/1559/11WJLTA331.pdf?sequence=4&isAllowed=y",
+    "abstract": "In March 2014, the IRS issued a notice detailing the tax treatment the agency would apply to virtual currencies such as Bitcoin. Although applauded by some as a step towards legal legitimacy for this new technology, the IRS’s position severely undermines the transactional utility of virtual currencies. Using tax rules established for traditional property transactions frustrates one of virtual currencies’ principal purposes: its use as a medium of exchange. Tax compliance requires calculation and payment of capital gains tax, which necessitates documentation of all acquisitions and dispositions of virtual currencies. This tax treatment will likely discourage the use of these currencies, or alternatively will encourage noncompliance by their users. Decentralized currencies like Bitcoin pose novel and difficult regulatory questions, but mechanically applying old rules will lead to an unsatisfactory outcome. The best solution is new legislation that specifically addresses the novel issues posed by virtual currencies, fosters the use of virtual currency in transactions, and still collects tax revenues from investors."
+}
