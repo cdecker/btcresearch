@@ -1,0 +1,14 @@
+{
+    "title": "Formaleuros, Formalbitcoins, and Virtual Monies",
+    "url": "http://arxiv.org/abs/1008.0616",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jan A. Bergstra",
+	    "affiliation": "University of Amsterdam"
+        }
+    ],
+    "id": "bergstra2010",
+    "peer-reviewed": false,
+    "abstract": "Formalist positions towards money are considered from a perspective of formal methods in computing. The Formaleuro (FEUR) as a dimension for monetary quantities is proposed as well as the Formalbitcoin (FBTC) which represents an item ready for circulation in a model of informational money. An attempt is made to understand the concept of money from scratch. In order to provide a definition of money the need is felt to make use of a tailored theory of definition. To that end a theory of imaginative definitions is presented and its implications for definitions of money are sketched. It is argued that a theory of money may be dependent on the role of its holder. A survey of some roles is given, with the so-called subordinate administrative role (SAR) in a central position. The concepts of virtual memory and virtual machine are taken as the point of departure for a definition of the notion of virtual money. It is argued that from the perspective of a component (division) of a large organization (ORG) its local financial system (LFS) provides a virtual money vm(LFS, ORG) which may well fail to meet the most common general and acknowledged moneyness criteria. Inverse moneyness preference is coined as phrase to assert the tendency of top-management of ORG to make its virtual money deviate from these criteria."
+}

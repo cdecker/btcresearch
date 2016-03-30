@@ -1,0 +1,27 @@
+{
+    "title": "Bitter to Better — How to Make Bitcoin a Better Currency",
+    "url": "http://eprints.qut.edu.au/69169/1/Boyen_accepted_draft.pdf",
+    "year": 2012,
+    "venue": "Financial Cryptography and Data Security",
+    "peer-reviewed": true,
+    "authors": [
+        {
+            "name": "Simon Barber",
+	    "affiliation": "Palo Alto Research Center"
+        },
+        {
+            "name": "Xavier Boyen",
+	    "affiliation": "Palo Alto Research Center"
+        },
+        {
+            "name": "Elaine Shi",
+            "affiliation": "University of California, Berkeley"
+        },
+        {
+            "name": "Ersin Uzun",
+	    "affiliation": "Palo Alto Research Center"
+        }
+    ],
+    "id": "barber2012bitter",
+    "abstract": "Bitcoin is a distributed digital currency which has attracted a substantial number of users. We perform an in-depth investigation to understand what made Bitcoin so successful, while decades of research on cryptographic e-cash has not lead to a large-scale deployment. We ask also how Bitcoin could become a good candidate for a long-lived stable currency. In doing so, we identify several issues and attacks of Bitcoin, and propose suitable techniques to address them."
+}

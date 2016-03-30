@@ -1,0 +1,26 @@
+{
+    "title": "How to Deal with Malleability of Bitcoin Transactions",
+    "url": "http://arxiv.org/abs/1312.3230",
+    "year": 2013,
+    "peer-reviewed": false,
+    "authors": [
+        {
+            "name": "Marcin Andrychowicz",
+            "affiliation": "University of Warsaw"
+        },
+        {
+            "name": "Stefan Dziembowski",
+            "affiliation": "University of Warsaw"
+        },
+        {
+            "name": "Daniel Malinowski",
+            "affiliation": "University of Warsaw"
+        },
+        {
+            "name": "Łukasz Mazurek",
+            "affiliation": "University of Warsaw"
+        }
+    ],
+    "id": "andrychowicz2013",
+    "abstract": "BitCoin transactions are malleable in a sense that given a transaction an adversary can easily construct an equivalent transaction which has a different hash. This can pose a serious problem in some BitCoin distributed contracts in which changing a transaction’s hash may result in the protocol disruption and a financial loss. The problem mostly concerns protocols, which use a ”refund” transaction to withdraw a deposit in a case of the protocol interruption. In this short note, we show a general technique for creating malleability-resilient “refund” transactions, which does not require any modification of the BitCoin protocol.\n\nApplying our technique to our previous paper “Fair Two-Party Computations via the BitCoin Deposits” (Cryptology ePrint Archive, 2013) allows to achieve fairness in any Two-Party Computation using the BitCoin protocol in its current version."
+}
