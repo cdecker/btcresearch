@@ -6,10 +6,10 @@
     "peer-reviewed": true,
     "venue": "20th European Symposium on Research in Computer Security (ESORICS), Vienna, Austria",
     "authors": [
-	{"name": "Christian Decker"},
-	{"name": "James Guthrie"},
-	{"name": "Jochen Seidel"},
-	{"name": "Roger Wattenhofer"}
+	{"name": "Christian Decker", "affiliation": "ETH Zurich"},
+	{"name": "James Guthrie", "affiliation": "ETH Zurich"},
+	{"name": "Jochen Seidel", "affiliation": "ETH Zurich"},
+	{"name": "Roger Wattenhofer", "affiliation": "ETH Zurich"}
     ],
     "id": "decker2015transparentexchanges"
 }

@@ -1,0 +1,14 @@
+{
+    "id": "vilim2016approximate",
+    "title": "Approximate Bitcoin Mining",
+    "authors": [
+	{"name": "Matthew Vilim", "affiliation": "University of Illinois"},
+	{"name": "Henry Duwe", "affiliation": "University of Illinois"},
+	{"name": "Rakesh Kumar", "affiliation": "University of Illinois"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Design Automation Conference",
+    "url": "http://rakeshk.crhc.illinois.edu/dac_16_cam.pdf",
+    "abstract": "Bitcoin is the most popular cryptocurrency today. A bedrock of the Bitcoin framework is mining, a computation intensive process that is used to verify Bitcoin transactions for profit. We observe that mining is inherently error tolerant due to its embarrassingly parallel and probabilistic nature. We exploit this inherent tolerance to inaccuracy by proposing approximate mining circuits that trade off reliability with area and delay. These circuits can then be operated at Better Than Worst-Case (BTWC) to enable further gains. Our results show that approximation has the potential to increase mining profits by 30%."
+}

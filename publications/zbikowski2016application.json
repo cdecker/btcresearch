@@ -1,0 +1,12 @@
+{
+    "id": "zbikowski2016application",
+    "title": "Application of Machine Learning Algorithms for Bitcoin Automated Trading",
+    "authors": [
+	{"name": "Kamil Żbikowski", "affiliation": "Politechnika Warzawska"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Machine Intelligence and Big Data in Industry",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-30315-4_14",
+    "abstract": "The aim of this paper is to compare and analyze different approaches to the problem of automated trading on the Bitcoin market. We compare simple technical analysis method with more complex machine learning models. Experimental results showed that the performance of tested algorithms is promising and that Bitcoin market is still in its youth, and further market opportunities can be found. To the best of our knowledge, this is the first work that tries to investigate applying machine learning methods for the purpose of creating trading strategies on the Bitcoin market."
+}
