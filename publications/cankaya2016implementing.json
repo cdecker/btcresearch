@@ -1,0 +1,13 @@
+{
+    "id": "cankaya2016implementing",
+    "title": "Implementing a Bitcoin Exchange with Enhanced Security",
+    "authors": [
+	{"name": "Ebru Celikel Cankaya"},
+	{"name": "Luke Daniel Carr"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Advances in Intelligent Systems and Computing",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-32467-8_24",
+    "abstract": "We design and implement a secure cryptocurrency exchange by combining secure web programming practices with Bitcoin. In this work, the Amazon EC2 cloud is used to store Bitcoin and host the web server. While building the system, we employ a comprehensive coverage of security features including symmetric key encryption, SSL certificates for digital signatures, SHA-512 for hashing, password revalidation against session hijacking attacks, and two factor authentication. The implementation is tested in an experimental setup and is compared with similar applications currently available. The tests demonstrate that our system proves to offer enhanced security outperforming its peers."
+}

@@ -1,0 +1,13 @@
+{
+    "id": "chepurnoy2016prunable",
+    "title": "A Prunable Blockchain Consensus Protocol Based on Non-Interactive Proofs of Past States Retrievability",
+    "authors": [
+	{"name": "Alexander Chepurnoy", "affiliation": "IOHK Research"},
+	{"name": "Mario Larangeira", "affiliation": "IOHK Research"},
+	{"name": "Alexander Ojiganov", "affiliation": "Saint-Petersburg National Research University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1603.07926.pdf",
+    "abstract": "Bitcoin [1] is the first successful decentralized global digital cash system. Usefulness of the mining process requiring a lot of computational resources to be wasted, though, remains disputable. One of possible alternatives for useful Proof-of-Work schemes, Permacoin [2], is using non-interactive proofs of a static dataset retrievability thus providing a mechanism to store a huge dataset being spread across miners collectively. In this paper we present a new consensus protocol for Bitcoin-like peer-to-peer systems, where the right to generate a block is given to the party which provides non-interactive proofs of retrievability for the past state snapshots. This Proof-of-Work scheme has better resistance to specialized hardware than Bitcoin and Permacoin. Unlike blockchain systems being used today, a network using the protocol of ours is safe if majority of nodes are rational in terms of storing full blocks. By using that we also show that one useful application of our protocol is the construction of a prunable blockchain system without a security loss."
+}
