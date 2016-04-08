@@ -1,0 +1,11 @@
+{
+    "id": "bruinderink2016towards",
+    "title": "Towards Post-Quantum Bitcoin",
+    "authors": [
+	{"name": "Leon Groot Bruinderink", "affiliation": ""}
+    ],
+    "abstract": "In this thesis, we investigate Bitcoin’s long term vision for the cryptographic protocols it relies on. The biggest threat in the near future is a large quantum computer, able to forge the digital signatures used by Bitcoin to secure transactions. When a large quantum computer arises, Bitcoin has to switch to post-quantum cryptography, in which Bimodal Lattice Signatures (BLISS) seem most promising to use. However, it is unclear if these signatures are vulnerable to side-channel attacks, which are mountable on actual implementations. An important step in BLISS is sampling a discrete-Gaussian-distributed integer, which is not straightforward to do. We investigated two sampling algorithms most used in practice, which both rely on table look-ups. We show that both methods are vulnerable to cache-attacks, leading to extraction of the secret key. We provide experimental results as verification. This means we need to re-invent ways to sample a discrete Gaussian, or implement current methods more securely, before the scheme is ready for implementation in the real-world.",
+    "year": 2016,
+    "peer-reviewed": false,
+    "type": "masterthesis"
+}
