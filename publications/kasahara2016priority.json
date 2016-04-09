@@ -1,0 +1,12 @@
+{
+    "id": "kasahara2016priority",
+    "title": "Priority Mechanism of Bitcoin and its Effects on Transaction-Confirmation Process",
+    "authors": [
+	{"name": "Shoji Kasahara"},
+	{"name": "Jun Kawahara"},
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1604.00103v2",
+    "abstract": "In Bitcoin system, transactions are prioritized according to attributes such as the remittance amount and transaction fees, and transactions with low priority are likely to wait for confirmation. Because the demand of micro payment in Bitcoin is expected to increase due to low remittance cost, it is important to quantitatively investigate how the priority mechanism of Bitcoin affects the transaction-confirmation time. In this paper, we analyze the transaction-confirmation time by queueing theory. We model the transaction priority mechanism of Bitcoin as a priority queueing system with batch service, deriving the mean transaction-confirmation time. Numerical examples show how the demand of transactions of low remittance amount affects the transaction-confirmation time. We also consider the effect of the maximum block size on the transaction-confirmation time."
+}
