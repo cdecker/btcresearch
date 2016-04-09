@@ -1,0 +1,11 @@
+{
+    "id": "jogenfors2016quantum",
+    "title": "Quantum Bitcoin: An Anonymous and Distributed Currency Secured by the No-Cloning Theorem of Quantum Mechanics",
+    "authors": [
+	{"name": "Jonathan Jogenfors", "affiliation": "Linköping University"},
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1604.01383.pdf",
+    "abstract": "The digital currency Bitcoin has had remarkable growth since it was first proposed in 2008. Its distributed nature allows currency transactions without a central authority by using cryptographic methods and a data structure called the blockchain. In this paper we use the no-cloning theorem of quantum mechanics to introduce Quantum Bitcoin, a Bitcoinlike currency that runs on a quantum computer. We show that our construction of quantum shards and two blockchains allows untrusted peers to mint quantum money without risking the integrity of the currency. The Quantum Bitcoin protocol has several advantages over classical Bitcoin, including immediate local verification of transactions. This is a major improvement since we no longer need the computationally intensive and time-consuming method Bitcoin uses to record all transactions in the blockchain. Instead, Quantum Bitcoin only records newly minted currency which drastically reduces the footprint and increases efficiency. We present formal security proofs for counterfeiting resistance and show that  a quantum bitcoin can be re-used a large number of times before wearing out – just like ordinary coins and banknotes. Quantum Bitcoin is the first distributed quantum money  system and we show that the lack of a paper trail implies full anonymity for the users. In addition, there are no transaction fees and the system can scale to any transaction volume."
+}
