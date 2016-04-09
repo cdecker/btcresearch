@@ -15,8 +15,23 @@
 	{% endfor %}
       </div>
     </div>
-
+    <div class="card darken-1" id="card-year">
+      <div class="card-content">
+	<span class="card-title">Peer Review</span>
+	<p>Should we show just peer-reviewed publications?</p>
+      </div>
+      <div class="card-action">
+	<div class="switch">
+	  <label>
+	    Peer-Review required
+	    <input type="checkbox" class="right-align" id="peer-review-cb">
+	    <span class="lever right-align"></span>
+	  </label>
+	</div>
+      </div>
+    </div>
   </div>
+
   <div class="col-md-9">
     {% for group, entries in entry_groups.iteritems() %}
     <div class="card table-year" id="table-year-{{ group }}">
@@ -48,15 +63,21 @@
 {% endfor %}
 
 <script>
-  $(".btn-year").click(function(ev){
-  var year = $(ev.target).attr("data");
-  $(".table-year").hide();
-  $("#table-year-" + year).show();
-  });
-
   $(document).ready(function(){
-  console.log($('#card-year'))
     $('#card-year').pushpin({ top: "100px" });
+    $(".btn-year").click(function(ev){
+      var year = $(ev.target).attr("data");
+      $(".table-year").hide();
+      $("#table-year-" + year).show();
+    })
+  $("#peer-review-cb").change(function () {
+  var val = $("#peer-review-cb").prop("checked")
+  console.log(val)
+  if(val)
+  $("tr:not(.peer-reviewed)").hide()
+  else
+  $("tr:not(.peer-reviewed)").show()
+  })
   });
 </script>
   </div>
