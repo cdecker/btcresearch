@@ -1,0 +1,12 @@
+{
+    "id": "vukolic2016eventually",
+    "title": "Eventually Returning to Strong Consistency",
+    "authors": [
+	{"name": "Marko Vukolic", "affiliation": "IBM Research"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "venue": "Bulletin of the Technical Committee on Data Engineering",
+    "url": "http://sites.computer.org/debull/A16mar/p39.pdf",
+    "abstract": "Eventually and weakly consistent distributed systems have emerged in the past decade as an answer to scalability and availability issues associated with strong consistency semantics, such as linearizability. However, systems offering strong consistency semantics have an advantage over systems based on weaker consistency models, as they are typically much simpler to reason about and are more intuitive to developers, exhibiting more predictable behavior. Therefore, a lot of research and development effort is being invested lately into the re-engineering of strongly consistent distributed systems, as well as into boosting their scalability and performance. This paper overviews and discusses several novel directions in the design and implementation of strongly consistent systems in industries and research domains such as cloud computing, data center networking and blockchain. It also discusses a general trend of returning to strong consistency in distributed systems, when system requirements permit so."
+}
