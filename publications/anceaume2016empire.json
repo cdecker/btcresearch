@@ -1,0 +1,13 @@
+{
+    "id": "anceaume2016empire",
+    "title": "L’empire romain ne doit pas être géré comme une petite île grecque",
+    "authors": [
+	{"name": "Emmanuelle Anceaume", "affiliation": "IRISA"},
+	{"name": "Romaric Ludinard", "affiliation": "ENSAI"},
+	{"name": "Bruno Sericola", "affiliation": "INRIA Rennes"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://hal.archives-ouvertes.fr/hal-01305334/document",
+    "abstract": "Depuis quelques années, des systèmes de crypto-devises ont fait leur apparition, permettant d’acheter des biens ou services de manière décentralisée en s’affranchissant de tout système bancaire. Bitcoin est un système pair-à-pair de crypto-devises considéré comme l’un des pionniers de ce type de système. Un adversaire peut chercher à mettre en défaut le système en insérant des données incohérentes dans l’historique des transactions, appelé blockchain. En exploitant une situation de compétition, il peut alors acquérir des biens ou services gratuitement. Afin de bloquer ces comportements, PeerCensus propose d’utiliser des techniques d’accord basées sur les identités présentes dans la blockchain. Dans cet article, nous proposons une évaluation probabiliste de la fiabilité de l’architecture PeerCensus"
+}
