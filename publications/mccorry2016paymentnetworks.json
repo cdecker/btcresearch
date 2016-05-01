@@ -1,0 +1,14 @@
+{
+    "id": "mccorry2016paymentnetworks",
+    "title": "Towards Bitcoin Payment Networks",
+    "authors": [
+	{"name": "Patrick McCorry", "affiliation": "Newcastle University"},
+	{"name": "Malte Möser", "affiliation": "University of Münster"},
+	{"name": "Siamak F. Shahandasti", "affiliation": "Newcastle University"},
+	{"name": "Feng Hao", "affiliation": "Newcastle University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://eprint.iacr.org/2016/408.pdf",
+    "abstract": "Bitcoin as deployed today does not scale. Scalability research has focused on two directions: 1) redesigning the Blockchain protocol, and 2) facilitating ‘off-chain transactions’ and only consulting the Blockchain if an adjudicator is required. In this paper we focus on the latter and provide an overview of Bitcoin payment networks. These consist of two components: payment channels to facilitate off-chain transactions between two parties, and the capability to fairly exchange bitcoins across multiple channels. We compare Duplex Micropayment Channels and Lightning Channels, before discussing Hashed Time-Locked Contracts which enable Bitcoin-based payment networks. Finally, we highlight challenges for route discovery in these networks."
+}
