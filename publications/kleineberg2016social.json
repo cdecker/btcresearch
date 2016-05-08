@@ -1,0 +1,12 @@
+{
+    "id": "kleinberg2016social",
+    "title": "A “Social Bitcoin” could sustain a democratic digital world",
+    "authors": [
+	{"name": "Kaj-Kolja Kleineberg", "affiliation": "Universitat de Barcelona"},
+	{"name": "Dirk Helbing", "affiliation": "ETH Zurich"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1604.08168.pdf",
+    "abstract": "A multidimensional financial system could provide benefits for individuals, companies, and states. Instead of top-down control, which is destined to eventually fail in a hyperconnected world, a bottom-up creation of value can unleash creative potential and drive innovations. Multiple currency dimensions can represent different externalities and thus enable the design of incentives and feedback mechanisms that foster the ability of complex dynamical systems to self-organize and lead to a more resilient society and sustainable economy. Modern information and communication technologies play a crucial role in this process, as Web 2.0 and online social networks promote cooperation and collaboration on unprecedented scales. Within this contribution, we discuss how one dimension of a multidimensional currency system could represent socio-digital capital (Social Bitcoins) that can be generated in a bottom-up way by individuals who perform search and navigation tasks in a future version of the digital world. The incentive to mine Social Bitcoins could sustain digital diversity, which mitigates the risk of totalitarian control by powerful monopolies of information and can create new business opportunities needed in times where a large fraction of current jobs is estimated to disappear due to computerisation."
+}
