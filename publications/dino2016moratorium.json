@@ -1,0 +1,13 @@
+{
+    "id": "dino2016moratorium",
+    "title": "A Call for a Temporary Moratorium on “The DAO”",
+    "authors": [
+	{"name": "Mark Dino", "affiliation": "Smartwallet"},
+	{"name": "Vlad Zamfir", "affiliation": "Ethereum"},
+	{"name": "Emin Gün Sirer", "affiliation": "Cornell University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://docs.google.com/document/d/10kTyCmGPhvZy94F7VWyS-dQ4lsBacR2dUgGTtV98C40",
+    "abstract": "Over the past 3 weeks a Distributed Autonomous Organization (DAO) known simply as ‘The DAO’ and implemented as a smart contract on the Ethereum blockchain, has raised 11.5 million Ether, valued at $150 million at the time of writing. This is the largest crowd-funding event in history. The DAO now controls 16% of the total supply of Ether. It is arguably the most visible project in the Ethereum ecosystem. In this paper, we analyze the rules of The DAO and identify problems with its mechanism design that incentivize investors to behave strategically; that is, at odds with truthfully voting to reveal their preferences. We then outline potential attacks against The DAO made possible by these behaviors. In particular, we identify seven causes for concern that can lead DAO participants to engage in strategic rather than honest behaviors. Some of these behaviors can cause honest DAO investors to have their investments hijacked or committed to proposals against their interest and intent. We discuss these attacks, and provide concrete and simple suggestions that will mitigate the attacks, or in some cases make them completely impossible. We would like to call for a moratorium on proposals to prevent losses to the DAO caused by unintended consequences of its mechanism design. A moratorium would give The DAO time to make security upgrades, and should be lifted only once the DAO is updated."
+}
