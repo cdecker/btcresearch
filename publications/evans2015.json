@@ -1,0 +1,15 @@
+{
+  "title": "Bitcoin in Islamic Banking and Finance",
+  "url": "http://jibfnet.com/journals/jibf/Vol_3_No_1_June_2015/1.pdf",
+  "year": 2015,
+  "venue": "Journal of Islamic Banking and Finance",
+  "authors": [
+    {
+      "name": "Charles W. Evans"
+    }
+  ],
+    "id": "evans2015",
+    "peer-reviewed": true,
+    "venue": "Journal of Islamic Banking and Finance",
+    "abstract": "This paper analyzes the compliance of distributed, autonomous block chain management systems (BMS) like Bitcoin—also referred to as 'virtual currencies'—with the requirements of Islamic Banking and Finance. While intended as a narrow financial and economic analysis, and not as an in-depth analysis of the subtleties and nuances of Shari'a as they relate to banking and finance, it shows that a BMS can conform with the prohibition of riba (usury) and incorporate the principles of maslaha (social benefits of positive externalities) and mutualrisk-sharing (as opposed to risk-shifting). It concludes that Bitcoin or a similar system might be a more appropriate medium of exchange in Islamic Banking and Finance than riba-backed central bank fiat currency, especially among the unbanked and in small-scale cross-border trade."
+}
