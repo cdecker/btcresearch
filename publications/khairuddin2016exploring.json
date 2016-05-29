@@ -1,0 +1,24 @@
+{
+    "id": "khairuddin2016exploring",
+    "title": "Exploring Motivations for Bitcoin Technology Usage",
+    "year": 2016,
+    "type": "inproceedings",
+    "authors": [
+        {
+            "name": "Irni Eliana Khairuddin", "affiliation": "Universiti Teknologi MARA"
+        },
+        {
+            "name": "Corina Sas", "affiliation": "Lancaster University"
+        },
+        {
+            "name": "Sarah Clinch", "affiliation": "Lancaster University"
+        },
+        {
+            "name": "Nigel Davies", "affiliation": "Lancaster University"
+        }
+    ],
+    "venue": "CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+    "peer-reviewed": true,
+    "url": "http://dl.acm.org/citation.cfm?id=2892500",
+    "abstract": "This paper presents an exploratory study focusing on user experience with Bitcoin technology. We describe interviews with 9 Bitcoin users and report findings related to users’ motivations for buying and using bitcoins. Our initial findings capture three main motivations such as Bitcoin’s predicted role in a monetary revolution, users’ increased empowerment, and their perception of a real value of Bitcoin currency. We conclude with reflections on the value of these findings for HCI researchers. "
+}
