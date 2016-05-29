@@ -1,0 +1,16 @@
+{
+    "id": "mainelli2016impact",
+    "title": "The Impact and Potential of Blockchain on Securities Transaction Lifecycle",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Michael Mainelli", "affiliation": "SWIFT Institute"
+        },
+        {
+            "name": "Alistair Milne", "affiliation": "SWIFT Institute"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This paper reports the outcome of a series of interviews and focus group meetings with professionals working in post-trade processing and the provision of mutual distributed ledger services. The objective was to elicit and document views on three research hypotheses about the potential impact of mutual distributed ledger technology (‘blockchain’) on post-trade processing global securities markets. These hypotheses are (a) on the appropriate access to mutual distributed ledger; (b) on whether change would be piecemeal or ‘big bang’; and (c) on the extent to which applying mutual distributed ledger in securities settlement would require major changes in business processes. Our research finds that while the use of blockchain to validate operational data in mutual distributed ledgers can yield substantial reductions in both cost and risk, the concept of data sharing itself is far from new. Current interest in mutual distributed ledgers has established significant momentum, but there is a danger of building unrealistic expectations of the extent to which the technology on its own will address the underlying need for co-ordination of business processes both within and between firms. Achieving all the potential benefits from mutual distributed ledgers will require board level buy-in to a substantial commitment of time and resource, and active regulatory support for process reform, with relatively little short term payoff."
+}
