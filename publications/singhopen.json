@@ -1,0 +1,24 @@
+{
+    "id": "singhopen",
+    "title": "Open Source Software a Study on Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Kunwar Uday Singh"
+        },
+        {
+            "name": "Harshit Sinha"
+        },
+        {
+            "name": "Ajay S Singh"
+        },
+        {
+            "name": "K Thirunavukkarasu"
+        }
+    ],
+    "venue": "International Journal of Computer Science Trends and Technology",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is a peer-to-peer data transfer system facilitating monetary transactions between the participants without any interference from a third party of any kind. An example of such a party would be banks which act as moderators in transactions and transfers between customers be it their own or other banks. The bank would have all the details and specifics of the transactions. Bitcoin remove the reliance on such an entity completely. The transactions are solely the matter of the parties involved and no one else. The problem of double spending persists in the concept of bitcoin; here we shall propose possible solution to the problem. Digital signatures, timestamps, proof of work and publication of the transactions could provide a solution to double spending. With reasonable system requirements and an easily understandable concept, bitcoin could possibly provide hassle free trading for the participants.",
+    "url": "http://www.ijcstjournal.org/volume-4/issue-2/IJCST-V4I2P42.pdf"
+}
