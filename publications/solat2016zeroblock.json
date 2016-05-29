@@ -1,0 +1,17 @@
+{
+    "id": "solat2016zeroblock",
+    "title": "ZeroBlock: Preventing Selfish Mining in Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Siamak Solat", "affiliation": "Sorbonne Universites"
+        },
+        {
+            "name": "Maria Potop-Butucaru", "affiliation": "Sorbonne Universites"
+        }
+    ],
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1605.02435.pdf",
+    "abstract": "Bitcoin was recently introduced as a peer-to-peer electronic currency in order to facilitate transactions outside the traditional financial system. The core of Bitcoin, the Blockchain, is the history of the transactions in the system maintained by all nodes as a distributed shared register. New blocks in the Blockchain contain the last transactions in the system and are added by nodes (miners) after a block mining process that consists in solving a resource consuming proof-of-work (cryptographic puzzle). The reward is a motivation for mining process but also could be an incentive for attacks such as selfish mining. In this paper we propose a solution for one of the major problems in Bitcoin : selfish mining or block withholding attack. This attack is conducted by adversarial or selfish nodes in order to either earn undue rewards or waste the computational power of honest nodes. Contrary to recent solutions, our solution, ZeroBlock, prevents block withholding using a technique free of forgeable timestamps. Moreover, we show that our solution is also compliant with nodes churn."
+}
