@@ -1,0 +1,12 @@
+{
+    "id": "thomas2016interledger",
+    "title": "",
+    "authors": [
+	{"name": "Stefan Thomas", "affiliation": "Ripple Labs, Inc."},
+	{"name": "Evan Schwartz", "affiliation": "Ripple Labs, Inc."}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://interledger.org/interledger.pdf",
+    "abstract": "We present a protocol for payments across payment systems. It enables secure transfers between ledgers and allows anyone with accounts on two ledgers to create a connection between them. Ledger-provided escrow removes the need to trust these connectors. Connections can be composed to enable payments between any ledgers, creating a global graph of liquidity or Interledger. Unlike previous approaches, this protocol requires no global coordinating system or blockchain. Transfers are escrowed in series from the sender to the recipient and executed using one of two modes. In the Atomic mode, transfers are coordinated using an ad-hoc group of notaries selected by the participants. In the Universal mode, there is no external coordination. Instead, bounded execution windows, participant incentives and a “reverse” execution order enable secure payments between parties without shared trust in any system or institution."
+}
