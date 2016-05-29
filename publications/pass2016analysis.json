@@ -1,0 +1,20 @@
+{
+    "id": "pass2016analysis",
+    "title": "Analysis of the Blockchain Protocol in Asynchronous Networks",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Rafael Pass", "affiliation": "Cornell Tech"
+        },
+        {
+            "name": "Abhi Shelat", "affiliation": "University of Virginia"
+        },
+        {
+            "name": "Lior Seeman", "affiliation": "Harvard University"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Nakamoto’s famous blockchain protocol enables achieving consensus in a so-called permissionless setting—anyone can join (or leave) the protocol execution, and the protocol instructions do not depend on the identities of the players. His ingenious protocol prevents “sybil attacks” (where an adversary spawns any number of new players) by relying on computational puzzles (a.k.a. “moderately hard functions”) introduced by Dwork and Naor (Crypto’92). The analysis of the blockchain consensus protocol (a.k.a. Nakamoto consensus) has been a notoriously difficult task. Prior works that analyze it either make the simplifying assumption that network channels are fully synchronous (i.e. messages are instantly delivered without delays) (Garay et al, Eurocrypt’15) or only consider specific attacks (Nakamoto’08; Sampolinsky and Zohar, FinancialCrypt’15); additionally, as far as we know, none of them deal with players joining or leaving the protocol. In this work we prove that the blockchain consensus mechanism satisfies a strong forms of consistency and liveness in an asynchronous network with adversarial delays that are a-priori bounded, within a formal model allowing for adaptive corruption and spawning of new players, assuming that the computational puzzle is modeled as a random oracle. (We complement this result by showing a simple attack against the blockchain protocol in a fully asynchronous setting, showing that the puzzle-hardness needs to be appropriately set as a function of the maximum network delay; this attack applies even for static corruption.) As an independent contribution, we define an abstract notion of a blockchain protocol and identify appropriate security properties of such protocols; we prove that Nakamoto’s blockchain protocol satisfies them and that these properties are sufficient for typical applications; we hope that this abstraction may simplify further applications of blockchains",
+    "url": "http://eprint.iacr.org/2016/454.pdf"
+}
