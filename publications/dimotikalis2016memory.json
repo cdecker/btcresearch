@@ -1,0 +1,14 @@
+{
+    "id": "dimotikalis2016memory",
+    "title": "Memory Forensics and Bitcoin mining malware",
+    "year": 2015,
+    "type": "masterthesis",
+    "url": "https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/14500/Dimotikalis.Panagiotis.Thesis.pdf",
+    "authors": [
+        {
+            "name": "Panagiotis Dimotikalis", "affiliation": "Internation Hellenic University"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Crime in the digital world has become a daily occurrence. Criminals adopt to new technologies with a faster pace than we are, people defending against new threats, giving them the advantage against unsuspecting victims. Their advantage is not due to their superiority; Offence has to succeed only once to be considered successful while defence has to succeed every single time to not be considered a failure. Defending successfully against multiple threats using innovative technologies is hard and can only be achieved with careful planning and effective applying of knowledge acquired by examining those threats. Digital forensics is the epitome of this. Investigators need to have a firm grasp of up-to-date threats and how to locate and neutralize them. Memory forensics are the cornerstone of digital forensics. In recent years, memory acquisition and preservation of the state of a system when suspicious activity is undergoing, is the number one priority by every digital forensics investigator. To improve the capabilities of the investigator, in this thesis we examine the current threats associated with malware and the newly introduced technology of digital currencies, by proposing a series of enhancements to one of the most complete set of tools for memory analysis, the Volatility Framework."
+}
