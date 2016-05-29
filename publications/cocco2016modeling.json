@@ -5,12 +5,13 @@
     "type": "article",
     "authors": [
         {
-            "name": "Luisanna Cocco"
+            "name": "Luisanna Cocco", "affiliation": "University of Cagliari"
         },
         {
-            "name": "Michele Marchesi"
+            "name": "Michele Marchesi", "affiliation": "University of Cagliari"
         }
     ],
     "peer-reviewed": false,
-    "abstract": "Abstract: In January 3, 2009, Satoshi Nakamoto gave rise to the\" Bitcoin Block Chain\" creating the first block of the chain hashing on his computers central processing unit (CPU). Since then, the hash calculations to mine Bitcoin have been getting more and more  ..."
+    "url": "http://arxiv.org/pdf/1605.01354.pdf",
+    "abstract": "In January 3, 2009, Satoshi Nakamoto gave rise to the ”Bitcoin Block Chain” creating the first block of the chain hashing on his computers central processing unit (CPU). Since then, the hash calculations to mine Bitcoin have been getting more and more complex, and consequently the mining hardware evolved to adapt to this increasing difficulty. Three generations of mining hardware have followed the CPU’s generation. They are GPU’s, FPGA’s and ASIC’s generations. This work presents an agent based artificial market model of the Bitcoin mining process and of the Bitcoin transactions. The goal of this work is to model the economy of the mining process, starting from GPU’s generation, the first with economic significance. The model reproduces some ”stylized facts” found in real time price series and some core aspects of the mining business. In particular, the computational experiments performed are able to reproduce the unit root property, the fat tail phenomenon and the volatility clustering of Bitcoin price series. In addition, under proper assumptions, they are able to reproduce the price peak at the end of November 2013, its next fall in April 2014, the generation of Bitcoins, the hashing capability, the power consumption, and the mining hardware and electrical energy expenses of the Bitcoin network."
 }

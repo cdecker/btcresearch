@@ -15,11 +15,9 @@
         },
         {
             "name": "Greg Adamson"
-        },
-        {
-            "name": "others"
         }
     ],
-    "peer-reviewed": false,
-    "abstract": "Cryptocurrencies such as Bitcoin are a recent socio-technical innovation that seeks to disrupt the existing monetary system. Through mundane uses of this new digital cash, they provide a social critique of the centralised infrastructures of the banking industry. This  ..."
+    "peer-reviewed": true,
+    "venue": "Australian Journal of Telecommunications and the Digital Economy",
+    "abstract": "Cryptocurrencies such as Bitcoin are a recent socio-technical innovation that seeks to disrupt the existing monetary system. Through mundane uses of this new digital cash, they provide a social critique of the centralized infrastructures of the banking industry. This paper outlines an ethnographic research agenda for this new digital frontier of social practice and exchange and the human affordances of engaging with cryptocurrencies such as Bitcoin. Firstly we argue that the use of Bitcoin can be seen as acts of social resistance and a form of social mobility that harnesses the emergent, serendipitous and dynamic properties of digital community. We then outline the disruptive nature of borderless, affordable and instantaneous international transfers within social practice. Finally, we identify the possible permutations of trust that may be found in the technical affordances of Bitcoin and how these relate to user (pseudo)anonymity, cybertheft, cyberfraud, and consumer protection. Bringing together these three key areas we highlight the importance of understanding the ordinary (rather than extra-ordinary) uses of cryptocurrencies such as Bitcoin. We contend that focusing upon users interactions with Bitcoin as a system and culture will shed light upon mundane acts of socio-technical disruption, acts that critique and provide alternative financial exchange practices to the economic and regulatory financial infrastructures of the centralised banking industry."
 }
