@@ -1,0 +1,15 @@
+{
+    "id": "hayes2016cryptocurrency",
+    "title": "Cryptocurrency Value Formation: An empirical study leading to a cost of production model for valuing Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Adam S Hayes"
+        }
+    ],
+    "venue": "Telematics and Informatics",
+    "peer-reviewed": true,
+    "abstract": "This paper aims to identify the likely determinants for cryptocurrency value formation, including for that of bitcoin. Due to Bitcoin’s growing popular appeal and merchant acceptance, it has become increasingly important to try to understand the factors that influence its value formation. Presently, the value of all Bitcoins in existence represent approximately $7 billion, and more than $60 million of notional value changes hands each day. Having grown rapidly over the past few years, there is now a developing but vibrant marketplace for bitcoin, and a recognition of digital currencies as an emerging asset class. Not only is there a listed and over-the-counter market for bitcoin and other digital currencies, but also an emergent derivatives market. As such, the ability to value bitcoin and related cryptocurrencies is becoming critical to its establishment as a legitimate financial asset. Using cross-sectional empirical data examining 66 of the most widely used cryptocurrencies, a regression model was estimated that points to three main drivers of cryptocurrency value: the level of competition in the network of producers, the rate of unit production, and the difficulty of algorithm used to “mine” for the cryptocurrency. These amount to relative differences in the cost of production of one digital currency over another at the margin, pointing to differences in relative cost of production – electricity goes in, cryptocurrency comes out. Using that as a starting point, a no-arbitrage situation is established for Bitcoin-like cryptocurrencies followed by the formalization of a cost of production model to determine the fair value of a bitcoin.",
+    "url": "http://www.sciencedirect.com/science/article/pii/S0736585315301118"
+}
