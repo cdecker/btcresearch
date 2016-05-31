@@ -1,0 +1,21 @@
+{
+    "id": "anceaume2016relying",
+    "title": "Relying on Consensus does not Make Bitcoin Safer",
+    "year": 2016,
+    "type": "inproceedings",
+    "authors": [
+        {
+            "name": "Emmanuelle Anceaume", "affiliation": "IRISA"
+        },
+        {
+            "name": "Romaric Ludinard", "affiliation": "CREST"
+        },
+        {
+            "name": "Bruno Sericola", "affiliation": "INRIA Rennes"
+        }
+    ],
+    "venue": "International Conference on Dependable Systems and Networks",
+    "peer-reviewed": true,
+    "url": "https://hal.archives-ouvertes.fr/hal-01316541/file/Consensus%20does%20not%20Make%20Bitcoin%20Safer.pdf",
+    "abstract": "Several distributed cryptocurrencies systems have emerged, and among them, Bitcoin is often designated as the pioneer this kind of systems. As such, Bitcoin shows some vulnerabilities in presence of malicious entities, and some recent works have proposed to improve upon Bitcoin weaknesses. This brief abstract is devoted to the analysis of one of these recent works, and shows through an analytical performance evaluation that new Bitcoin improvements are still needed."
+}
