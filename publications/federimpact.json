@@ -1,0 +1,24 @@
+{
+    "id": "federimpact",
+    "title": "The Impact of DDoS and Other Security Shocks on Bitcoin Currency Exchanges: Evidence from Mt. Gox",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Amir Feder", "affiliation": "Tel Aviv University"
+        },
+        {
+            "name": "Neil Gandal", "affiliation": "Tel Aviv University"
+        },
+        {
+            "name": "JT Hamrick", "affiliation": "University of Tulsa"
+        },
+        {
+            "name": "Tyler Moore", "affiliation": "University of Tulsa"
+        }
+    ],
+    "peer-reviewed": true,
+    "venue": "Workshop on the Economics of Information Security",
+    "abstract": "We investigate how distributed denial-of-service (DDoS) attacks and other disruptions affect the Bitcoin ecosystem. In particular, we investigate the impact of shocks on trading activity at the leading Mt. Gox exchange between April 2011 and November 2013. We find that following DDoS attacks on Mt. Gox, the number of large trades on the exchange fell sharply. In particular, the distribution of the daily trading volume becomes less skewed (fewer big trades) and had smaller kurtosis on days following DDoS attacks. The results are robust to alternative specifications, as well as to restricting the data to activity prior to March 2013, i.e., the period before the first large appreciation in the price of and attention paid to Bitcoin.",
+    "url": "http://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_7.pdf"
+}
