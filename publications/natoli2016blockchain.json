@@ -1,0 +1,17 @@
+{
+    "id": "natoli2016blockchain",
+    "title": "The Blockchain Anomaly",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Christopher Natoli", "affiliation": "University of Sydney"
+        },
+        {
+            "name": "Vincent Gramoli", "affiliation": "University of Sydney"
+        }
+    ],
+    "url": "http://arxiv.org/pdf/1605.05438.pdf",
+    "peer-reviewed": false,
+    "abstract": "Most popular blockchain solutions, like Bitcoin, rely on proof-of-work, guaranteeing that the output of the consensus is agreed upon with high probability. However, this probability depends on the delivery of messages and that the computational power of the system is sufficiently scattered among pools of nodes in the network so that no pool can mine more blocks faster than the crowd. New approaches, like Ethereum, generalise the proof-of-work approach by letting individuals deploy their own private blockchain with high transaction throughput. As companies are starting to deploy private chains, it has become crucial to better understand the guarantees blockchains offer in such a small and controlled environment. In this paper, we present the Blockchain Anomaly, an execution that we experienced when building our private chain at NICTA/Data61. Even though this anomaly has never been acknowledged before, it may translate into dramatic consequences for the user of blockchains. Named after the infamous Paxos anomaly, this anomaly makes dependent transactions, like “Bob sends money to Carole after he received money from Alice” impossible. This anomaly relies on the fact that existing blockchains do not ensure consensus safety deterministically: there is no way for Bob to make sure that Alice actually sent him coins without Bob using an external mechanism, like converting these coins into a fiat currency that allows him to withdraw. We also explore smart contracts as a potential alternative to transactions in order to freeze coins, and show implementations of smart contract that can suffer from the Blockchain anomaly and others that may cope with it."
+}
