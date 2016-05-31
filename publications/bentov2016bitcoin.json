@@ -1,0 +1,20 @@
+{
+    "id": "bentov2016bitcoin",
+    "title": "Bitcoin Beacon",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Iddo Bentov", "affiliation": "Technion"
+        },
+        {
+            "name": "Ariel Gabizon", "affiliation": "Technion"
+        },
+        {
+            "name": "David Zuckerman", "affiliation": "University of Texas at Austin"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "We examine a protocol πbeacon that outputs unpredictable and publicly verifiable randomness, meaning that the output is unknown at the time that πbeacon starts, yet everyone can verify that the output is close to uniform after πbeacon terminates. We show that πbeacon can be instantiated via Bitcoin under sensible assumptions; in particular we consider an adversary with an arbitrarily large initial budget who may not operate at a loss indefinitely. In case the adversary has an infinite budget, we provide an impossibility result that stems from the similarity between the Bitcoin model and Santha-Vazirani sources. We also give a hybrid protocol that combines trusted parties and a Bitcoin-based beacon.",
+    "url": "http://arxiv.org/pdf/1605.04559.pdf"
+}
