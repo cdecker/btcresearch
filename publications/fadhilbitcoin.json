@@ -1,0 +1,20 @@
+{
+    "id": "fadhilbitcoin",
+    "title": "Bitcoin Network Measurements for Simulation Validation and Parameterisation",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Muntadher Fadhil", "affiliation": "University of Portsmouth"
+        },
+        {
+            "name": "Gareth Owen", "affiliation": "University of Portsmouth"
+        },
+        {
+            "name": "Mo Adda", "affiliation": "University of Portsmouth"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is gaining increasing popularity nowadays, even though the crypto-currencies field has plenty of digital currencies that have emerged before the adoption of Bitcoin idea. Bitcoin is a decentralized digital currency which relies on set of miners to maintain a distributed public ledger and peer-to-peer network to broadcast transactions. In this paper, we analyse how transaction validation is achieved by the transaction propagation round trip and how transaction dissemination throughout the network can lead to inconsistencies in the view of the current transactions ledger by different nodes. We then measure the transaction propagation delay in the real Bitcoin network and how it is affected by the number of nodes and network topology. This measurement enables a precise validation of any simulation model of the Bitcoin network. Large-scale measurements of the real Bitcoin network are performed in this paper. This will provide an opportunity to parameterise any model of the Bitcoin system accurately.",
+    "url": "https://www.researchgate.net/profile/Montadher_Fadhil/publication/303175963_Bitcoin_Network_Measurements_for_Simulation_Validation_and_Parameterisation/links/57385f7b08ae9f741b2bc993.pdf"
+}
