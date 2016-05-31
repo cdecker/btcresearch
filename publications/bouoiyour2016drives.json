@@ -1,0 +1,24 @@
+{
+    "id": "bouoiyour2016drives",
+    "title": "What drives Bitcoin price?",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Jamal Bouoiyour", "affiliation": "University of Pau"
+        },
+        {
+            "name": "Refk Selmi", "affiliation": "Tunis Business School"
+        },
+        {
+            "name": "Aviral Kumar Tiwari", "affiliation": "IFHE University IBS Hyderabad"
+        },
+        {
+            "name": "Olaolu Richard Olayeni", "affiliation": "Obafemi Awolowo University"
+        }
+    ],
+    "venue": "Economics Bulletin",
+    "peer-reviewed": true,
+    "abstract": "The cryptocurrencies increased in popularity and have become nowadays well known to a wide audience. This article seeks to assess the issue of Bitcoin price formation from a novel perspective. We use a new technique called Empirical Mode Decomposition (EMD) with which a complicated data set can be disentangled into a small number of independent and concretely implicational intrinsic modes that admit well-behaved Hilbert transforms. Even though Bitcoin is usually labelled as a purely speculative asset, EMD views that it is extremely driven by long-term fundamentals (above one year).",
+    "url": "http://www.accessecon.com/Pubs/EB/2016/Volume36/EB-16-V36-I2-P82.pdf"
+}
