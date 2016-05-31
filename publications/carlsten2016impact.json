@@ -1,0 +1,14 @@
+{
+    "id": "carlsten2016impact",
+    "title": "The Impact of Transaction Fees on Bitcoin Mining Strategies",
+    "year": 2016,
+    "type": "masterthesis",
+    "authors": [
+        {
+            "name": "Miles Carlsten", "affiliation": "Princeton University"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "There are two incentives for Bitcoin miners to mine Bitcoin blocks. The miners are rewarded both from the minting reward of creating a new block and from the transaction fees on the transactions included in the block. Traditionally, the minting reward has always been significantly larger than the transaction fees, but as time goes on the minting fee is designed to diminish, and it is expected that the transaction fees will take its place. We look into the unverified claim that once incentives shift to mostly transaction fees, the security of the system will be the same as it was when it was based on minting rewards. We show that this change can lead to very uneven blocks, which can give rational miners an incentive to intentionally try to fork the blockchain. Additionally, we reexamine a previously known alternate mining strategy, known as Selfish Mining, and show that in a transaction fee based environment, it will become profitable for any miner (regardless of their hash power) to utilize a modified version of this strategy.",
+    "url": "ftp://ftp.cs.princeton.edu/techreports/2016/983.pdf"
+}
