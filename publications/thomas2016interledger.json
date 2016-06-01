@@ -1,6 +1,6 @@
 {
     "id": "thomas2016interledger",
-    "title": "",
+    "title": "A Protocol for Interledger Payments",
     "authors": [
 	{"name": "Stefan Thomas", "affiliation": "Ripple Labs, Inc."},
 	{"name": "Evan Schwartz", "affiliation": "Ripple Labs, Inc."}
