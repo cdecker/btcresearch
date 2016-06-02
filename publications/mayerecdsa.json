@@ -1,0 +1,14 @@
+{
+    "id": "mayerecdsa",
+    "title": "ECDSA Security in Bitcoin and Ethereum: a Research Survey",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Hartwig Mayer", "affiliation": "CoinFabrik"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This survey discusses the security level of the signature scheme implemented in Bitcoin and Ethereum.",
+    "url": "http://blog.coinfabrik.com/wp-content/uploads/2016/05/ECDSA-Security-in-Bitcoin-and-Ethereum-a-Research-Survey.pdf"
+}
