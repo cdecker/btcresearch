@@ -1,0 +1,20 @@
+{
+    "id": "delgado2016reputation",
+    "title": "Reputation and Reward: Two Sides of the Same Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Sergi Delgado-Segura", "affiliation": "Universitat Autònoma de Barcelona"
+        },
+        {
+            "name": "Cristian Tanas", "affiliation": "Universitat Autònoma de Barcelona"
+        },
+        {
+            "name": "Jordi Herrera-Joancomartí", "affiliation": "Universitat Autònoma de Barcelona"
+        }
+    ],
+    "venue": "Sensors",
+    "peer-reviewed": true,
+    "abstract": "In Mobile Crowd Sensing (MCS), the power of the crowd, jointly with the sensing capabilities of the smartphones they wear, provides a new paradigm for data sensing. Scenarios involving user behavior or those that rely on user mobility are examples where standard sensor networks may not be suitable, and MCS provides an interesting solution. However, including human participation in sensing tasks presents numerous and unique research challenges. In this paper, we analyze three of the most important: user participation, data sensing quality and user anonymity. We tackle the three as a whole, since all of them are strongly correlated. As a result, we present PaySense, a general framework that incentivizes user participation and provides a mechanism to validate the quality of collected data based on the users’ reputation. All such features are performed in a privacy-preserving way by using the Bitcoin cryptocurrency. Rather than a theoretical one, our framework has been implemented, and it is ready to be deployed and complement any existing MCS system."
+}
