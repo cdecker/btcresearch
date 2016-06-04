@@ -1,0 +1,18 @@
+{
+    "id": "moserjoin",
+    "title": "Join Me on a Market for Anonymity",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Malte Möser", "affiliation": "University of Münster"
+        },
+        {
+            "name": "Rainer Böhme", "affiliation": "University of Innsbruck"
+        }
+    ],
+    "venue": "Workshop on the Economics of Information Security (WEIS)"
+    "peer-reviewed": true,
+    "abstract": "We present the first measurement study of JoinMarket, a growing marketplace for more anonymous transfers in the Bitcoin ecosystem. Our study reveals that this market is funded with multiple thousand bitcoins and generated a turnover of almost 8 million USD over the course of eight months. Assessing the resilience of the market against a wellfunded attacker, we discover that in a typical scenario, a selective attack with 90 % success rate requires an investment of 32,000 USD (which is recoverable after the attack). We formulate stylized economic models of supply and demand to explain the existence of this novel market for anonymity and underpin some theoretical arguments with empirical data.",
+    "url": "http://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_58.pdf"
+}
