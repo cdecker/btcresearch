@@ -51,7 +51,7 @@
 	    "description": "URL where the publication can be downloaded (as PDF if possible)."
 	},
 	"type": {
-	    "enum": ["inproceedings", "masterthesis", "article", "book", "techreport", "misc", "phdthesis"],
+	    "enum": ["inproceedings", "masterthesis", "article", "book", "techreport", "misc", "phdthesis", "online"],
 	    "description": "The Bibtex type."
 	}
     },
