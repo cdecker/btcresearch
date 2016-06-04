@@ -1,0 +1,23 @@
+{
+    "id": "aliblockstack",
+    "title": "Blockstack: Design and Implementation of a Global Naming System with Blockchains",
+    "year": 2016,
+    "type": "online",
+    "authors": [
+        {
+            "name": "Muneeb Ali", "affiliation": "Princeton University"
+        },
+        {
+            "name": "Jude Nelson", "affiliation": "Princeton University"
+        },
+        {
+            "name": "Ryan Shea", "affiliation": "Princeton University"
+        },
+        {
+            "name": "Michael J Freedman", "affiliation": "Princeton University"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Cryptocurrency blockchains like Bitcoin and Namecoin and their respective P2P networks have seen significant adoption in the past few years, and show promise as naming systems with no trusted parties. Users can register human-readable names and securely associate data with them; only the owner of a particular private-key can write or update the name/value pair. In theory, many decentralized systems can be built using these cryptocurrency networks, such as new, decentralized versions of DNS or PKI. As the technology is relatively new and evolving rapidly, however, little production data or experience is available to guide design tradeoffs. In this paper, we describe our experience operating a large, real-world deployment of a decentralized PKI service built on top of the Namecoin blockchain. We present various challenges (network reliability, throughput, security issues) that we needed to overcome while registering/updating over 33,000 entries on the blockchain which involved over 200,000 transactions on the Namecoin network. Further, we discuss how our experience informed the design of a new blockchain-based naming system, Blockstack. We detail why we changed from Namecoin to the Bitcoin network for the new system, as well as operational lessons from this migration. Blockstack is released as open source and currently powers a production PKI system for 40,000 users",
+    "url": "https://blockstack.org/blockstack.pdf"
+}
