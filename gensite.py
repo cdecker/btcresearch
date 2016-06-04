@@ -13,7 +13,8 @@ def main():
     s = make_site(
         contexts=[
             ('.*.json', load_publication),
-            ('index.html', load_entries)
+            ('index.html', load_entries),
+            ('cabra.bib', load_entries),
         ],
         rules=[
             ('.*.json', render_publication),

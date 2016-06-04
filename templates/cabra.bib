@@ -1,0 +1,20 @@
+{% for group, entries in entry_groups.iteritems() %}
+### {{ group }} ###
+  {%- for entry in entries %}
+@{% if entry.type %}{{ entry.type }}{% else %}misc{% endif %}{{ '{' }}{{ entry.id }},
+  title="{{ entry.title }}",
+  author="{% for author in entry.authors %}{{ author.name }}{% if not loop.last %} and {% endif %}{% endfor -%}",
+  {% if entry.venue -%}
+    {% if entry.type == 'article' -%}
+  journaltitle="{{ entry.venue }}",
+    {% elif entry.type -%}
+  booktitle="{{ entry.venue }}",
+    {% endif -%}
+  {% endif -%}
+  {% if entry.url -%}
+  url="{{ entry.url }}",
+  {% endif -%}
+  year="{entry.year}}"
+{{ '}' }}
+  {%- endfor %}
+{% endfor %}
