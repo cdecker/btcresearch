@@ -1,0 +1,26 @@
+{
+    "id": "ziegeldorf2016secure",
+    "title": "Secure and anonymous decentralized Bitcoin mixing",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Jan Henrik Ziegeldorf", "affiliation": "RWTH Aachen"
+        },
+        {
+            "name": "Roman Matzutt", "affiliation": "RWTH Aachen"
+        },
+        {
+            "name": "Martin Henze", "affiliation": "RWTH Aachen"
+        },
+        {
+            "name": "Fred Grossmann", "affiliation": "RWTH Aachen"
+        },
+        {
+            "name": "Klaus Wehrle", "affiliation": "RWTH Aachen"
+        }
+    ],
+    "venue": "Future Generation Computer Systems",
+    "peer-reviewed": true,
+    "abstract": "The decentralized digital currency Bitcoin presents an anonymous alternative to the centralized banking system and indeed enjoys widespread and increasing adoption. Recent works, however, show how users can be reidentified and their payments linked based on Bitcoin’s most central element, the blockchain, a public ledger of all transactions. Thus, many regard Bitcoin’s central promise of financial privacy as broken. In this paper, we propose CoinParty, an efficient decentralized mixing service that allows users to reestablish their financial privacy in Bitcoin and related cryptocurrencies. CoinParty, through a novel combination of decryption mixnets with threshold signatures, takes a unique place in the design space of mixing services, combining the advantages of previously proposed centralized and decentralized mixing services in one system. Our prototype implementation of CoinParty scales to large numbers of users and achieves anonymity sets by orders of magnitude higher than related work as we quantify by analyzing transactions in the actual Bitcoin blockchain. CoinParty can easily be deployed by any individual group of users, i.e., independent of any third parties, or provided as a commercial or voluntary service, e.g., as a community service by privacy-aware organizations."
+}
