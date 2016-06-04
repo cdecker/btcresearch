@@ -1,0 +1,16 @@
+{
+    "id": "sompolinsky2016bitcoin",
+    "title": "Bitcoin's Security Model Revisited",
+    "year": 2016,
+    "type": "online",
+    "authors": [
+        {
+            "name": "Yonatan Sompolinsky", "affiliation": "The Hebrew University of Jerusalem"
+        },
+        {
+            "name": "Aviv Zohar", "affiliation": "Microsoft Research"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "We revisit the fundamental question of Bitcoin’s security against double spending attacks. While previous work has bounded the probability that a transaction is reversed, we show that no such guarantee can be effectively given if the attacker can choose when to launch the attack. Other approaches that bound the cost of an attack have erred in considering only limited attack scenarios, and in fact it is easy to show that attacks may not cost the attacker at all. We therefore provide a different interpretation of the results presented in previous papers and correct them in several ways. We provide different notions of the security of transactions that provide guarantees to different classes of defenders: merchants who regularly receive payments, miners, and recipients of large one-time payments. We additionally consider an attack that can be launched against lightweight clients, and show that these are less secure than their full node counterparts and provide the right strategy for defenders in this case as well. Our results, overall, improve the understanding of Bitcoin’s security guarantees and provide correct bounds for those wishing to safely accept transactions."
+}
