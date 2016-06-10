@@ -1,0 +1,18 @@
+{
+    "id": "gervaissecurity",
+    "title": "On the Security and Performance of Proof of Work Blockchains",
+    "authors": [
+	{"name": "Arthur Gervais", "affiliation": "ETH Zurich"},
+	{"name": "Ghassan O. Karame", "affiliation": "NEC Laboratories"},
+	{"name": "Karl Wüst", "affiliation": "ETH Zurich"},
+	{"name": "Vasileios Glykantzis", "affiliation": "ETH Zurich"},
+	{"name": "Hubert Ritzdorf", "affiliation": "ETH Zurich"},
+	{"name": "Srdjan Capkun", "affiliation": "ETH Zurich"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://eprint.iacr.org/2016/555.pdf",
+    "abstract": "Proof of Work (PoW) powered blockchains currently account for more than 90% of the total market capitalization of existing digital currencies. Although the security provisions of Bitcoin have been thoroughly analysed, the security guarantees of variant (forked) PoW blockchains (which were instantiated with different parameters) have not received much attention in the literature. In this paper, we introduce a novel quantitative framework to analyse the security and performance implications of various consensus and network parameters of PoW blockchains. Based on our framework, we devise optimal adversarial strategies for doublespending and selfish mining while taking into account real world constraints such as network propagation, different block sizes, block generation intervals, information propagation mechanism, and the impact of eclipse attacks. Our framework therefore allows us to capture existing PoW-based deployments as well as PoW blockchain variants that are instantiated with different parameters, and to objectively compare the tradeoffs between their performance and security provisions.",
+    "type": "online",
+    "sort-key": 20160610
+}
