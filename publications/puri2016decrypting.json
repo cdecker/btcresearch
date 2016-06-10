@@ -1,0 +1,14 @@
+{
+    "id": "puri2016decrypting",
+    "title": "Decrypting Bitcoin Prices and Adoption Rates using Google Search",
+    "year": 2016,
+    "type": "online",
+    "authors": [
+        {
+            "name": "Varun Puri", "affiliation": "Claremont McKenna College"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "In this paper, I analyze Bitcoin price formation and adoption rates at a global and national level. In determining Bitcoin prices, I consider contemporaneous and lagged values of traditional determinants of currencies, such as inflation and industrial production, and digital currency specific factors, primarily public interest. Using monthly time-series data across five years (2011 – 2016), I find that global public interest in Bitcoin, measured by Google searches for the keyword ‘Bitcoin,’ has a positive and significant impact on Bitcoin prices. I extend the analysis to a country level by employing a proxy for adoption rates, represented by the number of local Bitcoin client downloads, which is a useful predictor of prices. I examine pooled data across 12 countries to show that searches for ‘Bitcoin’ can be used to predict adoption rates and, consequently, prices. To the best of my knowledge, this is the first academic article to study Bitcoin usage at a national level. I find that contemporaneous values of traditionally used macroeconomic determinants of currency prices, except inflation, do not have a significant impact on Bitcoin prices.",
+    "url": "http://scholarship.claremont.edu/cgi/viewcontent.cgi?article=2379&context=cmc_theses"
+}
