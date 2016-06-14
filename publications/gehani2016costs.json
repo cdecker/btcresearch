@@ -1,0 +1,15 @@
+{
+    "id": "gehani2016costs",
+    "title": "On the Costs of Bitcoin Connectivity",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Ashish Gehani", "affiliation": "SRI International"
+        }
+    ],
+    "peer-reviewed": true,
+    "venue": "Information Systems Security Association Journal",
+    "abstract": "Highly connected information technology systems typically have substantial economic value. This makes them attractive to resource-rich adversaries, such as nation-states that may seek to exert an influence on particular participants or even the entire system. Bitcoin is an example of such a system. The effect of high connectivity manifests in a number of orthogonal dimensions, each of which creates a different kind of security concern. We discuss each of them and possible mitigations.",
+    "url": "http://www.csl.sri.com/users/gehani/papers/ISSA-2016.Bitcoin.pdf"
+}
