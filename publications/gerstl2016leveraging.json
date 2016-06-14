@@ -1,0 +1,14 @@
+{
+    "id": "gerstl2016leveraging",
+    "title": "Leveraging Bitcoin Blockchain Technology to Modernize Security Perfection Under the Uniform Commercial Code",
+    "year": 2016,
+    "type": "inproceedings",
+    "authors": [
+        {
+            "name": "David S Gerstl", "affiliation": "Farmingdale State College"
+        }
+    ],
+    "venue": "International Conference of Software Business",
+    "peer-reviewed": true,
+    "abstract": "The states of the United States operate parallel registration systems under the rules of the Uniform Commercial Code to provide notice of existing security interests in collateral to lenders. The current system is primarily a paper-based system more suited to the 19th than the 21st century. While the states have implemented varying degrees of computerization and modernization, dealing with fifty separate registration databases has made it difficult for banks and their attorneys to automate their processes, leading to errors and loss. The system could be modernized by storing the records for all 50 states in a single shared database with external electronic access. In this paper, we propose an implementation of a distributed, replicated database utilizing a variation on the Bitcoin blockchain for data storage and validation."
+}
