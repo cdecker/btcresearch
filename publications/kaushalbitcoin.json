@@ -1,0 +1,15 @@
+{
+    "id": "kaushalbitcoin",
+    "title": "Bitcoin: First Decentralized Payment System",
+    "year": 2016,
+    "type": "article",
+    "authors": [
+        {
+            "name": "Richa Kaushal", "affiliation": "University Of Delhi"
+        }
+    ],
+    "peer-reviewed": true,
+    "venue": "International Journal Of Engineering And Computer Science",
+    "abstract": ": Bitcoin is the latest addition to the online payment transaction systems. It is a digital currency also known as cryptocurrency. Bitcoin system is the first transaction payment system that deviated from the conventional approach of processing and clearing transactions though the trusted third parties and allowed direct transactions between parties. Thus making the whole system decentralized. It is a pure peer to peer network system which facilitates every party on the network to keep track of all the transactions that are taking place on the network. It uses Cryptography for its implementation and to deal with the internet security threats. This papers aims to explore the need of the decentralized system, technology used for its implementation and also the key features of bitcoin system that makes it so unique as compared to the conventional currency. It also throws the light on the benefits of bitcoin system and its shortcomings.",
+    "url": "http://www.academia.edu/download/46356338/30_ijecs.pdf"
+}
