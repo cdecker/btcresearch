@@ -1,0 +1,17 @@
+{
+    "id": "joverdhss",
+    "title": "dHSS - Distributed Peer-to-Peer implementation of the LTE HSS based on the Bitcoin/Namecoin architecture",
+    "year": 2016,
+    "type": "misc",
+    "authors": [
+        {
+            "name": "Roger Piqueras Jover", "affiliation": "Bloomberg LP"
+        },
+        {
+            "name": "Joshua Lackey", "affiliation": "AT&T Security Research Center"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "The Home Subscriber Server (HSS) within the packet core of the Long Term Evolution (LTE) is a key node leveraged for essential operations, such as mutual authentication and access control. This centralized node is essential for the overall network operation as it is the cornerstone of the cryptographic functions executed in a mobile network. It stores several parameters for each subscriber, including a copy of the secret key ki that is securely stored in the Subscriber Identity Module (SIM). The advent of the Internet of Things (IoT) has sparked the concern in the industry on the potential risk of control plane signaling overloads. Due to the traffic characteristics of IoT devices and the potential risk of malfunctioning or compromised devices, there is a potential risk for floods of signaling traffic overwhelming the mobile core network and, in particular, the HSS. Moreover, recent security research has theorized potential attacks against this central core network node that could be launched from a botnet of compromised smartphones. In this paper we theoretically introduce a novel distributed and secure Peer-to-Peer (P2P) implementation of the HSS. Based on the Bitcoin/Namecoin framework, this new architecture drifts away from the symmetric key model of the standard HSS and proposes a robust public key infrastructure. Moreover, it does not rely in central points of failure, it is resilient to signaling overload threats and allows to re-authenticate and re-generate mobile session keys frequently with zero control plane signaling load at the mobile core.",
+    "url": "http://www.ee.columbia.edu/~roger/dHSS.pdf"
+}
