@@ -1,0 +1,24 @@
+{
+    "title": "On Bitcoin and Red Balloons",
+    "url": "http://arxiv.org/pdf/1111.2626v1",
+    "year": 2011,
+    "type": "online",
+    "peer-reviewed": false,
+    "authors": [
+	{
+	    "name": "Moshe Babaioff", "affiliation": "Microsoft Research"
+	},
+	{
+	    "name": "Shahar Dobzinski", "affiliation": "Cornell University"
+	},
+	{
+	    "name": "Sigal Oren", "affiliation": "Cornell University"
+	},
+	{
+	    "name": "Aviv Zohar", "affiliation": "Microsoft Research"
+	}
+    ],
+    "id": "babaioff2011balloons",
+    "sortkey": 20111114,
+    "abstract": "We study scenarios in which the goal is to ensure that some information will propagate through a large network of nodes. In these scenarios all nodes that are aware of the information compete for the same prize, and thus have an incentive not to propagate information. One example for such a scenario is the 2009 DARPA Network Challenge (finding red balloons). We give special attention to a second domain, Bitcoin, a decentralized electronic currency system. Bitcoin, which has been getting a large amount of public attention over the last year, represents a radical new approach to monetary systems which has appeared in policy discussions and in the popular press [3, 11]. Its cryptographic fundamentals have largely held up even as its usage has become increasingly widespread. We find, however, that it exhibits a fundamental problem of a different nature, based on how its incentives are structured. We propose a modification to the protocol that can fix this problem. Bitcoin relies on a peer-to-peer network to track transactions that are performed with the currency. For this purpose, every transaction a node learns about should be transmitted to its neighbors in the network. As the protocol is currently defined and implemented, it does not provide an incentive for nodes to broadcast transactions they are aware of. In fact, it provides a strong incentive not to do so. Our solution is to augment the protocol with a scheme that rewards information propagation. We show that our proposed scheme succeeds in setting the correct incentives, that it is Sybil-proof, and that it requires only a small payment overhead, all this is achieved with iterated elimination of dominated strategies. We provide lower bounds on the overhead that is required to implement schemes with the stronger solution concept of Dominant Strategies, indicating that such schemes might be impractical."
+}

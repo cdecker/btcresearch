@@ -53,6 +53,10 @@
 	"type": {
 	    "enum": ["inproceedings", "masterthesis", "article", "book", "techreport", "misc", "phdthesis", "online"],
 	    "description": "The Bibtex type."
+	},
+	"sortkey": {
+	    "type": "integer",
+	    "description": "The key by which publications are sorted. Format is the current date as YYYYMMDD, with unknown parts zeroed out. Notice: this is not always the publication date, instead it is supposed to be an approximation allowing us to sort publications more or less in chronological order."
 	}
     },
     "required": ["id", "title", "authors", "year"]

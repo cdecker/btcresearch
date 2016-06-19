@@ -1,0 +1,13 @@
+{
+    "title": "Analysis of Bitcoin Pooled Mining Reward Systems",
+    "url": "http://arxiv.org/pdf/1112.4980v1",
+    "year": 2011,
+    "peer-reviewed": false,
+    "type": "online",
+    "authors": [
+	{"name": "Meni Rosenfeld", "affiliation": "Israeli Bitcoin Association"}
+    ],
+    "abstract": "In this paper we describe the various scoring systems used to calculate rewards of participants in Bitcoin pooled mining, explain the problems each were designed to solve and analyze their respective advantages and disadvantages.",
+    "id": "rosenfeld2011pool",
+    "sortkey": 20111222
+}

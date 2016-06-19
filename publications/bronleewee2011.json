@@ -1,0 +1,10 @@
+{
+    "title": "Bitcoin NFC",
+    "url": "http://repositories.lib.utexas.edu/bitstream/handle/2152/ETD-UT-2011-08-4150/BRONLEEWE-MASTERS-REPORT.pdf?sequence=1",
+    "year": 2011,
+    "peer-reviewed": false,
+    "authors": [{"name": "David Allen Bronleewe", "affiliation": "University of Texas at Austin"}],
+    "abstract": "Bitcoin is a new digital, virtual currency. Unlike other currencies, it is not controlled by a single company, financial institution or government. Instead, it is controlled by a peer-to-peer network of clients running the open-source Bitcoin software. When using Bitcoin, online transactions can be made directly between two parties without the need for a trusted third party such as Paypal, Visa or a bank. This paper describes the development of Bitcoin NFC, an Android app designed to send bitcoins from one Android device to another. The technology used for sending information between devices is Near Field Communication (NFC), a very close-ranged wireless protocol. NFC allows devices to communicate by simply touching two devices together. There is no need for any configuration or pairing. Bitcoin NFC makes it possible to use bitcoins for point-of-sale transactions. Rather than swiping a credit card, a phone running Bitcoin NFC could be swiped instead.",
+    "id": "bronleewee2011",
+    "sortkey": 20110800
+}
