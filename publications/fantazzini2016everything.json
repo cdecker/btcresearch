@@ -1,0 +1,24 @@
+{
+    "id": "fantazzini2016everything",
+    "title": "Everything you always wanted to know about bitcoin modelling but were afraid to ask",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160620,
+    "authors": [
+        {
+            "name": "Dean Fantazzini", "affiliation": "Moscow School of Economics"
+        },
+        {
+            "name": "Erik Nigmatullin", "affiliation": "Bocconi University"
+        },
+        {
+            "name": "Vera Sukhanovskaya", "affiliation": "Perm State National Research University"
+        },
+        {
+            "name": "Sergey Ivliev", "affiliation": "Perm State National Research University"
+        }
+    ],
+    "venue": "Applied Econometrics",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is an open source decentralized digital currency and a payment system. It has raised a lot of attention and interest worldwide and an increasing number of articles are devoted to its operation, economics and financial viability. This article reviews the econometric and mathematical tools which have been proposed so far to model the bitcoin price and several related issues, highlighting advantages and limits. We discuss the methods employed to determine the main characteristics of bitcoin users, the models proposed to assess the bitcoin fundamental value, the econometric approaches suggested to model bitcoin price dynamics, the tests used for detecting the existence of financial bubbles in bitcoin prices and the methodologies suggested to study the price discovery at bitcoin exchanges."
+}
