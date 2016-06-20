@@ -1,0 +1,18 @@
+{
+    "id": "bott2016towards",
+    "title": "Towards a framework for the evaluation and design of distributed ledger technologies in banking and payments",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160620,
+    "authors": [
+        {
+            "name": "Jürgen Bott"
+        },
+        {
+            "name": "Udo Milkau"
+        }
+    ],
+    "venue": "Journal of Payments Strategy & Systems",
+    "peer-reviewed": false,
+    "abstract": "This paper provides insights into practical issues in the deployment of public and private distributed ledger technologies in banking and payment systems and conceptualises a framework for the evaluation of existing solutions and the design of new solutions in terms of practical utility and feasibility. The research approach entails the analytical examination of open questions solved by the decentralised concept of Bitcoin as well as explicit and implicit assumptions made by its underlying blockchain technology. The paper then proceeds to shed light on limitations arising from these assumptions when considering the practical implementation of industry-strength applications in the payments industry as well as in banking in general. Based on this discussion and decades of practical experience in processing billions of transactions in compliance with regulatory and legislative requirements, we identify seven classes of open issues: (1) efficiency concerning production costs and scalability; (2) speed of transaction confirmation; (3) finality or compliance to principles of accounting; (4) link to the ‘real’ world exemplified by settlement in central bank money; (5) resilience and governance model; (6) roll-out in a network industry; and (7) the issue of ‘smart contracts’. The paper thus contributes to theory and practice by providing a framework for the evaluation of existing technologies and for the design of new distributed ledger technologies in terms of its practical utility and feasibility. "
+}
