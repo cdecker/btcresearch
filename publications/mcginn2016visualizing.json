@@ -1,0 +1,30 @@
+{
+    "id": "mcginn2016visualizing",
+    "title": "Visualizing Dynamic Bitcoin Transaction Patterns",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160623,
+    "authors": [
+        {
+            "name": "Dan McGinn"
+        },
+        {
+            "name": "David Birch"
+        },
+        {
+            "name": "David Akroyd"
+        },
+        {
+            "name": "Miguel Molina-Solana"
+        },
+        {
+            "name": "Yike Guo"
+        },
+        {
+            "name": "William J Knottenbelt"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This work presents a systemic top-down visualization of Bitcoin transaction activity to explore dynamically generated patterns of algorithmic behavior. Bitcoin dominates the cryptocurrency markets and presents researchers with a rich source of real-time transactional data. The pseudonymous yet public nature of the data presents opportunities for the discovery of human and algorithmic behavioral patterns of interest to many parties such as financial regulators, protocol designers, and security analysts. However, retaining visual fidelity to the underlying data to retain a fuller understanding of activity within the network remains challenging, particularly in real time. We expose an effective force-directed graph visualization employed in our large-scale data observation facility to accelerate this data exploration and derive useful insight among domain experts and the general public alike. The high-fidelity visualizations demonstrated in this article allowed for collaborative discovery of unexpected high frequency transaction patterns, including automated laundering operations, and the evolution of multiple distinct algorithmic denial of service attacks on the Bitcoin network.",
+    "url": "http://online.liebertpub.com/doi/pdf/10.1089/big.2015.0056"
+}
