@@ -1,0 +1,15 @@
+{
+    "id": "massacci2016beyondbitcoin",
+    "title": "Decentralized Transaction Clearing Beyond Blockchains",
+    "authors": [
+	{"name": "Fabio Massacci", "affiliation": "University of Trento"},
+	{"name": "Chan Nam Ngoa", "affiliation": "University of Trento"},
+	{"name": "Julian Williams", "affiliation": "Durham University Business School"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2794913",
+    "abstract": "Blockchains and Byzantine Fault Tolerance form the basis of decentralized currencies and ledgers such as Bitcoin, Ripple, Hyperledger, and RSCoin. A large slate of literature has focused on the currency aspects (e.g. anonymity, independence from central banks, etc.). We argue that, as-faras Distributed Payment Transactions Networks (PTNs) are concerned, there are other, possibly more interesting, properties. This paper provides a systematic review of both traditional PTNs and their analogues in decentralized ledgers and associates different technological features to the corresponding business and financial requirements. We provide a conceptual classification of the key properties (value creation, payment promise, transaction realization, and value storage). We map existing (distributed) PTNs into the classification showing different alternatives are possible. Furthermore, the ideas behind distributed ledgers can be extended beyond payments and contracts. We illustrate the idea of derivatives-contracts-as-programs that are marked to market (or an account that is margined) automatically by computations run on, and whose ownership transitions are recorded, in a distributed payment network.",
+    "type": "article",
+    "sortkey": 20160624
+}
