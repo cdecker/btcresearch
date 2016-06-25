@@ -1,0 +1,15 @@
+{
+    "id": "apostolaki2016hijacking",
+    "title": "Hijacking Bitcoin: Large-scale Network Attacks on Cryptocurrencies",
+    "authors": [
+	{"name": "Maria Apostolaki", "affiliation": "ETH Zurich"},
+	{"name": "Aviv Zohar", "affiliation": "Hebrew University / Microsoft Research"},
+	{"name": "Laurent Vanbever", "affiliation": "ETH Zurich"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1605.07524v1.pdf",
+    "abstract": "Bitcoin is without a doubt the most successful cryptocurrency in circulation today, making it an extremely valuable target for attackers. Indeed, many studies have highlighted ways to compromise one or several Bitcoin nodes. In this paper, we take a different perspective and study the effect of large-scale network-level attacks such as the ones that may be launched by Autonomous Systems (ASes). We show that attacks that are commonly believed to be hard, such as isolating 50% of the mining power, are actually within the reach of anyone with access to a BGP-enabled network and hijacking less than 900 prefixes. Once on path, AS-level adversaries can then partition the Bitcoin network or delay block propagation significantly. The key factors that enable these attacks are the extreme centralization of Bitcoin, both from a routing and a mining perspective, along with the fact that Bitcoin messages are sent unencrypted, without integrity guarantees. We demonstrate the feasibility of large-scale attacks in practice against the deployed Bitcoin software and quantify their disruptive network-wide impact. The potential damage to Bitcoin is severe. By isolating a part of the network or delaying the propagation of blocks, network-level attackers can cause a significant amount of mining power to be wasted, leading to revenue losses and enabling a wide range of attacks such as double spending. We provide several suggestions on approaches to mitigate such attacks employing both short-term and long-term measures.",
+    "type": "online",
+    "sort-key": 20160624
+}
