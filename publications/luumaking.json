@@ -1,0 +1,27 @@
+{
+    "id": "luumaking",
+    "title": "Making Smart Contracts Smarter",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160628,
+    "authors": [
+        {
+            "name": "Loi Luu", "affiliation": "National University of Singapore"
+        },
+        {
+            "name": "Duc-Hiep Chu", "affiliation": "National University of Singapore"
+        },
+        {
+            "name": "Hrishi Olickel", "affiliation": "Yale-NUS College"
+        },
+        {
+            "name": "Prateek Saxena", "affiliation": "National University of Singapore"
+        },
+        {
+            "name": "Aquinas Hobor", "affiliation": "Yale-NUS College"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Cryptocurrencies record transactions in a decentralized data structure called a blockchain. Two of the most popular cryptocurrencies, Bitcoin and Ethereum, support the feature to encode rules or scripts for processing transactions. This feature has evolved to give practical shape to the ideas of smart contracts, or full-fledged programs that are run on blockchains. Recently, Ethereum's smart contract system has seen steady adoption, supporting tens of thousands of contracts, holding tens of millions dollars worth of virtual coins. In this paper, we investigate the security of running Ethereum smart contracts in an open distributed network like those of cryptocurrencies. We introduce several new security problems in which an adversary can manipulate smart contract execution to gain profit. These bugs suggest subtle gaps in the understanding of the distributed semantics of the underlying platform. As a re nement, we propose ways to enhance the operational semantics of Ethereum to make contracts less vulnerable. For developers writing contracts for the existing Ethereum system, we build a symbolic execution tool called Oyente to finnd potential security bugs. Among 19,366 existing Ethereum contracts, Oyente flags 8,519 of them as vulnerable. We discuss the severity of attacks for several case studies which have source code available and con rm the attacks (which target only our accounts) in the main Ethereum network.",
+    "url": "https://eprint.iacr.org/2016/633.pdf"
+}
