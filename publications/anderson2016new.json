@@ -1,0 +1,27 @@
+{
+    "id": "anderson2016new",
+    "title": "New kids on the block: an analysis of modern blockchains",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160628,
+    "authors": [
+        {
+            "name": "Luke Anderson", "affiliation": "University of Sydney"
+        },
+        {
+            "name": "Ralph Holz", "affiliation": "University of Sydney"
+        },
+        {
+            "name": "Alexander Ponomarev", "affiliation": "Data61/CSIRO"
+        },
+        {
+            "name": "Paul Rimba", "affiliation": "Data61/CSIRO"
+        },
+        {
+            "name": "Ingo Weber", "affiliation": "Data61/CSIRO"
+        }
+    ],
+    "peer-reviewed": false,
+    "url": "http://arxiv.org/pdf/1606.06530.pdf",
+    "abstract": "Half a decade after Bitcoin became the first widely used cryptocurrency, blockchains are receiving considerable interest from industry and the research community. Modern blockchains feature services such as name registration and smart contracts. Some employ new forms of consensus, such as proof-of-stake instead of proof-of-work. However, these blockchains are so far relatively poorly investigated, despite the fact that they move considerable assets. In this paper, we explore three representative, modern blockchains---Ethereum, Namecoin, and Peercoin. Our focus is on the features that set them apart from the pure currency use case of Bitcoin. We investigate the blockchains' activity in terms of transactions and usage patterns, identifying some curiosities in the process. For Ethereum, we are mostly interested in the smart contract functionality it offers. We also carry out a brief analysis of issues that are introduced by negligent design of smart contracts. In the case of Namecoin, our focus is how the name registration is used and has developed over time. For Peercoin, we are interested in the use of proof-of-stake, as this consensus algorithm is poorly understood yet used to move considerable value. Finally, we relate the above to the fundamental characteristics of the underlying peer-to-peer networks. We present a crawler for Ethereum and give statistics on the network size. For Peercoin and Namecoin, we identify the relatively small size of the networks and the weak bootstrapping process."
+}
