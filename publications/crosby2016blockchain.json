@@ -1,0 +1,18 @@
+{
+    "id": "crosby2016blockchain",
+    "title": "BlockChain Technology: Beyond Bitcoin",
+    "authors": [
+	{"name": "Michael Crosby", "affiliation": "Google"},
+	{"name": "Nachiappan", "affiliation": "Yahoo"},
+	{"name": "Pradan Pattanayak", "affiliation": "Yahoo"},
+	{"name": "Sanjeev Verma", "affiliation": "Samsung Research America"},
+	{"name": "Vignesh Kalyanaraman", "affiliation": "Fairchild Semiconductor"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "venue": "Applied Innovation Review (AIR)",
+    "url": "http://scet.berkeley.edu/wp-content/uploads/AIR-2016-Blockchain.pdf",
+    "abstract": "A blockchain is essentially a distributed database of records, or public ledger of all transactions or digital events that have been executed and shared among participating parties. Each transaction in the public ledger is verified by consensus of a majority of the participants in the system. Once entered, information can never be erased. The blockchain contains a certain and verifiable record of every single transaction ever made. Bitcoin, the decentralized peer-to-peer digital currency, is the most popular example that uses blockchain technology. The digital currency bitcoin itself is highly controversial but the underlying blockchain technology has worked flawlessly and found wide range of applications in both financial and non-financial world. The main hypothesis is that the blockchain establishes a system of creating a distributed consensus in the digital online world. This allows participating entities to know for certain that a digital event happened by creating an irrefutable record in a public ledger. It opens the door for developing a democratic open and scalable digital economy from a centralized one. There are tremendous opportunities in this disruptive technology, and the revolution in this space has just begun. This white paper describes blockchain technology and some compelling specific applications in both financial and non-financial sector. We then look at the challenges ahead and business opportunities in this fundamental technology that is all set to revolutionize our digital world.",
+    "type": "online",
+    "sort-key": 20160630
+}
