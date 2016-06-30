@@ -1,0 +1,25 @@
+{
+    "id": "wornerbitcoin",
+    "title": "The Bitcoin Ecosystem: Disruption beyond Financial Services?",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160630,
+    "authors": [
+        {
+            "name": "Dominic Wörner", "affiliation": "ETH Zurich"
+        },
+        {
+            "name": "Thomas Von Bomhard", "affiliation": "University of St. Gallen"
+        },
+        {
+            "name": "Yan-Peter Schreier", "affiliation": "University of St. Gallen"
+        },
+        {
+            "name": "Dominik Bilgeri", "affiliation": "ETH Zurich"
+        }
+    ],
+    "peer-reviewed": true,
+    "venue": "European Conference on Information Systems (ECIS)",
+    "abstract": "The Bitcoin ecosystem has grown tremendously in recent years. While the main sectors of growth and venture capital funding have been infrastructure for the Bitcoin ecosystem itself as well as financial services, there is also a more recent evolution in sectors beyond financial services. We classify the venture-capital backed start up ecosystem accordingly and present its evolution over time. Thereby, we identify interesting sectors, i.e. digital assets, marketplaces, and notary services. Each sector is further subdivided, and six representative venture-backed start-up companies are presented in comprehensive case studies. We extract the core innovations and Bitcoin features on which these are based. Finally, we critically discuss their disruptive potential.",
+    "url": "http://www.ecis2016.eu/papers/1278.pdf"
+}
