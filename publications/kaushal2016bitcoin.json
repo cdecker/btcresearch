@@ -1,0 +1,16 @@
+{
+    "id": "kaushal2016bitcoin",
+    "title": "Bitcoin: Vulnerabilities and Attacks",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160630,
+    "authors": [
+        {
+            "name": "Richa Kaushal", "affiliation": "Atma Ram Sanatan Dharma College"
+        }
+    ],
+    "venue": "Imperial Journal of Interdisciplinary Research",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is a payment transaction which is decentralized and is called cryptocurrency as it uses cryptographic schemes. It is a pure peer to peer network and it unable nodes on the network to create and process transactions directly without any third party. Bitcoin payment transaction system has risen up in its popularity due to the fact that it can be used as any other currency and the time taken to process international transaction is same as the time taken for local transactions. Bitcoin transaction does not charge any transaction fee and thus traders and merchants are motivated to use them for the transaction of their goods and services. Bitcoin system is a very innovative idea but it has also raised major trust and security concerns. The bitcoin system is not fully robust and still have few vulnerabilities which when exploited by attacker will lead to its failure. This paper aims at finding the vulnerabilities in the present bitcoin system and modification that can be done in the present system to avoid attacks.",
+    "url": "http://imperialjournals.com/index.php/IJIR/article/download/1238/1192"
+}
