@@ -1,0 +1,14 @@
+{
+  "title": "About τ-chain",
+    "url": "http://arxiv.org/pdf/1502.04120v1.pdf",
+    "sortkey": 20150216,
+    "peer-reviewed": false,
+  "year": 2015,
+  "authors": [
+    {
+      "name": "Ohad Asor"
+    }
+  ],
+    "id": "asor2015",
+    "abstract": "τ-chain (pronounced tau-chain) is a decentralized peer-to-peer network having three unified faces: Rules, Proofs, and Computer Programs, allowing a generalization of virtually any centralized or decentralized P2P network, together with many new abilities, as we present on this note."
+}
