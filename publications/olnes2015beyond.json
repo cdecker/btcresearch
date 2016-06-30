@@ -1,0 +1,16 @@
+{
+    "id": "olnes2015beyond",
+    "title": "Beyond Bitcoin - Public Sector Innovation Using the Bitcoin Blockchain Technology",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20150000,
+    "authors": [
+        {
+            "name": "Svein Ølnes", "affiliation": "Western Norway Research Institute"
+        }
+    ],
+    "venue": "Norsk konferanse for organisasjoners bruk av IT",
+    "peer-reviewed": true,
+    "abstract": "The virtual currency Bitcoin has got a lot of attention since it was presented in late 2008 and implemented in early 2009. However, the main attention has been on the currency and not the underlying technology called the blockchain. This paper argues that we need to look beyond the Bitcoin currency and investigate the potential use of the blockchain technology also for public sector as a mean for a secure, distributed, open, and inexpensive database technology. The technology is discussed as an information infrastructure and the generativity it allows and supports. After a thorough overview of academic publications on the subject of Bitcoin, and especially Bitcoin used in public sector, the paper presents a relevant use case highlighting the innovation potential of the new, distributed technology. The literature review reveals that the Bitcoin technology is absent from the e-Government literature, despite the undeniable high innovation potential it represents also in public sector. The use case presented shows that Bitcoin could be a promising technology for many types of permanent, or relatively permanent, documents in public sector.",
+    "url": "http://ojs.bibsys.no/index.php/Nokobit/article/viewFile/264/228"
+}
