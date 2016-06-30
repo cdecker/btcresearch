@@ -1,7 +1,9 @@
 language: python
 install: "pip install jsonschema==2.5.1 staticjinja==0.3.2 glob2==0.4.1"
 cache: pip
+before_install:
+  - echo -e "machine github.com\n  login cdecker\n  password $GH_TOKEN" >> ~/.netrc
 script:
-  - find publications -name \*.json -exec echo -n ' -i ' \; -print0 | xargs jsonschema btcresearch-schema.json
-  - cp -R publications templates/
-  - python gensite.py
+  - make check
+  - make site
+  - git push --force "https://github.com/cdecker/btcresearch.git" master:gh-pages
