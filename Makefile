@@ -12,5 +12,6 @@ site:
 	rm -rf publications;\
 	git config user.name "Travis CI";\
 	git config user.email "decker.christian+travis@gmail.com";\
-	git add --quiet .;\
-	git commit -m "Deploy to GitHub Pages"
+	git add .;\
+	git commit --quiet -m "Deploy to GitHub Pages";\
+	git push --force "git@github.com:cdecker/btcresearch.git" master:gh-pages
