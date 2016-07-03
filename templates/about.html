@@ -1,0 +1,25 @@
+{% extends "_base.html" %}
+
+
+{% block content %}
+CABRA is an attempt to collect and organize metadata about ongoing Bitcoin research.
+
+<h2>Why?</h2>
+
+When researching Bitcoin and Blockchain technology it is sometimes difficult to keep up to date with the latest developments. This is my attempt to make it easier.
+
+Looking for a comprehensive list of publications I stumbled over Brett Scott's excellent <a href="https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/">Bitcoin Academic Research</a> list, which contains an impressive number of Bitcoin/Blockchain related publications.
+The format of a shared Google Sheet may be well suited for quick collaboration and having many people contribute to the list, however allowing everybody write access also has its downsides. I think a source repository with a controlled process for people to contribute is better suited for such an effort.
+
+In addition storing the publications in a well documented format allows us to better annotate, search for individual publications, and generate a number of derived formats, e.g., a <a href="cabra.bib">bibtex file</a> for future publications.
+
+<h2>Contributions</h2>
+
+This project aims to include as many academic papers as possible, but my time is limited and while I try to keep up to date with the latest publications I might miss some. If you'd like to contribute to this archive feel free to fork the repository and/or submit a [pull request](https://github.com/cdecker/btcresearch/pulls).
+
+In order to keep the data consistent, please adhere to the <a href="https://github.com/cdecker/btcresearch/blob/master/btcresearch-schema.json">JSON-Schema</a> in this repository.
+
+<h2>Support</h2>
+
+If you find this repository useful, please consider a small Bitcoin donation to <a href="https://blockchain.info/address/1AQp9kfD5hKA1mia7YnKCAT2khPfY6jTPC">1AQp9kfD5hKA1mia7YnKCAT2khPfY6jTPC</a>.
+{% endblock %}
