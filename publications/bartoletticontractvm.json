@@ -1,0 +1,21 @@
+{
+    "id": "bartoletticontractvm",
+    "title": "Contractvm: decentralized applications on Bitcoin",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160703,
+    "authors": [
+        {
+            "name": "Massimo Bartoletti", "affiliation": "Università degli Studi di Cagliari"
+        },
+        {
+            "name": "Davide Gessa", "affiliation": "Università degli Studi di Cagliari"
+        },
+        {
+            "name": "Alessandro Sebastian Podda", "affiliation": "Università degli Studi di Cagliari"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "We introduce Contractvm, a framework for developing decentralized general-purpose applications on top of the Bitcoin blockchain. Our framework addresses several issues of Ethereum: for instance, it does not need a proprietary blockchain, and it is not affected by attacks which exploit the verifier’s dilemma. We evaluate the security of Contractvm under different attacker models: overall, we conclude that applications running over our framework are reliable whenever the honest nodes hold the majority of the total hashing power of the Bitcoin network.",
+    "url": "http://contractvm.github.io/cvm-whitepaper.pdf"
+}
