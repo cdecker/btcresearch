@@ -1,0 +1,19 @@
+{
+    "id": "boyd2016fair",
+    "title": "Fair Client Puzzles from the Bitcoin Blockchain",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160706,
+    "authors": [
+        {
+            "name": "Colin Boyd", "affiliation": "Norwegian University of Science and Technology"
+        },
+        {
+            "name": "Christopher Carr", "affiliation": "Norwegian University of Science and Technology"
+        }
+    ],
+    "venue": "Australasian Conference on Information Security and Privacy",
+    "peer-reviewed": true,
+    "abstract": "Client puzzles have been proposed as a mechanism for proving legitimate intentions by providing “proofs of work”, which can be applied to discourage malicious usage of resources. A typical problem of puzzle constructions is the difference in expected solving time on different computing platforms. We call puzzles which can be solved independently of client computing resources fair client puzzles. We propose a construction for client puzzles requiring widely distributed computational effort for their solution. These puzzles can be solved using the mining process of Bitcoin, or similar cryptocurrencies. Adapting existing definitions, we show that our puzzle construction satisfies formal requirements of client puzzles under reasonable assumptions. We describe a way of transforming our client puzzles for use in denial of service scenarios and demonstrate a practical construction.",
+    "url": "http://eprint.iacr.org/2016/680.pdf"
+}
