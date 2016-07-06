@@ -1,0 +1,24 @@
+{
+    "id": "bouri2016modelling",
+    "title": "Modelling Long Memory Volatility in the Bitcoin Market: Evidence of Persistence and Structural Breaks",
+    "year": 2016,
+    "type": "techreport",
+    "sortkey": 20160706,
+    "authors": [
+        {
+            "name": "Elie Bouri", "affiliation": "Holy Spirit University of Kaslik"
+        },
+        {
+            "name": "Luis A Gil-Alana", "affiliation": "UNiversity of Navarra"
+        },
+        {
+            "name": "Rangan Gupta", "affiliation": "University of Pretoria"
+        },
+        {
+            "name": "David Roubaud", "affiliation": "Montpellier Business School"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Motivated by the emergence of Bitcoin as a speculative financial investment, the purpose of this paper is to examine the persistence in the level and volatility of Bitcoin price, accounting for the impact of structural breaks. Using parametric and semiparametric techniques, we find strong evidence in favour of a permanency of the shocks and lack of mean reversion in the level series. We also reveal evidence of structural changes in the dynamics of Bitcoin. After accounting for the structural breaks in the level series, evidence of mean reversion is uncovered in some cases. Further analyses show evidence of a long memory in the two measures of volatility (absolute and the squared returns), whereas some cases of short memory are revealed in the squared returns series in particular. Practical implications are discussed on the inefficiency in the Bitcoin market and its importance for Bitcoin users and investors.",
+    "url": "http://www.up.ac.za/media/shared/61/WP/wp_2016_54.zp92472.pdf"
+}
