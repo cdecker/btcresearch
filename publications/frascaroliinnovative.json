@@ -1,0 +1,18 @@
+{
+    "id": "frascaroliinnovative",
+    "title": "The Innovative Aspects of Bitcoin, Market Microstructure and Returns Volatility: An Approach using MGARCH",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160708,
+    "authors": [
+        {
+            "name": "Bruno Ferreira Frascaroli", "affiliation": "Federal University of Paraíba"
+        },
+        {
+            "name": "Thiago Carvalho Pinto", "affiliation": "Federal University of Paraíba"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This study seeks to analyze conceptual, innovative, marketing and quantitative aspects of Bitcoin (BTC) and how these are reflected in the volatility of its return. After describing basic concepts of digital currencies and BTC, an electronic currency created in 2009, we contextualize BTC as a financial innovation. Regarding market-oriented and structural aspects, we investigated the existence of similarities between BTC's credit and debit market and the traditional structure of the payment card market, known as the Two-Sided Market (2SM). The BTC’s perfect adequacy for the 2SM structure was established, but only with respect to the debit-card market. BTC returns for the period from September 2011 to June 2015 were then used as a sample, and returns for the period from March 2013 to June 2015 were used as a subsample. Based on these data, the DCC MGARCH model was estimated, making it possible to obtain the parameters and quasi-correlations of volatilities among variables. The Standard and Poor's 500 index (SPX-500), the price of gold and China's main stock index (SSEC) were considered by virtue of previous exercises conducted by Pavel, D'Artis and Miroslava (2014) and Stråle and Tjernström (2014). The results showed the existence of persistent volatility, possibly indicating that BTC returns had two different phases: (1) a period of “euphoria” followed by (2) a period of “convergence” to the fundamentals that determine these returns.",
+    "url": "http://www.ufjf.br/encontroeconomiaaplicada/files/2016/05/artigo64MicroeconomiaAplicada.pdf"
+}
