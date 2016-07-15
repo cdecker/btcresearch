@@ -1,0 +1,27 @@
+{
+    "id": "prihodko2016flare",
+    "title": "Flare: An Approach to Routing in Lightning Network",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160715,
+    "authors": [
+        {
+            "name": "Pavel Prihodko", "affiliation": "Bitfury Group"
+        },
+        {
+            "name": "Slava Zhigulin", "affiliation": "Bitfury Group"
+        },
+        {
+            "name": "Mykola Sahno", "affiliation": "Bitfury Group"
+        },
+        {
+            "name": "Aleksei Ostrovskiy", "affiliation": "Bitfury Group"
+        },
+        {
+            "name": "Olaoluwa Osuntokun", "affiliation": "UC Santa Barbara"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This paper describes a hybrid routing algorithm Flare, which could be used for payment routing in Lightning Network. The design goal for the algorithm is to ensure that routes can be found as quickly as possible. This is accomplished at the cost of each node proactively gathering information about the Lightning Network topology. The collected information includes both payment channels close to the node in terms of hop distance and paths to beacon nodes, which are close to the node in the node address space. The usage of beacon node serves to supplement a node’s local view of the network with randomly selected feeler nodes deeper in the network. The combination of local and beacon nodes allows a node to minimize routing state, while finding routes to any given node with high probability. We perform simulations of the routing algorithm and find it to be scalable to at least 100,000 nodes.",
+    "url": "http://bitfury.com/content/5-white-papers-research/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf"
+}
