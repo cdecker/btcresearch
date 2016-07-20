@@ -1,0 +1,15 @@
+{
+    "id": "ibrahim2017securecoin",
+    "title": "SecureCoin: A Robust Secure and Efficient Protocol for Anonymous Bitcoin Ecosystem",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160720,
+    "authors": [
+        {
+            "name": "Maged Hamada Ibrahim", "affiliation": "Helwan University"
+        }
+    ],
+    "venue": "International Journal of Network Security",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is the first decentralized peer-to-peer electronic virtual asset and payment cryptocurrency, through which, users can transact digital currency directly, without the need for an intermediary (or authority), using a hashed version of cryptographic public keys, as pseudonyms called addresses. The Bitcoin ecosystem was supposed to be anonymous and untraceable. However, transactions from input to output addresses of the Bitcoin users are observed to be linkable, therefore, missing unlinkability as an important requirement of anonymity. Several protocols appeared to enhance Bitcoin users’ anonymity and to ensure unlinkability of input-output addresses, to make input and output addresses of transactions unlinkable to each other, and hence untraceable. In this paper, we spot several vulnerabilities in the most recently proposed protocols, then we propose SecureCoin as an efficient protocol for anonymous and unlinkable Bitcoin transactions that covers these vulnerabilities in a robust and secure way and in full compatibility with the standard Bitcoin ecosystem. Our protocol provides better protection for the participating peers against malicious behavior of minority of the peers and protection against the most serious sabotage attack attempted by any number of saboteur peers. We analyze the security properties of our protocol and evaluate its efficiency. Finally, we compare the performance of our protocol with the recently proposed protocols and show that our protocol is computationally efficient and requires less Bitcoin fees."
+}
