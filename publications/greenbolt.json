@@ -1,0 +1,18 @@
+{
+    "id": "greenbolt",
+    "title": "Bolt: Anonymous Payment Channels for Decentralized Currencies",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160720,
+    "authors": [
+        {
+            "name": "Matthew Green", "affiliation": " Johns Hopkins University"
+        },
+        {
+            "name": "Ian Miers", "affiliation": " Johns Hopkins University"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Bitcoin owes it success to the fact that transactions are transparently recorded in the blockchain, a global public ledger that removes the need for trusted parties. While Bitcoin has achieved remarkable success, recording every transaction in the blockchain causes privacy, latency, and scalability issues. Building on recent proposals for “micropayment channels” — two party associations that use the ledger only for dispute resolution — we introduce techniques for constructing anonymous payment channels. Our proposals allow for secure, instantaneous and private payments that substantially reduce the storage burden on the payment network. Specifically, we introduce three channel proposals, including a technique that allows payments via an untrusted intermediary. Most importantly, each of our proposals can be instantiated efficiently using well-studied techniques.",
+    "url": "http://eprint.iacr.org/2016/701.pdf"
+}
