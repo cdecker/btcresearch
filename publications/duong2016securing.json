@@ -1,0 +1,16 @@
+{
+    "id": "duong2016securing",
+    "title": "Securing Bitcoin-like Backbone Protocols against a Malicious Majority of Computing Power",
+    "authors": [
+	{"name": "Tuyet Duong", "affiliation": "Virginia Commonwealth University"},
+	{"name": "Lei Fan", "affiliation": "Shanghai Jiao Tong University"},
+	{"name": "Thomas Veale", "affiliation": "Virginia Commonwealth University"},
+	{"name": "Hong-Sheng Zhou", "affiliation": "Virginia Commonwealth University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://eprint.iacr.org/2016/716.pdf",
+    "abstract": "Cryptocurrencies like Bitcoin have proven to be very successful in practice and have gained lots of attention from the industries and the academia. The security of Bitcoin-like systems is based on the assumption that the majority of the computing power is under the control of honest players. However, this assumption has been seriously challenged recently and Bitcoin-like systems will fail when this assumption is broken. We propose the first Bitcoin-like protocol that is secure in the presence of a malicious majority of computing power. On top of Bitcoin's brilliant ideas of utilizing the power of the honest miners, via their computing power together with blocks, to secure the blockchain, we further leverage the power of the honest users, via their coins together with transactions, to achieve this goal. In particular, we propose a novel strategy for selecting the best blockchain from many competing chains by carefully comparing coins in these blockchains. In addition, we rigorously prove important security properties of our protocol in an extension of the blockchain analysis framework by Garay et al [Eurocrypt 2015].",
+    "type": "online",
+    "sort-key": 20160722
+}
