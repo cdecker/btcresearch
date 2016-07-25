@@ -1,0 +1,18 @@
+{
+    "id": "nair2016bitcoin",
+    "title": "Bitcoin and entrepreneurship: breaking the network effect",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160725,
+    "authors": [
+        {
+            "name": "Malavika Nair", "affiliation": "Troy University"
+        },
+        {
+            "name": "Nicolás Cachanosky", "affiliation": "Metropolitan State University of Denver"
+        }
+    ],
+    "venue": "The Review of Austrian Economics",
+    "peer-reviewed": true,
+    "abstract": "This paper explores the question of whether the market process is capable of bringing about a spontaneous monetary switch to a new currency in the presence of strong network effects of the incumbent currency as well as the absence of contingencies such as extreme inflation or political instability. It does so by examining current happenings around Bitcoin. It finds that two mechanisms stand out: the coordinating efforts of the profit-maximizing entrepreneur as well as the ability to use the old and the new currency simultaneously. Specifically, it finds that marginal decisions made by rational agents merely seeking to maximize net private benefit irrespective of the network effect, be it entrepreneurs or users of the new currency, are capable of setting in motion a switch to a new currency. Whether or not these mechanisms play out fully in the case of Bitcoin still remains to be seen."
+}
