@@ -1,0 +1,27 @@
+{
+    "id": "leisecure",
+    "title": "A Secure Key Management Scheme for Heterogeneous Secure Vehicular Communication Systems",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160725,
+    "authors": [
+        {
+            "name": "Ao Lei", "affiliation": "University of Surrey"
+        },
+        {
+            "name": "Chibueze Ogah", "affiliation": "University of Surrey"
+        },
+        {
+            "name": "Philip Asuquo", "affiliation": "University of Surrey"
+        },
+        {
+            "name": "Haitham Cruickshank", "affiliation": "University of Surrey"
+        },
+        {
+            "name": "Zhili Sun", "affiliation": "University of Surrey"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": " Intelligent transportation system (ITS) is proposed as the most effective way to improve road safety and traffic efficiency. However, the future of ITS for large scale transportation infrastructures deployment highly depends on the security level of vehicular communication systems (VCS). Security applications in VCS are fulfilled through secured group broadcast. Therefore, secure key management schemes are considered as a critical research topic for network security. In this paper, we propose a framework for providing secure key management within heterogeneous network. The security managers (SMs) play a key role in the framework by retrieving the vehicle departure information, encapsulating block to transport keys and then executing rekeying to vehicles within the same security domain. The first part of this framework is a novel Group Key Management (GKM) scheme basing on leaving probability (LP) of vehicles to depart current VCS region. Vehicle’s LP factor is introduced into GKM scheme to achieve a more efficient rekeying scheme and less rekeying costs. The second component of the framework using the blockchain concept to simplify the distributed key management in heterogeneous VCS domains. Extensive simulations and analysis are provided to show the effectiveness and efficiency of the proposed framework: Our GKM results demonstrate that probability-based BR reduces rekeying cost compared to the benchmark scheme, while the blockchain decreases the time cost of key transmission over heterogeneous networks.",
+    "url": "http://wwwen.zte.com.cn/endata/magazine/ztecommunications/2016/3/201607/P020160715564598421157.pdf#page=25"
+}
