@@ -1,0 +1,18 @@
+{
+    "id": "herlihy2016enhancing",
+    "title": "Enhancing Accountability and Trust in Distributed Ledgers",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160728,
+    "authors": [
+        {
+            "name": "Maurice Herlihy", "affiliation": "Brown University"
+        },
+        {
+            "name": "Mark Moir", "affiliation": "Oracle Labs"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Permisionless decentralized ledgers (\"blockchains\") such as the one underlying the cryptocurrency Bitcoin allow anonymous participants to maintain the ledger, while avoiding control or \"censorship\" by any single entity. In contrast, permissioned decentralized ledgers exploit real-world trust and accountability, allowing only explicitly authorized parties to maintain the ledger. Permissioned ledgers support more flexible governance and a wider choice of consensus mechanisms. Both kinds of decentralized ledgers may be susceptible to manipulation by participants who favor some transactions over others. The real-world accountability underlying permissioned ledgers provides an opportunity to impose fairness constraints that can be enforced by penalizing violators after-the- fact. To date, however, this opportunity has not been fully exploited, unnecessarily leaving participants latitude to manipulate outcomes undetectably. This paper draws attention to this issue, and proposes design principles to make such manipulation more difficult, as well as specific mechanisms to make it easier to detect when violations occur.",
+    "url": "http://arxiv.org/pdf/1606.07490v1.pdf"
+}
