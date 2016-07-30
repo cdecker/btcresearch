@@ -1,0 +1,15 @@
+{
+    "id": "bonaiuti2016economic",
+    "title": "Economic Issues on M-Payments and Bitcoin",
+    "year": 2016,
+    "type": "incollection",
+    "sortkey": 20160730,
+    "authors": [
+        {
+            "name": "Gianni Bonaiuti", "affiliation": "University of Siena"
+        }
+    ],
+    "venue": "Bitcoin and Mobile Payments",
+    "peer-reviewed": true,
+    "abstract": "Technology innovation and new consumers’ habits are fostering two interesting experiences in the payments’ landscape: the increasing use of mobile payment instruments and the emergence of alternative payment schemes without fiat or banking money, like Bitcoin. This contribution considers both cases as useful drivers for innovation, but at present their positive outcomes are unclear. A synthetic economic analysis highlights costs and benefits for consumers and third-party operators, arguing that mobile payments could improve competition and force banks to rethink their strategies. More controversial issues concern bitcoin: on this topic enthusiastic expectations of financial operators are jointly considered with cautious positions expressed by regulatory and monetary authorities. Recent tendencies in Bitcoin’s informal infrastructure are confirming that an effective decentralized and peer-to-peer payments system is rather hard to build."
+}
