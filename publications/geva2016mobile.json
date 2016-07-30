@@ -1,0 +1,16 @@
+{
+    "id": "geva2016mobile",
+    "title": "Mobile Payments and Bitcoin: Concluding Reflections on the Digital Upheaval in Payments",
+    "year": 2016,
+    "type": "incollection",
+    "sortkey": 20160730,
+    "authors": [
+        {
+            "name": "Benjamin Geva", "affiliation": "York University"
+        }
+    ],
+    "venue": "Bitcoin and Mobile Payments",
+    "peer-reviewed": true,
+    "abstract": "Mobile payments and bitcoins represent a leap forward in payments. Acknowledging that they are different, yet recognizing a common “digital” denominator, this concluding chapter outlines their salient features in the broad context of the historical evolution of payment mechanisms operated in the framework of a classical model. Thereunder, a payment order issued to a paymaster initiates the transmission of monetary value from a payer-debtor to a payee-creditor. The chapter points out that the mobile payment introduces complexities and variations reflecting its digital nature. At the same time, fundamentally, its operation is premised on that of the classical model. Conversely, not only that Bitcoin introduced new money-equivalent, it is further premised on a decentralized network within which monetary value moves without the involvement of a paymaster.",
+    "url": "http://link.springer.com/chapter/10.1057/978-1-137-57512-8_12"
+}
