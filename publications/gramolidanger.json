@@ -1,0 +1,16 @@
+{
+    "id": "gramolidanger",
+    "title": "On the Danger of Private Blockchains",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160808,
+    "authors": [
+        {
+            "name": "Vincent Gramoli", "affiliation": "University of Sydney"
+        }
+    ],
+    "peer-reviewed": true,
+    "venue": "Distributed Cryptocurrencies and Consensus Ledgers"
+    "abstract": "Consensus is a fundamental problem of distributed computing. While this problem has been known to be unsolvable since 1985, existing protocols were designed these past three decades to solve consensus under various assumptions. Today, with the recent advent of blockchains, new consensus implementations were proposed to make replicas reach an agreement on the order of transactions updating what is often referred to as a distributed ledger. Very little work has however been devoted to explore its theoretical ramifications. As a result, it is often unclear whether the same systems could be adapted to work in different environments. In this position paper, we explore the use of the Ethereum blockchain protocol in the context of a private chain where the set of participants is controlled. We argue that foundations are needed in order to precisely capture the guarantees of the consensus protocols of novel blockchain systems before one can deploy them safely. To this end, we define the termination of consensus to characterize when blockchain transactions commit and describe the existence of the Blockchain Anomaly in existing proof-of-work private chains.",
+    "url": "http://scholar.google.com/https://www.zurich.ibm.com/dccl/papers/gramoli_dccl.pdf"
+}
