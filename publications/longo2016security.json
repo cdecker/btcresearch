@@ -1,0 +1,24 @@
+{
+    "id": "longo2016security",
+    "title": "On the security of the Blockchain Bix Protocol and Certificates",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160808,
+    "authors": [
+        {
+            "name": "Riccardo Longo", "affiliation": "University of Trento"
+        },
+        {
+            "name": "Federico Pintore", "affiliation": "University of Trento"
+        },
+        {
+            "name": "Giancarlo Rinaldo", "affiliation": "University of Trento"
+        },
+        {
+            "name": "Massimiliano Sala", "affiliation": "University of Trento"
+        }
+    ],
+    "venue": "arXiv preprint arXiv:1607.08401",
+    "abstract": "The BIX protocol is a blockchain-based protocol that allows distribution of certificates linking a subject with his public key, hence providing a service similar to that of a PKI but without the need of a CA. In this paper we analyze the security of the BIX protocol in a formal way, in four steps. First, we identify formal security assumptions which are wellsuited to this protocol. Second, we present some attack scenarios against the BIX protocol. Third, we provide a formal security proof that some of these attacks are not feasible under our previously established assumptions. Finally, we show how another attack may be carried on.",
+    "url": "http://arxiv.org/pdf/1607.08401.pdf"
+}
