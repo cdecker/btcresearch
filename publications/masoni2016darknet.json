@@ -1,0 +1,20 @@
+{
+    "id": "masoni2016darknet",
+    "title": "Darknet and bitcoin, the obscure and anonymous side of the internet in healthcare",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160808,
+    "authors": [
+        {
+            "name": "Marco Masoni", "affiliation": "University of Firenze"
+        },
+        {
+            "name": "Maria Renza Guelfi", "affiliation": "University of Firenze"
+        },
+        {
+            "name": "Gian Franco Gensini", "affiliation": "University of Firenze"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Illegal activities prosecutable by law in the real life can be committed on the internet alike. In the healthcare domain, we refer mainly to selling of illegal and counterfeit drugs, exchange of pedo-pornographic material and marketing of stolen medical records. These illegal activities are made easier by recent developments of the Internet that medical community must be aware of: darknet and bitcoin. The first allows anonymous surfing and the last anonymous financial transactions. After discussing which healthcare areas are affected by these technological developments of the Internet and the deriving consequences, then the Authors express their opinion on what actions can be taken to protect internet community."
+}
