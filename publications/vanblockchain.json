@@ -1,0 +1,15 @@
+{
+    "id": "vanblockchain",
+    "title": "A Blockchain Based on Gossip? -- a Position Paper",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160808,
+    "authors": [
+        {
+            "name": "Robbert van Renesse", "affiliation": "Cornell University"
+        }
+    ],
+    "venue": "Distributed Cryptocurrencies and Consensus Ledgers",
+    "peer-reviewed": true,
+    "url": "https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf"
+}
