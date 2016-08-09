@@ -1,0 +1,14 @@
+{
+    "id": "bartling2016reproducibility",
+    "title": "Could Blockchain provide the technical fix to solve science’s reproducibility crisis?",
+    "authors": [
+	{"name": "Sönke Bartling", "affiliation": "Humboldt Institute for Internet and Society"},
+	{"name": "Benedikt Fecher", "affiliation": "Humboldt Institute for Internet and Society"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://eprints.lse.ac.uk/67354/1/Could_Blockchain_provide_technical_fix.pdf",
+    "abstract": "Blockchain technology has the capacity to make digital goods immutable, transparent, and provable. Sönke Bartling and Benedikt Fecher look at the technical aspects of blockchain and also discuss its application in the research world. Blockchain could strengthen science’s verification process, helping to make more research results reproducible, true, and useful. Currently blockchain is being hyped. Many claim that the blockchain revolution will affect not only our online life, but will profoundly change many more aspects of our society. Many foresee these changes as potentially being more far-reaching than those brought by the internet in the last two decades. If this holds true, it is certain that research and knowledge creation will also be affected by this. So, what is blockchain all about? More importantly, could knowledge creation benefit from it? One potential area it could be useful is in addressing the credibility and reproducibility crisis in science.",
+    "type": "online",
+    "sort-key": 20160809
+}
