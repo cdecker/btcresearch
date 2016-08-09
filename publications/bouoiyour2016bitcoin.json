@@ -1,0 +1,19 @@
+{
+    "id": "bouoiyour2016bitcoin",
+    "title": "Bitcoin: a beginning of a new phase?",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160809,
+    "authors": [
+        {
+            "name": "Jamal Bouoiyour", "affiliation": "University of Pau"
+        },
+        {
+            "name": "Refk Selmi", "affiliation": "Tunis Business School"
+        }
+    ],
+    "venue": "Economics Bulletin",
+    "peer-reviewed": true,
+    "abstract": "Although financial experts have often criticized Bitcoin for being too volatile as an asset and an independent electronic currency, the volatility of Bitcoin has declined at a rapid pace since January 2015. This study addresses if Bitcoin enters a new phase. Many extensions of GARCH have been carried out to adequately estimate Bitcoin price dynamics. Our results suggest that despite maintaining a moderate volatility, Bitcoin remains typically reactive to negative rather than positive news. Bitcoin market is still, therefore, far from being mature.",
+    "url": "https://www.researchgate.net/profile/Refk_Selmi/publication/305810738_Bitcoin_a_beginning_of_a_new_phase/links/57a2f6da08aeef8f31203c2f.pdf"
+}
