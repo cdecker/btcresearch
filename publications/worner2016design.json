@@ -1,0 +1,16 @@
+{
+    "id": "worner2016design",
+    "title": "Design of a Real-Time Data Market Based on the 21 Bitcoin Computer.",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160813,
+    "authors": [
+        {
+            "name": "Dominic Wörner", "affiliation": "ETH Zurich"
+        }
+    ],
+    "venue": "Conference on Design Science Research in Information Systems and Technology (DESRIST)",
+    "peer-reviewed": true,
+    "abstract": "An ever increasing number of physical and virtual sensors are digitizing the world around us. Today, most of this data is trapped in application-specific environments, and even if accessible in principle, discovery remains a problem. An open and transparent data market brings incentives for sensor owners to offer measurement data and provides means for discovery. We envision a decentralized data market based on peer-to-peer data exchange and payments. The presented prototype is an iteration of this idea based on the 21 Bitcoin computer, a computer with an embedded Bitcoin mining chip, as well as tools and services to simplify machine-to-machine payments based on Bitcoin.",
+    "url": "https://www.researchgate.net/profile/Dominic_Woerner/publication/302590910_Design_of_a_Real-Time_Data_Market_Based_on_the_21_Bitcoin_Computer/links/5798dba408aeb0ffcd08bd5c.pdf"
+}
