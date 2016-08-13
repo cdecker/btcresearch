@@ -1,0 +1,21 @@
+{
+    "id": "forte2016beyond",
+    "title": "Beyond Bitcoin – Part II: Blockchain-based systems without mining",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160813,
+    "authors": [
+        {
+            "name": "Pasquale Forte", "affiliation": "PA Advice"
+        },
+        {
+            "name": "Diego Romano", "affiliation": "Cnr ICAR"
+        },
+        {
+            "name": "Giovanni Schmid", "affiliation": "Cnr ICAR"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Nowadays the decentralized transaction ledger functionality implemented through the blockchain technology is at the highest international interest because of the prospects both on opportunities and risks. There are a number of advantages inherently embedded in blockchain-based systems, and a pletora of new applications and services relying on concepts and technologies inspired by those of Bitcoin are emerging. But at the same time some weaknesses and limitations are evident, and we argue that they stem mainly from the fact that the blockchain is managed through mining. In this work we pointed out the unsustainability of mining in case of massive large-scale blockchain-based system. Moreover, after isolating the basic concepts behind mining, we sketched possible alternatives for the maintenance of blockchain-based systems. We considered security issues, incentives, as well as competitive and collaborative opportunities, and we proposed a framework of concepts and algorithms to implement blockchain-based systems for different contexts.",
+    "url": "https://eprint.iacr.org/2016/747.pdf"
+}
