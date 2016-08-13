@@ -1,0 +1,28 @@
+{
+    "id": "balcilar2016can",
+    "title": "Can Volume Predict Bitcoin Returns and Volatility? A Nonparametric Causality-in-Quantiles Approach",
+    "year": 2016,
+    "type": "techreport",
+    "sortkey": 20160813,
+    "authors": [
+        {
+            "affiliation": "University of Pretoria",
+            "name": "Mehmet Balcilar"
+        },
+        {
+            "affiliation": "Holy Spirit University of Kaslik",
+            "name": "Elie Bouri"
+        },
+        {
+            "affiliation": "University of Pretoria",
+            "name": "Rangan Gupta"
+        },
+        {
+            "affiliation": "Montpellier Business School",
+            "name": "David Roubaud"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "The objective of this paper is to employ the recently proposed nonparametric causality-in-quantiles test to analyse the predictability of returns and volatility of Bitcoin over the daily period of 19th December, 2011 to 25th April, 2016, based on information provided by traded volume. The causality-in-quantile approach allows us to test for not only causality-in-mean, but also causality that may exist in the tails of the joint distribution of the variables. In addition, we are also able to investigate causality-in-variance (volatility spillovers) when causality in the conditional-mean may not exist, yet higher order interdependencies might emerge. We motivate our analysis by employing tests for nonlinearity. These tests detect nonlinearity, as well as the existence of structural breaks in the Bitcoin returns, and in its relationship with volume, implying that the Granger causality tests based on a linear framework is likely to suffer from misspecification. Unlike the result of no predictability obtained under the misspecified linear set-up, our nonparametric causality-in-quantiles test indicated that volume predicts returns over the quantile range of 0.25 to 0.75, i.e., barring in the bear and bull regimes of the Bitcoin market. However, we could not detect any evidence of predictability emanating from volume for the volatility of Bitcoin returns at any point of the conditional distribution. Our results highlight the importance of our detecting and modeling nonlinearity when analyzing causal relationships between volume and return in the Bitcoin market.",
+    "url": "http://econpapers.repec.org/paper/prewpaper/201662.htm"
+}
