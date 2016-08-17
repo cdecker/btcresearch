@@ -1,0 +1,16 @@
+{
+    "id": "michael2016rfid",
+    "title": "RFID/NFC Implants for Bitcoin Transactions",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160817,
+    "authors": [
+        {
+            "name": "Katina Michael"
+        }
+    ],
+    "venue": "IEEE Consumer Electronics Magazine",
+    "peer-reviewed": true,
+    "abstract": "Katina Michael interviews Amal Graafstra [1] about his forthcoming initiative MyUki.com (pronounced /yoo kee/) (Figure 1). UKI is an implantable near-field communication (NFC) platform for identity, security, cryptography, and payment applications. Graafstra is the entrepreneur who started Dangerous Things. com in 2013 (Figure 2), and, in this interview, he speaks on the changes he has witnessed since the Maker Revolution. Graafstra believes it is time to move ahead with products and services that can be consumed by the general population, not just members of the tech community. He observes the shortcomings of our online identities that are owned by companies and not individuals and is proposing a way to integrate biological identity using an embedded implant that will give the user greater control over all of his or her transactions. While UKI is mostly about security, cryptography, and bitcoin transactions, Graafstra is also looking at various ways his product might be used, everything from access control, transit ticketing, e-payments, and privacy applications [2].",
+    "url": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7539255"
+}
