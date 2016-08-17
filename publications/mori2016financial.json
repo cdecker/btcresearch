@@ -1,0 +1,16 @@
+{
+    "id": "mori2016financial",
+    "title": "Financial technology: Blockchain and securities settlement",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160817,
+    "authors": [
+        {
+            "name": "Taketoshi Mori"
+        }
+    ],
+    "venue": "Journal of Securities Operations & Custody",
+    "peer-reviewed": true,
+    "abstract": "Financial technology (FinTech) is becoming more popular in Japan (as well as globally), and financial institutions are increasingly seeking to collaborate with the firms providing such technology. Among FinTech, blockchain (distributed ledger) technology is attracting particular attention because of the possibilities it offers, most notably as a powerful new tool for facilitating transactions. This paper provides an overview of this new technology, including its potential contribution to the infrastructure of the securities market, and provides an introduction to the role of blockchain in financial transactions. This technology is innovative and improving very rapidly. Nevertheless, any enterprise looking to adopt blockchain technology will need to update their business processes and maintain ongoing discussion with stakeholders. The author suggests that only 20 per cent of the barriers to adoption are technology based, the other 80 per cent being attributable to current business processes and business models. It is necessary to take the time to utilise and apply blockchain technology in financial markets. It will take more than a couple of years for blockchain technology to be fully deployed within the financial infrastructure, but it should take less than a decade. ",
+    "url": "http://www.ingentaconnect.com/content/hsp/jsoc/2016/00000008/00000003/art00006"
+}
