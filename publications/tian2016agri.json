@@ -1,0 +1,17 @@
+{
+    "id": "tian2016agri",
+    "title": "An agri-food supply chain traceability system for China based on RFID & blockchain technology",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160817,
+    "authors": [
+        {
+            "affiliation": "Vienna University of Economics and Business",
+            "name": "Feng Tian"
+        }
+    ],
+    "venue": "International Conference on Service Systems and Service Management (ICSSSM)",
+    "peer-reviewed": true,
+    "abstract": "For the past few years, food safety has become an outstanding problem in China. Since traditional agri-food logistics pattern can not match the demands of the market anymore, building an agri-food supply chain traceability system is becoming more and more urgent. In this paper, we study the utilization and development situation of RFID (Radio-Frequency IDentification) and blockchain technology first, and then we analyze the advantages and disadvantages of using RFID and blockchain technology in building the agri-food supply chain traceability system; finally, we demonstrate the building process of this system. It can realize the traceability with trusted information in the entire agri-food supply chain, which would effectively guarantee the food safety, by gathering, transferring and sharing the authentic data of agri-food in production, processing, warehousing, distribution and selling links.",
+    "url": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7538424"
+}
