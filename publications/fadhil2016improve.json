@@ -1,0 +1,15 @@
+{
+    "id": "fadhil2016improve",
+    "title": "A Bitcoin Model for Evaluation of Clustering to Improve Propagation Delay in Bitcoin Network",
+    "authors": [
+	{"name": "Muntadher Fadhil", "affiliation": "University of Portsmouth"},
+	{"name": "Gareth Owenson", "affiliation": "University of Portsmouth"},
+	{"name": "Mo Adda", "affiliation": "University of Portsmouth"},
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://www.researchgate.net/profile/Montadher_Fadhil/publication/305347127_A_Bitcoin_Model_for_Evaluation_of_Clustering_to_Improve_Propagation_Delay_in_Bitcoin_Network/links/578940db08ae254b1ddd0368.pdf",
+    "abstract": "Bitcoin is a digital currency based on peer-to-peer network to propagate and verify transactions. Bitcoin differs from traditional currencies in that, it does not rely on a centralised authority. In this paper, we present a simulation model of Bitcoin peer-to-peer network which is an event based simulation. Large scale measurements of the real Bitcoin network are performed in order to enable a precise parameterisation of the presented simulation model. In addition, we perform validation results revealing that the presented simulation model behaves as close as the real Bitcoin network. Based on the developed simulation model, evaluation of our proposed Bitcoin Clustering Based Super Node (BCBSN) protocol as a mechanism to speed up information propagation in Bitcoin network is presented. Evaluation results show that the presented clustering protocol is able to reduce the transaction propagation delay with a reasonable proportion.",
+    "type": "article",
+    "sort-key": 20160822
+}
