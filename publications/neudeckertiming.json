@@ -1,0 +1,24 @@
+{
+    "id": "neudeckertiming",
+    "title": "Timing Analysis for Inferring the Topology of the Bitcoin Peer-to-Peer Network",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160822,
+    "authors": [
+        {
+            "affiliation": "Karlsruhe Institute of Technology",
+            "name": "Till Neudecker"
+        },
+        {
+            "affiliation": "Karlsruhe Institute of Technology",
+            "name": "Philipp Andelfinger"
+        },
+        {
+            "affiliation": "Karlsruhe Institute of Technology",
+            "name": "Hannes Hartenstein"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Flooding Peer-to-Peer (P2P) networks form the basis of services such as the electronic currency system Bitcoin. The decentralized architecture enables robustness against failure. However, knowledge of the network’s topology can allow adversaries to attack specific peers in order to, e.g., isolate certain peers or even partition the network. Knowledge of the topology might be gained by observing the flooding process, which is inherently possible in such networks, and performing a timing analysis on the observations. In this paper we present a timing analysis method that targets flooding P2P networks and show its theoretical and practical feasibility. A validation in the real-world Bitcoin network proves the possibility of inferring network links of actively participating peers with substantial precision and recall (both ∼ 40 %), potentially enabling attacks on the network. Additionally, we analyze the countermeasure of trickling and quantify the tradeoff between the effectiveness of the countermeasure and the expected performance penalty. The analysis shows that inappropriate parametrization can actually facilitate inference attacks.",
+    "url": "http://dsn.tm.kit.edu/publications/files/323/bitcoin_timing_analysis_dsn.pdf"
+}
