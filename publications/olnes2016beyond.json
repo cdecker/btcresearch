@@ -1,0 +1,17 @@
+{
+    "id": "olnes2016beyond",
+    "title": "Beyond Bitcoin Enabling Smart Government Using Blockchain Technology",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160822,
+    "authors": [
+        {
+            "affiliation": "Western Norway Research Institute",
+            "name": "Svein Ølnes"
+        }
+    ],
+    "venue": "International Conference on Electronic Government and the Information Systems Perspective",
+    "peer-reviewed": true,
+    "abstract": "The new technology Bitcoin has got a lot of attention since it was presented in late 2008 and implemented early 2009. However, the main attention has been to the currency and not so much the underlying blockchain technology. This paper argues that we need to look beyond the currency and investigate the potential use of the blockchain technology to enable smarter governments by utilizing the secure, distributed, open, and inexpensive database technology. The technology is discussed in the perspective of an information infrastructure to investigate its full potential. After a literature review of Bitcoin publications, with a special emphasis on eGovernment literature, the paper presents a relevant use case highlighting the innovation potential of the new technology. The literature review shows that Bitcoin is absent from the e-Government literature. The use case presented shows that Bitcoin could be a promising technology for validating many types of persistent documents in public sector. ",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-44421-5_20"
+}
