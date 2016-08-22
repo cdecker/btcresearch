@@ -1,0 +1,14 @@
+{
+    "id": "bartling2016science",
+    "title": "Blockchain for Science and Knowledge Creation",
+    "authors": [
+	{"name": "Sönke Bartling", "affiliation": "Humboldt Institute for Internet and Society"},
+	{"name": "Benedikt Fecher", "affiliation": "Humboldt Institute for Internet and Society"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://www.researchgate.net/profile/Soenke_Bartling/publication/306107836_Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis/links/57b211fb08ae0101f17a580b.pdf",
+    "abstract": "Blockchain technology has the capacity to make digital goods immutable, transparent, externally provable, decentralized, and distributed. Besides the initial experiment or data acquisition, all remaining parts of the research cycle could take place within a blockchain system. Attribution, data, data postprocessing, publication, research evaluation, incentivisation, and research fund distribution would thereby become comprehensible, open (at will) and provable to the external world. Currently, scientists must be trusted to provide a true and useful representation of their research results in their final publication; blockchain would make much larger parts of the research cycle open to scientific self­correction. This bears the potential to be a technical solution to the current reproducibility crisis in science, and could ‘reduce waste and make more research results true’.",
+    "type": "online",
+    "sort-key": 20160822
+}
