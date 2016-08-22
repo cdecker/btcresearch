@@ -1,0 +1,24 @@
+{
+    "id": "gippsecuring",
+    "title": "Securing Video Integrity using Decentralized Trusted Timestampting on the Bitcoin Blockchain",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160822,
+    "authors": [
+        {
+            "affiliation": " University of Konstanz",
+            "name": "Bela Gipp"
+        },
+        {
+            "affiliation": " University of Konstanz",
+            "name": "Jagrut Kosti"
+        },
+        {
+            "affiliation": " University of Konstanz",
+            "name": "Corinna Breitinger"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "The ability to verify the integrity of video files is important for consumer and business applications alike. Especially if video files are to be used as evidence in court, the ability to prove that a file existed in a certain state at a specific time and was not altered since is crucial. This paper proposes the use of blockchain technology to secure and verify the integrity of video files. To demonstrate a specific use case for this concept, we present an application that converts a videocamera enabled smartphone into a cost-effective tamperproof dashboard camera (dash cam). If the phone’s built-in sensors detect a collision, the application automatically creates a hash of the relevant video recording. This video file’s hash is immediately transmitted to the OriginStamp service, which includes the hash in a transaction made to the Bitcoin network. Once the Bitcoin network confirms the transaction, the video file’s hash is permanently secured in the tamperproof decentralized public ledger that is the blockchain. Any subsequent attempt to manipulate the video is futile, because the hash of the manipulated footage will not match the hash that was secured in the blockchain. Using this approach, the integrity of video evidence cannot be contested. The footage of dashboard cameras could become a valid form of evidence in court. In the future, the approach could be extended to automatically secure the integrity of digitally recorded data in other scenarios, including: surveillance systems, drone footage, body cameras of law enforcement, log data from industrial machines, measurements recorded by lab equipment, and the activities of weapon systems. We have made the source code of the demonstrated application available under an MIT License and encourage anyone to contribute: www.gipp.com/dtt",
+    "url": "http://www.sciplore.org/wp-content/papercite-data/pdf/gipp2016a.pdf"
+}
