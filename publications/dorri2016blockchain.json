@@ -1,0 +1,24 @@
+{
+    "id": "dorri2016blockchain",
+    "title": "Blockchain in internet of things: Challenges and Solutions",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160824,
+    "authors": [
+        {
+            "affiliation": "Islamic Azad University",
+            "name": "Ali Dorri"
+        },
+        {
+            "affiliation": "University of New South Wales",
+            "name": "Salil S Kanhere"
+        },
+        {
+            "affiliation": "CSIRO",
+            "name": "Raja Jurdak"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "The Internet of Things IoT is experiencing exponential growth in research and industry, but it still suffers from privacy and security vulnerabilities. Conventional security and privacy approaches tend to be inapplicable for IoT, mainly due to its decentralized topology and the resource-constraints of the majority of its devices. BlockChain BC that underpin the crypto-currency Bitcoin have been recently used to provide security and privacy in peer-to-peer networks with similar topologies to IoT. However, BCs are computationally expensive and involve high bandwidth overhead and delays, which are not suitable for IoT devices. This position paper proposes a new secure, private, and lightweight architecture for IoT, based on BC technology that eliminates the overhead of BC while maintaining most of its security and privacy benefits. The described method is investigated on a smart home application as a representative case study for broader IoT applications. The proposed architecture is hierarchical, and consists of smart homes, an overlay network and cloud storages coordinating data transactions with BC to provide privacy and security. Our design uses different types of BCs depending on where in the network hierarchy a transaction occurs, and uses distributed trust methods to ensure a decentralized topology. Qualitative evaluation of the architecture under common threat models highlights its effectiveness in providing security and privacy for IoT applications.",
+    "url": "None"
+}
