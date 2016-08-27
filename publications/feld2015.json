@@ -1,0 +1,25 @@
+{
+  "title": "Traversing Bitcoin's P2P network: insights into the structure of a decentralised currency",
+  "url": "http://www.inderscienceonline.com/doi/pdf/10.1504/IJCSE.2016.078441",
+  "year": 2015,
+  "venue": "International Journal of Computational Science and Engineering",
+  "authors": [
+    {
+      "name": "Sebastian Feld",
+      "affiliation": "Ludwig-Maximilians-Universität München"
+    },
+    {
+      "name": "Mirco Schönfeld",
+      "affiliation": "Ludwig-Maximilians-Universität München"
+    },
+    {
+      "name": "Martin Werner",
+      "affiliation": "Ludwig-Maximilians-Universität München"
+    }
+  ],
+  "abstract": "Lots of existing work addresses the analysis of Bitcoin's publicly available transaction graph. There are evaluations of the user's anonymity and privacy, but no proper measurements of the underlying network. This paper presents novel insights about Bitcoin's P2P network, with a focus on the distribution among autonomous systems. The resilience of Bitcoin's ecosystem, the unambiguousness of the blockchain, the propagation and verification of transaction blocks, but also the anonymity of Bitcoin's users depend on the structure of the global network. Our work is the first thorough analysis of Bitcoin's underlying network, especially with regard to its distribution at autonomous system level. We traversed Bitcoin's network and made statements about the size of the accessible network and the number of clients. Further, we investigated the network's distribution on autonomous systems. Finally, we analysed the mechanism to announce known peers. It turns out that Bitcoin's peer announcement is not well-distributed, affecting information propagation.",
+  "type": "article",
+  "sort-key": 20150000,
+  "peer-reviewed": true,
+  "id": "feld2015"
+}
