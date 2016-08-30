@@ -1,0 +1,21 @@
+{
+    "id": "bag2016yet",
+    "title": "Yet Another Note on Block Withholding Attack on Bitcoin Mining Pools",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160830,
+    "authors": [
+        {
+            "affiliation": "Newcastle University",
+            "name": "Samiran Bag"
+        },
+        {
+            "affiliation": "Kyushu University",
+            "name": "Kouichi Sakurai"
+        }
+    ],
+    "venue": "International Conference on Information Security",
+    "peer-reviewed": true,
+    "abstract": "In this paper we provide a short quantitative analysis of Bitcoin Block Withholding (BWH) Attack. In this study, we investigate the incentive earned by a miner who either independently or at the diktat of a separate mining pool launches Block Withholding attack on a target mining pool. The victim pool shares its earned revenue with the rogue attacker. We investigate the property revenue function of the attacker and find parameters that could maximize the gain of the attacker. We then propose a new concept that we call “special reward”. This special rewarding scheme is aimed at discouraging the attackers by granting additional incentive to a miner who actually finds a block. A BWH attacker who never submits a valid block to the pool will be deprived from this special reward and her gain will be less than her expectation. Depending upon the actual monetary value of the special reward a pool can significantly reduce the revenue of a BWH attacker and thus can even ward off the threat of an attack.",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-45871-7_11"
+}
