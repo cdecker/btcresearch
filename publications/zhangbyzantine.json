@@ -1,0 +1,15 @@
+{
+    "id": "zhangbyzantine",
+    "title": "A Byzantine Fault Tolerance Algorithm for Blockchain",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160901,
+    "authors": [
+        {
+            "name": "Erik Zhang"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This article proposes an improved Byzantine Fault Tolerance algorithm, adjusted for a blockchain system. Hypothetically, in this system, messages may subject to loss, damage, latency and repetition. Also, the sending order may not necessarily be consistent with the receiving order of messages. The activities of nodes could be arbitrary, they may join and quit the network at any time; they may also dump and falsify information or simply stop working. Artificial or non-artificial glitches may occur as well. Our algorithm provides a $f=\floor*{\frac{n-1}{3}} fault tolerance to a consensus system that comprises n nodes. This tolerance capacity includes security and usability and is suited for any network environment",
+    "url": "https://www.antshares.org/Files/A8A0E2.pdf"
+}
