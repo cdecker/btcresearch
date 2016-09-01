@@ -1,0 +1,33 @@
+{
+    "id": "yue2016healthcare",
+    "title": "Healthcare Data Gateways: Found Healthcare Intelligence on Blockchain with Novel Privacy Risk Control",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160901,
+    "authors": [
+        {
+            "affiliation": "Huaqiao University",
+            "name": "Xiao Yue"
+        },
+        {
+            "affiliation": "Zhongnan University of Economics and Law",
+            "name": "Huiju Wang"
+        },
+        {
+            "affiliation": "Zhongnan University of Economics and Law",
+            "name": "Dawei Jin"
+        },
+        {
+            "affiliation": "Zhongnan University of Economics and Law",
+            "name": "Mingqiang Li"
+        },
+        {
+            "affiliation": "Zhongnan University of Economics and Law",
+            "name": "Wei Jiang"
+        }
+    ],
+    "venue": "Journal of Medical Systems",
+    "peer-reviewed": true,
+    "abstract": "Healthcare data are a valuable source of healthcare intelligence. Sharing of healthcare data is one essential step to make healthcare system smarter and improve the quality of healthcare service. Healthcare data, one personal asset of patient, should be owned and controlled by patient, instead of being scattered in different healthcare systems, which prevents data sharing and puts patient privacy at risks. Blockchain is demonstrated in the financial field that trusted, auditable computing is possible using a decentralized network of peers accompanied by a public ledger. In this paper, we proposed an App (called Healthcare Data Gateway (HGD)) architecture based on blockchain to enable patient to own, control and share their own data easily and securely without violating privacy, which provides a new potential way to improve the intelligence of healthcare systems while keeping patient data private. Our proposed purpose-centric access model ensures patient own and control their healthcare data; simple unified Indicator-Centric Schema (ICS) makes it possible to organize all kinds of personal healthcare data practically and easily. We also point out that MPC (Secure Multi-Party Computing) is one promising solution to enable untrusted third-party to conduct computation over patient data without violating privacy.",
+    "url": "http://link.springer.com/article/10.1007/s10916-016-0574-6"
+}
