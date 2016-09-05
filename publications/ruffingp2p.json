@@ -1,0 +1,24 @@
+{
+    "id": "ruffingp2p",
+    "title": "P2P Mixing and Unlinkable Bitcoin Transactions",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160905,
+    "authors": [
+        {
+            "affiliation": "Saarland University",
+            "name": "Tim Ruffing"
+        },
+        {
+            "affiliation": "Purdue University",
+            "name": "Pedro Moreno-Sanchez"
+        },
+        {
+            "affiliation": "Purdue University",
+            "name": "Aniket Kate"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Starting with Dining Cryptographers networks (DC-net), several peer-to-peer (P2P) anonymous communication protocols have been proposed. Despite their strong anonymity guarantees none of those has been employed in practice so far: Most fail to simultaneously handle the crucial problems of slot collisions and malicious peers, while the remaining ones handle those with a significant increased latency (communication rounds) linear in the number of participating peers in the best case, and quadratic in the worst case. We conceptualize these P2P anonymous communication protocols as P2P mixing, and present a novel P2P mixing protocol, DiceMix, that only requires constant (i.e., four) communication rounds in the best case, and 4 + 2f rounds in the worst case of f malicious peers. As every individual malicious peer can prevent a protocol run from success by omitting his messages, we find DiceMix with its worst-case linear-round complexity to be an optimal P2P mixing solution. On the application side, we find DiceMix to be an ideal privacy-enhancing primitive for crypto-currencies such as Bitcoin. The public verifiability of their pseudonymous transactions through publicly available ledgers (or blockchains) makes these systems highly vulnerable to a variety of linkability and deanonymization attacks. DiceMix can allow pseudonymous users to make their transactions unlinkable to each other in a manner fully compatible with the existing systems. We demonstrate the efficiency of DiceMix with a proof-of-concept implementation. In our evaluation, DiceMix requires less than 8 seconds to mix 50 messages (160 bits, i.e., Bitcoin addresses), while the best protocol in the literate requires almost 3 minutes in a very similar setting. As a representative example, we use DiceMix to define a protocol for creating unlinkable Bitcoin transactions. Finally, we discover a generic attack on P2P mixing protocols that exploits the implicit unfairness of a protocol with a dishonest majority to break anonymity. Our attack uses the attacker’s realworld ability to omit some communication from a honest peer to deanonymize her input message. We also discuss how this attack is resolved in our application to crypto-currencies by employing uncorrelated input messages across different protocol runs.",
+    "url": "http://eprint.iacr.org/2016/824.pdf"
+}
