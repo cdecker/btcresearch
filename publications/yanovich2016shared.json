@@ -1,0 +1,24 @@
+{
+    "id": "yanovich2016shared",
+    "title": "Shared Send Untangling in Bitcoin",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160905,
+    "authors": [
+        {
+            "affiliation": "Bitfury Group",
+            "name": "Yuriy Yanovich"
+        },
+        {
+            "affiliation": "Bitfury Group",
+            "name": "Pavel Mischenko"
+        },
+        {
+            "affiliation": "Bitfury Group",
+            "name": "Aleksei Ostrovskiy"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a widely used pseudo-anonymous cryptocurrency. Information about all transactions is stored in the public domain, whereas connections between transacting entities in the Bitcoin network and corresponding real-world entities are private. It is possible to reduce anonymity of the currency by analyzing history of operations and flow of funds using additional information (such as some facts that Bitcoin users have disclosed themselves). Therefore, additional measures to obfuscate transaction history (tangling) are popular among the network users. There are two basic approaches for such tangling: shared send and shared coin mixers. In the paper, the concept of shared send transactions untangling is formalized. We prove NPcompleteness of the shared send mixers detection problem and propose a number of practical modifications to the problem. Finally, we provide the results of our computational experiments to detect mixing schemes.",
+    "url": "http://bitfury.com/content/5-white-papers-research/bitfury_whitepaper_shared_send_untangling_in_bitcoin_8_24_2016.pdf"
+}
