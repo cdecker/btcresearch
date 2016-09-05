@@ -1,0 +1,16 @@
+{
+    "id": "miller2016provable",
+    "title": "Provable Security for Cryptocurrencies",
+    "year": 2016,
+    "type": "phdthesis",
+    "sortkey": 20160905,
+    "authors": [
+        {
+            "affiliation": "University of Maryland",
+            "name": "Andrew Miller"
+        }
+    ],
+    "peer-reviewed": true,
+    "abstract": "The past several years have seen the surprising and rapid rise of Bitcoin and other “cryptocurrencies.” These are decentralized peer-to-peer networks that allow users to transmit money, to compose financial instruments, and to enforce contracts between mutually distrusting peers, and that show great promise as a foundation for financial infrastructure that is more robust, efficient and equitable than ours today. However, it is difficult to reason about the security of cryptocurrencies. Bitcoin is a complex system, comprising many intricate and subtly-interacting protocol layers. At each layer it features design innovations that (prior to our work) have not undergone any rigorous analysis. Compounding the challenge, Bitcoin is but one of hundreds of competing cryptocurrencies in an ecosystem that is constantly evolving. The goal of this thesis is to formally reason about the security of cryptocurrencies, reining in their complexity, and providing well-defined and justified statements of their guarantees. We provide a formal specification and construction for each layer of an abstract cryptocurrency protocol, and prove that our constructions satisfy their specifications. The contributions of this thesis are centered around two new abstractions: “scratch-off puzzles,” and the “blockchain functionality” model. Scratch-off puzzles are a generalization of the Bitcoin “mining” algorithm, its most iconic and novel design feature. We show how to provide secure upgrades to a cryptocurrency by instantiating the protocol with alternative puzzle schemes. We construct secure puzzles that address important and well-known challenges facing Bitcoin today, including wasted energy and dangerous coalitions. The blockchain functionality, $F_\text{BLOCKCHAIN}$, is a general-purpose model of a cryptocurrency rooted in the “Universal Composability” cryptography theory. We use this model to express a wide range of applications, including transparent “smart contracts” (like those featured in Bitcoin and Ethereum), and also privacy-preserving applications like sealed-bid auctions. We also construct a new protocol compiler, called Hawk, which translates user-provided specifications into privacypreserving protocols based on zero-knowledge proofs.",
+    "url": "http://www.cs.umd.edu/~jkatz/THESES/amiller-thesis.pdf"
+}
