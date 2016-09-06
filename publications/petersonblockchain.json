@@ -1,0 +1,24 @@
+{
+    "id": "petersonblockchain",
+    "title": "A Blockchain-Based Approach to Health Information Exchange Networks",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160906,
+    "authors": [
+        {
+            "name": "Kevin Peterson"
+        },
+        {
+            "name": "Rammohan Deeduvanu"
+        },
+        {
+            "name": "Pradip Kanjamala"
+        },
+        {
+            "name": "Kelly Boles"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Sharing healthcare data between institutions is challenging. Heterogeneous data structures may preclude compatibility, while disparate use of healthcare terminology limits data comprehension. Even if structure and semantics could be agreed upon, both security and data consistency concerns abound. Centralized data stores and authority providers are attractive targets for cyber attack, and establishing a consistent view of the patient record across a data sharing network is problematic. In this work we present a Blockchain-based approach to sharing patient data. This approach trades a single centralized source of trust in favor of network consensus, and predicates consensus on proof of structural and semantic interoperability",
+    "url": "https://www.healthit.gov/sites/default/files/12-55-blockchain-based-approach-final.pdf"
+}
