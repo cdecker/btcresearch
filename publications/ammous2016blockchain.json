@@ -1,0 +1,17 @@
+{
+    "id": "ammous2016blockchain",
+    "title": "Blockchain Technology: What is it good for?",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160906,
+    "authors": [
+        {
+            "affiliation": "Columbia University",
+            "name": "Saifedean Hisham Ammous"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This paper explains the functioning of “blockchain technology” and critically assesses its potential role in improving services in banking, contracts, and database systems. Comparing blockchain to the current best practice technology in these fields reveals several barriers to successful commercial implementation: Blockchain technology involves costly redundancies and irreversibility, faces serious scaling problems and significant barriers to complying with regulations, and is a security liability unless secured with its own freely trading currency. A survey of the state of the blockchain industry shows that in eight years since blockchain technology was invented, it has had no commercial applications other than digital cash. The paper concludes that a blockchain is a peculiar engineering design whose only advantage is in removing third party intermediation to allow for the creation of digital cash, and is unlikely to offer economic advantages for any commercial problem other than the one it was specifically engineered to solve.",
+    "cluster": "8277170579439536120",
+    "url": "http://capitalism.columbia.edu/files/ccs/workingpage/2016/ammous_blockchain_technology_.pdf"
+}
