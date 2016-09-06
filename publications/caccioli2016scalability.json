@@ -1,0 +1,25 @@
+{
+    "id": "caccioli2016scalability",
+    "title": "Scalability and Egalitarianism in Peer-to-Peer Networks",
+    "year": 2016,
+    "type": "incollection",
+    "sortkey": 20160906,
+    "authors": [
+        {
+            "affiliation": "University College London",
+            "name": "Fabio Caccioli"
+        },
+        {
+            "affiliation": "University College London",
+            "name": "Giacomo Livan"
+        },
+        {
+            "affiliation": "University College London",
+            "name": "Tomaso Aste"
+        }
+    ],
+    "venue": "Banking Beyond Banks and Money",
+    "peer-reviewed": true,
+    "abstract": "Many information-technology innovations are driven, in their early stages, by an egalitarian ethos that empowers individuals through dis-intermediation. Bitcoin and peer to peer financial systems were inspired by these egalitarian ambitions. However, in bitcoin we have recently witnessed a strong centralization around a few large mining pools, which puts control of most of the system in the hands of a few. In this chapter we investigate the physical limits of distributed consensus mechanisms over networks, and discuss whether there are scalability and efficiency reasons that incentivize centralization. We compute the time to reach majority consensus in a variety of settings, comparing egalitarian networks with centralized networks, and quantifying the effect of network topology on the propagation of information.",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-42448-4_11"
+}
