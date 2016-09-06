@@ -1,0 +1,18 @@
+{
+    "id": "linnblockchain",
+    "title": "Blockchain For Health Data and Its Potential Use in Health IT and Health Care Related Research",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160906,
+    "authors": [
+        {
+            "name": "Laure A Linn"
+        },
+        {
+            "name": "Martha B Koo"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "It is a very exciting time for health care and information technology (IT). Due to improvements in genetic research and the advancement of precision medicine, health care is witnessing an innovative approach to disease prevention and treatment that incorporates an individual patient’s genetic makeup, lifestyle and environment. Simultaneously, IT advancement has produced large databases of health information, provided tools to track health data and engaged individuals more in their own health care. Combining these advancements in health care and information technology would foster transformative change in the field of health IT. The American Recovery and Reinvestment Act required all public and private health care providers to adopt electronic medical records (EMR) by January 1, 2014, in order to maintain their existing Medicaid and Medicare reimbursement levels.  This EMR mandate spurred significant growth in the availability and utilization of EMRs. However, the vast majority of these systems do not have the capacity to share their health data. Blockchain technology has the potential to address the interoperability challenges currently present in health IT systems and to be the technical standard that enables individuals, health care providers, health care entities and medical researchers to securely share electronic health data. In this paper we describe a blockchain based access-control manager to health records that would advance the industry interoperability challenges expressed in the Office of the National Coordinator for Health Information Technology’s (ONC) Shared Nationwide Interoperability Roadmap. Interoperability is also a critical component any infrastructure supporting Patient Centered Outcomes Research (PCOR) and the Precision Medicine Initiative (PMI).  A national health IT infrastructure based on blockchain has far-reaching potential to promote the development of precision medicine, advance medical research and invite patients to be more accountable for their health.",
+    "url": "http://scholar.google.com/https://www.healthit.gov/sites/default/files/11-74-ablockchainforhealthcare.pdf"
+}
