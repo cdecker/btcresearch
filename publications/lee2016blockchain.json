@@ -1,0 +1,19 @@
+{
+    "id": "lee2016blockchain",
+    "title": "Blockchain-based secure firmware update for embedded devices in an Internet of Things environment",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "name": "Boohyung Lee"
+        },
+        {
+            "name": "Jong-Hyouk Lee"
+        }
+    ],
+    "venue": "The Journal of Supercomputing",
+    "peer-reviewed": true,
+    "abstract": "Embedded devices are going to be used extremely in Internet of Things (IoT) environments. The small and tiny IoT devices will operate and communicate each other without involvement of users, while their operations must be correct and protected against various attacks. In this paper, we focus on a secure firmware update issue, which is a fundamental security challenge for the embedded devices in an IoT environment. A new firmware update scheme that utilizes a blockchain technology is proposed to securely check a firmware version, validate the correctness of firmware, and download the latest firmware for the embedded devices. In the proposed scheme, an embedded device requests its firmware update to nodes in a blockchain network and gets a response to determine whether its firmware is up-to-date or not. If not latest, the embedded device downloads the latest firmware from a peer-to-peer firmware sharing network of the nodes. Even in the case that the version of the firmware is up-to-date, its integrity, i.e., correctness of firmware, is checked. The proposed scheme guarantees that the embedded device’s firmware is up-to-date while not tampered. Attacks targeting known vulnerabilities on firmware of embedded devices are thus mitigated.",
+    "url": "http://link.springer.com/article/10.1007/s11227-016-1870-0"
+}
