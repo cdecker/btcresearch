@@ -1,0 +1,15 @@
+{
+    "id": "lee2016arachneum",
+    "title": "Arachneum: Blockchain meets Distributed Web",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "name": "Donghyeon Lee"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Appearance of Bitcoin raise up evolution in currency. Blockchain database also raise up possibilities to share important data between untrusted peers. In this paper, we propose Arachneum, a decentralized, distributed, and model-view-controller-based web service using blockchain and new privileges model. Therefore, we can enjoy the freedom against censorship of government or organizations, keep transparency of our web services, fork our web services, and create/read/update/delete(CRUD) all model-view-controller(MVC) components dynamically.",
+    "url": "http://arxiv.org/abs/1609.02789"
+}
