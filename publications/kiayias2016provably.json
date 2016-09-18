@@ -1,0 +1,32 @@
+{
+    "id": "kiayias2016provably",
+    "title": "A Provably Secure Proof-of-Stake Blockchain Protocol",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "affiliation": "University of Edinburgh",
+            "name": "Aggelos Kiayias"
+        },
+        {
+            "affiliation": "University of Athens",
+            "name": "Ioannis Konstantinou"
+        },
+        {
+            "affiliation": "University of Connecticut",
+            "name": "Alexander Russell"
+        },
+        {
+            "affiliation": "Aarhus University",
+            "name": "Bernardo David"
+        },
+        {
+            "affiliation": "IOHK",
+            "name": "Roman Oliynykov"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "We present a provably-secure blockchain protocol based on “proof of stake.” As far as we are aware, this is the first proof of stake blockchain protocol which provides rigorous security guarantees. The security properties of the system are analyzed in the model of [9] and are comparable to the ones possessed by the bitcoin blockchain protocol which utilizes proof of work. Furthermore, an incentive mechanism for the protocol is also proposed.",
+    "url": "http://eprint.iacr.org/2016/889.pdf"
+}
