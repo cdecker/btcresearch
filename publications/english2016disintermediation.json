@@ -1,0 +1,24 @@
+{
+    "id": "english2016disintermediation",
+    "title": "Disintermediation of Inter-Blockchain Transactions",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "affiliation": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "name": "S Matthew English"
+        },
+        {
+            "affiliation": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "name": "Fabrizio Orlandi"
+        },
+        {
+            "affiliation": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "name": "Soeren Auer"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Different versions of peer-to-peer electronic cash exist as data represented by separate blockchains. Payments between such systems cannot be sent directly from one party to another without going through a financial institution. Bitcoin provided part of the solution but its utility is limited to intra-blockchain transactions. The benefits are lost if a trusted third party is required to execute inter -blockchain transactions. We propose a solution to the inter-blockchain transaction problem using the same fundamental principles of Bitcoin. The protocol is described by the Uberledger framework, a ¨ hierarchical meta-blockchain layer that encapsulates information regarding the fidelity of peer-to-peer transaction facilitators.",
+    "url": "http://arxiv.org/pdf/1609.02598.pdf"
+}
