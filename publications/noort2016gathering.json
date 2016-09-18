@@ -1,0 +1,16 @@
+{
+    "id": "noort2016gathering",
+    "title": "Gathering Intelligence from the Bitcoin Peer-to-Peer network",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "affiliation": "University of Twente",
+            "name": "W Noort"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Since the introduction of the Bitcoin cryptographic currency in 2008, several incidents have occurred that involve criminal activity. Investigations of law enforcement agencies are impeded by the decentralized nature of Bitcoin. To support investigations into criminal activity involving Bitcoin, analysis software such as Cointel is developed that combine several approaches proposed in literature to allow Bitcoin users to be racked. In this work we propose an extension to Cointel to perform analysis on network data that can be obtained by only observing the Bitcoin network. We show that the fraction of transactions that can be associated with the IP address used to spread the transaction increases considerably compared to available literature when other information from Cointel is integrated in the approach. Specically, we propose and analyze three improvements that combine diverse approaches: rstly, input co-occurrence clustering is used to create groups of transactions that were likely introduced by the same Bitcoin node, secondly we analyze the eect of establishing multiple connection to all Bitcoin nodes, and nally we propose a method to detect nodes that have multiple IP addresses. The main limitation of this work is that only transactions introduced by publicly reachable Bitcoin nodes can currently be deanonymized. We also note that associating an IP address to a transactions is only a starting point for further investigation and that educated Bitcoin users can protect themselves from almost any network related attack.",
+    "url": "http://eprints.eemcs.utwente.nl/27161/"
+}
