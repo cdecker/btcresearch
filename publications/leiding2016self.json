@@ -1,0 +1,25 @@
+{
+    "id": "leiding2016self",
+    "title": "Self-managed and blockchain-based vehicular ad-hoc networks",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "affiliation": "University of Göttingen",
+            "name": "Benjamin Leiding"
+        },
+        {
+            "affiliation": "University of Göttingen",
+            "name": "Parisa Memarmoshrefi"
+        },
+        {
+            "affiliation": "University of Göttingen",
+            "name": "Dieter Hogrefe"
+        }
+    ],
+    "venue": "Conference on Pervasive and Ubiquitous Computing: Adjunct",
+    "peer-reviewed": true,
+    "abstract": "Combining Vehicle Ad-hoc Networks (VANETs) and Ethereum's blockchain-based application concepts enables transparent, self-managed and decentralized system which are self-regulating and in no need of a central managing authority.",
+    "url": "http://dl.acm.org/citation.cfm?id=2971409"
+}
