@@ -1,0 +1,16 @@
+{
+    "id": "akmanlar2016creating",
+    "title": "Creating personas from online discussion logs: Case study: Bitcoin users",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "affiliation": "Uppsala University",
+            "name": "Elif Akmanlar"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "Personas are useful design tools that are used for improving the quality of the design and they can be created with the help of various user research methods. However, it is hard for designers to reach out the relevant group of users. Also, it is time and effort consuming to set the interviews & observations with the users and pull the precise information from the gathered data. Moreover, users can recall a limited amount of their memories when they are asked unless they are keeping a diary. This study aims to suggest an alternative user research method by figuring out if the online discussions are capable of supplying the necessary information which will be the basis for the Persona. As a result, a set of procedural steps are designed for analyzing the online discussion content and it is implemented to a case where the community is trying to develop the Bitcoin technology and its usage. It appeared that discussion logs are such a rich source of information which covers the necessary input for Personas. Finally, Bitcoin users are segmented and five vivid Personas are created.",
+    "url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A968116&dswid=7523"
+}
