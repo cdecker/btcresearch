@@ -1,0 +1,21 @@
+{
+    "id": "herrera2016privacy",
+    "title": "Privacy in Bitcoin Transactions: New Challenges from Blockchain Scalability Solutions",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Jordi Herrera-Joancomarti"
+        },
+        {
+            "affiliation": "",
+            "name": "Cristina Perez-Sola"
+        }
+    ],
+    "venue": "Modeling Decisions for Artificial Intelligence",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin has emerged as the most successful cryptocurrency since its appearance back in 2009. However, its main drawback to become a truly global payment system is its low capacity in transaction throughput. At present time, some ideas have been proposed to increase the transaction throughput, with different impact on the scalability of the system. Some of these ideas propose to decouple standard transactions from the blockchain core and to manage them through a parallel payment network, relegating the usage of the bitcoin blockchain only to transactions which consolidate multiple of those off-chain movements. Such mechanisms generate new actors in the bitcoin payment scenario, the Payment Service Providers, and new privacy issues arise regarding bitcoin users. In this paper, we provide a comprehensive description of the most relevant scalability solutions proposed for the bitcoin network and we outline its impact on users’ privacy based on the early stage proposals published so far.",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-45656-0_3"
+}
