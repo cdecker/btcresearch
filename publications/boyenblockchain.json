@@ -1,0 +1,24 @@
+{
+    "id": "boyenblockchain",
+    "title": "Blockchain-Free Cryptocurrencies. A Rational Framework for Truly Decentralised Fast Transactions",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20160918,
+    "authors": [
+        {
+            "affiliation": "QUT",
+            "name": "Xavier Boyen"
+        },
+        {
+            "affiliation": "QUT",
+            "name": "Christopher Carr"
+        },
+        {
+            "affiliation": "QUT",
+            "name": "Thomas Haines"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "We present a radical solution to the two foremost challenges facing “blockchain”-based cryptocurrencies: (1) “mining pool” oligopolies and (2) incompressibility of delays affecting validation. Both problems stem from the Blockchain mechanism itself, which drives participants into a winner-takes-all global contest that amounts to a low-odds high-variance rewards lottery. Our proposal strips out the “blocks”-&-“chain” consolidation mechanism, instead repurposing the atomic transactions as the only system objects. A fully distributed proof of work, coupled with progressive and predictable rewards, is efficiently layered on top of the transaction structure. Without blocks, the cryptographic “chain” of transaction affirmations turns into a directed graph, whose sparseness, timely growth and global convergence are steered by game-theoretic incentives. The transaction affirmation process is cooperative (rather than competitive), to entice all participants to work solitarily at their own pace, rather than in pools at the pace of a blockchain. In the absence of blocks, we develop a framework that enjoys better decentralisation, improved responsiveness and natural scalability. Crucially, most of the key features of cryptocurrencies are transaction-bound rather than blockchain-bound, and are thus compatible with our framework—e.g., scripting, multi denominations, smart contracts, etc.",
+    "url": "http://eprint.iacr.org/2016/871.pdf"
+}
