@@ -1,0 +1,32 @@
+{
+    "id": "heilmantumblebit",
+    "title": "TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160920,
+    "authors": [
+        {
+            "affiliation": "Boston University",
+            "name": "Ethan Heilman"
+        },
+        {
+            "affiliation": "Boston University",
+            "name": "Leen Alshenibr"
+        },
+        {
+            "affiliation": "Boston University",
+            "name": "Foteini Baldimtsi"
+        },
+        {
+            "affiliation": "Boston University",
+            "name": "Alessandra Scafuro"
+        },
+        {
+            "affiliation": "Boston University",
+            "name": "Sharon Goldberg"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "This paper presents TumbleBit, a new unidirectional unlinkable payment hub that is fully compatible with today's Bitcoin protocol. TumbleBit allows parties to make fast, anonymous, off-blockchain payments through an untrusted intermediary called the Tumbler. TumbleBit's anonymity properties are similar to classic Chaumian eCash: no one, not even the Tumbler, can link a payment from its payer to its payee. Every payment made via TumbleBit is backed by bitcoins, and comes with a guarantee that Tumbler can neither violate anonymity, nor steal bitcoins, nor ``print money'' by issuing payments to itself. We prove the security of TumbleBit using the real/ideal world paradigm and the random oracle model. Security follows from the standard RSA assumption and ECDSA unforgeability. We implement TumbleBit, mix payments from 800 users and show that TumbleBit's off-blockchain payments can complete in seconds.",
+    "url": "https://eprint.iacr.org/eprint-bin/getfile.pl?entry=2016/575&version=20160826:221631&file=575.pdf"
+}
