@@ -1,0 +1,24 @@
+{
+    "id": "freysecure",
+    "title": "A Secure Shopping Experience Based on Blockchain and Beacon Technology",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20160920,
+    "authors": [
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Remo Manuel Frey"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Denis Vučkovac"
+        },
+        {
+            "affiliation": "University of St. Gallen",
+            "name": "Alexander Ilic"
+        }
+    ],
+    "peer-reviewed": false,
+    "abstract": "The present work proposes a novel approach for a future shopping system. Customers’ personal data are protected by a blockchainbased storage network. Based on the bitcoin protocol, the system transacts encrypted data in a tamper-proof way and is able to run secure multiparty computations while no one but the data owner has access to the input data. Thus, a potential customer is able to allow a company to apply functions like a recommendation algorithm without revealing personal data. In combination with a low-energy transmitter (beacon), a completely new shopping experience arises. The beacon automatically triggers a recommendation process based on encrypted personal data. The resulting outcome is a recommendation system, a self-checkout system, and a payment system all in one, thereby full anonymity is guaranteed and the customer never lose control on her data.",
+    "url": "http://ceur-ws.org/Vol-1688/paper-03.pdf"
+}
