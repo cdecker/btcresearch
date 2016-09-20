@@ -1,0 +1,25 @@
+{
+    "id": "giechaskiel2016bitcoin",
+    "title": "On Bitcoin Security in the Presence of Broken Cryptographic Primitives",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20160920,
+    "authors": [
+        {
+            "affiliation": "University of Oxford",
+            "name": "Ilias Giechaskiel"
+        },
+        {
+            "affiliation": "University of Oxford",
+            "name": "Cas Cremers"
+        },
+        {
+            "affiliation": "University of Oxford",
+            "name": "Kasper B Rasmussen"
+        }
+    ],
+    "venue": "European Symposium on Research in Computer Security",
+    "peer-reviewed": true,
+    "abstract": "Digital currencies like Bitcoin rely on cryptographic primitives to operate. However, past experience shows that cryptographic primitives do not last forever: increased computational power and advanced cryptanalysis cause primitives to break frequently, and motivate the development of new ones. It is therefore crucial for maintaining trust in a cryptocurrency to anticipate such breakage. We present the first systematic analysis of the effect of broken primitives on Bitcoin. We identify the core cryptographic building blocks and analyze the ways in which they can break, and the subsequent effect on the main Bitcoin security guarantees. Our analysis reveals a wide range of possible effects depending on the primitive and type of breakage, ranging from minor privacy violations to a complete breakdown of the currency. Our results lead to several observations on, and suggestions for, the Bitcoin migration plans in case of broken or weakened cryptographic primitives.",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-45741-3_11"
+}
