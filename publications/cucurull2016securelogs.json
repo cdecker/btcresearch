@@ -1,0 +1,15 @@
+{
+    "id": "cucurull2016securelogs",
+    "title": "Distributed Immutabilization of Secure Logs",
+    "authors": [
+	{"name": "Jordi Cucurull", "affiliation": "Scytl Secure Electronic Voting"},
+	{"name": "Jordi Puigali", "affiliation": "Scytl Secure Electronic Voting"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Security and Trust Management",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-46598-2_9",
+    "abstract": "Several applications require robust and tamper-proof logging systems, e.g. electronic voting or bank information systems. At Scytl we use a technology, called immutable logs, that we deploy in our electronic voting solutions. This technology ensures the integrity, authenticity and non-repudiation of the generated logs, thus in case of any event the auditors can use them to investigate the issue. As a security recommendation it is advisable to store and/or replicate the information logged in a location where the logger has no writing or modification permissions. Otherwise, if the logger gets compromised, the data previously generated could be truncated or altered using the same private keys. This approach is costly and does not protect against collusion between the logger and the entities that hold the replicated data. In order to tackle these issues, in this article we present a proposal and implementation to immutabilize integrity proofs of the secure logs within the Bitcoin’s blockchain. Due to the properties of the proposal, the integrity of the immutabilized logs is guaranteed without performing log data replication and even in case the logger gets latterly compromised.",
+    "type": "inproceedings",
+    "sort-key": 20160923
+}
