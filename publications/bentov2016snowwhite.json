@@ -1,0 +1,15 @@
+{
+    "title": "Snow White: Provably Secure Proofs of Stake",
+    "id": "bentov2016snowwhite",
+    "authors": [
+	{"name": "Iddo Bentov", "affiliation": "Cornell Tech"},
+	{"name": "Rafael Pass", "affiliation": "Cornell Tech"},
+	{"name": "Elaine Shi", "affiliation": "Cornell Tech"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://eprint.iacr.org/2016/919.pdf",
+    "abstract": "Decentralized cryptocurrencies have pushed deployments of distributed consensus to more stringent environments than ever before. Most existing protocols rely on proofs-of-work which require expensive computational puzzles to enforce, imprecisely speaking, “one vote per unit of computation”. The enormous amount of energy wasted by these protocols has been a topic of central debate, and well-known cryptocurrencies have announced it a top priority to alternative paradigms. Among the proposed alternative solutions, proofs-of-stake protocols have been of particular interest, where roughly speaking, the idea is to enforce “one vote per unit of stake”. Although the community have rushed to propose numerous candidates for proofs-of-stake, no existing protocol has offered formal proofs of security, which we believe to be a critical, indispensible ingredient of a distributed consensus protocol, particularly one that is to underly a high-value cryptocurrency system. In this work, we seek to address the following basic questions: • What kind of functionalities and robustness requirements should a consensus candidate offer to be suitable in a proof-of-stake application? • Can we design a provably secure protocol that satisfies these requirements? To the best of our knowledge, we are the first to formally articulate a set of requirements for consensus candidates for proofs-of-stake. We argue that any consensus protocol satisfying these properties can be used for proofs-of-stake, as long as money does not switch hands too quickly. Moreover, we provide the first consensus candidate that provably satisfies the desired robustness properties.",
+    "type": "online",
+    "sort-key": 20160928
+}
