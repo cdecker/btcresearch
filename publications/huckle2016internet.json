@@ -1,0 +1,17 @@
+{
+    "id": "huckle2016internet",
+    "title": "Internet of Things, Blockchain and Shared Economy Applications",
+    "authors": [
+	{"name": "Steve Huckle", "affiliation": "University of Sussex"},
+	{"name": "Rituparna Bhattacharya", "affiliation": "University of Sussex"},
+	{"name": "Martin White", "affiliation": "University of Sussex"},
+	{"name": "Natalia Beloff", "affiliation": "University of Sussex"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Emerging Ubiquitous Systems and Pervasive Networks (EUSPN)",
+    "url": "http://www.sciencedirect.com/science/article/pii/S1877050916322190",
+    "abstract": "This paper explores how the Internet of Things and blockchain technology can benefit shared economy applications. The focus of this research is understanding how blockchain can be exploited to create decentralised, shared economy applications that allow people to monetise, securely, their things to create more wealth. Shared economy applications such as Airbnb and Uber are well-known applications, but there are many other opportunities to share in the digital economy. With the recent interest in the Internet of Things and blockchain, the opportunity exists to create a myriad of sharing applications, e.g. peer-to-peer automatic payment mechanisms, foreign exchange platforms, digital rights management and cultural heritage to name but a few. While many types of shared economy scenarios are proliferating, few of them, so far, leverage the Internet of Things and blockchain as technologies to build distributed applications. This paper discusses how we might make use of the Internet of Things and blockchains to create secure shared economy distributed applications. Presented are examples of such distributed applications in the context of an Internet of Things architecture using blockchain technology.",
+    "type": "inproceedings",
+    "sort-key": 20160928
+}
