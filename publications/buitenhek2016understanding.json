@@ -1,0 +1,14 @@
+{
+    "id": "buitenhek2016understanding",
+    "title": "Understanding and applying Blockchain technology in banking: Evolution or revolution?",
+    "authors": [
+	{"name": "Mark Buitenhek"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Journal of Digital Banking",
+    "url": "http://www.ingentaconnect.com/content/hsp/jdb001/2016/00000001/00000002/art00003",
+    "abstract": "This paper explores the emerging technology of blockchain, the technology that underpins Bitcoin and other cryptocurrencies looking at what the technology is and its potential to disrupt and transform the financial services industry. It highlights the technology's characteristics and explains why these can have a profound impact on the entire financial sector in areas ranging from settlements, payments and identity services, as well as creating new products based on for example ‘smart contracts’. It will give readers an idea of what stage the technology is at—at the top of the Gartner hype cycle and therefore due to enter the ‘trough of disillusionment’ before useful applications start to emerge. The paper also highlights the work that the industry needs to do to make blockchain applications a mainstream part of the financial landscape. It stresses that this is not a technology that a single organisation can hope to perfect to gain an advantage over rivals. Rather, it can help the entire industry by speeding up transactions and making them more secure. But its full potential can only be realised if there is widespread collaboration throughout the sector to explore applications and create common standards.",
+    "type": "inproceedings",
+    "sort-key": 20160928
+}
