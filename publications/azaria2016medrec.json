@@ -1,0 +1,17 @@
+{
+    "id": "azaria2016medrec",
+    "title": "MedRec: Using Blockchain for Medical Data Access and Permission Management",
+    "authors": [
+	{"name": "Asaph Azaria", "affiliation": ""},
+	{"name": "Ariel Ekblaw", "affiliation": ""},
+	{"name": "Thiago Vieira", "affiliation": ""},
+	{"name": "Andrew Lippman", "affiliation": ""}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "venue": "Open Big Data (OBD)",
+    "url": "http://ieeexplore.ieee.org/abstract/document/7573685/",
+    "abstract": "Years of heavy regulation and bureaucratic inefficiency have slowed innovation for electronic medical records (EMRs). We now face a critical need for such innovation, as personalization and data science prompt patients to engage in the details of their healthcare and restore agency over their medical data. In this paper, we propose MedRec: a novel, decentralized record management system to handle EMRs, using blockchain technology. Our system gives patients a comprehensive, immutable log and easy access to their medical information across providers and treatment sites. Leveraging unique blockchain properties, MedRec manages authentication, confidentiality, accountability and data sharing -- crucial considerations when handling sensitive information. A modular design integrates with providers' existing, local data storage solutions, facilitating interoperability and making our system convenient and adaptable. We incentivize medical stakeholders (researchers, public health authorities, etc.) to participate in the network as blockchain &#x0022;miners&#x0022;. This provides them with access to aggregate, anonymized data as mining rewards, in return for sustaining and securing the network via Proof of Work. MedRec thus enables the emergence of data economics, supplying big data to empower researchers while engaging patients and providers in the choice to release metadata. The purpose of this short paper is to expose, prior to field tests, a working prototype through which we analyze and discuss our approach.",
+    "type": "inproceedings",
+    "sort-key": 20160928
+}
