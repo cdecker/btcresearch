@@ -1,0 +1,15 @@
+{
+    "id": "jamthagen2016blockchain",
+    "title": "Blockchain-based publishing layer for the Keyless Signing Infrastructure",
+    "authors": [
+	{"name": "Christopher Jämthagen", "affiliation": "Lund University"},
+	{"name": "Martin Hell", "affiliation": "Lund University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Advanced and Trusted Computing",
+    "url": "http://lup.lub.lu.se/search/record/915d5fb2-d625-43c9-8e8f-0dec9cb5b34b",
+    "abstract": "A Keyless Signing Infrastructure (KSI) provides users with a means to timestamp documents on a per-second basis. The KSI consists of a global infrastructure with several server layers and by using Merkle hash trees, the root hash can be used to verify the integrity and timestamp of a document. Regular publication of root hashes, e.g., once per month, allows a document to be verified without support of the servers, but the previously proposed publication channels have several limitations. In this paper we address these limitations and show how a blockchain can be used as an additional publication layer on top of a KSI. Using the scripting capabilities in transactions, new features are introduced to the publication of root hashes. This includes faster publication, proof of origin for the publisher and the possibility for third parties to explicitly verify root hashes before they are published. These improvements will allow the verification of documents to be simpler, more flexible and more secure.",
+    "type": "inproceedings",
+    "sort-key": 20160928
+}
