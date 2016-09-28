@@ -1,0 +1,14 @@
+{
+    "id": "gabison2016policy",
+    "title": "Policy Considerations for the Blockchain Technology Public and Private Applications",
+    "authors": [
+	{"name": "Garry A. Gabison"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "SMU Science & Technology Law Review",
+    "url": "https://works.bepress.com/garry_gabison/16/",
+    "abstract": "Blockchain technology has been branded as a disruptive technology.  The financial sector has been the first stop but other record keeping industry may be next.  The growth of this technology poses concerns.  This paper investigates the policy concerns that policymakers are likely to face in the near future.  First, this paper looks at how this recording system could provide problems for privacy and for copyright protection.  Second, this paper argues that policymakers may not find that the benefits outweigh the costs of implementing this technology under the current computational systems because of the switching and energy costs.  Finally, this paper argues that blockchain could help advance two goals of government and enhance citizen engagement by keeping easily accessible and transparent record.    ",
+    "type": "inproceedings",
+    "sort-key": 20160928
+}
