@@ -1,0 +1,15 @@
+{
+    "id": "haslhofer2016obitcoin",
+    "title": "O Bitcoin Where Art Thou? Insight into Large-Scale Transaction Graphs.",
+    "authors": [
+	{"name": "Bernhard Haslhofer", "affiliation": "Austrian Institute of Technology"},
+	{"name": "Roman Karl", "affiliation": "Austrian Institute of Technology"},
+	{"name": "Erwin Filtz", "affiliation": "Vienna University of Economics and Business"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://www.graphsense.info/wp-content/uploads/2016/09/2016_SEMANTICS_Bitcoin_Where_Art_Thou.pdf",
+    "abstract": "Bitcoin is a rising digital currency and exemplifies the growing need for systematically gathering and analyzing public transaction data sets such as the blockchain. However, the blockchain in its raw form is just a large ledger listing transfers of currency units between alphanumeric character strings, without revealing contextually relevant real-world information. In this demo, we present GraphSense, which is a solution that applies a graph-centric perspective on digital currency transactions. It allows users to explore transactions and follow the money flow, facilitates analytics by semantically enriching the transaction graph, supports path and graph pattern search, and guides analysts to anomalous data points. To deal with the growing volume and velocity of transaction data, we implemented our solution on a horizontally scalable data processing and analytics infrastructure. Given the ongoing digital transformation in financial services and technologies, we believe that our approach contributes to development of analytics solutions for digital currency ecosystems, which is relevant in fields such as financial analytics, law enforcement, or scientific research.",
+    "type": "article",
+    "sort-key": 20161002
+}
