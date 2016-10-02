@@ -1,0 +1,16 @@
+{
+    "id": "wang2016analysis",
+    "title": "An Analysis of Bitcoin Price Based on VEC Model",
+    "authors": [
+	{"name": "Junpeng Wang", "affiliation": "Beijing University"},
+	{"name": "Yubo Xue", "affiliation": "Beijing University"},
+	{"name": "Minghao Liu", "affiliation": "Beijing University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": " Economics and Management Innovations (ICEMI)",
+    "url": "http://www.atlantis-press.com/php/download_paper.php?id=25859324",
+    "abstract": "As the world's first completely decentralized digital payment system, the emergence of bitcoin represents a revolutionary phenomenon in financial markets. This paper mainly studies the fluctuations of bitcoin price and discusses weather digital currencies represented by bitcoin have the potential to invest. Cointegration analysis and VEC (Vector Error Correction) Model have been performed to demonstrate the relationship between bitcoin price and some variables including stock price index, oil price and daily trading volume of bitcoin. The empirical research indicates that there is long-term equilibrium and short-term dynamic relationship among the four factors. The short run analysis reveals that oil price and bitcoin trading volume have little influence on bitcoin price while stock price index has relatively larger impact on it. In the long run, stock price index and oil price have a negative effect on bitcoin price. On the contrary, the value of bitcoin is positively affected by daily trading volume.",
+    "type": "inproceedings",
+    "sort-key": 20161002
+}
