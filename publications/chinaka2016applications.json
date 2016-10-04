@@ -1,0 +1,13 @@
+{
+    "id": "chinaka2016applications",
+    "title": "Blockchain technology -- applications in improving financial inclusion in developing economies : case study for small scale agriculture in Africa",
+    "authors": [
+	{"name": "Malvern Chinaka", "affiliation": "MIT Sloan School of Management"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://dspace.mit.edu/bitstream/handle/1721.1/104542/958426765-MIT.pdf",
+    "abstract": "Access to appropriate financial services is still a major challenge in many developing economies. Efforts to resolve these challenges are generally included in the wider financial inclusion initiatives, which aim to provide universal access to affordable, quality financial services, which targeted markets will find useful in meeting financial needs. The lack of financial inclusion is generally worse for remote communities that are normally dependent on agriculture for generating an income. In this study, I review some of these challenges, with a particular focus on small scale farming in Africa, highlighting some of the products that these farmers may require but cannot access at the time of writing. The main focus is finance products that farmers cannot access, mostly because they lack suitable assets that banks recognize as collateral to minimize risk. Nevertheless, these farmers hold claim to assets such as livestock, land and harvests, which, unfortunately cannot be easily used as collateral. Technology, may however, be applied to improve the way farmers may benefit from these assets. I review the potential of implementing blockchain technology to facilitate transfer of value based on the assets that farmers cannot fully take advantage of in the current financial system. I review some of the potential pitfalls to applying this technology, with a particular emphasis on the local conditions in the African markets under consideration.",
+    "type": "masterthesis",
+    "sort-key": 20161004
+}
