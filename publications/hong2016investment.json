@@ -1,0 +1,14 @@
+{
+    "id": "hong2016investment",
+    "title": "Bitcoin as an alternative investment vehicle",
+    "authors": [
+	{"name": "KiHoon Hong", "affiliation": "Hongik University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Information Technology and Management",
+    "url": "http://link.springer.com/article/10.1007/s10799-016-0264-6",
+    "abstract": "This paper documents time series momentum in Bitcoin returns. The paper finds persistence in returns for one to 8 weeks that partially reverses over longer horizons, consistent with sentiment theories of initial under-reaction and delayed over-reaction. The time series momentum in Bitcoin returns is similar to that of the other asset returns while the time span is much shorter. This may be due to much quicker nature and shorter term memory of Bitcoin investors. A combined portfolio of S&P500 and Bitcoin momentum strategy shows enhanced expected return, skewness, kurtosis and Value at Risk for given levels of portfolio return volatility. ",
+    "type": "inproceedings",
+    "sort-key": 20161004
+}
