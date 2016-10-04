@@ -1,0 +1,16 @@
+{
+    "id": "ouaddah",
+    "title": "Towards a Novel Privacy-Preserving Access Control Model Based on Blockchain Technology in IoT",
+    "authors": [
+	{"name": "Aafaf Ouaddah", "affiliation": "Cadi Ayyad University"},
+	{"name": "Anas Abou Elkalam", "affiliation": "Cadi Ayyad University"},
+	{"name": "Abdellah Ait Ouahman", "affiliation": "Cadi Ayyad University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Advances in Intelligent Systems and Computing",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-46568-5_53",
+    "abstract": "Access control face big challenges in IoT. Unfortunately, it is hard to implement current access control standards on smart object due to its constrained nature while the introduction of powerful and trusted third party to handle access control logic could harm user privacy. In this work we show how blockchain, the promising technology behind Bitcoin, can be very attractive to face those arising challenges. We therefore propose FairAccess as a new decentralized pseudonymous and privacy preserving authorization management framework that leverages the consistency of blockchain technology to manage access control on behalf of constrained devices.",
+    "type": "inproceedings",
+    "sort-key": 20161004
+}
