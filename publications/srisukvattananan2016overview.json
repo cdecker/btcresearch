@@ -1,0 +1,13 @@
+{
+    "id": "srisukvattananan2016overview",
+    "title": "Overview of blockchain and possible use cases in the Thai payment system",
+    "authors": [
+	{"name": "Yupawadee Srisukvattananan", "affiliation": "MIT Sloan School of Management"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://dspace.mit.edu/bitstream/handle/1721.1/104513/958296233-MIT.pdf",
+    "abstract": "In recent years, there has been a lot of hype and interest around Bitcoin and cryptocurrencies. Following the invention of Bitcoin in 2008, blockchain, the public ledger that supports Bitcoin transaction, has also emerged as a hot topic. Blockchain has attracted attention from many parties around the world including academic scholars, practitioners in many industries, and policymakers in many There are many discussions about whether or not blockchain technology can be beyond its application as a public ledger that records Bitcoin transactions. This paper will start by providing an overview of blockchain technology, including definition, background infonnation, key milestones, costs and benefits, and current applications. The last part of the paper will be an analysis of possible blockchain applications that may potentially help address some concerns in the Thai payment",
+    "type": "masterthesis",
+    "sort-key": 20161004
+}
