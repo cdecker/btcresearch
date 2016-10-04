@@ -1,0 +1,15 @@
+{
+    "id": "abeyratne2016mannufacturing",
+    "title": "Blockchain ready manufacturing supply chain using distributed ledger",
+    "authors": [
+	{"name": "Saveen A. Abeyratne", "affiliation": "Loughborough University"},
+	{"name": "Radmehr P. Monfared", "affiliation": "Loughborough University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": " International Journal of Research in Engineering and Technology",
+    "url": "http://esatjournals.net/ijret/2016v05/i09/IJRET20160509001.pdf~",
+    "abstract": "The blockchain technology as a foundation for distributed ledgers offers an innovative platform for a new decentralized and transparent transaction mechanism in industries and businesses. The inherited characteristics of this technology enhance trust through transparency and traceability within any transaction of data, goods, and financial resources. Despite initial doubts about this technology, recently governments and large corporations have investigated to adopt and improve this technology in various domains of applications, from finance, social and legal industries to design, manufacturing and supply chain networks. In this article, the authors review the current status of this technology and some of its applications. The potential benefit of such technology in manufacturing supply chain is then discussed in this article and a vision for the future blockchain ready manufacturing supply chain is proposed. Manufacturing of cardboard boxes are used as an example to demonstrate how such technology can be used in a global supply chain network. Finally, the requirements and challenges to adopt this technology in the future manufacturing systems are discussed.",
+    "type": "article",
+    "sort-key": 20161004
+}
