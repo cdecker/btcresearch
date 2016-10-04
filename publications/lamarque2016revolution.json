@@ -1,0 +1,13 @@
+{
+    "id": "lamarque2016revolution",
+    "title": "",
+    "authors": [
+	{"name": "Molodie Lamarque", "affiliation": "MIT Sloan School of Management"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://dspace.mit.edu/bitstream/handle/1721.1/104522/958296722-MIT.pdf",
+    "abstract": "The technological revolution of digital and online computing combined with the information revolution paved the way for the emergence of innovations to reshape existing industries and the way we think about traditional services. Even one of the most traditional industries, the financial sector, is being actively disrupted through fintech and the sharing economy. Innovations such as mobile banking, peer-to-peer lending or crowdfunding are challenging existing models and practices. This paper aims to show that blockchain technology has the potential to transform equity markets by offering valuable opportunities to create new products to overcome existing inefficiencies and frictions. The blockchain was first introduced as the technology behind the bitcoin cryptocurrency, and is a trustless, decentralized and secure ledger. It provides an unprecedented way to monitor and execute transactions with no need for intermediaries, and to keep a tamper-proof record of these transactions. This breakthrough technology has gradually gained traction and is now being explored far beyond the scope of bitcoin projects. Even traditional big players in the financial industry are looking for ways to benefit from the blockchain: Nasdaq launched Nasdaq Linq, a blockchain-based equity platform for private companies, and 42 international banks came together to join the R3 consortium to explore blockchain's opportunities.",
+    "type": "masterthesis",
+    "sort-key": 20161004
+}
