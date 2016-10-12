@@ -1,0 +1,14 @@
+{
+    "id": "liu2016coword",
+    "title": "Bitcoin Literature: A Co-word Analysis",
+    "authors": [
+	{"name": "John Liu", "affiliation": "National Taiwan University of Science and Technology"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Economic & Finance Conference",
+    "url": "http://iises.net/proceedings/6th-economics-finance-conference-oecd-headquarters-paris/table-of-content/detail?cid=42&iid=013&rid=6769",
+    "abstract": "A technical article in 2008 and the follow-up open-source software in 2009 released by Satoshi Nakamoto have modified the concept of currency and seem to continue affecting our economic and financial thinking. In less than 8 years, bitcoin, a digital currency, is not only accepted as a mean of payment but also traded in numerous â€˜bitcoin exchangesâ€™, which have accumulated a market capitalization of around 10.7 billion U.S. dollar. The phenomenon raised the interest of scholars across wide disciplines including finance, economics, law, and computer science. Research articles regarding bitcoin has gradually formed a growing body of literature, which reflects the state of the art of bitcoin research. However, there is no systematic survey of this literature up to now. The purpose of this study is to fill the gap by systematically surveying the bitcoin literature in the hope to uncover the main discussion topics and made suggestions for future research. We collect a total of 253 articles directly related to bitcoin from the Scopus database. In addition to providing basic descriptive statistics of this dataset, we apply co-word analysis to separate the literature into groups. This is done by establishing a network in which articles are nodes and co-usage of the key terms links these articles. The network is then separated into groups based on nodesâ€™ similarity in their connectivity. The result is a division of the articles into three groups each contain distinct discussion topics. The first group is a pool of technological articles which elaborates on improving various aspects of bitcoin technology. The second group focuses on bitcoinâ€™s impacts to existing financial system and real economy. The discussions in the third group call for a legal framework to regulate bitcoin and other digital currency. In the end, we model the bitcoin research in a PEST (political, economic, social, and technological) analysis structure and suggest that the influence of bitcoin and the associated technology on society as a whole is a big gap waiting to be filled in future research.",
+    "type": "inproceedings",
+    "sort-key": 20161012
+}
