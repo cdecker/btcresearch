@@ -1,0 +1,17 @@
+{
+    "id": "gervais2016decentralized",
+    "title": "Is Bitcoin a Decentralized Currency?",
+    "authors": [
+	{"name": "Arthur Gervais, , , ", "affiliation": "ETH Zurich"},
+	{"name": "Ghassan O. Karame", "affiliation": "NEC Research Laboratories"},
+	{"name": "Vedran Capkun", "affiliation": "HEC Paris"},
+	{"name": "Srdjan Capkun", "affiliation": "ETH Zurich"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "IEEE Security & Privacy",
+    "url": "https://www.infoq.com/articles/is-bitcoin-a-decentralized-currency/",
+    "abstract": "Bitcoin has witnessed wider adoption and more attention than any other digital currency proposed to date. One reason for this has been the promise of a low-cost and decentralized currency that’s inherently independent of governments and any centralized authority. In this article, we analyze Bitcoin and show that, contrary to widespread belief, it isn’t truly decentralized as it’s deployed and implemented today. We also explore possible solutions to enhance Bitcoin’s decentralization. We hope our fi ndings solicit further research in this area. (For related work on Bitcoin, see the sidebar.)",
+    "type": "online",
+    "sort-key": 20161012
+}
