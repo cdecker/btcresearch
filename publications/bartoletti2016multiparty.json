@@ -1,0 +1,14 @@
+{
+    "id": "bartoletti20162016multiparty",
+    "title": "Constant-deposit multiparty lotteries on Bitcoin",
+    "authors": [
+	{"name": "Massimo Bartoletti", "affiliation": "Università degli Studi di Cagliari"},
+	{"name": "Roberto Zunino", "affiliation": "Università degli Studi di Trento"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://eprint.iacr.org/2016/955.pdf",
+    "abstract": "An active research trend is to exploit the consensus mechanism of cryptocurrencies to secure the execution of distributed applications. In particular, some recent works have proposed fair lotteries which work on Bitcoin. These protocols, however, require a deposit from each player which grows quadratically with the number of players. We propose a fair lottery on Bitcoin which only requires a constant deposit.",
+    "type": "online",
+    "sort-key": 20161012
+}
