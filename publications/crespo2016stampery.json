@@ -1,0 +1,14 @@
+{
+    "id": "crespo2016stampery",
+    "title": "Stampery Blockchain Timestamping Architecture (BTA)",
+    "authors": [
+	{"name": "Adán Sánchez de Pedro Crespo", "affiliation": "Stampery"},
+	{"name": "Luis Ivan Cuende García", "affiliation": "Unpatent"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://www.researchgate.net/profile/Adan_Sanchez_De_Pedro_Crespo/publication/308033741_Stampery_Blockchain_Timestamping_Architecture_BTA/links/57d7dbcf08ae601b39af5b39.pdf",
+    "abstract": "A standardized method for timestamping and anchoring a virtually unlimited amount of data in one or more blockchains, focusing on scalability and cost-effectiveness while ensuring existence, integrity and ownership by using cryptographic proofs that are independently verifiable by anyone in the world without disclosure of the original data.",
+    "type": "online",
+    "sort-key": 20161012
+}
