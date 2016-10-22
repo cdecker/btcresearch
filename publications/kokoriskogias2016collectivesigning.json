@@ -1,0 +1,19 @@
+{
+    "id": "kokoriskogias2016collectivesigning",
+    "title": "Bitcoin Meets Collective Signing",
+    "authors": [
+	{"name": "Eleftherios Kokoris-Kogias", "affiliation": "EPFL"},
+	{"name": "Philipp Jovanovic", "affiliation": "EPFL"},
+	{"name": "Nicolas Gailly", "affiliation": "EPFL"},
+	{"name": "Ismail Khoffi", "affiliation": "EPFL"},
+	{"name": "Linus Gasser", "affiliation": "EPFL"},
+	{"name": "Bryan Ford", "affiliation": "EPFL"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "IEEE Symposium on Security and Privacy",
+    "url": "https://infoscience.epfl.ch/record/220211/files/16-poster_abstract.pdf",
+    "abstract": "While showing great promise, Bitcoin requires users to wait tens of minutes for transactions to commit – even then offering only probabilistic guarantees. This work introduces ByzCoin, a novel Byzantine consensus protocol that leverages scalable collective signing to commit Bitcoin transactions irreversibly within seconds. ByzCoin achieves Byzantine consensus while preserving Bitcoin’s open membership by dynamically forming hash power-proportionate consensus groups representing recently-successful block miners. ByzCoin employs communication trees and achieves a throughput of up to 975 transactions per second (TPS), which is more than Paypal currently handles, with confirmation latencies of 15-20 seconds while mitigating double spending and selfish mining attacks.",
+    "type": "inproceedings",
+    "sort-key": 20161022
+}
