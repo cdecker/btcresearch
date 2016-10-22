@@ -1,0 +1,19 @@
+{
+    "id": "mattila2016industrial",
+    "title": "Industrial Blockchain Platforms: An Exercise in Use Case Development in the Energy Industry",
+    "authors": [
+	{"name": "Juri Mattila", "affiliation": "Research Institute of the Finnish Economy (ETLA)"},
+        {"name": "Time Seppälä", "affiliation": "Research Institute of the Finnish Economy (ETLA)"},
+        {"name": "Catarina Naucler", "affiliation": "Fortum Oyj;"},
+        {"name": "Riitta Stahl", "affiliation": "Fortum Oyj;"},
+        {"name": "Marianne Tikkanen", "affiliation": "Fortum Oyj;"},
+        {"name": "Alexandra Bådenlid", "affiliation": "Fortum Oyj;"},
+        {"name": "Jane Seppälä", "affiliation": "Aalto University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://www.etla.fi/wp-content/uploads/ETLA-Working-Papers-43.pdf",
+    "abstract": "To encourage public discourse on blockchain use case development, this paper provides a pragmatic view on how to develop and to describe blockchain use cases. We approach the issue by developing a tentative use case for autonomous machine-to-machine transactions of electricity in a housing society environment through an iterative process with stakeholders in the energy industry. We proceed by evaluating the outlined concept and its technical specifications against six criteria for a sensible blockchain use case, as identified by blockchain industry specialists. Finally, we conclude with observations and discussion on the use case development process, and its future steps.",
+    "type": "online",
+    "sort-key": 20161022
+}
