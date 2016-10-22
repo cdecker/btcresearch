@@ -1,0 +1,15 @@
+{
+    "id": "filippi2016invisible",
+    "title": "The invisible politics of Bitcoin: governance crisis of a decentralised infrastructure",
+    "authors": [
+	{"name": "Primavera De Filippi", "affiliation": "Harvard University"},
+	{"name": "Benjamin Loveluck", "affiliation": "Université Paris-Saclay"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Internet Policy Review",
+    "url": "https://policyreview.info/articles/analysis/invisible-politics-bitcoin-governance-crisis-decentralised-infrastructure",
+    "abstract": "Bitcoin is a decentralised currency and payment system that seeks to eliminate the need for trusted authorities. It relies on a peer-to-peer network and cryptographic protocols to perform the functions of traditional financial intermediaries, such as verifying transactions and preserving the integrity of the system. This article examines the political economy of Bitcoin, in light of a recent dispute that divided the Bitcoin community with regard to a seemingly simple technical issue: whether or not to increase the block size of the Bitcoin blockchain. By looking at the socio-technical constructs of Bitcoin, the article distinguishes between two distinct coordination mechanisms: governance by the infrastructure (achieved via the Bitcoin protocol) and governance of the infrastructure (managed by the community of developers and other stakeholders). It then analyses the invisible politics inherent in these two mechanisms, which together display a highly technocratic power structure. On the one hand, as an attempt to be self-governing and self-sustaining, the Bitcoin network exhibits a strong market-driven approach to social trust and coordination, which has been embedded directly into the technical protocol. On the other hand, despite being an open source project, the development and maintenance of the Bitcoin code ultimately relies on a small core of highly skilled developers who play a key role in the design of the platform.",
+    "type": "article",
+    "sort-key": 20161022
+}
