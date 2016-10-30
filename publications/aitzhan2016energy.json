@@ -1,0 +1,15 @@
+{
+    "id": "aitzhan2016energy",
+    "title": "Security and Privacy in Decentralized Energy Trading through Multi-signatures, Blockchain and Anonymous Messaging Streams",
+    "authors": [
+	{"name": "Nurzhan Zhumabekuly Aitzhan"},
+	{"name": "Davor Svetinovic", "affiliation": "Masdar Institute of Science and Technology"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Dependable and Secure Computing",
+    "url": "http://ieeexplore.ieee.org/abstract/document/7589035/",
+    "abstract": "Smart grids equipped with bi-directional communication flow are expected to provide more sophisticated consumption monitoring and energy trading. However, the issues related to the security and privacy of consumption and trading data present serious challenges. In this paper we address the problem of providing transaction security in decentralized smart grid energy trading without reliance on trusted third parties.We have implemented a proof-of-concept for decentralized energy trading system using blockchain technology, multi-signatures, and anonymous encrypted messaging streams, enabling peers to anonymously negotiate energy prices and securely perform trading transactions. We conducted case studies to perform security analysis and performance evaluation within the context of the elicited security and privacy requirements.",
+    "type": "inproceedings",
+    "sort-key": 20161030
+}
