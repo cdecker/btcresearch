@@ -1,0 +1,15 @@
+{
+    "id": "conoscenti2016review",
+    "title": "Blockchain for the Internet of Things: a Systematic Literature Review",
+    "authors": [
+	{"name": "Marco Conoscenti", "affiliation": "Politecnico di Torino"},
+	{"name": "Antonio Vetrò", "affiliation": "Politecnico di Torino"},
+	{"name": "Juan Carlos De Martin", "affiliation": "Politecnico di Torino"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://nexa.polito.it/nexacenterfiles/Blockchain%20for%20the%20Internet%20of%20Things%3A%20a%20Systematic%20Literature%20Review.pdf",
+    "abstract": "In the Internet of Things (IoT) scenario, the blockchain and, in general, Peer-to-Peer approaches could play an important role in the development of decentralized and dataintensive applications running on billion of devices, preserving the privacy of the users. Our research goal is to understand whether the blockchain and Peer-to-Peer approaches can be employed to foster a decentralized and private-by-design IoT. As a first step in our research process, we conducted a Systematic Literature Review on the blockchain to gather knowledge on the current uses of this technology and to document its current degree of integrity, anonymity and adaptability. We found 18 use cases of blockchain in the literature. Four of these use cases are explicitly designed for IoT. We also found some use cases that are designed for a private-by-design data management. We also found several issues in the integrity, anonymity and adaptability. Regarding anonymity, we found that in the blockchain only pseudonymity is guaranteed. Regarding adaptability and integrity, we discovered that the integrity of the blockchain largely depends on the high difficulty of the Proof-of-Work and on the large number of honest miners, but at the same time a difficult Proof-of-Work limits the adaptability. We documented and categorized the current uses of the blockchain, and provided a few recommendations for future work to address the above-mentioned issues.",
+    "type": "online",
+    "sort-key": 20161030
+}
