@@ -1,0 +1,15 @@
+{
+    "id": "huckle2016socialism",
+    "title": "Socialism and the Blockchain",
+    "authors": [
+	{"name": "Steve Huckle", "affiliation": "University of Sussex"},
+	{"name": "Martin White", "affiliation": "University of Sussex"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Future Internet",
+    "url": "http://www.mdpi.com/1999-5903/8/4/49/htm",
+    "abstract": "Bitcoin (BTC) is often cited as Libertarian. However, the technology underpinning Bitcoin, blockchain, has properties that make it ideally suited to Socialist paradigms. Current literature supports the Libertarian viewpoint by focusing on the ability of Bitcoin to bypass central authority and provide anonymity; rarely is there an examination of blockchain technology’s capacity for decentralised transparency and auditability in support of a Socialist model. This paper conducts a review of the blockchain, Libertarianism, and Socialist philosophies. It then explores Socialist models of public ownership and looks at the unique cooperative properties of blockchain that make the technology ideal for supporting Socialist societies. In summary, this paper argues that blockchain technologies are not just a Libertarian tool, they also enhance Socialist forms of governance.",
+    "type": "online",
+    "sort-key": 20161030
+}
