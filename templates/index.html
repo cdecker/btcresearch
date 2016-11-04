@@ -37,7 +37,7 @@
     <div class="card table-year" id="table-year-{{ group }}">
       <div class="card-content">
 	<span class="card-title">{{ group }}</span>
-	<table class="table table-striped">
+	<table class="table">
 	  <tbody>
 	    {% for entry in entries %}
 	    <tr class="year-{{ entry.year }} {% if entry['peer-reviewed'] %}peer-reviewed{% endif %}">
