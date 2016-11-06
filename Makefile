@@ -1,5 +1,5 @@
 check:
-	find publications -name \*.json -exec echo -n ' -i ' \; -print0 | xargs jsonschema btcresearch-schema.json
+	jsonschema btcresearch-schema.json `find publications -name \*.json -exec echo -n ' -i ' \; -print0`
 
 site:
 	rm -rf output
