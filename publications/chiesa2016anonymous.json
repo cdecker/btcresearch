@@ -1,0 +1,18 @@
+{
+    "id": "chiesa2016anonymous",
+    "title": "Decentralized Anonymous Micropayments",
+    "authors": [
+	{"name": "Alessandro Chiesa", "affiliation": "UC Berkeley"},
+	{"name": "Matthew Green", "affiliation": "Johns Hopkins University"},
+	{"name": "Jingcheng Liu", "affiliation": "UC Berkeley"},
+	{"name": "Peihan Miao", "affiliation": "UC Berkeley"},
+	{"name": "Ian Miers", "affiliation": "Johns Hopkins University"},
+	{"name": "Pratyush Mishra", "affiliation": "UC Berkeley"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://eprint.iacr.org/2016/1033.pdf",
+    "abstract": "Micropayments (payments worth a few pennies) have numerous potential applications. A challenge in achieving them is that payment networks charge fees that are high compared to “micro” sums of money. Wheeler (1996) and Rivest (1997) proposed probabilistic payments as a technique to achieve micropayments: a merchant receives a macro-value payment with a given probability so that, in expectation, he receives a micro-value payment. Despite much research and trial deployment, micropayment schemes have not seen adoption, partly because a trusted party is required to process payments and resolve disputes. The widespread adoption of decentralized currencies such as Bitcoin (2009) suggests that decentralized micropayment schemes are easier to deploy. Pass and Shelat (2015) proposed several micropayment schemes for Bitcoin, but their schemes provide no more privacy guarantees than Bitcoin itself, whose transactions are recorded in plaintext in a public ledger. We formulate and construct decentralized anonymous micropayment (DAM) schemes, which enable parties with access to a ledger to conduct offline probabilistic payments with one another, directly and privately. Our techniques extend those of Zerocash (2014) with a new privacy-preserving probabilistic payment protocol. One of the key ingredients of our construction is fractional message transfer (FMT), a primitive that enables probabilistic message transmission between two parties, and for which we give an efficient instantiation. Double spending in our setting cannot be prevented. Our second contribution is an economic analysis that bounds the additional utility gain of any cheating strategy, and applies to virtually any probabilistic payment scheme with offline validation. In our construction, this bound allows us to deter double spending by way of advance deposits that are revoked when cheating is detected.",
+    "type": "online",
+    "sort-key": 20161106
+}
