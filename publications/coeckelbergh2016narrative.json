@@ -1,0 +1,15 @@
+{
+    "id": "coeckelbergh2016narrative",
+    "title": "The Blockchain as a Narrative Technology: Investigating the Social Ontology and Normative Configurations of Cryptocurrencies",
+    "authors": [
+	{"name": "Wessel Reijers", "affiliation": "Dublin City University"},
+	{"name": "Mark Coeckelbergh", "affiliation": "University of Vienna"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Philosophy & Technology",
+    "url": "http://link.springer.com/content/pdf/10.1007%2Fs13347-016-0239-x.pdf",
+    "abstract": "In this paper, we engage in a philosophical investigation of how blockchain technologies such as cryptocurrencies can mediate our social world. Emerging blockchain-based decentralised applications have the potential to transform our financial system, our bureaucracies and models of governance. We construct an ontological framework of “narrative technologies” that allows us to show how these technologies, like texts, can configure our social reality. Drawing from the work of Ricoeur and responding to the works of Searle, in postphenomenology and STS, we show how blockchain technologies bring about a process of emplotment: an organisation of characters and events. First, we show how blockchain technologies actively configure plots such as financial transactions by rendering them increasingly rigid. Secondly, we show how they configure abstractions from the world of action, by replacing human interactions with automated code. Third, we investigate the role of people’s interpretative distances towards blockchain technologies: discussing the importance of greater public involvement with their application in different realms of social life.",
+    "type": "article",
+    "sort-key": 20161106
+}
