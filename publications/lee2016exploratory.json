@@ -1,0 +1,15 @@
+{
+    "id": "lee2016exploratory",
+    "title": "Exploratory Simulation Models for Fraudulent Detection in Bitcoin System",
+    "authors": [
+	{"name": "Vincent Lee", "affiliation": "Monash University"},
+	{"name": "Haozheng Wei", "affiliation": "Monash University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Industrial Electronics and Applications (ICIEA)",
+    "url": "http://ieeexplore.ieee.org/abstract/document/7603912/",
+    "abstract": "Bitcoin is gaining more popularity because it is designed initially to reduce the transaction cost and improve the online payment security. It is expected to replace the traditional currencies among online transactions. Building on that, we believe that the security issues during Bitcoin payment must be put in high priority. Therefore, we performed some researches on Double-spending issues. In this paper, the root causes of double spending are discussed, we focus on one possible method of double spending under the circumstance that the network connection status is not stable. We further simulate the attacking in a local area with network impairment. In terms of the reasons and specific conditions of this type of attacking, we propose a new mechanism to help these community merchants to recognize the double spending transactions and defend the related attacking. Finally, an analysis is performed among this defending strategies and it proves that the countermeasures are effective to reduce the double-spending risks.",
+    "type": "inproceedings",
+    "sort-key": 20161106
+}
