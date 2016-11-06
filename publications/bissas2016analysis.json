@@ -1,0 +1,17 @@
+{
+    "id": "bissas2016analysis",
+    "title": "An Analysis of Attacks on Blockchain Consensus",
+    "authors": [
+	{"name": "George Bissas", "affiliation": "University of Massachusetts Amherst"},
+	{"name": "Brian Levine", "affiliation": "University of Massachusetts Amherst"},
+	{"name": "A. Pinar Ozisik", "affiliation": "University of Massachusetts Amherst"},
+	{"name": "Gavin Andresen"},
+	{"name": "Amir Houmansadr", "affiliation": "University of Massachusetts Amherst"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://arxiv.org/pdf/1610.07985.pdf",
+    "abstract": "We present and validate a novel mathematical model of the blockchain mining process and use it to conduct an economic evaluation of the double-spend attack, which is fundamental to all blockchain systems. Our analysis focuses on the value of transactions that can be secured under a conventional double-spend attack, both with and without a concurrent eclipse attack. Our model quantifies the importance of several factors that determine the attack’s success, including confirmation depth, attacker mining power, and any confirmation deadline set by the merchant. In general, the security of a transaction against a double-spend attack increases roughly logarithmically with the depth of the block, made easier by the increasing sum of coin turned-over (between individuals) in the blocks, but more difficult by the increasing proof of work required. In recent blockchain data, we observed a median block turnover value of 6 BTC. Based on this value, a merchant requiring a single confirmation is protected against only attackers that can increase the current mining power by 1% or less. However, similar analysis shows that a merchant that requires a much longer 72 confirmations (≈12 hours) will eliminate all potential profit for any double-spend attacker adding mining power less than 40% of the current mining power.",
+    "type": "online",
+    "sort-key": 20161106
+}
