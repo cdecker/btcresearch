@@ -1,0 +1,15 @@
+{
+    "id": "nadarajah2016inefficiency",
+    "title": "On the Inefficiency of Bitcoin",
+    "authors": [
+	{"name": "Saralees Nadarajah"},
+	{"name": "Jeffrey Chu"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Economics Letters",
+    "url": "http://www.sciencedirect.com/science/article/pii/S0165176516304426",
+    "abstract": "Urquhart (2016) investigated the market efficiency of Bitcoin by means of five different tests on Bitcoin returns. It was concluded that the Bitcoin returns do not satisfy the efficient market hypothesis. We show here that a simple power transformation of the Bitcoin returns do satisfy the hypothesis through the use of eight different tests. The transformation used does not lead to any loss of information.",
+    "type": "article",
+    "sort-key": 20161106
+}
