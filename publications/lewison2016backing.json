@@ -1,0 +1,14 @@
+{
+    "id": "lewison2016backing",
+    "title": "Backing Rich Credentials with a Blockchain PKI",
+    "authors": [
+	{"name": "Karen Lewison"},
+	{"name": "Francisco Corella"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://pomcor.com/techreports/BlockchainPKI.pdf",
+    "abstract": "This is the second of a series of papers describing the results of a project whose goal was to identify five remote identity proofing solutions that can be used as alternatives to knowledge-based verification. This paper describes the second solution, which makes use of a rich credential adapted for use on a blockchain and backed by a blockchain PKI. A rich credential, also used in Solution 1, allows the subject to identify him/herself to a remote verifier with which the subject has no prior relationship by presenting verification factors including possession of a private key, knowledge of a password, and possession of one or more biometric features, with selective disclosure of attributes and selective presentation of verification factors. In Solution 2 the issuer is a bank and the biometric verification factor is speaker recognition, which can be combined with face recognition to defeat voice morphing. The paper describes in detail the concept of a blockchain PKI, and shows that it has remarkable advantages over a traditional PKI, notably the fact that revocation checking is performed on the verifier’s local copy of the blockchain without requiring CRLs or OCSP.",
+    "type": "online",
+    "sort-key": 20161106
+}
