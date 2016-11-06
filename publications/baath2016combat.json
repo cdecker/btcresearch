@@ -1,0 +1,14 @@
+{
+    "id": "baath2016combat",
+    "title": "How to combat money laundering in Bitcoin?",
+    "authors": [
+	{"name": "David Bååth", "affiliation": "Linköpings universitet"},
+	{"name": "Felix Zellhorn", "affiliation": "Linköpings universitet"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://www.diva-portal.org/smash/get/diva2:1039181/FULLTEXT01.pdf",
+    "abstract": "Money laundering is a growing issue which has in later years emigrated more and more to the digital sphere of Bitcoin. Its pseudonymous nature and unrigorous legal definition has made regulation a difficult challenge. This thesis provides a unique take on the Bitcoin money laundering problematique by using incentive structures in place of forced restrictions. The goal is to create, validate and analyze a game theoretic incentive model which aims to combat money laundering by increasing the transaction costs for money laundering Bitcoin users without affecting the transaction costs for the honest users. The results prove the model to be feasible, leading to the conclusion that its real-world application has the potential to combat money laundering in Bitcoin to a significant degree.",
+    "type": "masterthesis",
+    "sort-key": 20161106
+}
