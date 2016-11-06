@@ -1,0 +1,14 @@
+{
+    "id": "poelstra2016mimblewimble",
+    "title": "Mimblewimble",
+    "authors": [
+	{"name": "Andrew Poelstra", "affiliation": "Blockstrean"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Scaling Bitcoin",
+    "url": "http://mimblewimble.cash/20161006-WhitePaperUpdate-e9f45ec.pdf",
+    "abstract": "At about 04:30 UTC on the morning of August 2nd, 2016, an anonymous person using the name Tom Elvis Jedusor signed onto a Bitcoin research IRC channel, dropped a document hosted on a Tor hidden service[Jed16], then signed out. The document, titled Mimblewimble, described a blockchain with a radically different approach to transaction construction from Bitcoin, supporting noninteractive merging and cut-through of transactions, confidential transactions, and full verification of the current chainstate without requiring new users to verify the full history of any coins. Unfortunately, while the paper was detailed enough to comminicate its main idea, it contained no arguments for security, and even one mistake1 . The purpose of this paper is to make precise the original idea, and add further scaling improvements developed by the author. In particular, Mimblewimble shrinks the transaction history such that a chain with Bitcoin’s history would need 15Gb of data to record every transaction (not including the UTXO set, which including rangeproofs, would take over 100Gb). Jedusor left open a problem of how to reduce this; we solve this, and combine it with existing research for compressing proof-of-work blockchains, to reduce the 15Gb to less than a megabyte",
+    "type": "article",
+    "sort-key": 20161106
+}
