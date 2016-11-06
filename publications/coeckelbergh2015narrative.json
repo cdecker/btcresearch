@@ -1,0 +1,18 @@
+{
+  "title": "Cryptocurrencies as narrative technologies",
+  "url": "http://dl.acm.org/citation.cfm?id=2874264",
+  "year": 2015,
+  "venue": "ACM SIGCAS Computers and Society - Special Issue on Ethicomp",
+    "peer-reviewed": true,
+    "authors": [
+    {
+	"name": "Mark Coeckelbergh", "affiliation": "De Montfort University"
+    },
+    {
+      "name": "Wessel Reijers", "affiliation": "Dublin City University"
+    }
+  ],
+    "type": "inproceedings",
+    "id": "coeckelbergh2015",
+    "abstract": "Transitions in monetary technologies raise novel ethical and philosophical questions. One prominent transition concerns the introduction of cryptocurrencies, which are digital currencies based on blockchain technology. Bitcoin is an example of a cryptocurrency. In this paper we discuss ethical issues raised by cryptocurrencies by conceptualising them as what we call \"narrative technologies\". Drawing on the work of Ricoeur and responding to the work of Searle, we elaborate on the social and linguistic dimension of money and cryptocurrencies, and explore the implications of our proposed theoretical framework for the ethics of cryptocurrencies. In particular, taking a social-narrative turn, we argue that technologies have a temporal and narrative character: that they are made sense of by means of individual and collective narratives but also themselves co-constitute those narratives and inter-human and social relations; configuring events in a meaningful temporal whole. We show how cryptocurrencies such as Bitcoin dynamically re-configure social relations and explore the consequent ethical implications."
+}
