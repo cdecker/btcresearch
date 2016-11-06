@@ -1,0 +1,16 @@
+{
+    "id": "bag2016withholding",
+    "title": "Bitcoin Block Withholding Attack: Analysis and Mitigation",
+    "authors": [
+	{"name": "Samiran Bag", "affiliation": "Newcastle University"},
+	{"name": "Sushmita Ruj"},
+	{"name": "Koichi Sakurai"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Information Forensics and Security",
+    "url": "http://ieeexplore.ieee.org/document/7728010/",
+    "abstract": "We address two problems: firstly, we study a variant of block withholding (BWH) attack in Bitcoins and secondly, we propose solutions to prevent all existing types of BWH attacks in Bitcoins. We analyze the strategies of a selfish Bitcoin miner who in connivance with one pool attacks another pool and receives reward from the former mining pool for attacking the latter. We name this attack as ‘sponsored block withholding attack’. We present detailed quantitative analysis of the monetary incentive that a selfish miner can earn by adopting this strategy under different scenarios. We prove that under certain conditions, the attacker can maximize her revenue by adopting some strategies and by utilizing her computing power wisely. We also show that an attacker may use this strategy for attacking both the pools for earning higher amount of incentives. More importantly, we present a strategy that can effectively counter block withholding attack in any mining pool. First, we propose a generic scheme that uses cryptographic commitment schemes to counter BWH attack. Then we suggest an alternative implementation of the same scheme using hash function. Our scheme protect a pool from rogue miners as well as rogue pool administrators. The scheme and its variant defend against BWH attack by making it impossible for the miners to distinguish between a partial proof of work and a complete proof of work. The scheme is so designed that the administrator cannot cheat on the entire pool. The scheme can be implemented by making minor changes to existing Bitcoin protocol. We also analyze the security of the scheme.",
+    "type": "inproceedings",
+    "sort-key": 20161106
+}
