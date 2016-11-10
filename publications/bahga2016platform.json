@@ -1,0 +1,15 @@
+{
+    "id": "",
+    "title": "",
+    "authors": [
+	{"name": "Arshdeep Bahga", "affiliation": "Georgia Institute of Technology"},
+	{"name": "Vijay K. Madisetti", "affiliation": "Georgia Institute of Technology"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Journal of Software Engineering and Applications",
+    "url": "http://file.scirp.org/pdf/JSEA_2016102814012798.pdf",
+    "abstract": "Internet of Things (IoT) are being adopted for industrial and manufacturing applications such as manufacturing automation, remote machine diagnostics, prognostic health management of industrial machines and supply chain management. CloudBased Manufacturing is a recent on-demand model of manufacturing that is leveraging IoT technologies. While Cloud-Based Manufacturing enables on-demand access to manufacturing resources, a trusted intermediary is required for transactions between the users who wish to avail manufacturing services. We present a decentralized, peer-to-peer platform called BPIIoT for Industrial Internet of Things based on the Block chain technology. With the use of Blockchain technology, the BPIIoT platform enables peers in a decentralized, trustless, peer-to-peer network to interact with each other without the need for a trusted intermediary.",
+    "type": "article",
+    "sort-key": 20161110
+}
