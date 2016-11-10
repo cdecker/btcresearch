@@ -1,0 +1,15 @@
+{
+    "id": "kow2016cultural",
+    "title": "\"Hey, I know what this is!\": Cultural Affinities and Early Stage Appropriation of the Emerging Bitcoin Technology",
+    "authors": [
+	{"name": "Yong Ming Kow", "affiliation": "City University of Hong Kong"},
+	{"name": "Xianghua Ding", "affiliation": "Fudan University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "International Conference on Supporting Group Work",
+    "url": "http://dl.acm.org/citation.cfm?id=2957279",
+    "abstract": "User appropriation can be immensely helpful to bootstrap emerging technologies; but how do new and lesser known technologies attract these earliest adopters? This paper investigates user appropriation of emerging computing technologies, by focusing on Bitcoin, a digital monetary system supported by a peer-to-peer network of computing devices. We conducted in-depth interviews with sixteen Bitcoin community participants in Hong Kong, Singapore, and Baltimore. We describe user appropriation in this case of Bitcoin as a sociocultural journey-from encounter, research and learning, to socialization. We contribute the concept of cultural affinities, including conceptual, contextual and social dimensions, as important mediators leading to early-stage user appropriation.",
+    "type": "inproceedings",
+    "sort-key": 20161110
+}

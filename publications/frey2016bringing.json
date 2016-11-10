@@ -1,0 +1,18 @@
+{
+    "id": "frey2016bringing",
+    "title": "Bringing secure Bitcoin transactions to your smartphone",
+    "authors": [
+	{"name": "Davide Frey", "affiliation": "Inria Rennes"},
+	{"name": "Marc X. Makkes", "affiliation": "Vrije Universiteit Amsterdam"},
+	{"name": "Pierre-Louis Roman", "affiliation": "University of Rennes"},
+	{"name": "François Taïani", "affiliation": "University of Rennes"},
+	{"name": "Spyros Voulgaris", "affiliation": "Vrije Universiteit Amsterdam"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Adaptive and Reflective Middleware (ARM)",
+    "url": "https://hal.inria.fr/hal-01384461/document",
+    "abstract": "To preserve the Bitcoin ledger’s integrity, a node that joins the system must download a full copy of the entire Bitcoin blockchain if it wants to verify newly created blocks. At the time of writing, the blockchain weights 79 GiB and takes hours of processing on high-end machines. Owners of low-resource devices (known as thin nodes), such as smartphones, avoid that cost by either opting for minimum veri- fication or by depending on full nodes, which weakens their security model. In this work, we propose to harden the security model of thin nodes by enabling them to verify blocks in an adaptive manner, with regards to the level of targeted confidence, with low storage requirements and a short bootstrap time. Our approach exploits sharding within a distributed hash table (DHT) to distribute the storage load, and a few additional hashes to prevent attacks on this new system.",
+    "type": "article",
+    "sort-key": 20161110
+}

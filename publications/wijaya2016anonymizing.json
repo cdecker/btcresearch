@@ -1,0 +1,18 @@
+{
+    "id": "wijaya2016anonymizing",
+    "title": "Anonymizing Bitcoin Transaction",
+    "authors": [
+	{"name": "Dimaz Ankaa Wijaya", "affiliation": "Monash University"},
+	{"name": "Joseph K. Liu", "affiliation": "Monash University"},
+	{"name": "Ron Steinfeld", "affiliation": "Monash University"},
+	{"name": "Shi-Feng Sun", "affiliation": "Shanghai Jiao Tong University"},
+	{"name": "Xinyi Huang", "affiliation": "Fujian Normal University"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "Information Security Practice and Experience",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-49151-6_19",
+    "abstract": "Bitcoin is a new online decentralised payment system equipped by a cryptographic system which runs in a peer-to-peer network. While it denies any central authority, it can still verify and validate the transactions by its protocol. To make the transactions accountable, Bitcoin uses an open database which can be seen and checked by anyone. Despite no direct relationship between the Bitcoin transactions and the identity of the users, the information about the users can still be gathered by analysing the information contained in the transactions. We propose a protocol which minimises the relationship between the transactions to protect the information of the payer from the curious payee.",
+    "type": "inbook",
+    "sort-key": 20161110
+}
