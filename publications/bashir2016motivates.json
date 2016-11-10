@@ -1,0 +1,15 @@
+{
+    "id": "bashir2016motivates",
+    "title": "What Motivates People to Use Bitcoin?",
+    "authors": [
+	{"name": "Masooda Bashir", "affiliation": "University of Illinois"},
+	{"name": "Beth Strickland", "affiliation": "University of Illinois"},
+	{"name": "Jeremiah Bohr", "affiliation": "University of Wisconsin"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-47874-6_25",
+    "abstract": "Bitcoin, a virtual currency that employs a novel technology that engenders trust and value in a decentralized peer-to-peer network, has exploded in use since it was first introduced in 2009. Yet, despite this explosive growth, researchers have barely started to investigate who uses Bitcoin, how and why they are used, and what the growth of virtual currency means for society. This paper examines Bitcoin as a currency, software platform, and community. It discusses the background of the virtual currency and presents the results of one of the first exploratory surveys to ask Bitcoin users and nonusers alike their opinions about Bitcoin and how these opinions relate to personal and cultural values. We examine how these views about Bitcoin are informed by attitudes towards money, technology, government, and social structure. ",
+    "type": "inbook",
+    "sort-key": 20161110
+}

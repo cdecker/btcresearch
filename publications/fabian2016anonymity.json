@@ -1,0 +1,15 @@
+{
+    "id": "fabian2016anonymity",
+    "title": "Anonymity in Bitcoin – The Users’ Perspective",
+    "authors": [
+	{"name": "Benjamin Fabian", "affiliation": "Hochschule für Telekommunikation Leipzig"},
+	{"name": "Tatiana Ermakova", "affiliation": "University of Potsdam"},
+	{"name": "Ulrike Sander", "affiliation": "Humboldt-Universität zu Berlin"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "https://www.researchgate.net/profile/Benjamin_Fabian/publication/308648091_Anonymity_in_Bitcoin_-_The_Users'_Perspective/links/57f7319608ae886b8981d51d.pdf",
+    "abstract": "This article analyzes how users perceive the degree of anonymity provided by the Bitcoin network, to what extent they are concerned about anonymity when using Bitcoin, whether they are knowledgeable of and concerned about specific deanonymization attacks, and if they are aware of and adopt privacy-preserving countermeasures. A user survey with 125 active Bitcoin users reveals that 70% associate a medium or high level of anonymity with the Bitcoin network and rate their concerns as either low or medium. But almost every fifth user has already considered abandoning Bitcoin because of being concerned about anonymity. Though one third are aware of the risk of de-anonymizing the Blockchain but are not concerned, another almost 50% indeed feel concerned. Our findings have implications for users and developers, suggesting that actions should be undertaken to increase privacy awareness and the level of anonymity provided by the Blockchain and the Bitcoin network. ",
+    "type": "online",
+    "sort-key": 20161110
+}
