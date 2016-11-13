@@ -1,0 +1,15 @@
+{
+    "id": "abramova2016perceived",
+    "title": "Perceived Benefit and Risk as Multidimensional Determinants of Bitcoin Use: A Quantitative Exploratory Study",
+    "authors": [
+	{"name": "Svetlana Abramova", "affiliation": "University of Münster"},
+	{"name": "Rainer Böhme", "affiliation": "University of Innsbruck"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "International Conference on Information Systems",
+    "url": "http://informationsecurity.uibk.ac.at/pdfs/Abramova2016_Bitcoin_ICIS.pdf",
+    "abstract": "Over recent years, the innovative decentralized payment system Bitcoin has received much attention in practice and academia. Despite a growth of transaction volume and an increasing attention in the area of e-commerce, there is little academic research examining the factors influencing adoption. To fill this research gap, this paper documents an exploratory study of the key determinants and inhibitors of Bitcoin use. Drawing upon the Technology Acceptance Model and a literature review, we integrate various benefits and risks of Bitcoin use to form the multidimensional constructs Perceived Benefit and Perceived Risk. We propose and empirically test a theoretical model that explains the use of Bitcoin as an online payment system for legitimate purchases and money transfers. Furthermore, we recognize several conceptual and methodological development potentialities for technology acceptance theories in the context of decentralized and sharing economy systems.",
+    "type": "inproceedings",
+    "sort-key": 20161113
+}
