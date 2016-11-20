@@ -1,0 +1,16 @@
+{
+    "id": "saliba2016early",
+    "title": "An Early Warning System For Bitcoin Prices",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20161120,
+    "authors": [
+        {
+            "affiliation": "University of Malta",
+            "name": "Ian Saliba"
+        }
+    ],
+    "url": "https://www.um.edu.mt/library/oar/handle/123456789/13666",
+    "peer-reviewed": false,
+    "abstract": "The purpose of my dissertation is to study the behaviour of Bitcoin Prices by going through all of the main variables which I believe would have an impact on prices. Bitcoin is a cryptocurrency also known as virtual currency since it uses cryptographic mathematical equation to secure transactions automatically. Many believe that Bitcoin is a decentralized virtual currency that is there is no control over it by any central government or entity. In its early days Bitcoin prices were really low not even reaching 1 US dollar in its first few years. Just by observing the graph for Bitcoin prices one can notice that since 2013 prices have exploded reaching their latent later that year. In my dissertation I built two different models using Bitcoin prices as the dependent variable. The first model is the ‘normal period’ where prices have been moving consistently around the mean. The second model is the ‘extreme period’ which is when price have soared up in just a few days. My intention is to compare the two models and spot any differences in the coefficient diagnostic. "
+}
