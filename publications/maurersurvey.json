@@ -1,0 +1,16 @@
+{
+    "id": "maurersurvey",
+    "title": "A Survey On Approaches To Anonymity In Bitcoin And Other Cryptocurrencies",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161120,
+    "authors": [
+        {
+            "affiliation": "Karlsruhe Institute for Technology",
+            "name": "Felix Konstantin Maurer"
+        }
+    ],
+    "url": "https://pdfs.semanticscholar.org/fc95/f699a4f184b8ee5875d874c9bb872b95296a.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a crypto currency with several advantages over previous approaches. Transactions are confirmed and stored by a peer-to-peer network in a blockchain. Therefore, all transactions are public and soon solutions where designed to increase privacy in Bitcoin Many come with downsides, like requiring a trusted third-party or requiring modi®cations to Bitcoin. In this paper, we compare these approaches according to several criteria. Based on our ®ndings, CoinJoin emerges as the best approach for anonymizing Bitcoins today."
+}
