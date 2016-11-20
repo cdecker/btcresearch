@@ -1,0 +1,20 @@
+{
+    "id": "fabertowards",
+    "title": "Towards A Blockchain Enabled Social Contract For Sustainability",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161120,
+    "authors": [
+        {
+            "affiliation": "Radboud University",
+            "name": "Niels R Faber"
+        },
+        {
+            "affiliation": "University of Groningen",
+            "name": "Henk Hadders"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Niels_Faber/publication/303923175_Towards_a_blockchain_enabled_social_contract_for_sustainability_-_Creating_a_fair_and_just_operating_system_for_humanity/links/575e795c08ae414b8e52ca40.pdf",
+    "peer-reviewed": false,
+    "abstract": "This conceptual paper explores the potential use of blockchain technology as an infrastructure for new social contracts for sustainability. We aim to provide an answer to the question to what extend the principles of blockchain technology are suitable to enable social contracts for sustainability. A four layer blockchain architecture is suggested to provide an architecture for blockchain enabled social contracts for sustainability, comprised of blockchains for resource ‘use’, ‘access’, and ‘norms’. A fourth ‘root’ layer is included to enforce non­substitutability between resources. We provide an example of the use of a water resource by a variety of stakeholders. Because of its distributed nature, a blockchain enable social contract for sustainability inherently provides transparency, neutrality, near­zero transaction costs, and real­time insight into sustainability."
+}
