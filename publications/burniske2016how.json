@@ -1,0 +1,16 @@
+{
+    "id": "burniske2016how",
+    "title": "How Blockchain Technology Can Enhance EHR Operability",
+    "authors": [
+	{"name": "Chris Burniske", "affiliation": "Ark Invest"},
+	{"name": "Emily Vaughn", "affiliation": "Gem"},
+	{"name": "Jeff Shelton", "affiliation": "Gem"},
+	{"name": "Alex Cahana", "affiliation": "Ark Invest"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARKInvest_and_GEM_Blockchain_EHR.pdf",
+    "abstract": "In healthcare, information is not only private, it is proprietary. While doctors and patients yearn for a digital and unified patient record, the infrastructure required to accomplish this doesn’t exist yet. A blockchain could be a public catalog of health records that references databases, fitness and medical devices, mobile phones, and laptops. It could be used to connect every patient, healthcare provider, and payer to a secure, yet public network. A blockchain also could enable the interoperability of private health networks. Users would be able to trust the blockchain infrastructure in a healthcare context because it would automate the integrity of the data exchange. Not only would users know if their data had been manipulated, they would see exactly how it was done. ",
+    "type": "online",
+    "sort-key": 20161120
+}
