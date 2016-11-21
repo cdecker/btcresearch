@@ -1,0 +1,44 @@
+{
+    "id": "sytascalable",
+    "title": "Scalable Bias-Resistant Distributed Randomness",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161121,
+    "authors": [
+        {
+            "affiliation": "Trinity College, Hartford",
+            "name": "Ewa Syta"
+        },
+        {
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Philipp Jovanovic"
+        },
+        {
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Eleftherios Kokoris Kogias"
+        },
+        {
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Nicolas Gailly"
+        },
+        {
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Linus Gasser"
+        },
+        {
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Ismail Khoffi"
+        },
+        {
+            "affiliation": "Yale University",
+            "name": "Michael J Fischer"
+        },
+        {
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Bryan Ford"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2016/1067.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bias-resistant public randomness is a critical component required in many (distributed) protocols. Generating public randomness is hard, however, because active adversaries behave dishonestly in order to bias public random choices toward their advantage. Existing solutions do not scale to hundreds or thousands of participants, as is needed in many decentralized systems. In response, we propose two large-scale, distributed protocols, RandHound and RandHerd, which provide publicly-verifiable, unpredictable, and unbiasable randomness against Byzantine adversaries. RandHound relies on an untrusted client to divide a set of randomness servers into groups for scalability, and it depends on the pigeonhole principle to ensure output integrity, even for non-random, adversarial group choices. RandHerd implements an efficient, decentralized randomness beacon. RandHerd is structurally similar to a BFT protocol, but uses RandHound in a one-time setup to arrange participants into verifiably unbiased random secret-sharing groups, which are then repeatedly used to produce random output at predefined intervals. Our prototype demonstrates that RandHound and RandHerd achieve good performance across hundreds of participants while retaining a low failure-probability, by properly selecting protocol parameters such as a group size and secret-sharing threshold. For example, when sharding 512 nodes into groups of 32, our experiments show that RandHound can produce fresh random output after 240 seconds, whereas RandHerd, after a setup phase of 260 seconds, is able to generate fresh random output in intervals of approximately 6 seconds. For this configuration, our analysis indicates that both protocols operate at a failure probability of at most 0.08% against a Byzantine adversary."
+}

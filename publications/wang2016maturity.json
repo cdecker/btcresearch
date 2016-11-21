@@ -1,0 +1,25 @@
+{
+    "id": "wang2016maturity",
+    "title": "A Maturity Model For Blockchain Adoption",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161121,
+    "authors": [
+        {
+            "affiliation": "South University of Science and Technology of China",
+            "name": "Huaiqing Wang"
+        },
+        {
+            "affiliation": "South University of Science and Technology of China",
+            "name": "Kun Chen"
+        },
+        {
+            "affiliation": "South University of Science and Technology of China",
+            "name": "Dongming Xu"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1186/s40854-016-0031-z",
+    "venue": "Financial Innovation",
+    "peer-reviewed": true,
+    "abstract": "The rapid development of the blockchain technology and its various applications has rendered it important to understand the guidelines for adopting it"
+}

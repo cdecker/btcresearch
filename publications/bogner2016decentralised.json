@@ -1,0 +1,25 @@
+{
+    "id": "bogner2016decentralised",
+    "title": "A Decentralised Sharing App Running A Smart Contract On The Ethereum Blockchain",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20161121,
+    "authors": [
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Andreas Bogner"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Mathieu Chanson"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Arne Meeuw"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=2998465",
+    "venue": "International Conference on the Internet of Things",
+    "peer-reviewed": true,
+    "abstract": "The sharing economy, the business of collectively using privately owned objects and services, has fuelled some of the fastest growing businesses of the past years. However, popular sharing platforms like Airbnb or Uber exhibit several drawbacks: a cumbersome sign up procedure, lack of participant privacy, overbearing terms and conditions, and significant fees for users. We demonstrate a Decentralised App (DAPP) for the sharing of everyday objects based on a smart contract on the Ethereum blockchain. This contract enables users to register and rent devices without involvement of a Trusted Third Party (TTP), disclosure of any personal information or prior sign up to the service. With increasing distribution of cryptocurrencies the use of smart contracts such as proposed in this paper has the potential to revolutionise the sharing economy. "
+}
