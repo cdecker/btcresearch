@@ -1,0 +1,16 @@
+{
+    "id": "de2016blockchain",
+    "title": "Blockchain And The Securities Industry: Towards A New Ecosystem",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161122,
+    "authors": [
+        {
+            "name": "Carlo RW de Meijer"
+        }
+    ],
+    "url": "http://www.ingentaconnect.com/content/hsp/jsoc/2016/00000008/00000004/art00007",
+    "venue": "Journal of Securities Operations & Custody",
+    "peer-reviewed": true,
+    "abstract": "Blockchain — also referred to as distributed ledger — is currently one of the most discussed topics in the financial world. It has attracted a lot of interest from banks, exchanges and other players in the securities industry. They are increasingly taking this technology seriously and realising its potential to cause disruption to existing transaction processing. This may bring various benefits in terms of settlement and transaction speed, operational efficiency, transparency and cost reduction. However, a topic that is still under-exposed in the discussion around blockchain is what the future post-trade market infrastructure will look like, as well as the roles of the various players in the securities industry in a blockchain environment."
+}

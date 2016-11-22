@@ -1,0 +1,21 @@
+{
+    "id": "berberich2016practitioner",
+    "title": "Practitioner'S Corner\u2219 Blockchain Technology And The Gdpr--How To Reconcile Privacy And Distributed Ledgers?",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161122,
+    "authors": [
+        {
+            "affiliation": "Humboldt University Berlin",
+            "name": "Matthias Berberich"
+        },
+        {
+            "affiliation": "Stiftung Neue Verantwortung",
+            "name": "Malgorzata Steiner"
+        }
+    ],
+    "url": "http://edpl.lexxion.eu/data/article/10107/pdf/edpl_2016_03-022.pdf",
+    "venue": "European Data Protection Law Review",
+    "peer-reviewed": true,
+    "abstract": "Blockchain technology raises a multitude of legal questions that are still in early stages of discussion. While legal research is so far mainly focused on financial regulation of cryptocurrencies, distributed ledger technology in general brings considerable privacy implications. While the EU Commission expects the new General Data Protection Regulation and its technological neutrality to enable ‘innovation to continue to thrive under the new rules,’ some features of Blockchain pose questions under EU data protection principles."
+}

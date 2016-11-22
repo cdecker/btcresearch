@@ -1,0 +1,29 @@
+{
+    "id": "anceaume2016safety",
+    "title": "Safety Analysis Of Bitcoin Improvement Proposals",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20161122,
+    "authors": [
+        {
+            "affiliation": "IRISA",
+            "name": "Emmanuelle Anceaume"
+        },
+        {
+            "affiliation": "IRISA",
+            "name": "Thibaut Lajoie-Mazenc"
+        },
+        {
+            "affiliation": "ENSAI",
+            "name": "Romaric Ludinard"
+        },
+        {
+            "affiliation": "INRIA RBA",
+            "name": "Bruno Sericola"
+        }
+    ],
+    "url": "https://hal.archives-ouvertes.fr/hal-01397685/document",
+    "venue": "Network Computing and Applications",
+    "peer-reviewed": true,
+    "abstract": "Decentralized cryptocurrency systems offer a medium of exchange secured by cryptography, without the need of a centralized banking authority. Among others, Bitcoin is considered as the most mature one. Its popularity lies on the introduction of the concept of the blockchain, a public distributed ledger shared by all participants of the system. Double spending attacks and blockchain forks are two main issues in blockchainbased protocols. The first one refers to the ability of an adversary to use the very same bitcoin more than once, while blockchain forks cause transient inconsistencies in the blockchain. We show through probabilistic analysis that the reliability of recent solutions that exclusively rely on a particular type of Bitcoin actors, called miners, to guarantee the consistency of Bitcoin operations, drastically decreases with the size of the blockchain."
+}

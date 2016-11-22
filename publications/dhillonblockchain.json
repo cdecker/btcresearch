@@ -1,0 +1,15 @@
+{
+    "id": "dhillonblockchain",
+    "title": "Blockchain-Enabled Open Science Framework",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161122,
+    "authors": [
+        {
+            "name": "Vikram Dhillon"
+        }
+    ],
+    "url": "https://www.oreilly.com/ideas/blockchain-enabled-open-science-framework",
+    "peer-reviewed": false,
+    "abstract": "Open dissemination of scientific research and data is a prerequisite for solving the reproducibility crisis. The problem of low reproducibility is plaguing all disciplines, but its impact is much worse in preclinical research and development. Further clinical R&D into drug candidates and targets is turning up wasteful because published results can't be replicated (Freedman 2015, Begley 2012). There are similar problems with clinical research: Drug trials are published with mostly positive data supporting the claims, and negligible negative data (Ioannidis 2015). In this article, the discussion will mostly remain limited to preclinical research outcomes. The lack of replicability can be attributed to two broad reasons: a lack of consensus on protocols being used in research labs and the level of access to tools and equipment required for performing experiments. There are numerous methods that can be used to solve a problem, and domain-specific researchers often have their own versions of protocols which work optimally in their lab. This creates obvious problems for independent verification of results and claims. Moreover, not every lab has access to high-end equipment. Many researchers have to substitute lower-end techniques which may affect the overall accuracy. To solve these problems and standardize research equipment, we need the scientific community to reach a consensus on specific protocols and also provide generalized methods with sufficient flexibility for minor substitutions. To get higher returns, investors specializing in the life-science research domain are interested in investing at the preclinical stages. But they often require some level of screening before making an investment. Traditionally, startups looking for investment have to partner with established institutions and go through thorough due diligence. Once those partnerships are established, the investors are more willing to consider making an investment. Currently, there is no independent vetting mechanism that would let biopharma companies demonstrate their ability to translate early research into promising drug candidates. In this article, I propose making the process of commercializing preclinical research more reproducible and transparent by basing it on a blockchain. This effort will rely on the blockchain for communication to carry out peer reviews and publicly report the results. The program will be discussed thoroughly in a later section. Let us begin by reviewing three major initiatives currently in place to enhance reproducibility."
+}

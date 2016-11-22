@@ -1,0 +1,21 @@
+{
+    "id": "chavez2016automatic",
+    "title": "Automatic Hopping Among Pools And Distributed Applications In The Bitcoin Network",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20161122,
+    "authors": [
+        {
+            "affiliation": "Universidad de las Fuerzas Armadas - ESPE",
+            "name": "Juan José García Chávez"
+        },
+        {
+            "affiliation": "University Center of Brasilia",
+            "name": "Carlo Kleber da Silva Rodrigues"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7743340/",
+    "venue": "Signal Processing, Images and Artificial Vision (STSIVA)",
+    "peer-reviewed": true,
+    "abstract": "Herein it is proposed a simple algorithm for automatic hopping among mining pools in the Bitcoin network. The hopping ceases to occur when the best pool to be mined is found. The choice of the best pool is based on statistical data generated and collected during the operation of the Bitcoin network. Experiments for validation and performance analysis are based on mining networks built specifically for this purpose. The major results show for instance that the bitcoin generation increases at 46.0% comparing to when the mining is carried out in only one isolated pool. Additionally, it is evaluated the possibility of implementing a distributed application making use of the proposed algorithm. Lastly, general conclusions and possible avenues for future works are highlighted at the end of this article. "
+}
