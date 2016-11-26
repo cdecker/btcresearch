@@ -1,0 +1,20 @@
+{
+    "id": "trinklermelon",
+    "title": "Melon Protocol: A Blockchain Protocol For Digital Asset Management",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161126,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Reto Trinkler"
+        },
+        {
+            "affiliation": "",
+            "name": "Mona El Isa"
+        }
+    ],
+    "url": "https://melonport.com/melonprotocol.pdf",
+    "peer-reviewed": false,
+    "abstract": "The Melon protocol is a blockchain protocol for digital asset management on the Ethereum platform. It enables participants to set up, manage and invest in digital asset management strategies in an open, competitive and decentralised manner."
+}
