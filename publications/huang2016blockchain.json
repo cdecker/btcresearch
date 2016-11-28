@@ -1,0 +1,20 @@
+{
+    "id": "huang2016blockchain",
+    "title": "Blockchain Technology In The Swedish Fund Market: A Study On The Trust Relationships Between Actors In A Blockchain-Based Fund Market",
+    "year": 2016,
+    "type": "misc",
+    "sortkey": 20161128,
+    "authors": [
+        {
+            "affiliation": "KTH",
+            "name": "Shun Huang"
+        },
+        {
+            "affiliation": "KTH",
+            "name": "Jacob Carlsson"
+        }
+    ],
+    "url": "http://www.diva-portal.org/smash/get/diva2:1044630/FULLTEXT01.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain is a new type of shared ledger for distributing and keeping consensus on what constitutes a true state of a system. The implications of the technology, i.e. enabling almost trustless transactions between market participants, is a revolutionary idea, especially to financial markets. The Swedish fund market, being a fragmented and in some cases inefficient system of intermediating actors, is a potential use case for the new technology of blockchain. This report reviews and presents the technology underlying the new blockchain phenomenon, and its potential application to the Swedish fund market with a specific focus on the possible new trust dynamics in such a market. Blockchain could, by removing some of the inter-participant risks, disintermediate the communication between market actors in the Swedish fund market, possibly enabling a cost reduction related to fund unit administration and order handling."
+}
