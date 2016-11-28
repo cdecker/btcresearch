@@ -1,0 +1,24 @@
+{
+    "id": "gencer2016service",
+    "title": "Service-Oriented Sharding With Aspen",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161128,
+    "authors": [
+        {
+            "affiliation": "Initiative for CryptoCurrencies and Contracts",
+            "name": "Adem Efe Gencer"
+        },
+        {
+            "affiliation": "Initiative for CryptoCurrencies and Contracts",
+            "name": "Robbert van Renesse"
+        },
+        {
+            "affiliation": "Initiative for CryptoCurrencies and Contracts",
+            "name": "Emin Gün Sirer"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1611.06816",
+    "peer-reviewed": false,
+    "abstract": "The rise of blockchain-based cryptocurrencies has led to an explosion of services using distributed ledgers as their underlying infrastructure. However, due to inherently single-service oriented blockchain protocols, such services can bloat the existing ledgers, fail to provide suf- ficient security, or completely forego the property of trustless auditability. Security concerns, trust restrictions, and scalability limits regarding the resource requirements of users hamper the sustainable development of loosely-coupled services on blockchains. This paper introduces Aspen, a sharded blockchain protocol designed to securely scale with increasing number of services. Aspen shares the same trust model as Bitcoin in a peer-to-peer network that is prone to extreme churn containing Byzantine participants. It enables introduction of new services without compromising the security, leveraging the trust assumptions, or flooding users with irrelevant messages."
+}
