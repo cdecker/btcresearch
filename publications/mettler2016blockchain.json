@@ -1,0 +1,17 @@
+{
+    "id": "mettler2016blockchain",
+    "title": "Blockchain Technology In Healthcare: The Revolution Starts Here",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20161128,
+    "authors": [
+        {
+            "affiliation": "Boydak Strategy Consulting AG",
+            "name": "Matthias Mettler"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7749510/",
+    "venue": "e-Health Networking, Applications and Services (Healthcom)",
+    "peer-reviewed": true,
+    "abstract": "Blockchain technology has shown its considerable adaptability in recent years as a variety of market sectors sought ways of incorporating its abilities into their operations. While so far most of the focus has been on the financial services industry, several projects in other service related areas such as healthcare show this is beginning to change. Numerous starting points for Blockchain technology in the healthcare industry are the focus of this report. With examples for public healthcare management, user-oriented medical research and drug counterfeiting in the pharmaceutical sector, this report aims to illustrate possible influences, goals and potentials connected to this disruptive technology."
+}
