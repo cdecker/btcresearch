@@ -1,0 +1,20 @@
+{
+    "id": "garratt2016bitcoin",
+    "title": "Bitcoin 1, Bitcoin 2,...: An Experiment In Privately Issued Outside Monies",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161206,
+    "authors": [
+        {
+            "affiliation": "University of California Santa Barbara",
+            "name": "Rodney Garratt"
+        },
+        {
+            "affiliation": "University of California Santa Barbara",
+            "name": "Neil Wallace"
+        }
+    ],
+    "url": "http://escholarship.org/uc/item/91c7x1js.pdf",
+    "peer-reviewed": false,
+    "abstract": "The value of Bitcoin depends upon self-fulfilling beliefs that are hard to pin down. We demonstrate this for the case where Bitcoin is the only form of money in the economy and then generalize the message to the case of multiple Bitcoin clones and/or a competing sovereign currency. Some aspects of the indeterminacy we describe would no longer hold if Bitcoin were an interestingbearing object."
+}
