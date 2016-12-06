@@ -1,0 +1,25 @@
+{
+    "id": "maesa2016analysis",
+    "title": "An Analysis Of The Bitcoin Users Graph: Inferring Unusual Behaviours",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20161206,
+    "authors": [
+        {
+            "affiliation": "University of Pisa",
+            "name": "Damiano Di Francesco Maesa"
+        },
+        {
+            "affiliation": "University of Pisa",
+            "name": "Andrea Marino"
+        },
+        {
+            "affiliation": "University of Pisa",
+            "name": "Laura Ricci"
+        }
+    ],
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-50901-3_59",
+    "venue": "International Workshop on Complex Networks and their Applications",
+    "peer-reviewed": true,
+    "abstract": "An increasing interest on cryptocurrencies has recently raised, in particular on bitcoin. A unique feature of this system is that the list of all the economic transactions is publicly available. This makes available a large amount of information that can be analysed to discover the topological properties of the transaction graph and to obtain insights in the behaviour of the users. In a previous work we have presented a first set of analyses of the bitcoin network. Among other properties of the network, these analyses have also revealed a set of unusual patterns in the bitcoin users graph. We conjecture that these topological patterns are due to artificial users behaviors, not strictly related to normal economic interaction. In particular, in this paper, we analyse the outliers in the in-degree distribution of the bitcoin users graph. The results of our analysis support our conjecture, i.e. they are due to artificial transaction patterns. "
+}
