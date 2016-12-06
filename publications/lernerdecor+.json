@@ -1,0 +1,15 @@
+{
+    "id": "lernerdecor+",
+    "title": "Decor+ Hop: A Scalable Blockchain Protocol",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161206,
+    "authors": [
+        {
+            "name": "Sergio Demian Lerner"
+        }
+    ],
+    "url": "https://scalingbitcoin.org/papers/DECOR-HOP.pdf",
+    "peer-reviewed": false,
+    "abstract": "Cryptocurrencies, based on and led by Bitcoin, have shown promise as infrastructure for pseudonymous online payments, cheap remittance, trustless digital asset exchange, and smart contracts. However, Bitcoin-derived blockchain protocols have inherent scalability limits that trade-off between throughput and latency and withhold the realization of this potential. This paper presents DECOR+HOP , a new blockchain protocol designed to scale. Based on Bitcoin’s blockchain protocol, DECOR+HOP is Byzantine fault tolerant, is robust to extreme churn, and shares the same trust model obviating qualitative changes to the ecosystem. In addition to DECOR+HOP , we introduce several novel metrics of interest in quantifying the security and efficiency of Bitcoin-like blockchain protocols. We implement DECOR+HOP and perform large-scale simulation at 15% the size of the operational Bitcoin system, using emulated clients of both protocols. These experiments demonstrate that DECOR+ scales near optimally, with bandwidth limited only by the capacity of the individual nodes and latency limited only by the propagation time of the network."
+}
