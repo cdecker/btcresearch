@@ -1,0 +1,16 @@
+{
+    "id": "pinnapetri",
+    "title": "A Petri Net-Based Model For Investigating Disposable Addresses In Bitcoin System",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161206,
+    "authors": [
+        {
+            "affiliation": "University of Cagliari",
+            "name": "Andrea Pinna"
+        }
+    ],
+    "url": "http://ceur-ws.org/Vol-1748/paper-14.pdf",
+    "peer-reviewed": false,
+    "abstract": "The most Bitcoin users are very careful about keeping their anonymity. In this work we investigate the use of disposable addresses, a very common method adopted by users to protect their identity and propose a method to recognize these addresses, We applied it on the first 180,000 blocks of the Bitcoin Blockchain. Results highlighted that a large part of Bitcoin transactions involves disposable addresses. Further, they showed that many of these transactions form chains whose length is characterized by a power-law distribution."
+}
