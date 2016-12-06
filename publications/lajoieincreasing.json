@@ -1,0 +1,16 @@
+{
+    "id": "lajoieincreasing",
+    "title": "Increasing The Robustness Of The Bitcoin Crypto-System In Presence Of Undesirable Behaviours",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20161206,
+    "authors": [
+        {
+            "affiliation": "IRISA",
+            "name": "Thibaut Lajoie-Mazenc"
+        }
+    ],
+    "url": "http://www.nada.kth.se/~ann/exjobb/thibaut_lajoie-mazenc.pdf",
+    "peer-reviewed": false,
+    "abstract": "Decentralised cryptocurrencies such as Bitcoin offer a new paradigm of electronic payment systems that do not rely on a trusted third-party. Instead, the peers forming the network handle the task traditionally left to the third- party, preventing attackers from spending twice the same resource, and do so in a publicly verifiable way through Bitcoin's main innovation, the blockchain. However, due to a lack of synchrony in the network, Bitcoin peers may tran- siently have conflicting views of the system: the blockchain is forked. This can happen purely by accident but attackers can also voluntarily create forks to mount other attacks on the system. In this work, we describe Bitcoin and its underlying blockchain protocol; we introduce a formal model to capture the normal operations of the system as well as forks and double-spending attacks. We use it to define Bitcoin's fundamental properties in terms of safety, liveness and validity. We present the current state of the system: first, we analyse some of the most prominent works that academia has produced between 2008 and 2016, as well as some promising leads to improve the system; then, we use the results of a measurement campaign to show that the size of the network is relatively stable because join and leave operations compensate each other, and that blocks propagate to most of the network in a matter of seconds. We further compare our results to those usually accepted by the community. We introduce a Bitcoin network simulator that we have implemented and present the experiment we have performed to validate it. Finally, we propose a modification to Bitcoin's operations that can prevent double-spending attacks and forks without giving up on its main ideological principles, decentralisation and the absence of source of trust."
+}
