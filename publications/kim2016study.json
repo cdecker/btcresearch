@@ -1,0 +1,20 @@
+{
+    "id": "kim2016study",
+    "title": "Study On Rule-Based Data Protection System Using Blockchain In P2P Distributed Networks",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161210,
+    "authors": [
+        {
+            "affiliation": "Sungshin Women’s University",
+            "name": "Kyong Jin Kim"
+        },
+        {
+            "affiliation": "Sungshin Women’s University",
+            "name": "Seng Phil Hong"
+        }
+    ],
+    "url": "http://www.sersc.org/journals/IJSIA/vol10_no11_2016/18.pdf",
+    "peer-reviewed": false,
+    "abstract": "The blockchain is new revolutionary paradigm for the world, but the privacy and confidentiality are still issues. This study is focused on the technical securities to provide a blockchain service on a foundation of trust. We suggested the rule-based data protection system that is to provide authorize rules used in mechanism, to control an access users without intermediaries on the blockchain. We have developed a scenario of an application a smart contract based on the suggested system and simulated it."
+}

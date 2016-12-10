@@ -1,0 +1,17 @@
+{
+    "id": "liu2016medical",
+    "title": "Medical Record System Using Blockchain, Big Data And Tokenization",
+    "year": 2016,
+    "type": "incollection",
+    "sortkey": 20161210,
+    "authors": [
+        {
+            "affiliation": "Maximus Consulting Ltd",
+            "name": "Paul Tak Shing Liu"
+        }
+    ],
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-50011-9_20",
+    "venue": "Information and Communications Security",
+    "peer-reviewed": true,
+    "abstract": "This paper will discuss the major aspects of medical records, blockchain and big data. In turn, it will discuss the advantage and disadvantage of using blockchain on medical records storage and retrieval. It will also discuss the alternatives of using blockchain and big data techniques. Different aspects of medical records will be investigated briefly: (1) integrity, (2) viewing control, (3) viewing approval, (4) western medicine and chinese medicine practice, (5) storage size and duration, (6) deletion and purge, (7) file format conversion, (8) data migration, (9) report interpretation, etc. Characteristics of blockchain and big data analytics will be explored briefly with description. A conclusion will summarize the approaches. References will be provided for further research and investigation."
+}

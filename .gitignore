@@ -1,2 +1,4 @@
 output
 templates/publications
+.direnv
+.envrc

@@ -1,0 +1,14 @@
+{
+    "id": "tsilidoufurther",
+    "title": "Further Applications of the Blockchain",
+    "authors": [
+	{"name": "Anna Lali Tsilidou", "affiliation": "University of Macedoni"},
+	{"name": "Gergios Goroglou", "affiliation": "University of Macedonia"}
+    ],
+    "year": 2016,
+    "peer-reviewed": false,
+    "url": "http://inpluslab.sysu.edu.cn/files/Paper/Summary/Blockchain_Technology__Opportunities_And_Risks.pdf",
+    "abstract": "In this research we investigate into the blockchain technology; its current use and explore other possible implementations of this protocol. In the first part a thorough explanation of the technology and the problems it is trying to tackle is attempted. At the same time a background on Bitcoin (the first application of the technology) is provided. In the second part it is examined whether the technology could be leveraged to solve problems in different fields, while some specific recommendations for the Greek economy are also made.",
+    "type": "online",
+    "sort-key": 20161210
+}

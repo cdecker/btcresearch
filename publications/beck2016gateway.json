@@ -1,0 +1,17 @@
+{
+    "id": "beck2016gateway",
+    "title": "Blockchain – The Gateway To Trust-Free Cryptographic Transactions",
+    "authors": [
+	{"name": "Roman Beck", "affiliation": "IT University of Copenhagen"},
+	{"name": "Jacob Stenum Czepluch", "affiliation": "IT University of Copenhagen"},
+	{"name": "Nikolay Lollike", "affiliation": "IT University of Copenhagen"},
+	{"name": "Simone Malone", "affiliation": "IT University of Copenhagen"}
+    ],
+    "year": 2016,
+    "peer-reviewed": true,
+    "venue": "European Conference on Information Systems (ECIS)",
+    "url": "http://inpluslab.sysu.edu.cn/files/Paper/Summary/Blockchain_The_Gateway_To_Trust_Free_Cryptographic_Transactions.pdf",
+    "abstract": "Recently, the Bitcoin-underlying blockchain technology gained prominence as a solution that offers the realization of distributed trust-free systems, where economic transactions are guaranteed by the underlying blockchain. We are still at an early stage and thus require a deeper understanding of how the blockchain potentials can be realized, and what are the opportunities and challenges in so doing. Following a design science approach, we developed a proof of concept prototype that has the potential to replace a trust-based coffee shop payment solution that is based on an analogue, pre-paid punch card solution. The demonstrator provides a starting point to evaluate the strengths and weaknesses of the blockchain technology when replacing a trust-based by a trust-free transaction system. We conclude that the secure and trust-free blockchain-based transaction has the potential to change many existing trust-based transaction systems, but that scalability issues, costs, and volatility in the transaction currency are hindrances.",
+    "type": "inproceedings",
+    "sort-key": 20161210
+}

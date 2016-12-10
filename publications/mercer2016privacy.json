@@ -1,0 +1,16 @@
+{
+    "id": "mercer2016privacy",
+    "title": "Privacy On The Blockchain: Unique Ring Signatures",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20161210,
+    "authors": [
+        {
+            "affiliation": "University College London",
+            "name": "Rebekah Mercer"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.01188",
+    "peer-reviewed": false,
+    "abstract": "Ring signatures are cryptographic protocols designed to allow any member of a group to produce a signature on behalf of the group, without revealing the individual signer’s identity. This offers group members a level of anonymity not attainable through generic digital signature schemes. We call this property ‘plausible deniability’, or anonymity with respect to an anonymity set. We concentrate in particular on implementing privacy on the blockchain, introducing a unique ring signature scheme that works with existing blockchain systems. We implement a unique ring signature (URS) scheme using secp256k1, creating the first implementation compatible with blockchain libraries in this way, so as for easy implementation as an Ethereum smart contract. We implement a version of Foque and Tibouchi’s Indifferentiable Hashing to Barreto-Naehrig Curves algorithm, in order to fulfil the hashing requirements in the URS scheme. This is the first known time this scheme has been suggested for use in hashing to secp256k1, for use within an URS scheme, or implemented at all. We also produce an implementation of Euler’s Criterion for use within the hashing algorithm. We review the privacy and security properties offered by the scheme we have constructed, and compare its efficiency with other commonly suggested approaches to privacy on the blockchain."
+}

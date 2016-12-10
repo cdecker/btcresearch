@@ -1,0 +1,24 @@
+{
+    "id": "fadhillocality",
+    "title": "Locality Based Approach To Improve Propagation Delay On The Bitcoin Peer-To-Peer Network",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161210,
+    "authors": [
+        {
+            "affiliation": "University of Portsmouth",
+            "name": "Muntadher Fadhil"
+        },
+        {
+            "affiliation": "University of Portsmouth",
+            "name": "Gareth Owenson"
+        },
+        {
+            "affiliation": "University of Portsmouth",
+            "name": "Mo Adda"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Muntadher_Fadhil/publication/310060336_Locality_Based_Approach_to_Improve_Propagation_Delay_on_the_Bitcoin_Peer-to-Peer_Network/links/5828768f08ae254c50862cea.pdf",
+    "peer-reviewed": false,
+    "abstract": "Scalability in Bitcoin, a peer-to-peer electronic currency system, is a complicated issue which prevents the Bitcoin from gaining increasing popularity nowadays. In this paper, we propose a new approach, that is based on how the clusters are formulated and the nodes define their membership, to improve the transaction propagation delay in the Bitcoin network. In this approach, the locality of connectivity in the Bitcoin network is increased by grouping Bitcoin nodes based on their geographical location. Our simulations show that location based-distance better defines clustering structures that optimize the performance of the transaction propagation delay. A key reason for this improvement is mainly due to the reduction of the communication link cost measured by the distance between nodes. Compared to the existing clustering protocol (BCBSN) that we proposed in our previous work, location based clustering is more effective at reducing the transaction propagation delay."
+}
