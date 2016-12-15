@@ -1,0 +1,21 @@
+{
+    "id": "cai2016fraud",
+    "title": "Fraud Detections For Online Businesses: A Perspective From Blockchain Technology",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161215,
+    "authors": [
+        {
+            "affiliation": "niversity of New York",
+            "name": "Yuanfeng Cai"
+        },
+        {
+            "affiliation": "Iowa State University",
+            "name": "Dan Zhu"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1186/s40854-016-0039-4",
+    "venue": "Financial Innovation",
+    "peer-reviewed": true,
+    "abstract": "Background: The reputation system has been designed as an effective mechanism to reduce risks associated with online shopping for customers. However, it is vulnerable to rating fraud. Some raters may inject unfairly high or low ratings to the system so as to promote their own products or demote their competitors. Method: This study explores the rating fraud by differentiating the subjective fraud from objective fraud. Then it discusses the effectiveness of blockchain technology in objective fraud and its limitation in subjective fraud, especially the rating fraud. Lastly, it systematically analyzes the robustness of blockchain-based reputation systems in each type of rating fraud. Results: The detection of fraudulent raters is not easy since they can behave strategically to camouflage themselves. We explore the potential strengths and limitations of blockchain-based reputation systems under two attack goals: ballot-stuffing and bad-mouthing, and various attack models including constant attack, camouflage attack, whitewashing attack and sybil attack. Blockchain-based reputation systems are more robust against bad-mouthing than ballot-stuffing fraud. Conclusions: Blockchain technology provides new opportunities for redesigning the reputation system. Blockchain systems are very effective in preventing objective information fraud, such as loan application fraud, where fraudulent information is fact-based. However, their effectiveness is limited in subjective information fraud, such as rating fraud, where the ground-truth is not easily validated. Blockchain systems are effective in preventing bad mouthing and whitewashing attack, but they are limited in detecting ballot-stuffing under sybil attack, constant attacks and camouflage attack."
+}

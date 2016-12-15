@@ -1,0 +1,16 @@
+{
+    "id": "yagdiranusing",
+    "title": "Using Bitcoin For Fun And Profit",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20161215,
+    "authors": [
+        {
+            "affiliation": "KTH Royal Institute Of Technology",
+            "name": "Eren Yagdiran"
+        }
+    ],
+    "url": "http://www.diva-portal.org/smash/get/diva2:1051913/FULLTEXT01.pdf",
+    "peer-reviewed": false,
+    "abstract": "Botnets, in other means zombie computers that await for instructions to execute, are the greatest threat in the internet today. They are one of the leading sources of online crime. Criminals are able to take advantage of using botnets and threaten online businesses, organizations or any entity in the internet. Criminals design and implement botnets in a complex way in order to hide their identities. Most notably the fact that criminals build command-and-control (C&C) infrastructures to manage their botnets. A botnet command-and-control mechanism (C&C) can be designed in various ways. The key principle behind designing a C&C mechanism is anonymity. Hence, criminals can propagate their instructions to botnets without revealing their identities. Since every new C&C mechanism increases the bar of anonymity, it is getting harder to trace and analyze botnets. In this thesis, we designed and implemented a C&C mechanism, btc-botnet, that runs over Bitcoin network. Btc- botnet has significant features over existing C&C mechanisms such as anonymity and resistance by its nature. We built a library that allows to use Bitcoin network as an underlying infrastructure for C&C mechanism. We evaluate our work and show that its feasibility in terms of metrics such as response time, confirmation time and fees."
+}

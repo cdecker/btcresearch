@@ -1,0 +1,21 @@
+{
+    "id": "guo2016blockchain",
+    "title": "Blockchain Application And Outlook In The Banking Industry",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161215,
+    "authors": [
+        {
+            "affiliation": "Xiamen University",
+            "name": "Ye Guo"
+        },
+        {
+            "affiliation": "Xiamen University",
+            "name": "Chen Liang"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1186/s40854-016-0034-9",
+    "venue": "Financial Innovation",
+    "peer-reviewed": true,
+    "abstract": "Blockchain technology is a core, underlying technology with promising application prospects in the banking industry. On one hand, the banking industry in China is facing the impact of interest rate liberalization and profit decline caused by the narrowing interest-rate spread. On the other hand, it is also affected by economic transformation, Internet development, and financial innovations. Hence, the banking industry requires urgent transformation and is seeking new growth avenues. As such, blockchains could revolutionize the underlying technology of the payment clearing and credit information systems in banks, thus upgrading and transforming them. Blockchain applications also promote the formation of “multi-center, weakly intermediated” scenarios, which will enhance the efficiency of the banking industry. However, despite the permissionless and self-governing nature of blockchains, the regulation and actual implementation of a decentralized system are problems that remain to be resolved. Therefore, we propose the urgent establishment of a “regulatory sandbox” and the development of industry standards."
+}

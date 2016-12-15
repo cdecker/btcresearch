@@ -1,0 +1,17 @@
+{
+    "id": "vianatwo",
+    "title": "Two Technical Images: Blockchain And High-Frequency Trading",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161215,
+    "authors": [
+        {
+            "affiliation": "Universidade de São Paulo",
+            "name": "Diego Viana"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1007/s13347-016-0247-x",
+    "venue": "Philosophy & Technology",
+    "peer-reviewed": true,
+    "abstract": "The article examines two digital phenomena linked to money and finance, which are the bitcoin (in particular the blockchain technology it is founded on) and high-frequency trading, through the lens of Vilém Flusser’s concept of technical image. Flusser’s theory highlights three aspects of technical images: they are engendered by the act of organizing particles, are produced by people who operate devices through keys, and are mediated by code, which is linear and pertains to the era of written text, which Flusser conflates with the notion of history. In this article, the argument focuses on the aspects of high-frequency trading and the blockchain that relate to the idea of images. The sections investigate how money has historically operated in the logic of Flusser’s description of symbol manipulation in relation to consciousness and temporality: from the circular time of magical consciousness to the linear time of historical consciousness, and more recently, to the non-dimensional time of post-historical consciousness. The article argues that there are two levels, or layers, in the images involved in cryptocurrencies or algorithmic trading, but only one of them is visible to the human operator or viewer, in the form of a price. The other, which indeed represents the operations in the system, is only accessible to the machines themselves. The questions raised concern the role of these recent digital financial and monetary forms in the development of a reality dominated by apparatuses and technical images."
+}
