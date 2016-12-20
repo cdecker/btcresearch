@@ -1,0 +1,21 @@
+{
+    "id": "zhu2016analysis",
+    "title": "Analysis And Outlook Of Applications Of Blockchain Technology To Equity Crowdfunding In China",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161220,
+    "authors": [
+        {
+            "affiliation": "Shanghai Jiao Tong University",
+            "name": "Huasheng Zhu"
+        },
+        {
+            "affiliation": "Shanghai Jiao Tong University",
+            "name": "Zach Zhizhong Zhou"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1186/s40854-016-0044-7",
+    "venue": "Financial Innovation",
+    "peer-reviewed": true,
+    "abstract": "Equity crowdfunding via the Internet is a new channel of raising money for startups. It features low barriers to entry, low cost, and high speed, and thus encourages innovation. In recent years, equity crowdfunding in China has experienced some developments. However, some problems remain unsolved in practice. Blockchain is a decentralized and distributed ledger technology to ensure data security, transparency, and integrity. Because it cannot be tampered with or forged, the technology is deemed to have great potential in the finance industry. This study examines current problems in the practice of equity crowdfunding in China. Based on the analysis of the characteristics of blockchain technology, this study further explores its practical applications in equity crowdfunding. 1) Blockchain technology may be a secure, efficient, low-cost solution for the registration of stocks and shares of a firm financed by crowdfunding; 2) Blockchain technology simplifies the transaction and transfer of crowdfunding equities, and thus facilitates their circulation; 3) Blockchain technology enables peer to peer transactions between investors and entrepreneurs, and solves the problems of regulatory compliance and security of fund management; Blockchain technology can be used to develop a voting system for crowdfunders, which enables them to be involved in corporate governance. This helps protect the rights and interests of small investors; 5) Blockchain technology helps regulators know about market conditions, and supports regulatory activities such as managing investors and fighting money laundering."
+}
