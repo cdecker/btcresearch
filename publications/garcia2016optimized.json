@@ -1,0 +1,28 @@
+{
+    "id": "garcia2016optimized",
+    "title": "Optimized Execution Of Business Processes On Blockchain",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161220,
+    "authors": [
+        {
+            "affiliation": "University of Tartu",
+            "name": "Luciano Garc{\\'\\i}a-Ba{\\~n}uelos"
+        },
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "Alexander Ponomarev"
+        },
+        {
+            "affiliation": "University of Tartu",
+            "name": "Marlon Dumas"
+        },
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "Ingo Weber"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.03152",
+    "peer-reviewed": false,
+    "abstract": "Blockchain technology enables the execution of collaborative business processes involving untrusted parties without requiring a central authority. Specifically, a process model comprising tasks performed by multiple parties can be coordinated via smart contracts operating on the blockchain. The consensus mechanism governing the blockchain thereby guarantees that the process model is followed by each party. However, the cost required for blockchain use is highly dependent on the volume of data recorded and the frequency of data updates by smart contracts. This paper proposes an optimized method for executing business pro- cesses on top of commodity blockchain technology. The paper presents a method for compiling a process model into a smart contract that en- codes the preconditions for executing each task in the process using a space-optimized data structure. The method is empirically compared to a previously proposed baseline by replaying execution logs, including one from a real-life business process, and measuring resource consumption."
+}

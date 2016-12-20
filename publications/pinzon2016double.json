@@ -1,0 +1,21 @@
+{
+    "id": "pinzon2016double",
+    "title": "Double-Spend Attack Models With Time Advantange For Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161220,
+    "authors": [
+        {
+            "affiliation": "Escuela Colombiana de Ingenierı́a",
+            "name": "Carlos Pinzon"
+        },
+        {
+            "affiliation": "Pontificia Universidad Javeriana",
+            "name": "Camilo Rocha"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S157106611630113X",
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is a digital currency in which the need for a trusted third party is avoided. Instead, this digital currency is based on the concept of ‘proof of work’ allowing users to execute payments by digitally signing their transactions. Since electronic files can be duplicated, fraudulent transactions in the form of double-spend attacks – where users spend the same money at least twice – can happen. This paper is about attack models that can assign possible time advantage to attacker agents in the Bitcoin network. In particular, this paper presents: (i) two attack models in which partial advancement towards block production can be influenced by time and not only by the hashpower used to produce blocks of hashes, and (ii) algorithmic experimentation comparing these models against existing well-known hashrate-based attack models that do not consider time advantage. As a conclusion, this paper presents evidence on the fact that advantages are not negligible for cases in which an attacker has had enough time for secretly mining fraudulent blocks or significant control over the network. Also, the models presented in this paper help in supporting previous claims in the literature about how to correctly model and detect double-spend attacks in the Bitcoin network."
+}

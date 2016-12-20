@@ -1,0 +1,16 @@
+{
+    "id": "murray2016distributed",
+    "title": "Distributed Resource Sharing Using The Blockchain Technology Ethereum",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20161220,
+    "authors": [
+        {
+            "affiliation": "California State University",
+            "name": "Danny Murray"
+        }
+    ],
+    "url": "http://csus-dspace.calstate.edu/bitstream/handle/10211.3/182265/Distributed_Resource_Sharing-Danny_Murray.pdf?sequence=1",
+    "peer-reviewed": false,
+    "abstract": "Modern public cloud storage architectures, such as those offered by Amazon or Google, are hosted across multiple datacenters and when demand increases enough, datacenter storage capacity needs to be upgraded to meet it. Contrast this with the vast amount of storage that goes unused on consumer drives running on personal computers. While consumers' drive storage sits idle, doing nothing for them, those same consumers create the demand for cloud storage that fuels more datacenter growth. Furthermore, though these cloud storage services have their data decentralized, the providers of these services are themselves a central point of control. Though they may be reliable for data storage and retrieval, a user must also trust them to keep their data secure and not to sell or abuse it in ways not consented to. Further still, if a powerful government agency wants to gather data, the central control of these services makes them easy targets, and a user cannot reasonably expect the providers to deny the demands of their government. This project aims to show, using a simple prototype, the possibility, and perhaps desirability, of a distributed alternative to centrally controlled cloud storage services that utilizes the unused space on consumer drives. Using a client application to interact with smart contracts built to run on the distributed computing platform Ethereum, a user can manage their data and interactions with other users. It allows users to sell their own disk space to other users for a fair price. Periodic payments help incentivize these users to maintain the data they host, while data transfer payments help incentivize them to maintain a high availability. Those users buying disk space can buy from any number of users, backing their data up to all of them. Utilizing more users for redundant data backup will increase data availability and decrease the chances of data loss. This exchange creates a kind of peer-to-peer cloud for making use of idle storage. Though the model laid out by this prototype is relatively simple and not likely to yield any improvements in performance, pricing, or availability compared to traditional cloud architectures, it still serves as a demonstration of the feasibility of the idea of a peer-to-peer cloud for storage sharing that is managed by Ethereum or a similar distributed application platform. In addition to solving the problems discussed previously, a cloud storage system like this, with a well thought out design for data management and user incentives, may be able to attain metrics that are comparable to the cloud services we see today."
+}

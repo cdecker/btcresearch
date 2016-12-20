@@ -1,0 +1,33 @@
+{
+    "id": "huang2016bitcoin",
+    "title": "Bitcoin-Based Fair Payments For Outsourcing Computations Of Fog Devices",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161220,
+    "authors": [
+        {
+            "affiliation": "Xidian University",
+            "name": "Hui Huang"
+        },
+        {
+            "affiliation": "Xidian University",
+            "name": "Xiaofeng Chen"
+        },
+        {
+            "affiliation": "Beihang University",
+            "name": "Qianhong Wu"
+        },
+        {
+            "affiliation": "Fujian Normal University",
+            "name": "Xinyi Huang"
+        },
+        {
+            "affiliation": "Nanjing University of Information Science & Technology (NUIST)",
+            "name": "Jian Shen"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0167739X16307579",
+    "venue": "Future Generation Computer Systems",
+    "peer-reviewed": true,
+    "abstract": "Fog computing can be viewed as an extension of cloud computing that enables transactions and resources at the edge of the network. In the paradigms of fog computing, the fog user (outsourcer) with resource-constraint devices can outsource the distributed computation tasks to the untrusted fog nodes (workers) and pays for them. Recently, plenty of research work has been done on fair payments. However, all existing solutions adopt the traditional e-cash system to generate payment token, which needs a trusted authority (i.e. a bank) to prevent double-spending. The bank will become the bottleneck of the payments system. In this paper, we propose a new fair payment scheme for outsourcing computations based on Bitcoin. Due to the advantages of Bitcoin syntax, the users can transact directly without needing a bank. Besides, the proposed construction can guarantee that no matter how a malicious outsourcer behaves, the honest workers will be paid if he completed the computing tasks."
+}
