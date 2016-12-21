@@ -1,0 +1,25 @@
+{
+    "id": "sun2016blockchain",
+    "title": "Blockchain-Based Sharing Services: What Blockchain Technology Can Contribute To Smart Cities",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161221,
+    "authors": [
+        {
+            "affiliation": "Nanjing University",
+            "name": "Jianjun Sun"
+        },
+        {
+            "affiliation": "University of Science and Technology of China",
+            "name": "Jiaqi Yan"
+        },
+        {
+            "affiliation": "",
+            "name": "Kem ZK Zhang"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1186/s40854-016-0040-y",
+    "venue": "Financial Innovation",
+    "peer-reviewed": true,
+    "abstract": "The notion of smart city has grown popular over the past few years. It embraces several dimensions depending on the meaning of the word “smart” and benefits from innovative applications of new kinds of information and communications technology to support communal sharing.By relying on prior literature, this paper proposes a conceptual framework with three dimensions: (1) human, (2) technology, and (3) organization, and explores a set of fundamental factors that make a city smart from a sharing economy perspective. Using this triangle framework, we discuss what emerging blockchain technology may contribute to these factors and how its elements can help smart cities develop sharing services. This study discusses how blockchain-based sharing services can contribute to smart cities based on a conceptual framework. We hope it can stimulate interest in theory and practice to foster discussions in this area."
+}

@@ -1,0 +1,24 @@
+{
+    "id": "zhao2016overview",
+    "title": "Overview Of Business Innovations And Research Opportunities In Blockchain And Introduction To The Special Issue",
+    "year": 2016,
+    "type": "misc",
+    "sortkey": 20161221,
+    "authors": [
+        {
+            "affiliation": "City University of Hong Kong",
+            "name": "J Leon Zhao"
+        },
+        {
+            "affiliation": "Oregon State University",
+            "name": "Shaokun Fan"
+        },
+        {
+            "affiliation": "Nanjing University",
+            "name": "Jiaqi Yan"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1186/s40854-016-0049-2",
+    "peer-reviewed": false,
+    "abstract": "Blockchain has become a new frontier of venture capitals that has attracted the attention of banks, governments, and other business corporations. The recent blockchain related attempts included legal blockchains by Fadada.com and Microsoft and pork tracking blockchains by Walmart and IBM. Blockchain is poised to become the most exciting invention after the Internet; while the latter connects the world to enable new business models based on online business processes, the former will help resolve the trust issue more efficiently via network computing. In this paper, we give an overview on blockchain research and development as well as introduce the papers in this special issue. We show that while blockchain has enabled Bitcoin, the most successful digital currency, its widespread adoption in finance and other business sectors will lead to many business innovations as well as many research opportunities."
+}

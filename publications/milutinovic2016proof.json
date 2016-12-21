@@ -1,0 +1,29 @@
+{
+    "id": "milutinovic2016proof",
+    "title": "Proof Of Luck: An Efficient Blockchain Consensus Protocol",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20161221,
+    "authors": [
+        {
+            "affiliation": "UC Berkeley",
+            "name": "Mitar Milutinovic"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "name": "Warren He"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "name": "Howard Wu"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "name": "Maxinder Kanwal"
+        }
+    ],
+    "url": "http://delivery.acm.org/10.1145/3010000/3007790/a2-milutinovic.pdf",
+    "venue": "Proceedings of the 1st Workshop on System Software for Trusted Execution",
+    "peer-reviewed": true,
+    "abstract": "In the paper, we present designs for multiple blockchain consensus primitives and a novel blockchain system, all based on the use of trusted execution environments (TEEs), such as Intel SGX-enabled CPUs. First, we show how using TEEs for existing proof of work schemes can make mining equitably distributed by preventing the use of ASICs. Next, we extend the design with proof of time and proof of ownership consensus primitives to make mining energy- and time-efficient. Further improving on these designs, we present a blockchain using a proof of luck consensus protocol. Our proof of luck blockchain uses a TEE platform's random number generation to choose a consensus leader, which offers low-latency transaction validation, deterministic confirmation time, negligible energy consumption, and equitably distributed mining. Lastly, we discuss a potential protection against up to a constant number of compromised TEEs. "
+}
