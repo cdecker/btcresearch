@@ -1,0 +1,20 @@
+{
+    "id": "zhangpublish",
+    "title": "Publish Or Perish: A Backward-Compatible Defense Against Selfish Mining In Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161223,
+    "authors": [
+        {
+            "affiliation": "KU Leuven",
+            "name": "Ren Zhang"
+        },
+        {
+            "affiliation": "KU Leuven",
+            "name": "Bart Preneel"
+        }
+    ],
+    "url": "https://securewww.esat.kuleuven.be/cosic/publications/article-2746.pdf",
+    "peer-reviewed": false,
+    "abstract": "The Bitcoin mining protocol has been intensively studied and widely adopted by many other cryptocurrencies. However, it has been shown that this protocol is not incentive compatible, because the selfish mining strategy enables a miner to gain unfair rewards. Existing defenses either demand fundamental changes to block validity rules or have little effect against a resourceful attacker. This paper proposes a backward-compatible defense mechanism which outperforms the previous best defense. Our fork-resolving policy neglects blocks that are not published in time and appreciates blocks that incorporate links to com- peting blocks of their predecessors. Consequently, a block that is kept secret until a competing block is published contributes to neither or both branches, hence it confers no advantage in winning the block race. Additionally, we discuss the dilemma between partition recovery time and selfish mining resistance, and how to balance them in our defense."
+}
