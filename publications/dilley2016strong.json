@@ -1,0 +1,36 @@
+{
+    "id": "dilley2016strong",
+    "title": "Strong Federations: An Interoperable Blockchain Solution To Centralized Third Party Risks",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161224,
+    "authors": [
+        {
+            "affiliation": "Blockstream Corp.",
+            "name": "Johnny Dilley"
+        },
+        {
+            "affiliation": "Blockstream Corp.",
+            "name": "Andrew Poelstra"
+        },
+        {
+            "affiliation": "Blockstream Corp.",
+            "name": "Jonathan Wilkins"
+        },
+        {
+            "affiliation": "Blockstream Corp.",
+            "name": "Marta Piekarska"
+        },
+        {
+            "affiliation": "Blockstream Corp.",
+            "name": "Ben Gorlick"
+        },
+        {
+            "affiliation": "Blockstream Corp.",
+            "name": "Mark Friedenbach"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.05491",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin, the first peer-to-peer electronic cash system, opened the door to permissionless, private, and trustless transactions. Attempts to repurpose Bitcoin’s underlying blockchain technology have run up against fundamental limitations to privacy, faithful execution, and transaction finality. We introduce Strong Federations: publicly-verifiable, Byzantinerobust transaction networks that facilitate movement of any asset between disparate markets, without requiring third party trust. Strong Federations enable commercial privacy, with support for transactions where asset types and amounts are opaque, while remaining publicly verifiable. As in Bitcoin, execution fidelity is cryptographically enforced, however Strong Federations significantly lower capital requirements for market participants by reducing transaction latency and improving interoperability. To show how this innovative solution can ve applied todaym we describe Liquid, the first implementation of Strong Federations deployed in Financial Market."
+}
