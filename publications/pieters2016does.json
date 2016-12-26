@@ -1,0 +1,16 @@
+{
+    "id": "pieters2016does",
+    "title": "Does Bitcoin Reveal New Information About Exchange Rates And Financial Integration?",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161226,
+    "authors": [
+        {
+            "affiliation": "Trinity University",
+            "name": "Gina C Pieters"
+        }
+    ],
+    "url": "https://www.dallasfed.org/~/media/documents/institute/wpapers/2016/0292.pdf",
+    "peer-reviewed": false,
+    "abstract": "I show that the prices of the internationally traded crypto-currency bitcoin can be used to estimate a currency’s unofficial exchange rate and capital controls at a daily interval. Two important bitcoin features are documented: (1) Bitcoin-based exchange rates approximate the behavior, but not the level, of unofficial exchange rates, and (2) Bitcoin prices contain a bitcoin-trend term and must be appropriately normalized prior to being used for this purpose. Bitcoin-based exchange rates reveal that (3) there is no consistent pattern of Granger causality between unofficial rates and official rates by exchange rate regime or barriers at the daily frequency, and (4) that countries can engage in short-interval capital controls."
+}
