@@ -1,0 +1,20 @@
+{
+    "id": "miller2016zero",
+    "title": "Zero-Collateral Lotteries In Bitcoin And Ethereum",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161226,
+    "authors": [
+        {
+            "affiliation": "UIUC",
+            "name": "Andrew Miller"
+        },
+        {
+            "affiliation": "Cornell University",
+            "name": "Iddo Bentov"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.05390",
+    "peer-reviewed": false,
+    "abstract": "We present cryptocurrency-based lottery protocols that do not require any collateral from the players. Previous protocols for this task required a security deposit that is O(N^2) times larger than the bet amount, where N is the number of players. Our protocols are based on a tournament bracket construction, and require only O(log N ) rounds. Our lottery protocols thus represent a significant improvement, both because they allow players with little money to participate, and because of the time value of money. The Ethereum-based implementation of our lottery is highly efficient. The Bitcoin implementation requires an O(2 N ) off-chain setup phase, which demonstrates that the expressive power of the scripting language can have important implications. We also describe a minimal modification to the Bitcoin protocol that would eliminate the exponential blowup."
+}
