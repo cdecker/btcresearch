@@ -1,0 +1,15 @@
+{
+    "id": "witte2016blockchain",
+    "title": "The Blockchain: A Gentle Four Page Introduction",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161226,
+    "authors": [
+        {
+            "name": "Jan Hendrik Witte"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.06244",
+    "peer-reviewed": false,
+    "abstract": "Blockchain is a distributed database that keeps a chronologically growing list (chain) of records (blocks) secure from tampering and revision. While computerisation has changed the nature of a ledger from clay tables in the old days to digital records in modern days, blockchain technology is the first true innovation in record keeping that could potentially revolutionise the basic principles of information keeping. In this note, we provide a brief selfcontained introduction to how the blockchain works."
+}
