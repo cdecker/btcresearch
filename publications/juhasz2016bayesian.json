@@ -1,0 +1,28 @@
+{
+    "id": "juhasz2016bayesian",
+    "title": "A Bayesian Approach To Identify Bitcoin Users",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161226,
+    "authors": [
+        {
+            "affiliation": "Eötvös Loránd University",
+            "name": "Peter L Juhasz"
+        },
+        {
+            "affiliation": "Eötvös Loránd University",
+            "name": "József Stéger"
+        },
+        {
+            "affiliation": "Eötvös Loránd University",
+            "name": "Daniel Kondor"
+        },
+        {
+            "affiliation": "Eötvös Loránd University",
+            "name": "Gábor Vattay"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.06747",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a digital currency and electronic payment system operating over a peer-to-peer network on the Internet. One of its most important properties is the high level of anonymity it provides for its users. The users are identified by their Bitcoin addresses, which are random strings in the public records of transactions, the blockchain. When a user initiates a Bitcointransaction, his Bitcoin client program relays messages to other clients through the Bitcoin network. Monitoring the propagation of these messages and analyzing them carefully reveal hidden relations. In this paper, we develop a mathematical model using a probabilistic approach to link Bitcoin addresses and transactions to the originator IP address. To utilize our model, we carried out experiments by installing more than a hundred modified Bitcoin clients distributed in the network to observe as many messages as possible. During a two month observation period we were able to identify several thousand Bitcoin clients and bind their transactions to geographical locations."
+}
