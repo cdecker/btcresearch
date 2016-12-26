@@ -1,0 +1,20 @@
+{
+    "id": "pieters2016financial",
+    "title": "Financial Regulations And Price Inconsistencies Across Bitcoin Markets",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20161226,
+    "authors": [
+        {
+            "affiliation": "Trinity University",
+            "name": "Gina Pieters"
+        },
+        {
+            "affiliation": "Trinity University",
+            "name": "Sofia Vivanco"
+        }
+    ],
+    "url": "https://www.dallasfed.org/~/media/documents/institute/wpapers/2016/0293.pdf",
+    "peer-reviewed": false,
+    "abstract": "We document systematic differences in bitcoin prices across 11 different markets representing 26% of global bitcoin trade volume. These differences must — due to the identical nature of all bitcoin — result from characteristics of markets themselves. We examine differences across the markets and find that those which do not require customer identification for establishing an account are more likely to deviate from representative market prices than those which do. This implies that standard financial regulations, specifically know-your-customer regulations, can have a non-negligible impact on the bitcoin market."
+}
