@@ -10,5 +10,5 @@
     "url": "http://murch.one/wp-content/uploads/2016/11/erhardt2016coinselection.pdf",
     "abstract": "Zahlungen im Bitcoin-Netzwerk werden auf Basis von unspent transaction outputs (UTXO) ausgeführt, welche atomare Geldmengen darstellen. Hierbei verbrauchen Bitcoin-Transaktionen existierende UTXO und erzeugen neue UTXO um Geld einem Empfänger zuzuschreiben. Das Thema dieser Arbeit sind Strategien für die Auswahl der UTXO zum Finanzieren von Transaktionen. Im Rahmen der Arbeit wurden die Anforderungen an die UTXO-Selektion (oder 'Coin Selection') und verschiedene existierende Lösungsstrategien untersucht. Es wurden sowohl existierende Lösungsstrategien, als auch eigens entwickelte Strategien implementiert. Ein Simulations-Framework zum Modellieren verschiedener Auswahlstrategien wurde entwickelt. Auf Basis eines realen Zahlungsdatensatzes und weiteren abgeleiteten Szenarien wurden die Lösungsstrategien simuliert und evaluiert. Hierbei wurden die Strategien auf Resourcenlast für das Netzwerk, Kosten für den Nutzer und weitere Kriterien untersucht. Wir konnten Vor- und Nachteile von Strategien herausarbeiten und zeigen, dass unsere neu entwickelten Lösungsstrategie eine verbesserte Leistungsfähigkeit aufweist als bislang genutzte Strategien.",
     "type": "article",
-    "sort-key": 20161004
+    "sort-key": 20161031
 }
