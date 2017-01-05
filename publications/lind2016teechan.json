@@ -1,0 +1,28 @@
+{
+    "id": "lind2016teechan",
+    "title": "Teechan: Payment Channels Using Trusted Execution Environments",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20170105,
+    "authors": [
+        {
+            "affiliation": "Imperial College London",
+            "name": "Joshua Lind"
+        },
+        {
+            "affiliation": "Cornell University",
+            "name": "Ittay Eyal"
+        },
+        {
+            "affiliation": "Imperial College London",
+            "name": "Peter Pietzuch"
+        },
+        {
+            "affiliation": "Cornell University",
+            "name": "Emin Gün Sirer"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.07766",
+    "peer-reviewed": false,
+    "abstract": "Blockchain protocols are inherently limited in transaction throughput and latency. Recent efforts to address these performance metrics and scale blockchains have focused on off-chain payment channels. While such channels can achieve low latency and high throughput, deploying them securely on top of the Bitcoin blockchain has been difficult, partly because building a secure and robust implementation requires changes to the underlying protocol as well as the overall ecosystem. We present Teechan, a full-duplex payment channel framework that exploits trusted execution environments. Teechan can be deployed securely on the existing Bitcoin blockchain without having to modify the protocol. Teechan: (i) achieves a higher transaction throughput and lower transaction latency than prior solutions; (ii) enables unlimited full-duplex payments as long as the balance does not exceed the channel’s credit; (iii) requires only a single message to be sent per payment in any direction; and (iv) places only two transactions on the blockchain under any execution scenario. We have built and deployed the Teechan framework using Intel SGX on the Bitcoin network. Our experiments show that Teechan can achieve 2,480 transactions per second on a single channel, with sub-millisecond latency."
+}
