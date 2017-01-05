@@ -1,0 +1,20 @@
+{
+    "id": "sas2016design",
+    "title": "Design For Trust: An Exploration Of The Challenges And Opportunities Of Bitcoin Users",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20170105,
+    "authors": [
+        {
+            "affiliation": "Lancaster University",
+            "name": "Corina Sas"
+        },
+        {
+            "affiliation": "Universiti Teknologi MARA",
+            "name": "Irni Khairuddin"
+        }
+    ],
+    "url": "http://eprints.lancs.ac.uk/83765/1/Design_for_trust.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a cryptocurrency which has received increasing interest over the last five years. Built upon a decentralized peer to peer system, it supports transparent, fast, cost effective, and irreversible transactions, without the need for trusting third party financial institutions. We know however little about people’s motivation and experience with bitcoin currency. This paper reports on interviews with 20 bitcoin users about their experience and their trust challenges. Findings show that bitcoins are used more as commodities for speculative investment or savings’ protection. The paper advances the HCI theories on trust by identifying main bitcoin characteristics and their impact on trust, such as decentralization, unregulation, embedded expertise, and reputation, as well as transactions’ transparency, low cost, and easiness to complete. We also discuss the issue of insecure transactions and the associated risks, in particular the one of dishonest traders and its mitigating strategies. The paper concludes with three design implications including support for the transparency of two-way transactions, tools for materializing trust, and tools for supporting reversible transactions."
+}
