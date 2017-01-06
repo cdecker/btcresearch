@@ -1,0 +1,24 @@
+{
+    "id": "sompolinskyspectre",
+    "title": "Spectre: A Fast And Scalable Cryptocurrency Protocol",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170106,
+    "authors": [
+        {
+            "affiliation": "The Hebrew University of Jerusalem",
+            "name": "Yonatan Sompolinsky"
+        },
+        {
+            "affiliation": "The Hebrew University of Jerusalem",
+            "name": "Yoad Lewenberg"
+        },
+        {
+            "affiliation": "The Hebrew University of Jerusalem",
+            "name": "Aviv Zohar"
+        }
+    ],
+    "url": "http://www.cs.huji.ac.il/~yoni_sompo/pubs/16/SPECTRE_complete.pdf",
+    "peer-reviewed": false,
+    "abstract": "A growing body of research on Bitcoin and other permissionless cryptocurrencies that utilize Nakamoto’s blockchain has shown that they do not easily scale to process a high throughput of transactions, or to quickly approve individual transactions; blocks must be kept small, and their creation rates must be kept low in order to allow nodes to reach consensus securely. As of today, Bitcoin processes a mere 3-7 transactions per second, and transaction confirmation takes at least several minutes. We present SPECTRE, a new protocol for the consensus core of crypto-currencies that remains secure even under high throughput and fast confirmation times. At any throughput, SPECTRE is resilient to attackers with up to 50% of the computational power (up until the limit defined by network congestion and bandwidth constraints). SPECTRE can operate at high block creation rates, which implies that its transactions confirm in mere seconds (limited mostly by the round-trip-time in the network). Key to SPECTRE’s achievements is the fact that it satisfies weaker properties than classic consensus requires. In the conventional paradigm, the order between any two transactions must be decided and agreed upon by all non-corrupt nodes. In contrast, SPECTRE only satisfies this with respect to transactions performed by honest users. We observe that in the context of money, two conflicting payments that are published concurrently could only have been created by a dishonest user, hence we can afford to delay the acceptance of such transactions without harming the usability of the system. Our framework formalizes this weaker set of requirements for a crypto-currency’s distributed ledger. We then provide a formal proof that SPECTRE satisfies these requirements."
+}
