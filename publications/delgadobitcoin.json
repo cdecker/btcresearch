@@ -1,0 +1,28 @@
+{
+    "id": "delgadobitcoin",
+    "title": "Bitcoin Private Key Locked Transactions",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170106,
+    "authors": [
+        {
+            "affiliation": "Universitat Autònoma de Barcelona",
+            "name": "Sergi Delgado-Segura"
+        },
+        {
+            "affiliation": "Universitat Autònoma de Barcelona",
+            "name": "Cristina Pérez-Solà"
+        },
+        {
+            "affiliation": "Universitat Autònoma de Barcelona",
+            "name": "Jordi Herrera-Joancomartí"
+        },
+        {
+            "affiliation": "Universitat Autònoma de Barcelona",
+            "name": "Guillermo Navarro-Arribas"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2016/1184.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin smart contracts allow the development of new protocols on top of Bitcoin itself. This usually involves the definition of complex scripts, far beyond the requirement of a single signature. In this paper we introduce the concept of private key locked transactions, a novel type of transactions that allows the atomic verification of a given private key (belonging to an asymmetric key pair) during the script execution."
+}
