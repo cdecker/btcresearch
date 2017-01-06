@@ -1,0 +1,28 @@
+{
+    "id": "zheng2016blockchain",
+    "title": "Blockchain Challenges And Opportunities: A Survey",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20170106,
+    "authors": [
+        {
+            "affiliation": "Sun Yat-sen University",
+            "name": "Zibin Zheng"
+        },
+        {
+            "affiliation": "Sun Yat-sen University",
+            "name": "Shaoan Xie"
+        },
+        {
+            "affiliation": "Macau University of Science and Technology",
+            "name": "Hong-Ning Dai"
+        },
+        {
+            "affiliation": "National University of Defense Technology, China",
+            "name": "Huaimin Wang"
+        }
+    ],
+    "url": "http://inpluslab.sysu.edu.cn/files/blockchain/blockchain.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain, as one of the core technologies in Bitcoin that is the most representative cryptocurrency, has received extensive attentions recently. Blockchain can be used as a peer-to-peer (P2P) decentralized system to store the pseudonymous transaction records in a trustless environment. It is believed that blockchain can be used in a diversity of future Internet interaction systems, such as smart contracts, public services, Internet of Things (IoT), reputation systems and security services rather than financial systems only. However, a number of technical challenges prohibit the wide application of blockchain. Therefore, we present a comprehensive survey on blockchain technologies. In particular, we first provide an overview of blockchain technologies and a taxonomy of various blockchain systems. We then enumerate a number of both current and future blockchain applications. We also discuss the challenges in this promising area and discuss the future directions."
+}
