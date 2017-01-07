@@ -1,0 +1,20 @@
+{
+    "id": "natoli2016balance",
+    "title": "The Balance Attack Against Proof-Of-Work Blockchains: The R3 Testbed As An Example",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20170107,
+    "authors": [
+        {
+            "affiliation": "University of Sydney",
+            "name": "Christopher Natoli"
+        },
+        {
+            "affiliation": "University of Sydney",
+            "name": "Vincent Gramoli"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.09426",
+    "peer-reviewed": false,
+    "abstract": "—In this paper, we identify a new form of attack, called the Balance attack, against proof-of-work blockchain systems. The novelty of this attack consists of delaying network communications between multiple subgroups of nodes with balanced mining power. Our theoretical analysis captures the precise tradeoff between the network delay and the mining power of the attacker needed to double spend in Ethereum with high probability. We quantify our probabilistic analysis with statistics taken from the R3 consortium, and show that a single machine needs 20 minutes to attack the consortium. Finally, we run an Ethereum private chain in a distributed system with similar settings as R3 to demonstrate the feasibility of the approach, and discuss the application of the Balance attack to Bitcoin. Our results clearly confirm that main proof-of-work blockchain protocols can be badly suited for consortium blockchains."
+}
