@@ -1,0 +1,17 @@
+{
+    "id": "shi2016new",
+    "title": "A New Proof-Of-Work Mechanism For Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20170107,
+    "authors": [
+        {
+            "affiliation": "Sun Yat-sen University",
+            "name": "Ning Shi"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1186/s40854-016-0045-6",
+    "venue": "Financial Innovation",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin system, when more than 51% computing power is controlled by a single node, the block chain can be distorted maliciously. This is called 51% attack which is a well-known potential risk that could destroy the Bitcoin system. The paper proves that under the current proof-of-work mechanism, computing power eventually will be centralized at a single node if miners are rational enough. The paper propose a new proof-of-work mechanism that improves decentralization and reduces the risk of 51% attack without increasing the risk of Sybil attack. This new mechanism introduces a series of principles such as Career open to all talents, without distinction of birth, Distribution according to labor and All Men are created equal."
+}
