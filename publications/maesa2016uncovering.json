@@ -1,0 +1,25 @@
+{
+    "id": "maesa2016uncovering",
+    "title": "Uncovering The Bitcoin Blockchain: An Analysis Of The Full Users Graph",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Università di Pisa",
+            "name": "Damiano Di Francesco Maesa"
+        },
+        {
+            "affiliation": "Università di Pisa",
+            "name": "Andrea Marino"
+        },
+        {
+            "affiliation": "Università di Pisa",
+            "name": "Laura Ricci"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7796940/",
+    "venue": "Data Science and Advanced Analytics",
+    "peer-reviewed": true,
+    "abstract": "BITCOIN is a novel decentralized cryptocurrency system which has recently received a great attention from a wider audience. An interesting and unique feature of this system is that the complete list of all the transactions occurred from its inception is publicly available. This enables the investigation of funds movements to uncover interesting properties of the BITCOIN economy. In this paper we present a set of analyses of the user graph, i.e. the graph obtained by an heuristic clustering of the graph of BITCOIN transactions. Our analyses consider an up-to-date BITCOIN blockchain, as in December 2015, after the exponential explosion of the number of transactions occurred in the last two years. The set of analyses we defined includes, among others, the analysis of the time evolution of BITCOIN network, the verification of the \"rich get richer\" conjecture and the detection of the nodes which are critical for the network connectivity."
+}
