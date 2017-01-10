@@ -1,0 +1,22 @@
+{
+    "id": "szetela2016dependency",
+    "title": "Dependency Analysis Between Bitcoin And Selected Global Currencies",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "name": "Beata Szetela"
+        },
+        {
+            "name": "Grzegorz Mentel"
+        },
+        {
+            "name": "Stanisław Gędek"
+        }
+    ],
+    "url": "http://www.apcz.pl/czasopisma/index.php/DEM/article/viewFile/DEM.2016.009/10729",
+    "venue": "Dynamic Econometric Models",
+    "peer-reviewed": true,
+    "abstract": "In this research we  have tried to identify the relationship between the exchange rate for bitcoin to the leading currencies such as Dollar, Euro, British Pound and Chinese Yuan and Polish zloty as well. We have applied ARMA and GARCH models to model and to analyze the conditional mean and variance. The appliance of GARCH models have identified some dependency in explanation conditional variance between bitcoin and US Dollar, Euro and Yuan, while ARMA analysis have shown no relations between bitcoin and other dependent variables."
+}
