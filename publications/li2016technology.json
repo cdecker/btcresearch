@@ -1,0 +1,21 @@
+{
+    "id": "li2016technology",
+    "title": "The Technology And Economic Determinants Of Cryptocurrency Exchange Rates: The Case Of Bitcoin",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "City University of Hong Kong",
+            "name": "Xin Li"
+        },
+        {
+            "affiliation": "City University of Hong Kong",
+            "name": "Chong Alex Wang"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0167923616302111",
+    "venue": "Decision Support Systems",
+    "peer-reviewed": true,
+    "abstract": "Cryptocurrencies, such as Bitcoin, have ignited intense discussions. Despite receiving extensive public attention, theoretical understanding is limited regarding the value of blockchain-based cryptocurrencies, as expressed in their exchange rates against traditional currencies. In this paper, we conduct a theory-driven empirical study of the Bitcoin exchange rate (against USD) determination, taking into consideration both technology and economic factors. To address co-integration in a mix of stationary and non-stationary time series, we use the autoregressive distributed lag (ARDL) model with a bounds test approach in the estimation. Meanwhile, to detect potential structural changes, we estimate our empirical model on two periods separated by the closure of Mt. Gox (one of the largest Bitcoin exchange markets). According to our analysis, in the short term, the Bitcoin exchange rate adjusts to changes in economic fundamentals and market conditions. The long-term Bitcoin exchange rate is more sensitive to economic fundamentals and less sensitive to technological factors after Mt. Gox closed. We also identify a significant impact of mining technology and a decreasing significance of mining difficulty in the Bitcoin exchange price determination."
+}
