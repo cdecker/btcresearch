@@ -1,0 +1,28 @@
+{
+    "id": "bouri2016does",
+    "title": "Does Bitcoin Hedge Global Uncertainty? Evidence From Wavelet-Based Quantile-In-Quantile Regressions",
+    "year": 2016,
+    "type": "techreport",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Holy Spirit University of Kaslik",
+            "name": "Elie Bouri"
+        },
+        {
+            "affiliation": "University of Pretoria",
+            "name": "Rangan Gupta"
+        },
+        {
+            "affiliation": "Montpellier Business School",
+            "name": "Aviral Kumar Tiwari"
+        },
+        {
+            "affiliation": "Montpellier Business School",
+            "name": "David Roubaud"
+        }
+    ],
+    "url": "https://ideas.repec.org/p/pre/wpaper/201690.html",
+    "peer-reviewed": false,
+    "abstract": "In this study, we analyse whether Bitcoin can hedge uncertainty using daily data for the period of 17th March, 2011, to 7th October, 2016. Global uncertainty is measured by the first principal component of the VIXs of 14 developed and developing equity markets. We first use wavelets to decompose Bitcoin returns into various frequencies, i.e., investment horizons. Then, we apply standard OLS regressions and observe that uncertainty negatively affects raw Bitcoin return and its longer-term movements. However, given the heavy tails of the variables, we rely on quantile methods and reveal much more nuanced and interesting results. Quantile regressions indicate that Bitcoin does act as a hedge against uncertainty, that is, it reacts positively to uncertainty at both higher quantiles and shorter frequency movements of Bitcoin returns. Finally, when we use quantile-on-quantile regressions, we observe that hedging is observed at shorter investment horizons, and at both lower and upper ends of Bitcoin returns and global uncertainty."
+}
