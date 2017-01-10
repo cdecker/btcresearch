@@ -1,0 +1,17 @@
+{
+    "id": "glaser2017pervasive",
+    "title": "Pervasive Decentralisation Of Digital Infrastructures: A Framework For Blockchain Enabled System And Use Case Analysis",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Goethe University Frankfurt",
+            "name": "Florian Glaser"
+        }
+    ],
+    "url": "http://scholarspace.manoa.hawaii.edu/bitstream/10125/41339/1/paper0190.pdf",
+    "venue": "Hawaii International Conference on System Sciences",
+    "peer-reviewed": true,
+    "abstract": "Technological innovation and consequential decentralisation are driving forces in the ongoing evolution and increasing openness of digital infrastructures and services. One of the most discussed and allegedly disruptive innovations is the distributed database technology referred to as blockchain. Although it is still in its technological infancy, experimental adoption and customization seem to be in full progress in various potential fields of application ranging from decentralized grids for computation and storage to global financial services. However, the technology and its path of development still entail a lot of common unknowns for practitioners and researchers alike. Especially regarding the question how the technology could amend or be incorporated into the existing landscape of digital services, processes and infrastructures. Hence, in this article we develop an ontology that (1) clearly delineates common terminology, core concepts and components, their relationships as well as innovative features of blockchain technology. It further (2) connects these insights with implications for relevant types of digital market models. Our framework is of high theoretical and practical value as it provides researchers and practitioners a common basis for communication and means for guided analysis of blockchain applicability."
+}
