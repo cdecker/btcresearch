@@ -1,0 +1,25 @@
+{
+    "id": "lindman2017opportunities",
+    "title": "Opportunities And Risks Of Blockchain Technologies--A Research Agenda",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "University of Gothenburg/Chalmers",
+            "name": "Juho Lindman"
+        },
+        {
+            "affiliation": "Aalto University School of Business",
+            "name": "Virpi Kristiina Tuunainen"
+        },
+        {
+            "affiliation": "Aalto University School of Business",
+            "name": "Matti Rossi"
+        }
+    ],
+    "url": "http://scholarspace.manoa.hawaii.edu/bitstream/10125/41338/1/paper0189.pdf",
+    "venue": "Hawaii International Conference on System Sciences",
+    "peer-reviewed": true,
+    "abstract": "Blockchain technologies offer new open sourcebased opportunities for developing new types of digital platforms and services. While research on the topic is emerging, it has this far been predominantly focused to technical and legal issues. To broaden our understanding of blockchain technology based services and platforms, we build on earlier literature on payments and payment platforms and propose a research agenda divided into three focal areas of 1) organizational issues; 2) issues related to the competitive environment; and 3) technology design issues. We discuss several salient themes within each of these areas, and derive a set of research question for each theme, highlighting the need to address both risks and opportunities for users, as well as different types of stakeholder organizations. With this research agenda, we contribute to the discussion on future avenues for Information Systems research on blockchain technology based platforms and services. "
+}
