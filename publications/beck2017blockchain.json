@@ -1,0 +1,21 @@
+{
+    "id": "beck2017blockchain",
+    "title": "Blockchain As Radical Innovation: A Framework For Engaging With Distributed Ledgers As Incumbent Organization",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "IT University of Copenhagen",
+            "name": "Roman Beck"
+        },
+        {
+            "affiliation": "IT University of Copenhagen",
+            "name": "Christoph Müller-Bloch"
+        }
+    ],
+    "url": "http://scholarspace.manoa.hawaii.edu/bitstream/10125/41815/1/paper0666.pdf",
+    "venue": "Hawaii International Conference on System Sciences",
+    "peer-reviewed": true,
+    "abstract": "Blockchain is an emerging technology that is perceived as groundbreaking. However, blockchain presents incumbent organizations with significant challenges. How should they respond to the advent of this innovative technology, and how can they build the capabilities that are necessary to successfully engage with blockchain? In this case study, we analyze how an incumbent bank deals with the radical innovation of blockchain. We find that blockchain as an innovation is unique, because its transaction cost-lowering nature requires cooperation not only on an intra-organizational, but also on an inter-organizational level to fully leverage the technology. We develop a framework illustrating how the process of discovering, incubating, and accelerating with blockchain can look like. Our research is one of the first case studies in the area; shedding light on the organizational challenges of incumbents as they engage with blockchain. The paper provides a blueprint for business executives in their endeavor of embracing blockchain technology."
+}
