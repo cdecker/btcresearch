@@ -1,0 +1,16 @@
+{
+    "id": "patel2016blockchain",
+    "title": "Blockchain Use Cases: From Beyonce To Barack",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Tufts University",
+            "name": "Meet Patel"
+        }
+    ],
+    "url": "http://www.cs.tufts.edu/comp/116/archive/fall2016/mpatel.pdf",
+    "peer-reviewed": false,
+    "abstract": "With its meteoric rise in popularity after the emergence of Bitcoin, blockchains have been held in high regards in terms of their security and therefore their affordability. This is especially so in the financial world where the first use cases were displayed. These blockchains have not only the capabilities to revamp how banks handle money transfers but also any situation where many small time vendors are conducting business with other individuals. This includes business such as Venmo and Airbnb. Nearly any model that contains individualized information and holdings such as the stock market can use some version of a modified blockchain to store their data. Although a blockchain can be used for these models, it is not always the best option due to the various disadvantages including; large resource consumption, code integration and maintenance, and large costs. This paper will discuss the optimal use cases of blockchains taking into account the various advantages and disadvantages of the technology"
+}
