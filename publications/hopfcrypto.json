@@ -1,0 +1,20 @@
+{
+    "id": "hopfcrypto",
+    "title": "Crypto-Property And Trustless Peer-To-Peer Transactions: Blockchain As Disruption Of Property Rights And Transaction Cost Regimes?",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Ludwig-Maximilians-Universität",
+            "name": "Stefan Hopf"
+        },
+        {
+            "affiliation": "Ludwig-Maximilians-Universität",
+            "name": "Arnold Picot"
+        }
+    ],
+    "url": "https://gedankenstrich.org/wp-content/uploads/2016/12/Konferenzband_Zukunft-der-Wertsch%C3%B6pfung_2016_digital.pdf#page=165",
+    "peer-reviewed": false,
+    "abstract": "The transformation from atoms to bits not only leads to a shapeshift of molecules, but also radically alters their properties which have formed the development of our current legal, economic and other institutional regimes. Fueled by the increasing convergence of the physical and virtual world, digital assets are increasingly powering future applications, such as the Internet of Things and the autonomous car, requiring secure, seamless and dynamic real-time transactions of property and associated rights – something that traditional centralized approaches increasingly struggle to facilitate. Blockchain technology, as first implemented by Bitcoin, provides an innovative solution and is expected to store 10% of value of the global gross domestic product by 2027. Building on the blockchain concept, this paper discusses how a trustless peer-to-peer infrastructure could be used to secure and transfer property. Based on the notion that property rights are becoming increasingly unbundled, transferable and enforceable on an unprecedented granular level, the article attempts to initiate a broader discussion on economic implications. Thereby it touches on the potentially disruptive concepts of smart contracts, smart property and decentralized autonomous organizations that point towards a radical disintermediation, as distributed and market-based peer-to-peer configurations leapfrog current suboptimal hierarchical institutional arrangements."
+}
