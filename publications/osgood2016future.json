@@ -1,0 +1,16 @@
+{
+    "id": "osgood2016future",
+    "title": "The Future Of Democracy: Blockchain Voting",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Tufts University",
+            "name": "Ryan Osgood"
+        }
+    ],
+    "url": "http://www.cs.tufts.edu/comp/116/archive/fall2016/rosgood.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain voting could have many tangible benefits and could be the catalyst needed to propel voting to the 21st century. This paper will first analyze the problems with current voting techniques and showcase the vulnerabilities of a current voting machine. Then, the engineering of the blockchain and its benefits will be discussed and current work being done on blockchain voting, as well as progress and challenges of widespread adoption. "
+}
