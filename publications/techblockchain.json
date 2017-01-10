@@ -1,0 +1,24 @@
+{
+    "id": "techblockchain",
+    "title": "Blockchain Technology And Open Source Sensor Networks",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Humboldt Institute for Internet and Society",
+            "name": "Robin PG Tech"
+        },
+        {
+            "affiliation": "Humboldt Institute for Internet and Society",
+            "name": "Konstanze EK Neumann"
+        },
+        {
+            "affiliation": "AtomLeap",
+            "name": "Wendelin Michel"
+        }
+    ],
+    "url": "http://www.openproduction.info/wp-content/uploads/2016/12/161205_Konferenzband_Zukunft-der-Wertsch%C3%B6pfung_2016_digital.pdf#page=131",
+    "peer-reviewed": false,
+    "abstract": "This paper explores the mechanisms and processes behind open source sensor networks. We address inefficiencies in current networks and explore how distributed ledger logics could alleviate their shortcomings. Our approach builds on complex systems analysis [1,2], transaction cost theory [3,4], paradigms of an increasing openness in (commercial) value creation [5,6,7], and research on community-driven innovation [8,9,10,11]. We assessed the key mechanisms in open source sensor networks against the backdrop of traditional sensor networks via the case of the radiation detection network Safecast Japan. This study identifies major shortcomings in terms of the security, maintenance, incentivization, sustainable operations, and, possibly, strategic expansion of the network. Several of these issues can be addressed by distributed ledger schemes such as Bitcoin or Ethereum. We therefore suggest applications for such schemes within open source sensor networks to mitigate or alleviate specific limitations of current networks and to ultimately help to constitute more secure and robust open source sensor networks. This could establish a basis for developing technologies and complex systems in an open, distributed, and, potentially, self-sustaining manner."
+}
