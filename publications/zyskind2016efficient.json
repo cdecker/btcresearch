@@ -1,0 +1,16 @@
+{
+    "id": "zyskind2016efficient",
+    "title": "Efficient Secure Computation Enabled By Blockchain Technology",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Massachusetts Institute of Technology",
+            "name": "Guy Zyskind"
+        }
+    ],
+    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/105933/964695278-MIT.pdf?sequence=1",
+    "peer-reviewed": false,
+    "abstract": "For several decades, secure multiparty computation has been the topic of extensive research, as it enables computing any functionality in a privacy-preserving manner, while ensuring correctness of the outputs. In recent years, the field has seen tremendous progress in terms of efficiency, although most results remained impractical for real applications concerning complex functionalities or significant data. When privacy is not a concern and we are only interested in achieving consensus in a distributed computing environment, the rise of cryptocurrencies, specifically Bitcoin, has presented an efficient and robust solution that exceeds the limits imposed by prior theoretical results. Primarily, Bitcoin's relative efficiency and superiority in achieving consensus is due to its inclusion of incentives. By doing so, it extends the standard cryptographic model to one that reasons about security through rationality of the different players. Inspired by this idea, this thesis focuses on the development of an efficient, general-purpose secure computation platform that relies on blockchain and cryptocurrencies (e.g., Bitcoin) for efficiency and scalability. Similar to how Bitcoin transformed the idea of distributed consensus, the goal in this work is to take secure multi-party computation from the realm of theory to practice. To that end, a formal model of secure computation in an environment of rational players is developed and is used to show how in this framework, efficiency is improved compared to the standard cryptographic model. The second part of this thesis deals with improving secure computation protocols over the integers and fixed-point numbers. The protocols and tools developed are a significant improvement over the current state-of-the-art, with an optimally efficient secure comparison protocol (for up to 64-bit integers) and better asymptotic bounds for fixed-point division."
+}
