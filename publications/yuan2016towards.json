@@ -1,0 +1,21 @@
+{
+    "id": "yuan2016towards",
+    "title": "Towards Blockchain-Based Intelligent Transportation Systems",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20170110,
+    "authors": [
+        {
+            "affiliation": "Chinese Academy of Sciences",
+            "name": "Yong Yuan"
+        },
+        {
+            "affiliation": "CASIA",
+            "name": "Fei-Yue Wang"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7795984/",
+    "venue": "Intelligent Transportation Systems (ITSC), 2016 IEEE 19th International Conference on",
+    "peer-reviewed": true,
+    "abstract": "Blockchain, widely known as one of the disruptive technologies emerged in recent years, is experiencing rapid development and has the full potential of revolutionizing the increasingly centralized intelligent transportation systems (ITS) in applications. Blockchain can be utilized to establish a secured, trusted and decentralized autonomous ITS ecosystem, creating better usage of the legacy ITS infrastructure and resources, especially effective for crowdsourcing technology. This paper conducts a preliminary study of Blockchain-based ITS (B2ITS). We outline an ITS-oriented, seven-layer conceptual model for blockchain, and on this basis address the key research issues in B2ITS. We consider that blockchain is one of the secured and trusted architectures for building the newly developed parallel transportation management systems (PtMS) , and thereby discuss the relationship between B2ITS and PtMS. Finally, we present a case study for blockchain-based realtime ride-sharing services. In our viewpoint, B2ITS represents the future trend of ITS research and practice, and this paper is aimed at stimulating further effort and providing helpful guidance and reference for future research works."
+}
