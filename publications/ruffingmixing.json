@@ -1,0 +1,20 @@
+{
+    "id": "ruffingmixing",
+    "title": "Mixing Confidential Transactions: Comprehensive Transaction Privacy For Bitcoin\u22c6",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170112,
+    "authors": [
+        {
+            "affiliation": "Saarland University",
+            "name": "Tim Ruffing"
+        },
+        {
+            "affiliation": "Purdue University",
+            "name": "Pedro Moreno-Sanchez"
+        }
+    ],
+    "url": "https://people.mmci.uni-saarland.de/~truffing/papers/valueshuffle.pdf",
+    "peer-reviewed": false,
+    "abstract": "The public nature of the blockchain has been shown to be a severe threat for the privacy of Bitcoin users. Even worse, since funds can be tracked and tainted, no two coins are equal, and fungibility, a fundamental property required in every currency, is at risk. With these threats in mind, several privacy-enhancing technologies have been proposed to make Bitcoin more private. However, they either require a deep redesign of the currency, breaking many currently deployed features, or they address only specific privacy issues and consequently provide only very limited guarantees when deployed separately. The goal of this work is to overcome this trade-off. Building on CoinJoin, we design ValueShuffle, the first coin mixing protocol compatible with Confidential Transactions, a proposal to hide payment values in transactions. ValueShuffle ensures a mixing participant’s anonymity and the confidentiality of her payment values not only against an attacker observing the blockchain but also against the other possibly malicious mixing participants and against network attackers. By combining ValueShuffle with Confidential Transactions and additionally Stealth Addresses, our solution provides comprehensive privacy (payer anonymity, payee anonymity, and payment value privacy) without breaking with the design or the features of the current Bitcoin system. We demonstrate that the combination of these three privacy-enhancing technologies creates synergies that overcome the two major obstacles which so far have prohibited the deployment of coin mixing in practice, namely that users need to mix funds of the same value, and need to do so before they can actually spend the funds. As a result, our approach unleashes the full potential of coin mixing as a privacy solution for Bitcoin."
+}
