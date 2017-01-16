@@ -1,0 +1,24 @@
+{
+    "id": "sikorskiblockchain",
+    "title": "Blockchain Technology In The Chemical Industry: Machine-To-Machine Electricity Market",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170116,
+    "authors": [
+        {
+            "affiliation": "University of Cambridge",
+            "name": "Janusz J Sikorski"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "name": "Joy Haughton"
+        },
+        {
+            "affiliation": "Nanyang Technological University",
+            "name": "Markus Kraft"
+        }
+    ],
+    "url": "https://como.cheng.cam.ac.uk/preprints/c4e-Preprint-178.pdf",
+    "peer-reviewed": false,
+    "abstract": "The purpose of this paper is to explore applications of blockchain technology related to the 4th Industrial Revolution (Industry 4.0) and to present an example where blockchain is employed to facilitate machine-to-machine (M2M) interactions and establish a M2M electricity market in the context of the chemical industry. The presented scenario includes two electricity producers and one electricity consumer trading with each other over a blockchain. The producers publish exchange offers of energy (in kWh) for currency (in USD) in a data stream. The consumer reads the offers, analyses them and attempts to satisfy its energy demand at a minimum cost. When an offer is accepted it is executed as an atomic exchange (multiple simultaneous transactions). Additionally, this paper describes and discusses the research and application landscape of blockchain technology in relation to the Industry 4.0. It concludes that this technology has significant under-researched potential to support and enhance the efficiency gains of the revolution and identifies areas for future research."
+}
