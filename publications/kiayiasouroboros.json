@@ -1,0 +1,28 @@
+{
+    "id": "kiayiasouroboros",
+    "title": "Ouroboros: A Provably Secure Proof-Of-Stake Blockchain Protocol",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170121,
+    "authors": [
+        {
+            "affiliation": "University of Edinburgh, IOHK",
+            "name": "Aggelos Kiayias"
+        },
+        {
+            "affiliation": "University of Connecticut",
+            "name": "Alexander Russell"
+        },
+        {
+            "affiliation": "Aarhus University, IOHK",
+            "name": "Bernardo David"
+        },
+        {
+            "affiliation": "IOHK",
+            "name": "Roman Oliynykov"
+        }
+    ],
+    "url": "http://eprint.iacr.org/2016/889/20161221:084449",
+    "peer-reviewed": false,
+    "abstract": "We present “Ouroboros,” the first blockchain protocol based on proof of stake with rigorous security guarantees. We establish security properties for the protocol comparable to those achieved by the bitcoin blockchain protocol. As the protocol provides a “proof of stake” blockchain discipline, it offers qualitative efficiency advantages over blockchains based on proof of physical resources (e.g., proof of work). We showcase the practicality of our protocol in real world settings by providing experimental results on transaction processing time obtained with a prototype implementation in the Amazon cloud. We also present a novel reward mechanism for incentivizing the protocol and we prove that given this mechanism honest behavior is an approximate Nash equilibrium, thus neutralizing attacks such as selfish mining and block withholding."
+}
