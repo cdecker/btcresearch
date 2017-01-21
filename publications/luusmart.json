@@ -1,0 +1,28 @@
+{
+    "id": "luusmart",
+    "title": "Smart Pool: Practical Decentralized Pooled Mining",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170121,
+    "authors": [
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Loi Luu"
+        },
+        {
+            "affiliation": "The Hebrew University of Jerusalem",
+            "name": "Yaron Velner"
+        },
+        {
+            "affiliation": "University of Alabama at Birmingham",
+            "name": "Jason Teutsch"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Prateek Saxena"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/019.pdf",
+    "peer-reviewed": false,
+    "abstract": "Many blockchain-based cryptocurrencies such as Bitcoin and Ethereum use Nakamoto consensus protocol to reach agreement on the blockchain state between a network of participant nodes. The Nakamoto consensus protocol probabilistically selects a leader via a mining process which rewards network participants (or miners) to solve computational puzzles. Finding solutions for such puzzles requires an enormous amount of computation. Thus, miners often aggregate resources into pools and share rewards amongst all pool members via pooled mining protocol. Pooled mining helps reduce the variance of miners’ payoffs significantly and is widely adopted in popular cryptocurrencies. For example, as of this writing, more than 95% of mining power in Bitcoin emanates from 10 mining pools. Although pooled mining benefits miners, it severely degrades decentralization, since a centralized pool manager administers the pooling protocol. Furthermore, pooled mining increases the transaction censorship significantly since pool managers decide which transactions are included in blocks. Due to this widely recognized threat, the Bitcoin community has proposed an alternative called P2Pool which decentralizes the operations of the pool manager. However, P2Pool is inefficient, increases the variance of miners’ rewards, requires much more computation and bandwidth from miners, and has not gained wide adoption. In this work, we propose a new protocol design for a decentralized mining pool. Our protocol called SMARTPOOL shows how one can leverage smart contracts, which are autonomous agents themselves running on decentralized blockchains, to decentralize cryptocurrency mining. SMARTPOOL guarantees high security, low reward’s variance for miners and is cost-efficient. We implemented a prototype of SMARTPOOL as an Ethereum smart contract working as a decentralized mining pool for Bitcoin. We have deployed it on the Ethereum testnet and our experiments confirm that SMARTPOOL is efficient and ready for practical use."
+}
