@@ -1,0 +1,20 @@
+{
+    "id": "hegazycomparitive",
+    "title": "Comparitive Automated Bitcoin Trading Strategies",
+    "year": 2017,
+    "type": "techreport",
+    "sortkey": 20170121,
+    "authors": [
+        {
+            "affiliation": "Stanford",
+            "name": "Kareem Hegazy"
+        },
+        {
+            "affiliation": "Stanford",
+            "name": "Samuel Mumford"
+        }
+    ],
+    "url": "http://cs229.stanford.edu/proj2016/report/MumfordHegazy-ComparitiveAutomatedBitcoinTradingStrategies-report.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is an international peer-to-peer traded crypto-currency which exhibits high volatility and is minimally impacted by current world events. Bitcoins are directly traded between individuals through intermediate sites that act as bitcoin markets. The largest of these markets is Bitstamp.net. In these markets people offer to buy or sell bitcoin at prices they define, or can put in a fill order to buy or sell at the best offered price. As bitcoin is traded around the world, unlike a stock or currency it is minimally affected by an individual corporation or the economic condition of a single country. This insulation from outside information makes bitcoin an ideal platform for trading through machine learning as the bitcoin price record itself should contain the vast majority of market information. Moreover, these data sets are free, while data sets for the stock market are not easily attainable. Finally, bitcoin price is highly volatile as seen in Figure 1, and thus small changes in algorithms can lead to large changes in algorithmic performance. We seek to use the relative insulation and high volatility of bitcoin to evaluate the trading performance of machine learning algorithms."
+}
