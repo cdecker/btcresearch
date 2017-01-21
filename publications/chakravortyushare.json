@@ -1,0 +1,20 @@
+{
+    "id": "chakravortyushare",
+    "title": "Ushare: User Controlled Social Media Based On Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170121,
+    "authors": [
+        {
+            "affiliation": "University of Stavanger",
+            "name": "Antorweep Chakravorty"
+        },
+        {
+            "affiliation": "University of Stavanger",
+            "name": "Chunming Rong"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Antorweep_Chakravorty/publication/312211808_Ushare_user_controlled_social_media_based_on_blockchain/links/5876575a08ae8fce492dcecf.pdf",
+    "peer-reviewed": false,
+    "abstract": "This paper presents the potential for blockchain based solutions to disrupt the world of social networking. We offer Ushare, a user centric blockchain supported social media network that enables users to control, trace and claim ownership of every piece of content they share. Harnessing peer-topeer capabilities of the blockchain technology allows a truly decentralized, secure, anonymous and traceable content distribution network. Ushare consists of four key components: the blockchain, a hash table with encrypted content shared by a user, a Turing complete relationship system to control the the maximum number of shares performed by user’s circle members and a local personal certificate authority that manages the user’s circles and encrypts data to be shared before it is broadcasted to the network."
+}
