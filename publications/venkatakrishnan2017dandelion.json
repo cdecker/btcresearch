@@ -1,0 +1,24 @@
+{
+    "id": "venkatakrishnan2017dandelion",
+    "title": "Dandelion: Redesigning The Bitcoin Network For Anonymity",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170121,
+    "authors": [
+        {
+            "affiliation": "University of Illinois at Urbana-Champaign",
+            "name": "Shaileshh Bojja Venkatakrishnan"
+        },
+        {
+            "affiliation": "University of Illinois at Urbana-Champaign",
+            "name": "Giulia Fanti"
+        },
+        {
+            "affiliation": "University of Illinois at Urbana-Champaign",
+            "name": "Pramod Viswanath"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1701.04439",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin and other cryptocurrencies have surged in popularity over the last decade. Although Bitcoin does not claim to provide anonymity for its users, it enjoys a public perception of being a ‘privacy-preserving’ financial system. In reality, cryptocurrencies publish users’ entire transaction histories in plaintext, albeit under a pseudonym; this is required for transaction validation. Therefore, if a user’s pseudonym can be linked to their human identity, the privacy fallout can be significant. Recently, researchers have demonstrated deanonymization attacks that exploit weaknesses in the Bitcoin network’s peer-to-peer (P2P) networking protocols. In particular, the P2P network currently forwards content in a structured way that allows observers to deanonymize users. In this work, we redesign the P2P network from first principles with the goal of providing strong, provable anonymity guarantees. We propose a simple networking policy called Dandelion, which achieves nearly-optimal anonymity guarantees at minimal cost to the network’s utility. We also provide a practical implementation of Dandelion for deployment."
+}
