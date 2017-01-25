@@ -1,0 +1,16 @@
+{
+    "id": "ruckeshauser2017we",
+    "title": "Do We Really Want Blockchain-Based Accounting? Decentralized Consensus As Enabler Of Management Override Of Internal Controls",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170125,
+    "authors": [
+        {
+            "affiliation": "University of St. Gallen",
+            "name": "Nadine Rückeshäuser"
+        }
+    ],
+    "url": "http://aisel.aisnet.org/wi2017/track01/paper/2/",
+    "peer-reviewed": false,
+    "abstract": "Research proposing the application of blockchain technology in accounting assumes the utilization of decentralized consensus mechanisms based on the exertion of scarce resources (Proof-of-Work; PoW), leading to the validation of transactions without the need of any third party. Together with the blockchain, a shared database, PoW is expected to lead to nearly immutable and, therefore, fraud-resistant, real-time financial registers. This conclusion must be reconsidered, taking into account recurrent top-management involvement in accounting scandals, often conducted through deliberate exposures of internal and external control systems. This paper asserts that blockchain-based accounting using PoW-based consensus paves the way for the suspension of controls by the management, since exerting the majority of computer power is easier than circumventing internal and external control systems in conventional accounting systems. Alternatives to PoW must be considered for blockchain-based accounting that prevents the management from conducting fraud and, thereby, qualifies the blockchain for its application in accounting."
+}
