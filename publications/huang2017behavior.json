@@ -1,0 +1,37 @@
+{
+    "id": "huang2017behavior",
+    "title": "Behavior Pattern Clustering In Blockchain Networks",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170201,
+    "authors": [
+        {
+            "affiliation": "Zhejiang University",
+            "name": "Butian Huang"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Zhenguang Liu"
+        },
+        {
+            "affiliation": "Zhejiang University",
+            "name": "Jianhai Chen"
+        },
+        {
+            "affiliation": "Tianjin University",
+            "name": "Anan Liu"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Qi Liu"
+        },
+        {
+            "affiliation": "Zhejiang University",
+            "name": "Qinming He"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1007/s11042-017-4396-4",
+    "venue": "Multimedia Tools and Applications",
+    "peer-reviewed": true,
+    "abstract": "Blockchain holds promise for being the revolutionary technology, which has the potential to find applications in numerous fields such as digital money, clearing, gambling and product tracing. However, blockchain faces its own problems and challenges. One key problem is to automatically cluster the behavior patterns of all the blockchain nodes into categories. In this paper, we introduce the problem of behavior pattern clustering in blockchain networks and propose a novel algorithm termed BPC for this problem. We evaluate a long list of potential sequence similarity measures, and select a distance that is suitable for the behavior pattern clustering problem. Extensive experiments show that our proposed algorithm is much more effective than the existing methods in terms of clustering accuracy."
+}
