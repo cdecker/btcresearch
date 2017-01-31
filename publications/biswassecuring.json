@@ -1,0 +1,20 @@
+{
+    "id": "biswassecuring",
+    "title": "Securing Smart Cities Using Blockchain Technology",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170201,
+    "authors": [
+        {
+            "affiliation": "Griffith University",
+            "name": "Kamanashis Biswas"
+        },
+        {
+            "affiliation": "Griffith University",
+            "name": "Vallipuram Muthukkumarasamy"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Kamanashis_Biswas/publication/311716550_Securing_Smart_Cities_Using_Blockchain_Technology/links/5857a7ac08ae81995eb7f8a3.pdf",
+    "peer-reviewed": false,
+    "abstract": "A smart city uses information technology to integrate and manage physical, social, and business infrastructures in order to provide better services to its dwellers while ensuring efficient and optimal utilization of available resources. With the proliferation of technologies such as Internet of Things (IoT), cloud computing, and interconnected networks, smart cities can deliver innovative solutions and more direct interaction and collaboration between citizens and the local government. Despite a number of potential benefits, digital disruption poses many challenges related to information security and privacy. This paper proposes a security framework that integrates the blockchain technology with smart devices to provide a secure communication platform in a smart city."
+}
