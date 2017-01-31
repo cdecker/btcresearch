@@ -1,0 +1,24 @@
+{
+    "id": "maxwell2017story",
+    "title": "Story Blocks: Reimagining Narrative Through The Blockchain",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170131,
+    "authors": [
+        {
+            "affiliation": "University of York",
+            "name": "Deborah Maxwell"
+        },
+        {
+            "affiliation": "University of Edinburgh",
+            "name": "Chris Speed"
+        },
+        {
+            "affiliation": "University of Edinburgh",
+            "name": "Larissa Pschetz"
+        }
+    ],
+    "url": "http://journals.sagepub.com/doi/abs/10.1177/1354856516675263",
+    "peer-reviewed": false,
+    "abstract": "Digital technology is changing, and has changed the ways we create and consume narratives, from moving images and immersive storyworlds to digital long-form and multi-branched story experiences. At the same time, blockchain, the technology that underpins cryptocurrencies such as Bitcoin, is revolutionizing the way that transactions and exchanges occur. As a globally stored and collaboratively written list of all transactions that have ever taken place within a given system, the blockchain decentralizes money and offers a platform for its creative use. There are already examples of blockchain technologies extending beyond the realm of currency, including the decentralization of domain name servers that are not subject to government takedown and identity management and governance. By framing key blockchain concepts with past and present storytelling practices, this article raises questions as to how the principles and implementation of such distributed ledger technologies might be used within contemporary writing practices – that is, can we imagine stories as a currency or value system? We present three experiments that draw on some of the fundamental principles of blockchain and Bitcoin, as an instantiation of a blockchain implemented application, namely, (1) the ledger, (2) the blocks and (3) the mining process. Each low-fi experiment was intentionally designed to be very accessible to take part in and understand and all were conducted as discrete workshops with different sets of participants. Participants included a cohort of design students, technology industry and design professionals and writing and interaction design academics. Each experiment raised a different set of reflections and subsequent questions on the nature of digital, the linearity (or not) of narratives and collaborative processes."
+}
