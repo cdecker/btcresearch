@@ -1,0 +1,20 @@
+{
+    "id": "karstconnecting",
+    "title": "Connecting Multiple Devices With Blockchain In The Internet Of Things",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170201,
+    "authors": [
+        {
+            "affiliation": "Tallinn University Of Technology",
+            "name": "Jan Johan Karst"
+        },
+        {
+            "affiliation": "Tallinn University Of Technology",
+            "name": "Guillaume Brodar"
+        }
+    ],
+    "url": "https://courses.cs.ut.ee/MTAT.03.323/2016_fall/uploads/Main/002.pdf",
+    "peer-reviewed": false,
+    "abstract": "The scope of this research paper is “Connecting multiple devices with blockchain in the Internet of Things (IoT)”, and it intends to give a literature overview. Please be aware that this survey paper in no way is intended to be an extensive/complete overview of blockchain as an enabling technology for the IoT. The authors have selected a couple of interesting applications of blockchain in the IoT, and dive into these applications in more detail. "
+}
