@@ -1,0 +1,20 @@
+{
+    "id": "liaoincentivizing",
+    "title": "Incentivizing Double-Spend Collusion In Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170201,
+    "authors": [
+        {
+            "affiliation": "Arizona State University",
+            "name": "Kevin Liao"
+        },
+        {
+            "affiliation": "University of Maryland",
+            "name": "Jonathan Katz"
+        }
+    ],
+    "url": "https://pdfs.semanticscholar.org/81ee/b6553790e81c183c7798672bd82df957ff68.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin’s core innovation is its solution to double-spending, called Nakamoto consensus. This provides a probabilistic guarantee that transactions will not be reversed or redirected, provided that it is improbable for an attacker to obtain a majority of mining power in the network. While this may be true in the traditional sense, this assumption becomes tenuous when miners are assumed to be rational and hence venal. Accordingly, we present the whale attack, in which a minority attacker increases her chances of double-spending by incentivizing miners to subvert the consensus protocol and to collude via whale transactions, or transactions carrying anomalously large fees. We analyze the expected cost to carry out the attack, and simulate the attack under realistic system parameters. Our results show that double-spend attacks, conventionally thought to be impractical for minority attackers, can actually be financially feasible and worthwhile under the whale attack. Perhaps more importantly, this work demonstrates that rationality should not underestimated when evaluating Bitcoin’s security"
+}
