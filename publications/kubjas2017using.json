@@ -1,0 +1,15 @@
+{
+    "id": "kubjas2017using",
+    "title": "Using Blockchain For Enabling Internet Voting",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170201,
+    "authors": [
+        {
+            "name": "Ivo Kubjas"
+        }
+    ],
+    "url": "https://courses.cs.ut.ee/MTAT.03.323/2016_fall/uploads/Main/004.pdf",
+    "peer-reviewed": false,
+    "abstract": "Voting is an inherent process in a democratic society. Other methods for expressing the society participants’ will - for example caucuses in US party elections or Landsgemeine in Switzerland - can be inconvenient for the citizens and logistically difficult to organize. Furthermore, beyond inconvenience, there may be legitimate reasons for not being able to take part in the voting process, e.g. being deployed overseas in military or being on some other official assignment. Even more, filling in paper ballots and counting them is error-prone and time-consuming process. A well-known controversy took place during US presidental election in 2000 [Florida recount 2000], when a partial recount of the votes could have changed the outcome of the elections. As the recount was cancelled by the court, the actual result was not never known. Decline in elections’ participation rate has been observed in many old democracies [Summers 2016] and it should be the decision-makers goal to bring the electorate back to the polling booths. One way to do that would be to use internet voting. In this method, the ballots are cast using a personal computer or a smart phone and it sent over the internet to the election committee. However, there have been several critics against the internet voting methods [Springall et al. 2014]. In this report we consider, how to make internet voting protocols more secure by using blockchain."
+}
