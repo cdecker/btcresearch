@@ -1,0 +1,20 @@
+{
+    "id": "bieliauskasbitcoin",
+    "title": "Bitcoin--A Way To Reach Consensus In A Completely Decentralized Manner",
+    "year": 2017,
+    "type": "online",
+    "sortkey": 20170201,
+    "authors": [
+        {
+            "affiliation": "CoinGate",
+            "name": "Rytis Bieliauskas"
+        },
+        {
+            "affiliation": "Vilnius Gediminas Technical University",
+            "name": "Eugenijus Paliokas"
+        }
+    ],
+    "url": "https://www.mii.lt/lmr/A/2016/57A01.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a digital currency currently being legalized throughout the European Union [2], whose operating principles were published publicly [5], but not in scientific or mathematical sources. The goal of this report is to encourage discussions about decentralization and security of the Bitcoin system, as well as about reasonableness of the Bitcoin network fees. Bitcoin is a fully decentralized peer-to-peer electronic currency system, which lets its users to send transactions directly from one user to another, without any thirdparties. Electronic signature ensures that transaction is sent by the person who owns the money, but the main problem of such a system is to ensure, without any third-parties, that the same money could not be spent twice. This problem in the Bitcoin system is solved using a peer-to-peer network. The Bitcoin network timestamps all transactions, by grouping them to an ongoing chain of transaction blocks, where each block must have a hash (SHA256) result which would meet certain conditions, thus ensuring that in order to cancel or modify a past transaction, one would need to find more hashes which meet the required conditions than the whole Bitcoin network combined since the time of transaction. This allows users to leave and rejoin the network at will, and always be sure which transaction history is the correct one."
+}
