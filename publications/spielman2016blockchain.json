@@ -1,0 +1,16 @@
+{
+    "id": "spielman2016blockchain",
+    "title": "Blockchain: Digitally Rebuilding The Real Estate Industry",
+    "year": 2016,
+    "type": "masterthesis",
+    "sortkey": 20170204,
+    "authors": [
+        {
+            "affiliation": "Massachusetts Institute of Technology",
+            "name": "Avi Spielman"
+        }
+    ],
+    "url": "https://dspace.mit.edu/handle/1721.1/106753",
+    "peer-reviewed": false,
+    "abstract": "There are tremendous potential applications for blockchain technology, an innovative distributed ledger database system, within the real estate industry. This paper will explore one aspect-recording property titles- by comparing the benefits and limitations of a blockchain with those of the current record keeping system. This paper will begin with a brief overview of the current state of the title recording system in the U.S. followed by a deeper look into the procedures of one rapidly growing American city, Nashville (Davidson County), Tennessee. The goal is to understand current real estate title systems and technologies in order to identify their benefits and limitations. Next, this paper will introduce the concept of blockchain technology, starting with a high level technical overview of how the technology works, as well as its benefits and limitations. It will also examine Bitcoin, which operates on the largest blockchain, as a potential model, whose practical applications may be adapted in creating a more efficient and safer title registry system. Recommendations will then be made for possible methods of implementing a blockchain-based registry and how its use might change the way real estate title transactions are handled in Davidson County, TN in order to determine if the collective benefits outweigh the costs. The research to date leads to the following conclusions: A blockchain title recording system is the future of title record keeping and would provide immediate benefits over the current title recording system, with additional benefits accruing in the future as blockchain technology grows in acceptance. However, at the moment, these benefits do not yet outweigh the costs and challenges associated with implementing a prototype blockchain title registry system in Davidson County, or elsewhere in the country. That being said, steps can, and should be taken now to lay the foundation for a blockchain system."
+}
