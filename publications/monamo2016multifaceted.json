@@ -1,0 +1,22 @@
+{
+    "id": "monamo2016multifaceted",
+    "title": "A Multifaceted Approach To Bitcoin Fraud Detection: Global And Local Outliers",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20170208,
+    "authors": [
+        {
+            "name": "Patrick M Monamo"
+        },
+        {
+            "name": "Vukosi Marivate"
+        },
+        {
+            "name": "Bhesipho Twala"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7838143/",
+    "venue": "Machine Learning and Applications (ICMLA)",
+    "peer-reviewed": true,
+    "abstract": "In the Bitcoin network, lack of class labels tend to cause obscurities in anomalous financial behaviour interpretation. To understand fraud in the latest development of the financial sector, a multifaceted approach is proposed. In this paper, Bitcoin fraud is described from both global and local perspectives using trimmed k-means and kd-trees. The two spheres are investigated further through random forests, maximum likelihood-based and boosted binary regression models. Although both angles show good performance, global outlier perspective outperforms the local viewpoint with exception of random forest that exhibits nearby perfect results from both dimensions. This signifies that features extracted for this study describe the network fairly."
+}
