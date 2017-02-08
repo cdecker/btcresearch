@@ -1,0 +1,24 @@
+{
+    "id": "dlamini2016bitcoin",
+    "title": "A Bitcoin Framework: An Alternative Payment System For Rural Areas Of South Africa Using Low-End Mobile Phones",
+    "year": 2016,
+    "type": "online",
+    "sortkey": 20170208,
+    "authors": [
+        {
+            "affiliation": "University of Fort Hare",
+            "name": "NP Dlamini"
+        },
+        {
+            "affiliation": "University of Fort Hare",
+            "name": "MS Scott"
+        },
+        {
+            "affiliation": "CSIR Modelling and Digital Science",
+            "name": "KK Nair"
+        }
+    ],
+    "url": "http://researchspace.csir.co.za/dspace/handle/10204/8931",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a peer-to-peer, decentralized payment system; that can be used as electronic money and as a payment method. Research done on Bitcoin has escalated due to the properties it possesses which are similar to fiat currency. Some of the properties highlighted are that Bitcoin does not require personal information, the transfers made between the Bitcoin users are direct and the intervention of centralized authority when transferring bitcoins is absolved. A number of solutions have been presented to use Bitcoin, to address problems in developing communities, such as rural areas. Such problems include limited access to financial services and technologydeprivation, which is due to the imbalances in the standards of living and costs incurred when a person owns a bank account. In this study, numerous software and hardware components are combined to design a Bitcoin framework. This Bitcoin framework is tested on a low-end mobile phone but also functions on any mobile phone. A Mobile Bitcoin Wallet System is then developed to demonstrate the feasibility of the Bitcoin framework, thereafter use cases are provided to assess the Bitcoin wallet. The observed outcome from this system includes the ability to send bitcoins to another user using a low-end mobile phone and indicates that Bitcoin can be used to supplement the existing payment system. It also provides access to financial services. A few issues, such as the volatility of Bitcoin and the exchange of bitcoins to fiat currency, need to be addressed in future work to enhance such a system. Keywords—Bitcoin, Blockchain, Bitcoin Wallet, Electronic Money, Financial Inclusion, Low-end Mobile Phones"
+}
