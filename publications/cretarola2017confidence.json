@@ -1,0 +1,20 @@
+{
+    "id": "cretarola2017confidence",
+    "title": "A Confidence-Based Model For Asset And Derivative Prices In The Bitcoin Market",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170208,
+    "authors": [
+        {
+            "affiliation": "Università degli Studi di Perugia",
+            "name": "Alessandra Cretarola"
+        },
+        {
+            "affiliation": "Università degli Studi di Perugia",
+            "name": "Gianna Figà-Talamanca"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1702.00215",
+    "peer-reviewed": false,
+    "abstract": "We endorse the idea, suggested in recent literature, that BitCoin prices are influenced by sentiment and confidence about the underlying technology; as a consequence, an excitement about the BitCoin system may propagate to BitCoin prices causing a Bubble effect, the presence of which is documented in several papers about the cryptocurrency. In this paper we develop a bivariate model in continuous time to describe the price dynamics of one BitCoin as well as the behavior of a second factor affecting the price itself, which we name confidence indicator. The two dynamics are possibly correlated and we also take into account a delay between the confidence indicator and its delivered effect on the BitCoin price. Statistical properties of the suggested model are investigated and its arbitrage-free property is shown. Further, based on risk-neutral evaluation, a quasi-closed formula is derived for European style derivatives on the BitCoin. A short numerical application is finally provided."
+}
