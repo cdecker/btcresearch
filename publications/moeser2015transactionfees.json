@@ -1,0 +1,19 @@
+{
+    "id": "moeser2015transactionfees",
+    "title": "Trends, Tips, Tolls: A Longitudinal Study of Bitcoin Transaction Fees",
+    "authors": [
+        {
+            "affiliation": "University of Münster",
+            "name": "Malte Möser"
+        },
+        {
+            "affiliation": "University of Münster",
+            "name": "Rainer Böhme"
+        }
+    ],
+    "year": 2015,
+    "url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2530843",
+    "peer-reviewed": true,
+    "venue": "Financial Cryptography and Data Security, 2nd Workshop on BITCOIN Research",
+    "type": "inproceedings"
+}

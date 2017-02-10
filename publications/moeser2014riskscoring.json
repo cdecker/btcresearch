@@ -1,0 +1,23 @@
+{
+    "id": "moeser2014riskscoring",
+    "title": "Towards Risk Scoring of Bitcoin Transactions",
+    "authors": [
+        {
+            "affiliation": "University of Münster",
+            "name": "Malte Möser"
+        },
+        {
+            "affiliation": "University of Münster",
+            "name": "Rainer Böhme"
+        },
+        {
+            "affiliation": "University of Münster",
+            "name": "Dominic Breuker"
+        }
+    ],
+    "year": 2014,
+    "peer-reviewed": true,
+    "venue": "Financial Cryptography and Data Security, 1st Workshop on BITCOIN Research",
+    "url": "http://link.springer.com/chapter/10.1007/978-3-662-44774-1_2",
+    "type": "inproceedings"
+}
