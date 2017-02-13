@@ -1,0 +1,23 @@
+{
+    "id": "moser2013inquiry",
+    "title": "An Inquiry into Money Laundering Tools in the Bitcoin Ecosystem",
+    "authors": [
+        {
+            "affiliation": "University of Münster",
+            "name": "Malte Möser"
+        },
+        {
+            "affiliation": "University of Münster",
+            "name": "Rainer Böhme"
+        },
+        {
+            "affiliation": "University of Münster",
+            "name": "Dominic Breuker"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6805780",
+    "year": 2013,
+    "peer-reviewed": true,
+    "venue": "APWG eCrime Researchers Summit (ECRIME)",
+    "type": "inproceedings"
+}

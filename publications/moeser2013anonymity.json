@@ -1,0 +1,14 @@
+{
+    "id": "moeser2013anonymity",
+    "title": "Anonymity of Bitcoin Transactions: An Analysis of Mixing Services",
+    "authors": [
+        {
+            "affiliation": "University of Münster",
+            "name": "Malte Möser"
+        }
+    ],
+    "year": 2013,
+    "url": "https://www.wi.uni-muenster.de/sites/default/files/public/department/itsecurity/mbc13/mbc13-moeser-paper.pdf",
+    "peer-reviewed": false,
+    "venue": "Münster Bitcoin Conference"
+}
