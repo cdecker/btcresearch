@@ -1,0 +1,32 @@
+{
+    "id": "ozisik2016secure",
+    "title": "A Secure, Efficient, And Transparent Network Architecture For Bitcoin",
+    "year": 2016,
+    "type": "techreport",
+    "sortkey": 20170218,
+    "authors": [
+        {
+            "affiliation": "UMass Amherst",
+            "name": "A Pinar Ozisik"
+        },
+        {
+            "affiliation": "",
+            "name": "Gavin Andresen"
+        },
+        {
+            "affiliation": "UMass Amherst",
+            "name": "George Bissias"
+        },
+        {
+            "affiliation": "UMass Amherst",
+            "name": "Amir Houmansadr"
+        },
+        {
+            "affiliation": "UMass Amherst",
+            "name": "B Levine"
+        }
+    ],
+    "url": "https://people.cs.umass.edu/~gbiss/bitcoin_architecture.pdf",
+    "peer-reviewed": false,
+    "abstract": "We contribute three complementary mechanisms that increase the security, efficiency, and transparency of blockchain systems. We evaluate the use of status report messages that, like canaries in a coal mine, allow peers to detect both malicious miners and eclipse attacks almost immediately. We outline a mechanism, using these reports, that allow blockchain users to quantify the risk of a double-spend attack within minutes, versus the several hours required by the current system. We also devise a novel method of interactive set reconciliation for efficient status reports and blocks. Our approach, called Graphene, couples a Bloom filter with an IBLT, and reduces traffic overhead by about 45%. As an alternative for Bitcoin’s inefficient and opaque peer-to-peer (p2p) architecture, we also introduce Canary that separates the network’s data and control planes. Peers submit transactions directly to miners, who announce new blocks and transactions via distribution networks whose topology they manage. We show that Canary’s tree-based topology reduces traffic overhead by about 30% compared to the current architecture. When Graphene is coupled with Canary, Bitcoin’s traffic overhead is reduced by about 80%, while detecting eclipse attacks and increasing transparency."
+}
