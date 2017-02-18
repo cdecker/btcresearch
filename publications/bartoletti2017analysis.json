@@ -1,0 +1,20 @@
+{
+    "id": "bartoletti2017analysis",
+    "title": "An Analysis Of Bitcoin Op_Return Metadata",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170218,
+    "authors": [
+        {
+            "affiliation": "Università degli Studi di Cagliari",
+            "name": "Massimo Bartoletti"
+        },
+        {
+            "affiliation": "Università degli Studi di Cagliari",
+            "name": "Livio Pompianu"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1702.01024",
+    "peer-reviewed": false,
+    "abstract": "The Bitcoin protocol allows to save arbitrary data on the blockchain through a special instruction of the scripting language, called OP_RETURN. A growing number of protocols exploit this feature to extend the range of applications of the Bitcoin blockchain beyond transfer of currency. A point of debate in the Bitcoin community is whether loading data through OP_RETURN can negatively affect the performance of the Bitcoin network with respect to its primary goal. This paper is an empirical study of the usage of OP_RETURN over the years. We identify several protocols based on OP_RETURN, that we classify by their application domain. We measure the evolution in time of the usage of each protocol, the distribution of OP_RETURN transactions by application domain, and their space consumption."
+}
