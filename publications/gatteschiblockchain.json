@@ -1,0 +1,32 @@
+{
+    "id": "gatteschiblockchain",
+    "title": "Blockchain Or Not Blockchain, That Is The Question Of The Insurance And Other Sectors",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170218,
+    "authors": [
+        {
+            "affiliation": "Politecnico di Torino",
+            "name": "Valentina Gatteschi"
+        },
+        {
+            "affiliation": "Politecnico di Torino",
+            "name": "Fabrizio Lamberti"
+        },
+        {
+            "affiliation": "Politecnico di Torino",
+            "name": "Claudio Giovanni Demartini"
+        },
+        {
+            "affiliation": "Politecnico di Torino",
+            "name": "Chiara Pranteda"
+        },
+        {
+            "affiliation": "Politecnico di Torino",
+            "name": "Víctor SantamaríA"
+        }
+    ],
+    "url": "http://porto.polito.it/id/eprint/2664664",
+    "peer-reviewed": false,
+    "abstract": "Blockchain technology is receiving an ever-increasing attention. In this work, we present pros and cons of this technology, by taking the point of view of (IT) professionals evaluating whether to embrace this technology or not for their business. Use cases selected from a particular domain represented by the insurance sector are analyzed, and several application guidelines that can be generalized and applied to other sectors are identified"
+}
