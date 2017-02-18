@@ -1,0 +1,20 @@
+{
+    "id": "da2016blockchain",
+    "title": "Blockchain: An Approach To Evaluating Digital Banking Use Cases",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20170218,
+    "authors": [
+        {
+            "name": "Veronica Lange da Conceição"
+        },
+        {
+            "affiliation": "",
+            "name": "Alex Batlin"
+        }
+    ],
+    "url": "http://www.ingentaconnect.com/content/hsp/jdb001/2016/00000001/00000003/art00002",
+    "venue": "Journal of Digital Banking",
+    "peer-reviewed": true,
+    "abstract": "The obvious advantages of distributed ledgers with smart contracts is that they have driven strong venture capital investments aware of Bitcoin's shortcomings to Blockchain technology. With a diverse set of pilots already in production, banks are experimenting, often in collaboration, to find promising use cases and understand their new positioning in a blockchain-based industry model. This paper presents the evaluation lens approach in order to help review potential use cases on the basis of their business model, technical, legal and regulatory, financial and operational lenses."
+}
