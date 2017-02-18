@@ -1,0 +1,24 @@
+{
+    "id": "mccorrysmart",
+    "title": "A Smart Contract For Boardroom Voting With Maximum Voter Privacy",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170218,
+    "authors": [
+        {
+            "affiliation": "Newcastle University",
+            "name": "Patrick McCorry"
+        },
+        {
+            "affiliation": "Newcastle University",
+            "name": "Siamak F Shahandashti"
+        },
+        {
+            "affiliation": "Newcastle University",
+            "name": "Feng Hao"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/110.pdf",
+    "peer-reviewed": false,
+    "abstract": "We present the first implementation of a decentralised and self-tallying internet voting protocol with maximum voter privacy using the Blockchain. The Open Vote Network is suitable for boardroom elections and is written as a smart contract for Ethereum. Unlike previously proposed Blockchain e-voting protocols, this is the first implementation that does not rely on any trusted authority to compute the tally or to protect the voter’s privacy. Instead, the Open Vote Network is a selftallying protocol, and each voter is in control of the privacy of their own vote such that it can only be breached by a full collusion involving all other voters. The execution of the protocol is enforced using the consensus mechanism that also secures the Ethereum blockchain. We tested the implementation on Ethereum’s official test network to demonstrate its feasibility. Also, we provide a financial and computational breakdown of its execution cost."
+}
