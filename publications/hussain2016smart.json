@@ -1,0 +1,22 @@
+{
+    "id": "hussain2016smart",
+    "title": "A Smart Card Based Security Extension For The Bitcoin Wallets",
+    "year": 2016,
+    "type": "article",
+    "sortkey": 20170218,
+    "authors": [
+        {
+            "name": "Majid Amjad Hussain"
+        },
+        {
+            "name": "Sadia Khalil"
+        },
+        {
+            "name": "Shahzad Saleem"
+        }
+    ],
+    "url": "http://journals.nust.edu.pk/index.php/njes/article/view/282",
+    "venue": "NUST Journal of Engineering Sciences (NJES)",
+    "peer-reviewed": true,
+    "abstract": "With the increase in the use of virtual currencies across the globe, the security of Bitcoin wallets has become a serious concern for the Bitcoin community. The developers are trying to implement concrete security solutions in Bitcoin wallets to ensure that no vulnerability gets exploited. However, a large number of known, as well as zero-day attacks, are launched on the Bitcoin wallets on a daily basis, resulting in a loss of bitcoins. In this regard, this paper presents a security analysis of existing Android wallets. We demonstrate how the implemented security practices can be bypassed by malicious entities, causing financial loss to Bitcoin users. As a countermeasure, we present a smart card based authentication scheme which will protect the users from all of the identified attacks."
+}
