@@ -1,0 +1,21 @@
+{
+    "id": "broby2017blockchain",
+    "title": "Blockchain And Its Use In Financial Settlements And Transactions",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "affiliation": "University of Strathclyde Glasgow",
+            "name": "Daniel Broby"
+        },
+        {
+            "affiliation": "University of Strathclyde Glasgow",
+            "name": "Greig Paul"
+        }
+    ],
+    "url": "http://strathprints.strath.ac.uk/59818/1/Broby_Paul_JCISI2017_Blockchain_and_its_use_in_financial_settlements_and_transactions.pdf",
+    "venue": "Journal of the Chartered Institute for Securities and Investment (Review of Financial Markets)",
+    "peer-reviewed": true,
+    "abstract": "Blockchain is the technology at the core of what could become the “Fintech” transformation of capital markets. It can potentially facilitate cheaper, more efficient and secure operations. The mechanism behind it is introduced in this paper, as are its uses and suggested areas for future academic research. The paper critically reviews the promise that blockchain and distributed ledgers will speed up financial settlements and transactions. In it we recommend financial institutions evaluate the adoption of blockchain and/or adapt their existing legacy systems to allow for digital clearing over the internet. "
+}
