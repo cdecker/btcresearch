@@ -1,0 +1,17 @@
+{
+    "id": "bruhl2017bitcoins",
+    "title": "Bitcoins, Blockchain Und Distributed Ledgers",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "affiliation": "Goethe Universität",
+            "name": "Volker Brühl"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1007/s10273-017-2096-3",
+    "venue": "Wirtschaftsdienst",
+    "peer-reviewed": true,
+    "abstract": "Virtuelle Währungen wie Bitcoins geraten zunehmend in den Blickpunkt des öffentlichen Interesses. Sie funktionieren auf Basis der Blockchain- bzw. Distributed-Ledger-Technologie. Volker Brühl erläutert ihre Funktionsweise und zeigt auf, dass diese Technologien nicht nur den Finanzsektor revolutionieren können."
+}
