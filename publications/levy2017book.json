@@ -1,0 +1,17 @@
+{
+    "id": "levy2017book",
+    "title": "Book-Smart, Not Street-Smart: Blockchain-Based Smart Contracts And The Social Workings Of Law",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "affiliation": "Cornell University",
+            "name": "Karen EC Levy"
+        }
+    ],
+    "url": "http://estsjournal.org/article/download/107/61",
+    "venue": "Engaging Science, Technology, and Society",
+    "peer-reviewed": true,
+    "abstract": "This paper critiques blockchain-based “smart contracts,” which aim to automatically and securely execute obligations without reliance on a centralized enforcement authority. Though smart contracts do have some features that might serve the goals of social justice and fairness, I suggest that they are based on a thin conception of what law does, and how it does it. Smart contracts focus on the technical form of contract to the exclusion of the social contexts within which contracts operate, and the complex ways in which people use them. In the real world, contractual obligations are enforced through all kinds of social mechanisms other than formal adjudication—and contracts serve many functions that are not explicitly legal in nature, or even designed to be formally enforced. I describe three categories of contracting practices in which people engage (the inclusion of facially unenforceable terms, the inclusion of purposefully underspecified terms, and willful nonenforcement of enforceable terms) to illustrate how contracts actually “work.” The technology of smart contracts neglects the fact that people use contracts as social resources to manage their relations. The inflexibility that they introduce, by design, might short-circuit a number of social uses to which law is routinely put. Therefore, I suggest that attention to the social and relational contexts of contracting are essential considerations for the discussion, development, and deployment of smart contracts."
+}
