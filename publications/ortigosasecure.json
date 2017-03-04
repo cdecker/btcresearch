@@ -1,0 +1,21 @@
+{
+    "id": "ortigosasecure",
+    "title": "Secure Code Distribution Based On Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "name": "Alexandre Ortigosa"
+        },
+        {
+            "name": "Miquel Ferriol"
+        },
+        {
+            "name": "Hamid Latif"
+        }
+    ],
+    "url": "http://docencia.ac.upc.edu/FIB/grau/PAE/Slides_ALTRAN.pdf",
+    "peer-reviewed": false,
+    "abstract": "Nowadays the Internet of Things (IoT) [1] paradigm promises that we will be surrounded by computers that will help in our daily needs, boost industrial efficiency and monitor and actuate over critical infraestructures. In short, IoT represents the bridge between the physical and the virtual worlds. IoT deployments operate with a set of nodes that cooperate to achieve the desired functionality, typically such nodes are tiny computers equipped with communication capabilities (e.g., wireless) and their own operating system and applicatons. In this context, it is expected that IoT deployments are a target of cyber-attack, since successful attacks can disrupt physical infraestructure and provide important benefits to the attackers, either economically or politically. As such, protecting IoT deployments and the code running in its nodes is an important challenge. In this context, secure code distribution of IoT deployments is a well-established topic that typically is achieved by means of Public Key Infraestructure, for instance [7], [8] and [9] are notable examples. In this paper we propose a software architecture to secure code distribution in IoT deployments taking advantage of the recent Distributed Ledger Technology [2] to provide secure distribution. In addition we prototype the proposed solution and provide a set of performance analysis to evaluate its feasibity."
+}
