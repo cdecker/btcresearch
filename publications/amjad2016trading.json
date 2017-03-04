@@ -1,0 +1,21 @@
+{
+    "id": "amjad2016trading",
+    "title": "Trading Bitcoin And Online Time Series Prediction",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "affiliation": "Massachusetts Institute of Technology",
+            "name": "Muhammad J Amjad"
+        },
+        {
+            "affiliation": "Massachusetts Institute of Technology",
+            "name": "Devavrat Shah"
+        }
+    ],
+    "url": "http://www.jmlr.org/proceedings/papers/v55/amjad16.pdf",
+    "venue": "NIPS 2016 Time Series Workshop",
+    "peer-reviewed": true,
+    "abstract": "Given live streaming Bitcoin activity, we aim to forecast future Bitcoin prices so as to execute profitable trades. We show that Bitcoin price data exhibit desirable properties such as stationarity and mixing. Even so, some classical time series prediction methods that exploit this behavior, such as ARIMA models, produce poor predictions and also lack a probabilistic interpretation. In light of these limitations, we make two contributions: first, we introduce a theoretical framework for predicting and trading ternary-state Bitcoin price changes, i.e. increase, decrease or no-change; and second, using the framework, we present simple, scalable and real-time algorithms that achieve a high return on average Bitcoin investment (e.g. 6-7x, 4-6x and 3-6x return on investments for tests in 2014, 2015 and 2016), while consistently maintaining a high prediction accuracy (> 60-70%) and respectable Sharpe Ratio (> 2.0). Furthermore, when trained on a period eight months earlier than the test period, our algorithms performed nearly as well as they did when trained on recent data! As an important contribution, we provide a justification for why it makes sense to use classification algorithms in settings where the underlying time series is stationary and mixing"
+}
