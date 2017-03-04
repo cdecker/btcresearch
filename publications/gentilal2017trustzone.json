@@ -1,0 +1,25 @@
+{
+    "id": "gentilal2017trustzone",
+    "title": "Trustzone-Backed Bitcoin Wallet",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "affiliation": "Universidade de Lisboa",
+            "name": "Miraje Gentilal"
+        },
+        {
+            "affiliation": "Universidade de Lisboa",
+            "name": "Paulo Martins"
+        },
+        {
+            "affiliation": "Universidade de Lisboa",
+            "name": "Leonel Sousa"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3031841",
+    "venue": "Workshop on Cryptography and Security in Computing Systems",
+    "peer-reviewed": true,
+    "abstract": "With the increasing popularity of virtual currencies, it has become more important to have highly secure devices in which to store private-key information. Furthermore, ARM has made available an extension of processors architectures, designated TrustZone, which allows for the separation of trusted and non-trusted environments, while ensuring the integrity of the OS code. In this paper, we propose the exploitation of this technology to implement a flexible and reliable bitcoin wallet that is more resilient to dictionary and side-channel attacks. Making use of the TrustZone comes with the downside that writing and reading operations become slower, due to the encrypted storage, but we show that cryptographic operations can in fact be executed more efficiently as a result of platform-specific optimizations."
+}
