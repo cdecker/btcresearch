@@ -1,0 +1,22 @@
+{
+    "id": "ouaddah2017fairaccess",
+    "title": "Fairaccess: A New Blockchain-Based Access Control Framework For The Internet Of Things",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "name": "Aafaf Ouaddah"
+        },
+        {
+            "name": "Anas Abou Elkalam"
+        },
+        {
+            "name": "Abdellah Ait Ouahman"
+        }
+    ],
+    "url": "http://onlinelibrary.wiley.com/doi/10.1002/sec.1748/full",
+    "venue": "Security and Communication Networks",
+    "peer-reviewed": true,
+    "abstract": "Security and privacy are huge challenges in Internet of Things (IoT) environments, but unfortunately, the harmonization of the IoT-related standards and protocols is hardly and slowly widespread. In this paper, we propose a new framework for access control in IoT based on the blockchain technology. Our first contribution consists in providing a reference model for our proposed framework within the Objectives, Models, Architecture and Mechanism specification in IoT. In addition, we introduce FairAccess as a fully decentralized pseudonymous and privacy preserving authorization management framework that enables users to own and control their data. To implement our model, we use and adapt the blockchain into a decentralized access control manager. Unlike financial bitcoin transactions, FairAccess introduces new types of transactions that are used to grant, get, delegate, and revoke access. As a proof of concept, we establish an initial implementation with a Raspberry PI device and local blockchain. Finally, we discuss some limitations and propose further opportunities. Copyright © 2017 John Wiley & Sons, Ltd. "
+}
