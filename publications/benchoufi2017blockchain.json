@@ -1,0 +1,25 @@
+{
+    "id": "benchoufi2017blockchain",
+    "title": "Blockchain Protocols In Clinical Trials: Transparency And Traceability Of Consent",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "affiliation": "APHP, Paris",
+            "name": "Mehdi Benchoufi"
+        },
+        {
+            "affiliation": "Université Paris Descartes",
+            "name": "Raphael Porcher"
+        },
+        {
+            "affiliation": "Université Paris Descartes",
+            "name": "Philippe Ravaud"
+        }
+    ],
+    "url": "https://f1000research.com/articles/6-66/v1",
+    "venue": "F1000Research",
+    "peer-reviewed": true,
+    "abstract": "Clinical trial consent for protocols and their revisions should be transparent for patients and traceable for stakeholders. Our goal is to implement a process allowing the collection of patients’ informed consent, which is bound to protocol revisions, storing and tracking the consent in a secure, unfalsifiable and publicly verifiable way, and enabling the sharing of this information in real time. For that, we will built a consent workflow using a rising technology called Blockchain. This is a distributed technology that brings a built-in layer of transparency and traceability. Additionally, it removes the need for third parties, and gives participative control to the peer-to-peer users. From a more general and prospective point of view, we believe Blockchain technology brings a paradigmatical shift to the entire clinical research field. We designed a Proof-of-Concept protocol consisting of time-stamping each step of the patient’s consent collection using Blockchain; thus archiving and historicising the consent through cryptographic validation in a securely unfalsifiable and transparent way. For each revision of the protocol, consent was sought again. We obtained a single document, in a standard open format, that accounted for the whole consent collection process: timestamped consent status with regards to each version of the protocol. This document cannot be corrupted, and can be checked on any dedicated public website. It should be considered as a robust proof of data. In the future, we think that the complex data flow of a clinical trial can be tracked using Blockchain. Moreover, a blockchain core functionality, named Smart Contract, can help prevent clinical trial events not to happen in the right chronological order: including patients before they consented or analysing case report forms data before freezing the database. This will help reaching reliability, security, and transparency, and could be a consistent step towards reproducibility."
+}
