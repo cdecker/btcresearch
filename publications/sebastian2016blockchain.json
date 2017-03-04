@@ -1,0 +1,16 @@
+{
+    "id": "sebastian2016blockchain",
+    "title": "Blockchain In Financial Services: Regulatory Landscape And Future Challenges",
+    "year": 2016,
+    "type": "techreport",
+    "sortkey": 20170304,
+    "authors": [
+        {
+            "affiliation": "BBVA Research",
+            "name": "Javier Sebastian Cermeño"
+        }
+    ],
+    "url": "https://ideas.repec.org/p/bbv/wpaper/1620.html",
+    "peer-reviewed": false,
+    "abstract": "Distributed ledger technologies (DLTs), including blockchains, are increasingly getting a massive interest from established industries. The interest is especially strong among financial services firms, which are starting to see DLTs as a potential driver of huge savings in infrastructure and back-office processes. Besides, DLTs might become a facilitator for the development of new digital businesses leading to new sources of revenue. However, DLTs are still far from being ready for mass adoption, due to some unsolved challenges on the technological, operational, business and regulatory sides."
+}
