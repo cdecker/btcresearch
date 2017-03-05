@@ -1,0 +1,15 @@
+{
+    "id": "stellnbergerinsurance",
+    "title": "Insurance Through Blockchain: A Hybrid Approach",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "name": "Martin Stellnberger"
+        }
+    ],
+    "url": "https://www.martinstellnberger.co/s/Insurance-through-Blockchain-A-hybrid-approach-2016-v3.pdf",
+    "peer-reviewed": false,
+    "abstract": "Since the first modern attempts to provide protection from potential financial loss after the great fire of London in 1666, the basic idea and operating procedures of insurance have not changed significantly. A number of bad-faith practices, however, such as delaying claim payments, confusing policy wordings, the use of unethical marketing techniques and opaque pricing models, have harmed the insurance industry’s reputation, resulting in it being ranked in the bottom quartile compared to other industries. This paper presents a hybrid approach to insurance by building on what has worked well while using Blockchain technologies to address some of the major shortcomings in the existing insurance model."
+}
