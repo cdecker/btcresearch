@@ -1,0 +1,31 @@
+{
+    "id": "xu256blockchain",
+    "title": "A Blockchain Based Micro Payment System For Smart Devices",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "name": "Andi Xu"
+        },
+        {
+            "name": "Mi Li"
+        },
+        {
+            "name": "Xin Huang"
+        },
+        {
+            "name": "Nian Xue"
+        },
+        {
+            "name": "Jie Zhang"
+        },
+        {
+            "name": "Qiankun Sheng"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Nian_Xue/publication/311789642_A_Blockchain_Based_Micro_Payment_System_for_Smart_Devices/links/585a911f08aeffd7c4fe90ed/A-Blockchain-Based-Micro-Payment-System-for-Smart-Devices.pdf",
+    "venue": "Journal Of Design, Analysis And Tools For Intergrated Circuits And Systems",
+    "peer-reviewed": true,
+    "abstract": "Existing payment methods in the Internet of Things (IoT) usually use prepaid cards or mobile devices as the payment medium, which usually needs the user to provide cards, enter password or operate devices. Furthermore, these methods also have security flaws caused by its reliance on the third-party financial platform. In this paper, we propose a smart gas payment system containing an embedded bitcoin payment module, which consists of a processor with the bitcoin wallet stored on it and a crypto chip. With this payment module embedded in the gas meters, the smart gas payment system can automatically pay the gas bill when needed. In addition, we design a bitcoin payment protocol for transaction process in smart gas payment system. Experimental results show that employing hardware crypto chip can enhance the system performance."
+}
