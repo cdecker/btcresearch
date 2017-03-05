@@ -1,0 +1,28 @@
+{
+    "id": "badertscherbitcoin",
+    "title": "Bitcoin As A Transaction Ledger: A Composable Treatment",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Christian Badertscher"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Ueli Maurer"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Daniel Tschudi"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Vassilis Zikas"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/149.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is perhaps the most prominent example of a distributed cryptographic protocol that is extensively used in reality. Nonetheless, existing security-proofs are property-based, and as such they do not support composition. In this work we put forth a universally composable treatment of the Bitcoin protocol. We specify the goal that Bitcoin aims to achieve as a ledger shared-functionality, aka global setup, in the (G)UC model of Canetti et al. [TCC’07]. Our ledger functionality is weaker than the one recently proposed by Kiayias, Zhou, and Zikas [EUROCRYPT’16], but unlike the latter suggestion which is arguably not implementable given the Bitcoin assumptions, we prove that the one proposed here is securely UC realized under standard assumptions by an appropriate abstraction of Bitcoin as a UC protocol. We further show how known property-based approaches can be cast as special instances of our treatment and how their underlying assumptions can be cast in (G)UC without restricting the environment or the adversary."
+}
