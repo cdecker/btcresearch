@@ -1,0 +1,21 @@
+{
+    "id": "pennington2017blockchain",
+    "title": "Blockchain-Enabled, Subscriber-Based Capital Markets Index Data Distribution",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "affiliation": "Vanguard Group",
+            "name": "Warren Pennington"
+        },
+        {
+            "affiliation": "Vanguard Group",
+            "name": "John Evans"
+        }
+    ],
+    "url": "http://www.iijournals.com/doi/pdfplus/10.3905/jii.2017.7.4.083",
+    "venue": "The Journal of Index Investing",
+    "peer-reviewed": true,
+    "abstract": "A private, permissioned, peer-to-peer capital markets index data distribution architecture would streamline the provision and ingestion of securities index data from index provider to index subscribers. Limiting access on the blockchain network to trusted parties (subscribers) reduces the overhead needed to secure consensus in writing and validating new blocks of data and eliminates the need for incentives and the traditional “mining” associated with public peer-to-peer blockchain architectures. Applying defined permissioning to the different participants in the blockchain further refines activities and access abilities, such as regulator view all; subscriber read and propose records; and provider read, write, and approve new records proposed by subscribers. Various consensus models could be employed, depending on the implementation environment and underlying choice of blockchain base code, so long as access is enforced primarily at the network environment level and permissions are enforced at the blockchain level."
+}
