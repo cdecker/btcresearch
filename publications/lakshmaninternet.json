@@ -1,0 +1,20 @@
+{
+    "id": "lakshmaninternet",
+    "title": "The Internet Blockchain: A Distributed, Tamper-Resistant Transaction Framework For The Internet",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "affiliation": "Nokia Bell Labs",
+            "name": "Adiseshu Hari"
+	},
+	{
+            "affiliation": "Nokia Bell Labs",
+	    "name": "TV Lakshman"
+        }
+    ],
+    "url": "http://web.kaust.edu.sa/Faculty/MarcoCanini/classes/CS390G/S17/papers/InternetBlockchain.pdf",
+    "peer-reviewed": false,
+    "abstract": "Existing security mechanisms for managing the Internet infrastructural resources like IP addresses, AS numbers, BGP advertisements and DNS mappings rely on a Public Key Infrastructure (PKI) that can be potentially compromised by state actors and Advanced Persistent Threats (APTs). Ideally the Internet infrastructure needs a distributed and tamperresistant resource management framework which cannot be subverted by any single entity. A secure, distributed ledger enables such a mechanism and the blockchain is the best known example of distributed ledgers. In this paper, we propose the use of a blockchain based mechanism to secure the Internet BGP and DNS infrastructure. While the blockchain has scaling issues to be overcome, the key advantages of such an approach include the elimination of any PKI-like root of trust, a verifiable and distributed transaction history log, multi-signature based authorizations for enhanced security, easy extensibility and scriptable programmability to secure new types of Internet resources and potential for a built in cryptocurrency. A tamper resistant DNS infrastructure also ensures that it is not possible for the application level PKI to spoof HTTPS traffic."
+}
