@@ -1,0 +1,21 @@
+{
+    "id": "prabhu2017converging",
+    "title": "Converging Blockchain Technology With The Internet Of Things",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "affiliation": "Mediaocean Asia Pvt Ltd",
+            "name": "Karthik Prabhu"
+        },
+        {
+            "affiliation": "MKSSS's Cummins College Of Engineering For Women",
+            "name": "Keerthi Prabhu"
+        }
+    ],
+    "url": "http://ierj.in/journal/index.php/ierj/article/view/727",
+    "venue": "International Education and Research Journal",
+    "peer-reviewed": true,
+    "abstract": "We present the concept of leveraging Blockchain technology, for the management and security of information related to the Internet Of Things. Here, we put forth a model for the intercommunication of smart devices, their identity management and information security, with Blockchain posing as the backbone. The model proposes to serve as a robust and scalable solution, in order to address the security and identity concerns, arising due to the distributed nature of the Internet of Things. The proposed model is further compared to the existing ones in practice."
+}
