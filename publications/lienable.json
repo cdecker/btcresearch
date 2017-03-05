@@ -1,0 +1,31 @@
+{
+    "id": "lienable",
+    "title": "Enable Bitcoin Transcation In Public Transport Ticketing System",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "name": "Mi Li"
+        },
+        {
+            "name": "Andi Xu"
+        },
+        {
+            "name": "Nian Xue"
+        },
+        {
+            "name": "Xin Huang"
+        },
+        {
+            "name": "Jie Zhang"
+        },
+        {
+            "name": "Qiankun Sheng"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Nian_Xue/publication/311789715_Enable_Bitcoin_Transcation_in_Public_Transport_Ticketing_System/links/585a95f508ae3852d2571eb9/Enable-Bitcoin-Transcation-in-Public-Transport-Ticketing-System.pdf",
+    "peer-reviewed": true,
+    "venue": " Journal Of Design, Analysis And Tools For Intergrated Circuits And Systems",
+    "abstract": "Current public transport system (e.g., subway and bus) faces the problem of inconvenient charging process. Bitcoin, a decentralized payment system is widely applied in many areas which can solve such problem. We propose an innovative public transport ticketing system, which contains automatic ticketing vending machine and supports the Bitcoin payment system. The main part of this system is hardware Bitcoin wallet, which stores pairs of private and public keys for transaction process. A demo ticketing vending system is set up, and experiment is carried out to verify the feasibility and performance of the system’s wallet generation process. Finally, we also analyze the experiment result and the hardware implementation performance better than the software library."
+}
