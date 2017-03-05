@@ -1,0 +1,28 @@
+{
+    "id": "dorriblockchain",
+    "title": "Blockchain For Iot Security And Privacy: The Case Study Of A Smart Home",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170305,
+    "authors": [
+        {
+            "affiliation": "University of New South Wales",
+            "name": "Ali Dorri"
+        },
+        {
+            "affiliation": "University of New South Wales",
+            "name": "Salil S Kanhere"
+        },
+        {
+            "affiliation": "CSIRO",
+            "name": "Raja Jurdak"
+        },
+        {
+            "affiliation": " Tata Consultancy Services",
+            "name": "Praveen Gauravaram"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Ali_Dorri5/publication/312218574_Blockchain_for_IoT_Security_and_Privacy_The_Case_Study_of_a_Smart_Home/links/5877309508ae329d6226e96f/Blockchain-for-IoT-Security-and-Privacy-The-Case-Study-of-a-Smart-Home.pdf",
+    "peer-reviewed": false,
+    "abstract": "Internet of Things (IoT) security and privacy remain a major challenge, mainly due to the massive scale and distributed nature of IoT networks. Blockchain-based approaches provide decentralized security and privacy, yet they involve significant energy, delay, and computational overhead that is not suitable for most resource-constrained IoT devices. In our previous work, we presented a lightweight instantiation of a BC particularly geared for use in IoT by eliminating the Proof of Work (POW) and the concept of coins. Our approach was exemplified in a smart home setting and consists of three main tiers namely: cloud storage, overlay, and smart home. In this paper we delve deeper and outline the various core components and functions of the smart home tier. Each smart home is equipped with an always online, high resource device, known as ”miner” that is responsible for handling all communication within and external to the home. The miner also preserves a private and secure BC, used for controlling and auditing communications. We show that our proposed BC-based smart home framework is secure by thoroughly analysing its security with respect to the fundamental security goals of confidentiality, integrity, and availability. Finally, we present simulation results to highlight that the overheads (in terms of traffic, processing time and energy consumption) introduced by our approach are insignificant relative to its security and privacy gains."
+}
