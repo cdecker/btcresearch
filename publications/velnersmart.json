@@ -1,0 +1,24 @@
+{
+    "id": "velnersmart",
+    "title": "Smart Contracts Make Bitcoin Mining Pools Vulnerable",
+    "year": 2017,
+    "type": "misc",
+    "sortkey": 20170314,
+    "authors": [
+        {
+            "affiliation": "The Hebrew University of Jerusalem",
+            "name": "Yaron Velner"
+        },
+        {
+            "affiliation": "The University of Alabama at Birmingham",
+            "name": "Jason Teutsch"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Loi Luu"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/230.pdf",
+    "peer-reviewed": false,
+    "abstract": "Despite their incentive structure flaws, mining pools account for more than 95% of Bitcoin’s computation power. This paper introduces an attack against mining pools in which a malicious party pays pool members to withhold their solutions from their pool operator. We show that an adversary with a tiny amount of computing power and capital can execute this attack. Smart contracts enforce the malicious party’s payments, and therefore miners need neither trust the attacker’s intentions nor his ability to pay. Assuming pool members are rational, an adversary with a single mining ASIC can, in theory, destroy all big mining pools without losing any money (and even make some profit)."
+}

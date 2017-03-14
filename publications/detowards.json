@@ -15,6 +15,7 @@
         }
     ],
     "url": "https://www.list.lu/fileadmin/files/Event/sites/tudor/files/Training_Center/OTHERS/VMBO2017_paper_5.pdf",
-    "peer-reviewed": false,
+    "peer-reviewed": true,
+    "venue": "Workshop On Value Modeling And Business Ontologies",
     "abstract": "Blockchain technology is regarded as highly disruptive, but there is a lack of formalization and standardization of terminology. Not only because there are several (sometimes propriety) implementation platforms, but also because the academic literature so far is predominantly written from either a purely technical or an economic application perspective. The result of the confusion is an offspring of blockchain solutions, types, roadmaps and interpretations. For blockchain to be accepted as a technology standard in established industries, it is pivotal that ordinary internet users and business executives have a basic yet fundamental understanding of the workings and impact of blockchain. This conceptual paper provides a theoretical contribution and guidance on what blockchain actually is by taking an ontological approach. Enterprise Ontology is used to make a clear distinction between the datalogical, infological and essential level of blockchain transactions and smart contracts. "
 }
