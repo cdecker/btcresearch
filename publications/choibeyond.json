@@ -1,0 +1,15 @@
+{
+    "id": "choibeyond",
+    "title": "Beyond The Bitcoin-Smart Decentralised Financial Contracts Of The Future",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170314,
+    "authors": [
+        {
+            "name": "Ethan Choi"
+        }
+    ],
+    "url": "http://www.actuaries.org.nz/wp-content/uploads/2016/07/13-Beyond-the-Bitcoin.pdf",
+    "peer-reviewed": false,
+    "abstract": "The invention of bitcoin in 2008 brought to existence a novel new form of currency unlike any other in mainstream circulation. Often coined as the first “decentralised digital crypto-currency”, it has gained footing as a tradable alternative currency. With major technology and financial institutions investing millions into bitcoin technology, its development is a large industry in its own right, and the combined value of exchanged bitcoins is in the billions. While there is hesitation for the currency itself to become accepted globally, one consequence is becoming clear; the protocol behind the bitcoin may be a much bigger innovation than the currency itself. The elegant solution to exchanging money on a platform where nobody can be trusted, has led to the peer-to-peer public ledger known as the blockchain - giving rise to a powerful new way of transacting transparently, securely, and almost instantaneously, without the need to trust anybody. This is in contrast to traditional centralised methods, where transactions are enabled by a trusted intermediary such as a bank or insurer. Currency may be just the first application for the blockchain. This concept can also in theory be used for much more complex financial transactions, giving rise to the idea of “smart contracts” that can execute themselves transparently and irrefutably given certain conditions are met - all without the need of a trusted third party arbitrator. Examples can include: transactions written to the public ledger instructed to only execute when a death is registered thus acting like a notary or life insurance contract; or insurance claims transacting automatically only if no other claim is made to the public ledger on the same asset, eliminating multi-claim insurance fraud completely. This paper explores the basic concepts of the technical components required, existing execution of applications, and insurance applications."
+}
