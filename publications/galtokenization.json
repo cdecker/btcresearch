@@ -1,0 +1,20 @@
+{
+    "id": "galtokenization",
+    "title": "Tokenization Of Independent-View Rea Components On The Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170314,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Graham Gal"
+        },
+        {
+            "affiliation": "",
+            "name": "William McCarthy"
+        }
+    ],
+    "url": "https://www.list.lu/fileadmin/files/Event/sites/tudor/files/Training_Center/OTHERS/VMBO2017_paper_15.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}
