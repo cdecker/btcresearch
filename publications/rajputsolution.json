@@ -1,0 +1,21 @@
+{
+    "id": "rajputsolution",
+    "title": "A Solution Towards Eliminating Transaction Malleability In Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170330,
+    "authors": [
+        {
+            "name": "Ubaidullah Rajput"
+        },
+        {
+            "name": "Fizza Abbas"
+        },
+        {
+            "name": "Heekuck Oh"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Fizza_Abbas/publication/312155816_A_Solution_towards_Eliminating_Transaction_Malleability_in_Bitcoin/links/5872e93008ae329d621bc4d6/A-Solution-towards-Eliminating-Transaction-Malleability-in-Bitcoin.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a decentralized crypto-currency, which is based on the peer-to-peer network, and was introduced by Satoshi Nakamoto in 2008. Bitcoin transactions are written by using a scripting language. The hash value of a transaction’s script is used to identify the transaction over the network. In February 2014, a Bitcoin exchange company, Mt. Gox, claimed that they had lost hundreds of millions US dollars worth of Bitcoins in an attack known as transaction malleability. Although known about since 2011, this was the first known attack that resulted in a company loosing multi-millions of US dollars in Bitcoins. Our reason for writing this paper is to understand Bitcoin transaction malleability and to propose an efficient solution. Our solution is a softfork (i.e., it can be gradually implemented). Towards the end of the paper we present a detailed analysis of our scheme with respect to various transaction malleability-based attack scenarios to show that our simple solution can prevent future incidents involving transaction malleability from occurring. We compare our scheme with existing approaches and present an analysis regarding the computational cost and storage requirements of our proposed solution, which shows the feasibility of our proposed scheme. "
+}
