@@ -1,0 +1,28 @@
+{
+    "id": "daismart",
+    "title": "Smart-Contract Value-Transfer Protocols On A Distributed Mobile Application Platform",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170330,
+    "authors": [
+        {
+            "affiliation": "Qtum Foundation",
+            "name": "Patrick Dai"
+        },
+        {
+            "affiliation": "Qtum Foundation",
+            "name": "Neil Mahi"
+        },
+        {
+            "affiliation": "Qtum Foundation",
+            "name": "Jordan Earls"
+        },
+        {
+            "affiliation": "Tallinn University of Technology",
+            "name": "Alex Norta"
+        }
+    ],
+    "url": "https://qtum.org/uploads/files/cf6d69348ca50dd985b60425ccf282f3.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain-enabled smart contracts that employ proof-ofstake validation for transactions, promise significant performance advantages compared to proof-of-work solutions. For broad industry adoption, other important requirements must be met in addition. For example, stable backwards-compatible smart-contract systems must automate cross-organizational information-logistics orchestration with lite mobile wallets that support simple payment verification (SPV) techniques. The currently leading smart-contract solution Ethereum, uses computationally expensive proof-of-work validation, is expected to hard-fork multiple times in the future and requires downloading the entire blockchain. Consequently, Ethereum smart contracts have limited utility and lack formal semantics, which is a security issue. This whitepaper fills the gap in the state of the art by presenting the Qtum smart-contract framework that aims for sociotechnical application suitability, the adoption of formalsemantics language expressiveness, and the provision of smart-contract template libraries for rapid best-practice industry deployment. We discuss the Qtum utility advantages compared to the Ethereum alternative and present Qtum smart-contract future development plans for industrycases applications."
+}
