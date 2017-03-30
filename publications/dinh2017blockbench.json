@@ -1,0 +1,36 @@
+{
+    "id": "dinh2017blockbench",
+    "title": "Blockbench: A Framework For Analyzing Private Blockchains",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170330,
+    "authors": [
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Tien Tuan Anh Dinh"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Ji Wang"
+        },
+        {
+            "affiliation": "Zhejiang University",
+            "name": "Gang Chen"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Rui Liu"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Beng Chin Ooi"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Kian-Lee Tan"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1703.04057",
+    "peer-reviewed": false,
+    "abstract": "Blockchain technologies are taking the world by storm. Public blockchains, such as Bitcoin and Ethereum, enable secure peer-to-peer applications like crypto-currency or smart contracts. Their security and performance are well studied. This paper concerns recent private blockchain systems designed with stronger security (trust) assumption and performance requirement. These systems target and aim to disrupt applications which have so far been implemented on top of database systems, for example banking, finance and trading applications. Multiple platforms for private blockchains are being actively developed and fine tuned. However, there is a clear lack of a systematic framework with which different systems can be analyzed and compared against each other. Such a framework can be used to assess blockchains’ viability as another distributed data processing platform, while helping developers to identify bottlenecks and accordingly improve their platforms. In this paper, we first describe Blockbench, the first evaluation framework for analyzing private blockchains. It serves as a fair means of comparison for different platforms and enables deeper understanding of different system design choices. Any private blockchain can be integrated to Blockbench via simple APIs and benchmarked against workloads that are based on real and synthetic smart contracts. Blockbench measures overall and component-wise performance in terms of throughput, latency, scalability and fault-tolerance. Next, we use Blockbench to conduct comprehensive evaluation of three major private blockchains: Ethereum, Parity and Hyperledger Fabric. The results demonstrate that these systems are still far from displacing current database systems in traditional data processing workloads. Furthermore, there are gaps in performance among the three systems which are attributed to the design choices at different layers of the blockchain’s software stack."
+}
