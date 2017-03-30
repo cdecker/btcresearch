@@ -1,0 +1,20 @@
+{
+    "id": "english2017application",
+    "title": "Application Of Bitcoin Data-Structures & Design Principles To Supply Chain Management",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170330,
+    "authors": [
+        {
+            "affiliation": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "name": "S Matthew English"
+        },
+        {
+            "affiliation": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "name": "Ehsan Nezhadian"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1703.04206",
+    "peer-reviewed": false,
+    "abstract": "Heretofore the concept of “blockchain” has not been precisely defined. Accordingly the potential useful applications of this technology have been largely inflated. This work sidesteps the question of what constitutes a blockchain as such and focuses on the architectural components of the Bitcoin cryptocurrency, insofar as possible, in isolation. We consider common problems inherent in the design of effective supply chain management systems. With each identified problem we propose a solution that utilizes one or more component aspects of Bitcoin. This culminates in five design principles for increased efficiency in supply chain management systems through the application of incentive mechanisms and data structures native to the Bitcoin cryptocurrency protocol."
+}
