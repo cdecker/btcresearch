@@ -1,0 +1,20 @@
+{
+    "id": "liao2017incentivizing",
+    "title": "Incentivizing Blockchain Forks via Whale Transactions",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170330,
+    "authors": [
+        {
+            "affiliation": "Arizona State University",
+            "name": "Kevin Liao"
+        },
+        {
+            "affiliation": "University of Maryland",
+            "name": "Jonathan Katz"
+        }
+    ],
+    "url": "http://cvs.cs.umd.edu/~jkatz/papers/whale-txs.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin’s core innovation is its solution to double-spending, called Nakamoto consensus. This mechanism provides a probabilistic guarantee that transactions will not be reversed once they are sufficiently deep in the blockchain, assuming an attacker controls a bounded fraction of mining power in the network. We show, however, that when miners are rational this guarantee can be undermined by a whale attack in which an attacker issues an off-theblockchain whale transaction with an anomalously large transaction fee in an effort to convince miners to fork the current chain. We carry out a game-theoretic analysis and simulation of this attack, and show conditions under which it yields an expected positive payoff for the attacker."
+}
