@@ -1,0 +1,20 @@
+{
+    "id": "english2017conditions",
+    "title": "Conditions Of Full Disclosure: The Blockchain Remuneration Model",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170330,
+    "authors": [
+        {
+            "affiliation": "Rheinische Friedrich-Wilhelms-Universitat Bonn",
+            "name": "S Matthew English"
+        },
+        {
+            "affiliation": "Rheinische Friedrich-Wilhelms-Universitat Bonn",
+            "name": "Ehsan Nezhadian"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1703.04196",
+    "peer-reviewed": true,
+    "abstract": "One of the fundamental applications for a practically useful system of money is remuneration. Information pertaining to the amount of compensation awarded to different individuals is often considered sensitive, commanding a certain degree of privacy. As Bitcoin and similarly designed cryptocurrencies evolve into a recognized medium of exchange for larger swaths of the world economy, an increasing number of people will earn income in the form of blockchain-based payments. The nature of these transactions is such that the minute details of an affected individuals compensation package and spending habits will be exposed to public scrutiny. In some cases this violates cultural norms which respect the confidentiality of salaries, yet in other cases it could be regarded as providing the benefits associated with greater transparency. In this work we analyse the Bitcoin blockchain record of periodic payments accruing to an individual address in exchange for goods or services rendered. For differing levels of available information we seek to determine the extent of insights that can be gleaned about the transacting counter-parties and the privacy implications this entails."
+}
