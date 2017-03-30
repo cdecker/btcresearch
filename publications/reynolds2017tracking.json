@@ -1,0 +1,21 @@
+{
+    "id": "reynolds2017tracking",
+    "title": "Tracking Digital Footprints: Anonymity Within The Bitcoin System",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170330,
+    "authors": [
+        {
+            "affiliation": "Macquarie University Sydney ",
+            "name": "Perri Reynolds"
+        },
+        {
+            "affiliation": "Macquarie University Sydney",
+            "name": "Angela SM Irwin"
+        }
+    ],
+    "url": "http://www.emeraldinsight.com/doi/abs/10.1108/JMLC-07-2016-0027",
+    "venue": "Journal of Money Laundering Control",
+    "peer-reviewed": true,
+    "abstract": " Purpose The purpose of this paper is to critically analyse research surrounding the anonymity of online transactions using Bitcoin, and report on the feasibility of law enforcement bodies tracing illicit transactions back to a user’s real life identity Design/methodology/approach The design of this paper follows on from the approach taken by Reid and Harrigan (2013) in determining whether identifying information may be collated with external sources of data to identify individual users. In addition to conducting a detailed literature review surrounding the anonymity of users and the potential ability to track transactions through the blockchain, four Bitcoin exchange services are examined to ascertain whether information provided at the sign-up stage is sufficiently verified and reliable. By doing so, this research tests the ability for law enforcement to reasonably rely upon this information when attempting to prosecute individuals. Additionally, by submitting fake information for verification, the plausibility of these forms of services accepting fraudulent or illegitimate information is also tested. Findings It may be possible to identify and prosecute bad actors through the analysis of transaction histories tracing back to an interaction with a Bitcoin exchange. However, the compliance and implementation of anti-money laundering legislation and customer identification security standards are insufficiently utilised within some exchange services, resulting in more technologically adept, or well-funded, criminals being able to circumvent identification controls and continue to transact without revealing their identities. The introduction of and compliance with know-your customer and customer due diligence legislation is required before law enforcement bodies may be able to accurately rely on information provided to a Bitcoin exchange. This paper highlights the need for research to be undertaken to examine the ways in which criminals are circumventing identity controls and, consequently, financing their illicit activities. Originality/value By ascertaining the types of information submitted by users when exchanging real currency for virtual currency, and seeing whether this information may be accepted despite being fraudulent in nature, this paper elucidates the reliability of information that law enforcement bodies may be able to access when tracing transactions back to an individual actor."
+}
