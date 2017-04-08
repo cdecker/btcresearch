@@ -1,0 +1,33 @@
+{
+    "id": "vassiliadis2017bitcoin",
+    "title": "Bitcoin Value Analysis Based On Cross-Correlations",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Piraeus University of Applied Sciences",
+            "name": "Savvas Vassiliadis"
+        },
+        {
+            "affiliation": "Piraeus University of Applied Sciences",
+            "name": "Perikles Papadopoulos"
+        },
+        {
+            "affiliation": "Piraeus University of Applied Sciences",
+            "name": "Maria Rangoussi"
+        },
+        {
+            "affiliation": "Lodz University of Technology",
+            "name": "Tomasz Konieczny"
+        },
+        {
+            "affiliation": "Lodz University of Technology",
+            "name": "Jacek Gralewski"
+        }
+    ],
+    "url": "http://www.icommercecentral.com/open-access/bitcoin-value-analysis-based-on-crosscorrelations.pdf",
+    "venue": "Journal of Internet Banking and Commerce",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is attracting a steadily increasing interest since its first appearance in 2008. Bitcoin price forecasting would be of great practical interest given its role as a relatively new virtual “currency”. This presupposes the modeling and verification of some kind of relation, causal or not, connecting bitcoin price to other “established” factors of economic interest. Towards this goal, cross-correlation analysis is used in this work to investigate relations between bitcoin price and a set of other factors of economic interest. The years 2013 to 2015 are selected as the temporal basis of this research, because earlier bitcoin prices were practically zero. Results reveal a strong correlation between bitcoin and stock market indices or other economical factor values. SWOT analysis for bitcoin is carried out for the same period of time, based on cross-correlation as well as on existing research results. Bitcoin is seen to possess more benefits than risks, while its strong temporal correlations with other economic indices or prices constitute an opportunity to be further explored towards the goal of bitcoin price forecasting."
+}
