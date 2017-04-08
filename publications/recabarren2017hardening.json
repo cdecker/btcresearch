@@ -1,0 +1,20 @@
+{
+    "id": "recabarren2017hardening",
+    "title": "Hardening Stratum, The Bitcoin Pool Mining Protocol",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Florida International University",
+            "name": "Ruben Recabarren"
+        },
+        {
+            "affiliation": "Florida International University",
+            "name": "Bogdan Carbunar"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1703.06545",
+    "peer-reviewed": false,
+    "abstract": "Stratum, the de-facto mining communication protocol used by blockchain based cryptocurrency systems, enables miners to reliably and efficiently fetch jobs from mining pool servers. In this paper we exploit Stratum’s lack of encryption to develop passive and active attacks on Bitcoin’s mining protocol, with important implications on the privacy, security and even safety of mining equipment owners. We introduce StraTap and ISP Log attacks, that infer miner earnings if given access to miner communications, or even their logs. We develop BiteCoin, an active attack that hijacks shares submitted by miners, and their associated payouts. We build BiteCoin on WireGhost, a tool we developed to hijack and surreptitiously maintain Stratum connections. Our attacks reveal that securing Stratum through pervasive encryption is not only undesirable (due to large overheads), but also ineffective: an adversary can predict miner earnings even when given access to only packet timestamps. Instead, we devise Bedrock, a minimalistic Stratum extension that protects the privacy and security of mining participants. We introduce and leverage the mining cookie concept, a secret that each miner shares with the pool and includes in its puzzle computations, and that prevents attackers from reconstructing or hijacking the puzzles. We have implemented our attacks and collected 138MB of Stratum protocol traffic from mining equipment in the US and Venezuela. We show that Bedrock is resilient to active attacks even when an adversary breaks the crypto constructs it uses. Bedrock imposes a daily overhead of 12.03s on a single pool server that handles mining traffic from 16,000 miners."
+}
