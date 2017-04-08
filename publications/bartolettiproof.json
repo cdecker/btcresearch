@@ -1,0 +1,24 @@
+{
+    "id": "bartolettiproof",
+    "title": "A Proof-Of-Stake Protocol For Consensus On Bitcoin Subchains",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Universit`a degli Studi di Cagliari",
+            "name": "Massimo Bartoletti"
+        },
+        {
+            "affiliation": "Universit`a degli Studi di Cagliari",
+            "name": "Stefano Lande"
+        },
+        {
+            "affiliation": "Universit`a degli Studi di Cagliari",
+            "name": "Alessandro Sebastian Podda"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Stefano_Lande/publication/314090392_A_Proof-of-Stake_protocol_for_consensus_on_Bitcoin_subchains/links/58c3e688a6fdcce648e26876/A-Proof-of-Stake-protocol-for-consensus-on-Bitcoin-subchains.pdf",
+    "peer-reviewed": false,
+    "abstract": "Although the main purpose of the Bitcoin blockchain is to record currency transfers, Bitcoin transactions can also carry a few bytes of metadata. Smart contracts built upon Bitcoin exploit this feature to store a tamper-proof historical record of their transactions. The sequence of these transactions forms a subchain of the Bitcoin blockchain, which usually does not interfere with the transfers of bitcoins recorded therein. A subchain is consistent when it represents a legit execution of the smart contract. A crucial issue is how to make it difficult for an adversary to subvert the execution of the smart contract by making its subchain inconsistent. The current approaches either postulate that subchains are always consistent, or give weak guarantees about their security (for instance, they are susceptible to Sybil attacks). We propose a consensus protocol, based on Proof-of-Stake, that incentivizes nodes to consistently extend the subchain. We empirically evaluate the security of our protocol, and we show how to exploit it as the basis for smart contracts on the Bitcoin blockchain."
+}
