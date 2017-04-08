@@ -1,0 +1,20 @@
+{
+    "id": "teutsch2017scalable",
+    "title": "A Scalable Verification Solution For Blockchains",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "TrueBit Foundation",
+            "name": "Jason Teutsch"
+        },
+        {
+            "affiliation": "Ethereum Foundation",
+            "name": "Christian Reitwießner"
+        }
+    ],
+    "url": "http://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin and Ethereum, whose miners arguably collectively comprise the most powerful computational resource in the history of mankind, offer no more power for processing and verifying transactions than a typical smart phone. The system described herein bypasses this bottleneck and brings scalable computation to Ethereum. Our new system consists of a financial incentive layer atop a dispute resolution layer where the latter takes form of a versatile “verification game.” In addition to secure outsourced computation, immediate applications include decentralized mining pools whose operator is an Ethereum smart contract, a cryptocurrency with scalable transaction throughput, and a trustless means for transferring currency between disjoint cryptocurrency systems."
+}
