@@ -1,0 +1,24 @@
+{
+    "id": "dorri2017blockchain",
+    "title": "Blockchain: A Distributed Solution To Automotive Security And Privacy",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "name": "Ali Dorri"
+        },
+        {
+            "name": "Marco Steger"
+        },
+        {
+            "name": "Salil S Kanhere"
+        },
+        {
+            "name": "Raja Jurdak"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1704.00073",
+    "peer-reviewed": false,
+    "abstract": "Future smart vehicles will be part of the Internet of Things to offer beneficial development opportunities for both end users as well as the automotive industry. This will potentially expose smart vehicles to a range of security and privacy threats such as tracking or hijacking a vehicle while driving. A comprehensive security architecture for automotive systems is required to allow the development of new services while protecting the vehicles from attacks and ensuring the privacy of the end users. In this paper we argue that BlockChain (BC), a disruptive technology that has found many applications from cryptocurrency to smart contracts, is a potential solution to automotive security and privacy challenges. We propose a BCbased architecture to protect the privacy of the users and to increase the security of the vehicular eco-system. Wireless remote software updates and other emerging services in the automotive world such as dynamic vehicle insurance fees, are used to illustrate the utilization of the proposed security architecture. We also provide discussions on the security of the architecture against important attacks."
+}
