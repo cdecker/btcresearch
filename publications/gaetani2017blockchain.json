@@ -1,0 +1,36 @@
+{
+    "id": "gaetani2017blockchain",
+    "title": "Blockchain-Based Database To Ensure Data Integrity In Cloud Computing Environments",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "La Sapienza University of Rome",
+            "name": "Edoardo Gaetani"
+        },
+        {
+            "affiliation": "La Sapienza University of Rome",
+            "name": "Leonardo Aniello"
+        },
+        {
+            "affiliation": "La Sapienza University of Rome",
+            "name": "Roberto Baldoni"
+        },
+        {
+            "affiliation": "La Sapienza University of Rome",
+            "name": "Federico Lombardi"
+        },
+        {
+            "affiliation": "University of Southampton",
+            "name": "Andrea Margheri"
+        },
+        {
+            "affiliation": "University of Southampton",
+            "name": "Vladimiro Sassone"
+        }
+    ],
+    "url": "http://ceur-ws.org/Vol-1816/paper-15.pdf",
+    "peer-reviewed": false,
+    "abstract": "Data is nowadays an invaluable resource, indeed it guides all business decisions in most of the computer-aided human activities. Threats to data integrity are thus of paramount relevance, as tampering with data may maliciously affect crucial business decisions. This issue is especially true in cloud computing environments, where data owners cannot control fundamental data aspects, like the physical storage of data and the control of its accesses. Blockchain has recently emerged as a fascinating technology which, among others, provides compelling properties about data integrity. Using the blockchain to face data integrity threats seems to be a natural choice, but its current limitations of low throughput, high latency, and weak stability hinder the practical feasibility of any blockchain-based solutions. In this paper, by focusing on a case study from the European SUNFISH project, which concerns the design of a secure by-design cloud federation platform for the public sector, we precisely delineate the actual data integrity needs of cloud computing environments and the research questions to be tackled to adopt blockchain-based databases. First, we detail the open research questions and the difficulties inherent in addressing them. Then, we outline a preliminary design of an effective blockchain-based database for cloud computing environments"
+}
