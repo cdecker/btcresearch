@@ -1,0 +1,29 @@
+{
+    "id": "goldfederescrow",
+    "title": "Escrow Protocols For Cryptocurrencies: How To Buy Physical Goods Using Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Princeton University",
+            "name": "Steven Goldfeder"
+        },
+        {
+            "affiliation": "Stanford University and EFF",
+            "name": "Joseph Bonneau"
+        },
+        {
+            "affiliation": "City University of New York",
+            "name": "Rosario Gennaro"
+        },
+        {
+            "affiliation": "Princeton University",
+            "name": "Arvind Narayanan"
+        }
+    ],
+    "url": "http://www.jbonneau.com/doc/GBGN17-FC-physical_escrow.pdf",
+    "peer-reviewed": true,
+    "venue": "Financial Cryptography",
+    "abstract": "We consider the problem of buying physical goods with cryptocurrencies. There is an inherent circular dependency: should be the buyer trust the seller and pay before receiving the goods or should the seller trust the buyer and ship the goods before receiving payment? This dilemma is addressed in practice using a third party escrow service. However, we show that naive escrow protocols introduce both privacy and security issues. We formalize the escrow problem and present a suite of schemes with improved security and privacy properties. Our schemes are compatible with Bitcoin and similar blockchain-based cryptocurrencies."
+}
