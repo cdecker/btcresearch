@@ -1,0 +1,20 @@
+{
+    "id": "neudeckercould",
+    "title": "Could Network Information Facilitate Address Clustering In Bitcoin?",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Karlsruhe Institute of Technology",
+            "name": "Till Neudecker"
+        },
+        {
+            "affiliation": "Karlsruhe Institute of Technology",
+            "name": "Hannes Hartenstein"
+        }
+    ],
+    "url": "http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final11.pdf",
+    "peer-reviewed": false,
+    "abstract": "Address clustering tries to break the privacy of bitcoin users by linking all addresses created by an individual user, based on information available from the blockchain. As an alternative information source, observations of the underlying peer-to-peer network have also been used to attack the privacy of users. In this paper, we assess whether combining blockchain and network information may facilitate the clustering process. For this purpose, we apply all applicable clustering heuristics that are known to us to current blockchain information and associate the resulting clusters with IP address information extracted from observing the message flooding process of the bitcoin network. The results indicate that only a small share of clusters (less than 8 %) were conspicuously associated with a single IP address. Also, only a small number of IP addresses showed a conspicuous association with a single cluster."
+}
