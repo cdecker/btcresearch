@@ -1,0 +1,16 @@
+{
+    "id": "pappalardo2017financial",
+    "title": "The Financial Value Of Data",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "IMT School for Advanced Studies Lucca",
+            "name": "Giuseppe Pappalardo"
+        }
+    ],
+    "url": "http://e-theses.imtlucca.it/202/1/Pappalardo_phdthesis.pdf",
+    "peer-reviewed": false,
+    "abstract": "During last years data are growing up in term of size and importance. Several applications start to focus on using different kind of data for describing several phenomena or, if possible, trying to predict them. Thanks to social networks become easy to gather data from users since they are directly providing them. Using Facebook every day, the average user provide a clear profile about what he likes, which cities he visit, his own favourite places and also about people who is sharing part of its life. Despite Facebook at the beginning do not provide any advertisement, sells any goods or asked money to its own user, on 2004 it was evaluated 10 billions dollars and today its own value is more than 300 billion dollars. This huge amount of money suggests that probably there is an ”inner value” for who is able to know or use these kind of information. The role of Network Theory in the study of the financial crisis has been widely spotted in the latest years. It has been shown how the network topology and the dynamics running on top of it can trigger the outbreak of large systemic crisis. In this thesis are presented some application of data with the aim to exploit their own financial value using a network perspective. First, an explorative analysis on geo-localized data from Facebook for economic estimation is showed. Moreover, the network from financial statements covering a large database of worldwide banks is introduced, showing some features emerging during last global financial crisis of mid-2007. Finally, the Bitcoin network is investigated, measuring how long blocks and transactions require to propagate through peers, introducing an efficiency measure of the Bitcoin payment system."
+}
