@@ -1,0 +1,41 @@
+{
+    "id": "ranshousexchange",
+    "title": "Exchange Pattern Mining In The Bitcoin Transaction Directed Hypergraph",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "North Carolina State University",
+            "name": "Stephen Ranshous"
+        },
+        {
+            "affiliation": "Pacific Northwest National Laboratory",
+            "name": "Cliff A Joslyn"
+        },
+        {
+            "affiliation": "Pacific Northwest National Laboratory",
+            "name": "Sean Kreyling"
+        },
+        {
+            "affiliation": "Pacific Northwest National Laboratory",
+            "name": "Kathleen Nowak"
+        },
+        {
+            "affiliation": "North Carolina State University",
+            "name": "Nagiza F Samatova"
+        },
+        {
+            "affiliation": "Pacific Northwest National Laboratory",
+            "name": "Curtis L West"
+        },
+        {
+            "affiliation": "Pacific Northwest National Laboratory",
+            "name": "Samuel Winters"
+        }
+    ],
+    "url": "http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final17.pdf",
+    "peer-reviewed": true,
+    "venue": "Financial Cryptography",
+    "abstract": "Bitcoin exchanges operate between digital and fiat currency networks, thus providing an opportunity to connect real-world identities to pseudonymous addresses, an important task for anti-money laundering efforts. We seek to characterize, understand, and identify patterns centered around exchanges in the context of a directed hypergraph model for Bitcoin transactions. We introduce the idea of motifs in directed hypergraphs, considering a particular 2-motif as a potential laundering pattern. We identify distinct statistical properties of exchange addresses related to the acquisition and spending of bitcoin. We then leverage this to build classification models to learn a set of discriminating features, and are able to predict if an address is owned by an exchange with > 80% accuracy using purely structural features of the graph. Applying this classifier to the 2-motif patterns reveals a preponderance of interexchange activity, while not necessarily significant laundering patterns."
+}
