@@ -1,0 +1,28 @@
+{
+    "id": "filtzevolution",
+    "title": "Evolution Of The Bitcoin Address Graph",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Vienna University of Economics and Business",
+            "name": "Erwin Filtz"
+        },
+        {
+            "affiliation": "Vienna University of Economics and Business",
+            "name": "Axel Polleres"
+        },
+        {
+            "affiliation": "Austrian Institute of Technology",
+            "name": "Roman Karl"
+        },
+        {
+            "affiliation": "Austrian Institute of Technology",
+            "name": "Bernhard Haslhofer"
+        }
+    ],
+    "url": "https://aic.ai.wu.ac.at/~polleres/publications/filtz-etal-2017IDSC.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a decentralized virtual currency, which can be used to execute pseudo-anonymous payments globally within a short period of time and comparably low transaction costs. In this paper, we present initial results of a longitudinal study conducted over the Bitcoin address graph, which contains all addresses and transactions from the beginning of Bitcoin in January 2009 until 31st of August 2016. Our analysis reveals a highly-skewed degree distribution with a small number of outliers and illustrates that the entire graph is expanding rapidly. Furthermore, it demonstrates the power of address clustering heuristics for identifying real-world actors, who prefer to use Bitcoin for transferring rather than storing value. We believe that this paper provides novel insight into virtual currency ecosystems, which can inform the design of future analytics methods and infrastructures."
+}
