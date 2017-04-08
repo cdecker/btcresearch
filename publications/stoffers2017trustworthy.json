@@ -1,0 +1,16 @@
+{
+    "id": "stoffers2017trustworthy",
+    "title": "Trustworthy Provenance Recording Using A Blockchain-Like Database",
+    "year": 2017,
+    "type": "phdthesis",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Leipzig University",
+            "name": "Martin Stoffers"
+        }
+    ],
+    "url": "http://elib.dlr.de/111772/1/thesis.pdf",
+    "peer-reviewed": false,
+    "abstract": "One of the research fields at the Institute for Simulation and Software Technology at the German Aerospace Center (DLR) , is to discover new concepts which provide reliability and trustworthiness in software applications [1, 2]. Since today’s process operations in distributed systems are fairly complex, recording all actions is critical in order to ensure reliability and constitute trust in the systems. One example application, developed by the department of Intelligent and Distributed Systems in collaboration with the German Space Operations Center (GSOC), is the Backend Catalog for Relational Debris Information (BACARDI) [3]. Its purpose is to collect and store information about more than ten million objects in orbit around earth, measured by various sensor networks. Before storing the data additional calculations like size, velocity, orbit, and collision detection with other objects, are performed on each object in a distributed manner. Collecting provenance about involved steps and actors is vital to prove the reliability of the events, especially to detect possible collisions. On the one hand it is about collecting provenance, on the other hand it is about protecting provenance from unintended or intended changes, since only unchanged data can be utilised for trustworthy predictions and safe inference in BACARDI or similar systems [3]. After Nakamoto proposed the blockchain technology in his paper, new types of tamper resistant and distributed data storage techniques have evolved from it [4]. These technologies can be applied to vital provenance data to protect it from possible alternation, even in distributed systems. Therefore, the main subject of this thesis is to elaborate and survey concepts for storing provenance data in blockchain-like databases. These concepts are analysed in terms of their advantages and disadvantages, tamper-resistance, and possible use cases, followed by a proof-of-concept implementation of all concepts in one particular blockchain-like database. Subsequently, performance measurements are conducted on each implementation followed by an analysis with respect to the concept design."
+}
