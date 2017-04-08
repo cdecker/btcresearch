@@ -1,0 +1,21 @@
+{
+    "id": "o2017enhancing",
+    "title": "Enhancing Bitcoin Transactions With Covenants",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Blockstream",
+            "name": "Russell O\u2019Connor"
+        },
+        {
+            "affiliation": "Blockstream",
+            "name": "Marta Piekarska"
+        }
+    ],
+    "url": "http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final28.pdf",
+    "venue": "Financial Cryptography Bitcoin Workshop",
+    "peer-reviewed": true,
+    "abstract": "Covenants are Bitcoin Script programs that restrict how funds are allowed to be spent. In previous work [9], Möser et. al. implemented covenants with a new Script operation that allows one to programmatically query the transaction. In this paper, we show that covenants can be implemented with a new CHECKSIGFROMSTACK operation that verifies a signature for a message passed as an argument. When the same public key and signature is used together with CHECKSIG, one can recover transaction data, which then allows one to enforce a covenant. To illustrate our technique, we reimplement M¨oser et. al.’s vault construction for securing funds against key compromise. We use Elements Alpha, a sidechain whose Script language has the needed operations."
+}
