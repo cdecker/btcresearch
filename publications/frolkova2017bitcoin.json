@@ -1,0 +1,20 @@
+{
+    "id": "frolkova2017bitcoin",
+    "title": "A Bitcoin-Inspired Infinite-Server Model With A Random Fluid Limit",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "University of Amsterdam",
+            "name": "Maria Frolkova"
+        },
+        {
+            "affiliation": "University of Amsterdam",
+            "name": "Michel Mandjes"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1703.08406",
+    "peer-reviewed": false,
+    "abstract": "The synchronization process inherent to the Bitcoin network gives rise to an infiniteserver model with the unusual feature that customers interact. Among the closed-form characteristics that we derive for this model is the busy period distribution which, counterintuitively, does not depend on the arrival rate. We explain this by exploiting the equivalence between two specific service disciplines, which is also used to derive the model’s stationary distribution. Next to these closed-form results, the second major contribution concerns an asymptotic result: a fluid limit in the presence of service delays. Since fluid limits arise under scalings of the law-of-large-numbers type, they are usually deterministic, but in the setting of the model discussed in this paper the fluid limit is random (more specifically, of growth-collapse type)."
+}
