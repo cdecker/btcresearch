@@ -1,0 +1,20 @@
+{
+    "id": "fanti2017anonymity",
+    "title": "Anonymity Properties Of The Bitcoin P2P Network",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "University of Illinois",
+            "name": "Giulia Fanti"
+        },
+        {
+            "affiliation": "University of Illinois",
+            "name": "Pramod Viswanath"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1703.08761",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a popular alternative to fiat money, widely used for its perceived anonymity properties. However, recent attacks on Bitcoin’s peer-to-peer (P2P) network demonstrated that its gossip-based flooding protocols, which are used to ensure global network consistency, may enable user deanonymization— the linkage of a user’s IP address with her pseudonym in the Bitcoin network. In 2015, the Bitcoin community responded to these attacks by changing the network’s flooding mechanism to a different protocol, known as diffusion. However, no systematic justification was provided for the change, and it is unclear if diffusion actually improves the system’s anonymity. In this paper, we model the Bitcoin networking stack and analyze its anonymity properties, both pre- and post-2015. In doing so, we consider new adversarial models and spreading mechanisms that have not been previously studied in the source-finding literature. We theoretically prove that Bitcoin’s networking protocols (both pre- and post-2015) offer poor anonymity properties on networks with a regular-tree topology. We validate this claim in simulation on a 2015 snapshot of the real Bitcoin P2P network topology."
+}
