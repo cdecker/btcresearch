@@ -1,0 +1,24 @@
+{
+    "id": "yasaweerasinghelagepredicting",
+    "title": "Predicting Latency Of Blockchain-Based Systems Using Architectural Modelling And Simulation",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "University of New South Wale",
+            "name": "Rajitha Yasaweerasinghelage"
+        },
+        {
+            "affiliation": "University of New South Wale",
+            "name": "Mark Staples"
+        },
+        {
+            "affiliation": "University of New South Wale",
+            "name": "Ingo Weber"
+        }
+    ],
+    "url": "http://www.imweber.de/downloads/2017-ICSA-Blockchain-Latency-Sim--authors_copy.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain is an emerging technology for sharing transactional data and computation without using a central trusted third party. It is an architectural choice to use a blockchain instead of traditional databases or protocols, and this creates trade-offs between non-functional requirements such as performance, cost, and security. However, little is known about predicting the behaviour of blockchain-based systems. This paper shows the feasibility of using architectural performance modelling and simulation tools to predict the latency of blockchain-based systems. We use established tools and techniques, but explore new blockchain-specific issues such as the configuration of the number of confirmation blocks and inter-block times. We report on a labbased experimental study using an incident management system, showing predictions of median system level response time with a relative error mostly under 10%. We discuss how the approach can be used to support architectural decision-making, during the design of blockchain-based systems."
+}
