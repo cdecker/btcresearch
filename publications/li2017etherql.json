@@ -1,0 +1,33 @@
+{
+    "id": "li2017etherql",
+    "title": "Etherql: A Query Layer For Blockchain System",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Soochow University",
+            "name": "Yang Li"
+        },
+        {
+            "affiliation": "Soochow University",
+            "name": "Kai Zheng"
+        },
+        {
+            "affiliation": "Microsoft Research",
+            "name": "Ying Yan"
+        },
+        {
+            "affiliation": "Microsoft Research",
+            "name": "Qi Liu"
+        },
+        {
+            "affiliation": "University of Queensland",
+            "name": "Xiaofang Zhou"
+        }
+    ],
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-55699-4_34",
+    "venue": "International Conference on Database Systems for Advanced Applications",
+    "peer-reviewed": true,
+    "abstract": "Blockchain - the innovation behind Bitcoin - enables people to exchange digital money with complete trust, and seems to be completely transforming the way we think about trust. While blockchain is designed for secured, immutable funds transfer in trustless and decentralized environment, the underlying storage of blockchain is very simple with only limited supports for data access. Moreover, blockchain data are highly compressed before flushing to hard disk, making it harder to have an insight of these valuable data set. In this work, we develop EtherQL, an efficient query layer for Ethereum – the most representative open-source blockchain system. EtherQL provides highly efficient query primitives for analyzing blockchain data, including range queries and top-k queries, which can be integrated with other applications with much flexibility. Moreover, EtherQL is designed to provide different levels of abstraction, which are suitable for data analysts, researchers and application developers. "
+}
