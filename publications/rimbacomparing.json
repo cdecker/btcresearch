@@ -1,0 +1,36 @@
+{
+    "id": "rimbacomparing",
+    "title": "Comparing Blockchain And Cloud Services For Business Process Execution",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "Paul Rimba"
+        },
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "An Binh Tran"
+        },
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "Ingo Weber"
+        },
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "Mark Staples"
+        },
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "Alexander Ponomarev"
+        },
+        {
+            "affiliation": "Data61, CSIRO",
+            "name": "Xiwei Xu"
+        }
+    ],
+    "url": "http://www.imweber.de/downloads/2017-ICSA-Blockchain-Costmodel--authors_copy.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain is of rising importance as a technology for engineering applications in cross-organizational settings, avoiding reliance on central trusted third-parties. The use of blockchain, instead of traditional databases or services, is an architectural choice in the development of a software system. The costs of execution and storage are important non-functional qualities, but as yet very little has been done to study them for blockchain-based systems. We investigate the cost of using blockchain using business process execution as a lens. Specifically, we compare the cost for computation and storage of business process execution on blockchain vs. a popular cloud service. First, we capture the cost models for both alternatives. Second, we implemented and measured the cost of business process execution on blockchain and cloud services for an example business process model from the literature. We observe two orders of magnitude difference in this cost"
+}
