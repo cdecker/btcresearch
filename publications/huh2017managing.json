@@ -1,0 +1,25 @@
+{
+    "id": "huh2017managing",
+    "title": "Managing Iot Devices Using Blockchain Platform",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "ETRI",
+            "name": "Seyoung Huh"
+        },
+        {
+            "affiliation": "ETRI",
+            "name": "Sangrae Cho"
+        },
+        {
+            "affiliation": "ETRI",
+            "name": "Soohyung Kim"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7890132/",
+    "venue": "Advanced Communication Technology (ICACT), 2017 19th International Conference on",
+    "peer-reviewed": true,
+    "abstract": "Since the start of Bitcoin in 2008[1], blockchain technology emerged as the next revolutionary technology. Though blockchain started off as a core technology of Bitcoin, its use cases are expanding to many other areas including finances, Internet of Things (IoT), security and such[2]. Currently, many private and public sectors are diving into the technology[3]. Aside from that, as software and hardware improve, we would see the beginning of IoT. And those IoT devices need to communicate and synchronize with each other. But in situations where more than thousands or tens of thousands of IoT devices connected, we expect that using current model of server-client may have some limitations and issues while in synchronization. So, we propose using blockchain to build IoT system. Using blockchain, we can control and configure IoT devices. We manage keys using RSA public key cryptosystems where public keys are stored in Ethereum and private keys are saved on individual devices. Specifically, we choose Ethereum as our blockchain platform because using its smart contract, we can write our own Turing-complete code to run on top of Ethereum. Thus, we can easily manage configuration of IoT devices and build key management system. Even though we can simply use account as a key management system, which most of blockchain platform supports, we decide to use Ethereum because we can manage the system in a more fine-grained way. For the proof of a concept, we use a few IoT devices instead of a full system of IoT system, which consists of thousands of IoT devices. But in our later study, we would like to build a fully scaled IoT system using blockchain. "
+}
