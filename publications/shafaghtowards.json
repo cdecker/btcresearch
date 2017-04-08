@@ -1,0 +1,24 @@
+{
+    "id": "shafaghtowards",
+    "title": "Towards Blockchain-Based Auditable Storage And Sharing Of Iot Data",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170408,
+    "authors": [
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Hossein Shafagh"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Anwar Hithnawi"
+        },
+        {
+            "affiliation": "Inria & RISE SICS",
+            "name": "Simon Duquennoy"
+        }
+    ],
+    "url": "http://www.simonduquennoy.net/papers/shafagh17towards-blockchain.pdf",
+    "peer-reviewed": false,
+    "abstract": "Today the cloud plays a central role in storing, processing, and distributing data. Despite contributing to the rapid development of various applications, including the IoT, the current centralized storage architecture has led into a myriad of isolated data silos and is preventing the full potential of holistic data-driven analytics for IoT data. In this abstract, we advocate a data-centric design for IoT with focus on resilience, sharing, and auditable protection of information. We introduce the initial design of our blockchain-based end-to-end encrypted data storage system. We enable a secure and persistent data management, by utilizing the blockchain as an auditable access control layer to a decentralized storage layer."
+}
