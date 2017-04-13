@@ -1,0 +1,24 @@
+{
+    "id": "santossecure",
+    "title": "Secure Decentralized Iot Infrastructure",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170413,
+    "authors": [
+        {
+            "affiliation": "Universidade de Aveiro",
+            "name": "Vasco Santos"
+        },
+        {
+            "affiliation": "Universitario de Santiago",
+            "name": "Joao Paulo Barraca"
+        },
+        {
+            "affiliation": "Universitario de Santiago",
+            "name": "Diogo Gomes"
+        }
+    ],
+    "url": "https://web.fe.up.pt/~hsalgado/WD17_proceedings/resources/1570326642.pdf",
+    "peer-reviewed": false,
+    "abstract": "Despite many Internet of Things (IoT) Infrastructures having been implemented in recent years, none of them is truly prepared for a global deployment, where failure tolerance and scalability are an essential requirement. This article presents an alternative concept for IoT Infrastructures, which focuses on enhancing the traditional centralized architecture, usually operated by a single entity, into a decentralized architecture featuring multiple business roles. We propose a dynamic and self-configurable infrastructure on top of a structured Peer-toPeer network. In addition, a set of communication protocols are provided in order to support heterogeneous devices, as well as data access, streaming and persistence. It is also an important focus of our proposal to have mechanisms that guarantee the privacy and security of the information flow and storage."
+}
