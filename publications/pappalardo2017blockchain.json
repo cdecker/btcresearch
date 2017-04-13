@@ -1,0 +1,28 @@
+{
+    "id": "pappalardo2017blockchain",
+    "title": "Blockchain Inefficiency In The Bitcoin Peers Network",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170413,
+    "authors": [
+        {
+            "affiliation": "UCL",
+            "name": "Giuseppe Pappalardo"
+        },
+        {
+            "affiliation": "UCL",
+            "name": "T Di Matteo"
+        },
+        {
+            "affiliation": "IMT School for Advanced Studies",
+            "name": "Guido Caldarelli"
+        },
+        {
+            "affiliation": "UCL",
+            "name": "Tomaso Aste"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1704.01414",
+    "peer-reviewed": false,
+    "abstract": "We investigate Bitcoin network monitoring the dynamics of blocks and transactions. We unveil that 43% of the transactions are still not included in the Blockchain after 1h from the first time they were seen in the network and 20% of the transactions are still not included in the Blockchain after 30 days, revealing therefore great inefficiency in the Bitcoin system. However, we observe that most of these ‘forgotten’ transactions have low values and in terms of transferred value the system is less inefficient with 93% of the transactions value being included into the Blockchain within 3h. The fact that a sizeable fraction of transactions is not processed timely casts serious doubts on the usability of the Bitcoin Blockchain for reliable time-stamping purposes and calls for a debate about the right systems of incentives which a peer-to-peer unintermediated system should introduce to promote efficient transaction recording."
+}
