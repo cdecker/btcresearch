@@ -1,0 +1,21 @@
+{
+    "id": "seebacher2017blockchain",
+    "title": "Blockchain Technology As An Enabler Of Service Systems: A Structured Literature Review",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170413,
+    "authors": [
+        {
+            "affiliation": "Karlsruhe Institute of Technology",
+            "name": "Stefan Seebacher"
+        },
+        {
+            "affiliation": "Karlsruhe Institute of Technology",
+            "name": "Ronny Schüritz"
+        }
+    ],
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-56925-3_2",
+    "venue": "International Conference on Exploring Services Science",
+    "peer-reviewed": true,
+    "abstract": "Blockchain technology is expected to revolutionize the way transactions are performed, thereby affecting a vast variety of potential areas of application. While expectations are high, real world impact and benefit are still unclear. To be able to assess its impact, the first structured literature review of peer-reviewed articles is conducted. As blockchain technology is centered around a peer-to-peer network, enabling collaboration between different parties, the service system is chosen as unit analysis to examine its potential contribution. We have identified a set of characteristics that enable trust and decentralization, facilitating the formation and coordination of a service system."
+}
