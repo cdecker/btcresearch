@@ -1,0 +1,24 @@
+{
+    "id": "bentovtortoise",
+    "title": "Tortoise And Hares Consensus: The Meshcash Framework For Incentive-Compatible, Scalable Cryptocurrencies",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170413,
+    "authors": [
+        {
+            "name": "Iddo Bentov"
+        },
+        {
+            "name": "Pavel Hubácek"
+        },
+        {
+            "name": "Tal Moran"
+        },
+        {
+            "name": "Asaf Nadler"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/300.pdf",
+    "peer-reviewed": false,
+    "abstract": "We propose Meshcash, a new framework for cryptocurrency protocols that combines a novel, proof-of-work based, permissionless byzantine consensus protocol (the tortoise) that guarantees eventual consensus and irreversibility, with a possibly-faulty but quick consensus protocol (the hare). The construction is modular, allowing any suitable “hare” protocol to be plugged in. The combined protocol enjoys best of both worlds properties: consensus is quick if the hare protocol succeeds, but guaranteed even if it is faulty. Unlike most existing proofof-work based consensus protocols, our tortoise protocol does not rely on leader-election (e.g., the single miner who managed to extend the longest chain). Rather, we use ideas from asynchronous byzantine agreement protocols to gradually converge to a consensus. Meshcash, is designed to be race-free: there is no “race” to generate the next block, hence honestly-generated blocks are always rewarded. This property, which we define formally as a game-theoretic notion, turns out to be useful in analyzing rational miners’ behavior: we prove (using a generalization of the blockchain mining games of Kiayias et al.) that race-free blockchain protocols are incentive-compatible and satisfy linearity of rewards (i.e., a party receives rewards proportional to its computational power). Because Meshcash can tolerate a high block rate regardless of network propagation delays (which will only affect latency), it allows us to lower both the variance and the expected time between blocks for honest miners; together with linearity of rewards, this makes pooled mining far less attractive. Moreover, race-free protocols scale more easily (in terms of transaction rate). This is because the race-free property implies that the network propagation delays are not a factor in terms of rewards, which removes the main impediment to accommodating a larger volume of transactions. We formally prove that all of our guarantees hold in the asynchronous communication model of Pass, Seeman and shelat, and against a constant fraction of byzantine (malicious) miners; not just rational ones."
+}
