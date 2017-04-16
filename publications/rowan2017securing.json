@@ -1,0 +1,32 @@
+{
+    "id": "rowan2017securing",
+    "title": "Securing Vehicle To Vehicle Communications Using Blockchain Through Visible Light And Acoustic Side-Channels",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170416,
+    "authors": [
+        {
+            "affiliation": "Trinity College Dublin",
+            "name": "Sean Rowan"
+        },
+        {
+            "affiliation": "Trinity College Dublin",
+            "name": "Michael Clear"
+        },
+        {
+            "affiliation": "UCLA",
+            "name": "Mario Gerla"
+        },
+        {
+            "affiliation": "Trinity College Dublin",
+            "name": "Meriel Huggard"
+        },
+        {
+            "affiliation": "Trinity College Dublin",
+            "name": "Ciarán Mc Goldrick"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1704.02553",
+    "peer-reviewed": false,
+    "abstract": "Autonomous and self-driving vehicles are appearing on the public highways. These vehicles commonly use wireless communication techniques for both vehicle-to-vehicle and vehicle-to-infrastructure communications. Manufacturers, regulators and the public are understandably concerned about large-scale systems failure or malicious attack via these wireless vehicular networks. This paper explores the use of sensing and signalling devices that are commonly integrated into modern vehicles for side-channel communication purposes. Visible light (using a CMOS camera) and acoustic (ultrasonic audio) sidechannel encoding techniques are proposed, developed and evaluated in this context. The side-channels are examined both theoretically and experimentally and an upper bound on the line code modulation rate that is achievable with these side channel schemes in the vehicular networking context is established. A novel inter-vehicle session key establishment protocol, leveraging both side-channels and a blockchain public key infrastructure, is then presented. In light of the limited channel capacity and the interoperability/security requirements for vehicular communications, techniques for constraining the throughput requirement, providing device independence and validating the location of the intended recipient vehicle, are presented. These reduce the necessary device handshake throughput to 176 bits for creating symmetric encryption and message authentication keys and in verifying a vehicle’s certificate with a recognised certification authority."
+}
