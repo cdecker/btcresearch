@@ -1,0 +1,18 @@
+{
+    "id": "guoxcoin",
+    "title": "Xcoin: A Scalable And Permission-Less Blockchain Platform",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170424,
+    "authors": [
+        {
+            "name": "Yangrui Guo"
+        },
+        {
+            "name": "Christian Mate Jr"
+        }
+    ],
+    "url": "http://www.xcoinplatform.info/wp-content/uploads/2017/03/xcoin_whitepaper.pdf",
+    "peer-reviewed": false,
+    "abstract": "Present consensus methods, including Proof-of-Work, achieve a prohibitive transaction throughput for large-scale applications, including the mainstream exchange of the digital currencies that secure them. Additionally, transactions cannot be confirmed until a new block has been mined. We present Xcoin, wherein a dynamic group of replica nodes acts as validator committee within a Byzantine fault tolerance-based blockchain system. The system adopts proof-of-work instead of certificate authority to allow its open participation. Leader election and transaction validation are decoupled into two separate blockchains. Transactions are permanently recorded once verified by more than two-thirds of majority of members within the validator committee. "
+}
