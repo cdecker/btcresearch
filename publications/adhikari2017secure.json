@@ -1,0 +1,16 @@
+{
+    "id": "adhikari2017secure",
+    "title": "Secure Framework For Healthcare Data Management Using Ethereum-Based Blockchain Technology",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170424,
+    "authors": [
+        {
+            "affiliation": "Boise State University",
+            "name": "Chandra Adhikari"
+        }
+    ],
+    "url": "http://scholarworks.boisestate.edu/eng_17/14/",
+    "peer-reviewed": false,
+    "abstract": "Achieving data confidentiality and integrity while maintaining secure access is essential in various fields, including in the medical sector. Implementing a blockchain-based technology to secure medical data makes the data decentralized and ensures that the users are the owners and have control over their own data. While blockchain technology (e.g. Ethereum) is still in its infancy, it’s the cutting-edge of research in many industries and universities. The decentralized system of blockchain along with the presence of smart contracts to automate tasks are the two major features that can be utilized to replace our current imperfect health system and invent a secure, flexible, and more reliable system for data protection. Using this technology will require patients to be accountable for their medical records while allowing to 1) store electronic medical records (EMR) for a patient’s lifetime, 2) advance the development of precise medicines, 3) enable medical authorities to securely share medical data. In order to build a robust system to protect medical data, my research will focus on the security aspect of the system by analyzing the blockchain technology constraints, and carefully designing and implementing a secure and scalable system using Ethereum blockchain and smart contracts."
+}
