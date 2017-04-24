@@ -1,0 +1,17 @@
+{
+    "id": "svetinovic2017blockchain",
+    "title": "Blockchain Engineering For The Internet Of Things: Systems Security Perspective",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170424,
+    "authors": [
+        {
+            "affiliation": "Masdar Institute",
+            "name": "Davor Svetinovic"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3055256",
+    "venue": "Proceedings of the 3rd ACM International Workshop on IoT Privacy, Trust, and Security",
+    "peer-reviewed": true,
+    "abstract": "The Internet of Things (IoT) technology has a potential to bring the benefits of intelligently interconnecting not just computers and humans, but most of everyday things. IoT has a promise of opening significant business process improvement opportunities leading to economic growth and cost reductions. However, there are many challenges facing IoT, including significant scalability and security challenges due to the integration of potentially huge number of things into the network. Many of scalability and security issues stem from a centralized, primarily client/server, architecture of IoT systems and frameworks. Blockchain technology, as a relativelly new approach to decentralized computation and assets management and transfer, has a potential to help solve a number of scalability and security issues that IoT is facing, primarilly through the removal of centralized points of failure for such systems. As such, blockchain technology and IoT integration provides a promising direction and it has recently generated significant research interest, e.g., [4]. In this talk, we present our experiences based on our recent project in enhancing security and privacy in decentralized energy trading in smart grids using blockchain, multi-signatures and anonymous messaging streams [1], that has built upon our previous work on Bitcoin-based decentralized carbon emissions trading infrastructure model [2]. In particular, we present the blockchain systems security issues within the context of IoT security and privacy requirements [3]. This is done with the intention of producing an early integrated security model for blockchain-powered IoT systems [5]. The presentation is constrained to the discussion of the architecture-level requirements [6]. Finally, we will present the main opportunity loss if the integration ignores the full realization of the real-world asset transaction paradigm."
+}
