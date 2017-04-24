@@ -1,0 +1,16 @@
+{
+    "id": "carpenterportfolio",
+    "title": "Portfolio Diversification With Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170424,
+    "authors": [
+        {
+            "affiliation": "James Madison University",
+            "name": "Andrew Carpenter"
+        }
+    ],
+    "url": "http://jurf.org/wp-content/uploads/2017/01/carpenter-andrew-2016.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a decentralized digital currency that was created in 2008. It has no central controlling authority, and allows payments to be sent from user to user without the need for a trusted third party or financial institution. When compared to traditional assets, Bitcoin exhibits persistently low correlations paired with exceedingly high volatility and returns. Using a modified mean-variance framework, we show that Bitcoin can be a viable diversification tool, but its investment appeal may be skewed by return activity that occured during a speculative bubble in 2013."
+}
