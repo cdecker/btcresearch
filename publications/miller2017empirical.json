@@ -1,0 +1,28 @@
+{
+    "id": "miller2017empirical",
+    "title": "An Empirical Analysis Of Linkability In The Monero Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170424,
+    "authors": [
+        {
+            "affiliation": "University of Illinois at Urbana-Champaign",
+            "name": "Andrew Miller"
+        },
+        {
+            "affiliation": "Princeton University",
+            "name": "Malte Moeser"
+        },
+        {
+            "affiliation": "University of Illinois at Urbana-Champaign",
+            "name": "Kevin Lee"
+        },
+        {
+            "affiliation": "Princeton University",
+            "name": "Arvind Narayanan"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1704.04299",
+    "peer-reviewed": false,
+    "abstract": "Monero is a privacy-centric cryptocurrency that allows users to obscure their transaction graph by including chaff coins, called “mixins,” along with the actual coins they spend. In this report, we empirically evaluate two weaknesses in Monero’s mixin sampling strategy. First, about 62% of transaction inputs with one or more mixins are vulnerable to “chain-reaction” analysis — that is, the real input can be deduced by elimination, e.g. because the mixins they include are spent by 0-mixin transactions. Second, Monero mixins are sampled in such a way that the mixins can be easily distinguished from the real coins by their age distribution; in short, the real input is usually the “newest” input. We estimate that this heuristic can be used to guess the real input with 80% accuracy over all transactions with 1 or more mixins. Our analysis uses only public blockchain data, in contrast to earlier attacks requiring active participation in the network [10, 7]. While the first weakness primarily affects Monero transactions made by older software versions (i.e., prior to RingCT), the second weakness is applicable to the newest versions as well. We propose and evaluate a countermeasure derived from blockchain data that can improve the privacy of future transactions."
+}
