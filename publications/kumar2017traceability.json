@@ -1,0 +1,28 @@
+{
+    "id": "kumar2017traceability",
+    "title": "A Traceability Analysis Of Monero\u2019S Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170424,
+    "authors": [
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Amrit Kumar"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Clément Fischer"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Shruti Tople"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "name": "Prateek Saxena"
+        }
+    ],
+    "url": "http://eprint.iacr.org/2017/338.pdf",
+    "peer-reviewed": false,
+    "abstract": "Monero is a cryptocurrency that has rapidly gained popularity since its launch in April 2014. The source of its growth can be mainly attributed to its unique privacy properties that go well beyond the pseudonymity property of cryptocurrencies such as Bitcoin. In this work, we conduct a forensic analysis of the Monero blockchain. Our main goal is to investigate Monero’s untraceability guarantee, which essentially means that given a transaction input, the real output being redeemed in it should be anonymous among a set of other outputs. To this end, we develop three heuristics that lead to simple-to-implement attack routines. We evaluate our attacks on the Monero blockchain and show that in 87% of cases, the real output being redeemed can be easily identified with certainty. Moreover, we have compelling evidence that two of our attacks also extend to Monero RingCTs — the second generation Monero that even hides the transaction value. Furthermore, we observe that for over 98% of the inputs that we have been able to trace, the real output being redeemed in it is the one that has been on the blockchain for the shortest period of time. This result shows that the mitigation measures currently employed in Monero fall short of preventing temporal analysis. Motivated by our finndings, we also propose a new mitigation strategy against temporal analysis. Our mitigation strategy leverages the real spending habit of Monero users."
+}
