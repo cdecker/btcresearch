@@ -1,0 +1,16 @@
+{
+    "id": "pietersbitcoin",
+    "title": "Bitcoin Reveals Unofficial Exchange Rates And Detects Capital Controls",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "affiliation": "Trinity University, Texas",
+            "name": "GC Pieters"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Gina_Pieters/publication/315828069_Bitcoin_Reveals_Unofficial_Exchange_Rates_and_Detects_Capital_Controls/links/58ebd1b4aca272bd2875f955/Bitcoin-Reveals-Unofficial-Exchange-Rates-and-Detects-Capital-Controls.pdf",
+    "peer-reviewed": false,
+    "abstract": "Managed exchange rates and capital controls impact international trade and finance flows, yet data used to detect these manipulations are of low frequency, expensive, lagged, and potentially mis-measured. The timely, high frequency, free-of-charge prices of Bitcoin offer a solution to this problem. I demonstrate that the internationally traded crypto-currency can estimate unofficial exchange rates, detect exchange rate regimes; and detect capital controls at a daily frequency. However, Bitcoin prices may contain bitcoin-specific dynamics that must be removed prior to being used for this purpose, and Bitcoin-based exchange rates approximate the dynamics, but not the level, of unofficial exchange rates."
+}
