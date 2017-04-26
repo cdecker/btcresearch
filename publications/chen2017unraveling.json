@@ -1,0 +1,41 @@
+{
+    "id": "chen2017unraveling",
+    "title": "Unraveling Blockchain Based Crypto-Currency System Supporting Oblivious Transactions: A Formalized Approach",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "affiliation": "University of Houston",
+            "name": "Lin Chen"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Lei Xu"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Nolan Shah"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Nour Diallo"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Zhimin Gao"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Yang Lu"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Weidong Shi"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3055528",
+    "venue": "ACM Workshop on Blockchain, Cryptocurrencies and Contracts",
+    "peer-reviewed": true,
+    "abstract": "User privacy is an important issue in a blockchain based transaction system. Bitcoin, being one of the most widely used blockchain based transaction system, fails to provide enough protection on users' privacy. Many subsequent studies focus on establishing a system that hides the linkage between the identities (pseudonyms) of users and the transactions they carry out in order to provide a high level of anonymity. Examples include Zerocoin, Zerocash and so on. It thus becomes an interesting question whether such new transaction systems do provide enough protection on users' privacy. In this paper, we propose a novel and effective approach for de-anonymizing these transaction systems by leveraging information in the system that is not directly related, including the number of transactions made by each identity and time stamp of sending and receiving. Combining probability studies with optimization tools, we establish a model which allows us to determine, among all possible ways of linking between transactions and identities, the one that is most likely to be true. Subsequent transaction graph analysis could then be carried out, leading to the de-anonymization of the system. To solve the model, we provide exact algorithms based on mixed integer linear programming. Our research also establishes interesting relationships between the de-anonymization problem and other problems studied in the literature of theoretical computer science, e.g., the graph matching problem and scheduling problem."
+}
