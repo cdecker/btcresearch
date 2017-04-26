@@ -1,0 +1,28 @@
+{
+    "id": "cha2017design",
+    "title": "On The Design Of A Blockchain-Based Reputation Service For Android Applications",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "name": "Shi-Cho Cha"
+        },
+        {
+            "name": "Shih-Cheng Hung"
+        },
+        {
+            "name": "Jyun-Fu Chen"
+        },
+        {
+            "name": "Sih-Cing Syu"
+        },
+        {
+            "name": "Tsung-Ying Tsai"
+        }
+    ],
+    "url": "http://www.ingentaconnect.com/contentone/asp/asl/2017/00000023/00000003/art00159",
+    "venue": "Advanced Science Letters",
+    "peer-reviewed": true,
+    "abstract": "Permissions usually cannot fulfill user requirements to determine security and privacy risks of Android smartphone applications. To provide users additional information about applications, this study proposes a blockchainbased reputation service for Android applications. The proposed reputation service provides a scheme to integrate reputation information about an application, such as comments, reviews, security analysis results and so on, around the world with tree structures. Therefore, people can send requests to perform query and update operations provided by the reputation service on the so called reputation information trees. Moreover, the proposed service adopts the blockchain technology used in the Bitcoin. Therefore, the service can be provided based on resources of application users and other volunteers. Consequently, we can prevent reputation information provided by the service from being controlled by a single party. Moreover, this study proposes a flexible means for application developers or marketplace providers to embed reputation information into applications to reduce the costs of obtaining the basic reputation information from the reputation service. Users can obtain reputation of applications from the application files directly and query advanced information from the reputation service on demand. While users can obtain more reputation information about applications, the study can hopefully contribute to enable users to understand application security and privacy risks."
+}
