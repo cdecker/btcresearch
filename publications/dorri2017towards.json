@@ -1,0 +1,24 @@
+{
+    "id": "dorri2017towards",
+    "title": "Towards An Optimized Blockchain For Iot",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "affiliation": "University of New South Wales",
+            "name": "Ali Dorri"
+        },
+        {
+            "affiliation": "University of New South Wales",
+            "name": "Salil S Kanhere"
+        },
+        {
+            "affiliation": "CSIRO DATA61",
+            "name": "Raja Jurdak"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Ali_Dorri5/publication/314363377_Towards_an_Optimized_BlockChain_for_IoT/links/58c0f40892851c2adfec5bd9/Towards-an-Optimized-BlockChain-for-IoT.pdf",
+    "peer-reviewed": false,
+    "abstract": "Tere has been increasing interest in adopting BlockChain (BC), that underpins the crypto-currency Bitcoin, in Internet of Things (IoT) for security and privacy. However, BCs are computationally expensive and involve high bandwidth overhead and delays, which are not suitable for most IoT devices. This paper proposes a lightweight BC-based architecture for IoT that virtually eliminates the overheads of classic BC, while maintaining most of its security and privacy benefits. IoT devices benefit from a private immutable ledger, that acts similar to BC but is managed centrally, to optimize energy consumption. High resource devices create an overlay network to implement a publicly accessible distributed BC that ensures end-to-end security and privacy. The proposed architecture uses distributed trust to reduce the block validation processing time. We explore our approach in a smart home setting as a representative case study for broader IoT applications. Qualitative evaluation of the architecture under common threat models highlights its effectiveness in providing security and privacy for IoT applications. Simulations demonstrate that our method decreases packet and processing overhead significantly compared to the BC implementation used in Bitcoin."
+}
