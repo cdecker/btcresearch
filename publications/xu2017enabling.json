@@ -1,0 +1,41 @@
+{
+    "id": "xu2017enabling",
+    "title": "Enabling The Sharing Economy: Privacy Respecting Contract Based On Public Blockchain",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "affiliation": "University of Houston",
+            "name": "Lei Xu"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Nolan Shah"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Lin Chen"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Nour Diallo"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Zhimin Gao"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Yang Lu"
+        },
+        {
+            "affiliation": "University of Houston",
+            "name": "Weidong Shi"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3055527",
+    "venue": "ACM Workshop on Blockchain, Cryptocurrencies and Contracts",
+    "peer-reviewed": true,
+    "abstract": "Blockchain is a novel way to construct fully distributed systems and has the potential to disrupt many businesses including Uber and Airbnb within the sharing economy. Specifically, blockchain provides a method to enforce the agreement between a user and the physical property owner without using any trusted party, e.g., if a user pays the agreed money, the blockchain guarantees that he/she has access to the property. While a blockchain based system has many desirable features, it may leak privacy information of involved parties due to its openness to the public. To mitigate the privacy concern, we propose a privacy respecting approach for blockchain-based sharing economy applications, which leverages a zero-knowledge scheme. We also analyze the security features and performance of the proposed approach to demonstrate its effectiveness in these applications."
+}
