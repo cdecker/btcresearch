@@ -1,0 +1,21 @@
+{
+    "id": "treleaven2017algorithmic",
+    "title": "Algorithmic Regulation: Automating Financial Compliance Monitoring And Regulation Using Ai And Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "affiliation": "University College London",
+            "name": "Philip Treleaven"
+        },
+        {
+            "affiliation": "University College London",
+            "name": "Bogdan Batrinca"
+        }
+    ],
+    "url": "http://econpapers.repec.org/article/risjofitr/1586.htm",
+    "venue": "Journal of Financial Transformation",
+    "peer-reviewed": true,
+    "abstract": "Efficient financial regulation is crucial to the future success of the financial services industry and especially the rapidly evolving new financial technology (FinTech) area. The concept of “algorithmic regulation,” modelled on “algorithmic trading systems” [Treleaven et al. (2013)], is to stream compliance, social networks data, and other kinds of information from different sources to a platform where compliance reports are encoded using distributed ledger technology and regulations are “codifiable” and “executable” as computer programs, using the same technology being developed for blockchain smart contracts. In this paper, five areas are discussed: a) an “intelligent regulatory advisor” as a front-end to the regulatory handbook; b) “automated monitoring” of online and social media to detect consumer and market abuse; c) “automated reporting” using online compliance communication and big data analytics; d) “regulatory policy modeling” using smart contract technology to codify regulations and assess impact before deployment; and e) “automated regulation” employing blockchain technology to automate monitoring and compliance. We refer to algorithmic regulation for systems that facilitate compliance and regulation decision-making in financial services using advanced mathematical tools and blockchain technology."
+}
