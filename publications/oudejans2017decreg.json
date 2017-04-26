@@ -1,0 +1,25 @@
+{
+    "id": "oudejans2017decreg",
+    "title": "Decreg: A Framework For Preventing Double-Financing Using Blockchain Technology",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "affiliation": "TU Delft",
+            "name": "Joris Oudejans"
+        },
+        {
+            "affiliation": "TU Delft",
+            "name": "Zekeriya Erkin"
+        },
+        {
+            "affiliation": "Hidde Lycklama à Nijeholt",
+            "name": "TU Delft"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3055529",
+    "venue": "Workshop on Blockchain, Cryptocurrencies and Contracts",
+    "peer-reviewed": true,
+    "abstract": "Factoring is an important financial instrument for SMEs to solve liquidity problems, where the invoice is cashed to avoid late buyer payments. Unfortunately, this business model is risky as it relies on human interaction and involved actors (factors in particular) suffer from information asymmetry. One of the risks involved is 'double-financing': the event that an SME extracts funds from multiple factors. To reduce this asymmetry and increase the scalability of this important instrument, we propose a framework, DecReg, based on blockchain technology. We provide the protocols designed for this framework and present performance analysis. This framework will be deployed in practice as of February 2017 in the Netherlands."
+}
