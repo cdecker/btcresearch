@@ -1,0 +1,28 @@
+{
+    "id": "vermablockchain",
+    "title": "A Blockchain Based Architecture For Asset Management In Coalition Operations",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170426,
+    "authors": [
+        {
+            "affiliation": "IBM TJ Watson Research Center",
+            "name": "Dinesh Verma"
+        },
+        {
+            "affiliation": "IBM TJ Watson Research Center",
+            "name": "Nirmit Desai"
+        },
+        {
+            "affiliation": "Cardiff University",
+            "name": "Alun Preece"
+        },
+        {
+            "affiliation": "Cardiff University",
+            "name": "Ian Taylor"
+        }
+    ],
+    "url": "http://orca.cf.ac.uk/99880/1/Block-Chain-Coalitions-v03.pdf",
+    "peer-reviewed": false,
+    "abstract": "To support dynamic communities of interests in coalition operations, new architectures for efficient sharing of ISR assets are needed. The use of blockchain technology in wired business environments, such as digital currency systems, offers an interesting solution by creating a way to maintain a distributed shared ledger without requiring a single trusted authority. In this paper, we discuss how a blockchain-based system can be modified to provide a solution for dynamic asset sharing amongst coalition members, enabling the creation of a logically centralized asset management system by a seamless policy-compliant federation of different coalition systems. We discuss the use of blockchain for three different types of assets in a coalition context, showing how blockchain can offer a suitable solution for sharing assets in those environments. We also discuss the limitations in the current implementations of blockchain which need to be overcome for the technology to become more effective in a decentralized tactical edge environment."
+}
