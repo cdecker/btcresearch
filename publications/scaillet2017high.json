@@ -1,0 +1,24 @@
+{
+    "id": "scaillet2017high",
+    "title": "High-Frequency Jump Analysis Of The Bitcoin Market",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170504,
+    "authors": [
+        {
+            "affiliation": "University of Geneva",
+            "name": "Olivier Scaillet"
+        },
+        {
+            "affiliation": "University of Geneva",
+            "name": "Adrien Treccani"
+        },
+        {
+            "affiliation": "EPFL",
+            "name": "Christopher Trevisan"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1704.08175",
+    "peer-reviewed": false,
+    "abstract": "We use the database leak of Mt. Gox exchange to analyze the dynamics of the price of bitcoin from June 2011 to November 2013. This gives us a rare opportunity to study an emerging retail-focused, highly speculative and unregulated market with trader identifiers at a tick transaction level. Jumps are frequent events and they cluster in time. The order flow imbalance and the preponderance of aggressive traders, as well as a widening of the bid-ask spread predict them. Jumps have short-term positive impact on market activity and illiquidity and see a persistent change in the price."
+}
