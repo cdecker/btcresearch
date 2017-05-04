@@ -1,0 +1,21 @@
+{
+    "id": "kurihara2017market",
+    "title": "The Market Efficiency Of Bitcoin: A Weekly Anomaly Perspective",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170504,
+    "authors": [
+        {
+            "affiliation": "Aichi University",
+            "name": "Yutaka Kurihara"
+        },
+        {
+            "affiliation": "Seijo University",
+            "name": "Akio Fukushima"
+        }
+    ],
+    "url": "http://www.scienpress.com/Upload/JAFB%2FVol%207_3_4.pdf",
+    "venue": "Journal of Applied Finance & Banking",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is a cryptocurrency. It is not a legal currency but a private monetary system that manages itself and does not depend on central banks or governments. Since the development of Bitcoin, its trading volume has been increasing largely and rapidly. Some fear the increase in Bitcoin usage as it is quite different from traditional currencies; however, its use is spreading all over the world. This paper examines empirically whether or not weekly price anomalies exist by checking the market efficiency of Bitcoin. The empirical results show that the Bitcoin market is not efficient. However, the empirical results show that Bitcoin transactions are becoming and can become more efficient. The results suggest that Bitcoin returns will be random in the future."
+}
