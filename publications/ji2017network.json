@@ -1,0 +1,27 @@
+{
+    "id": "ji2017network",
+    "title": "Network Causality Structures Among Bitcoin And Other Financial Assets: A Directed Acyclic Graph Approach",
+    "year": 2017,
+    "type": "techreport",
+    "sortkey": 20170504,
+    "authors": [
+        {
+            "affiliation": "Chinese Academy of Sciences",
+            "name": "Qiang Ji"
+        },
+        {
+            "affiliation": "Holy Spirit University of Kaslik",
+            "name": "Elie Bouri"
+        },
+        {
+            "affiliation": "University of Pretoria",
+            "name": "Rangan Gupta"
+        },
+        {
+            "affiliation": "Montpellier Business School",
+            "name": "David Roubaud"
+        }
+    ],
+    "url": "http://www.up.ac.za/media/shared/61/WP/wp_2017_29.zp116290.pdf",
+    "peer-reviewed": false
+}
