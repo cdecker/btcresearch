@@ -1,0 +1,24 @@
+{
+    "id": "podolankocountering",
+    "title": "Countering Double-Spend Attacks On Bitcoin Fast-Pay Transactions",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170504,
+    "authors": [
+        {
+            "affiliation": "University of Texas",
+            "name": "John P Podolanko"
+        },
+        {
+            "affiliation": "University of Texas",
+            "name": "Jiang Ming"
+        },
+        {
+            "affiliation": "Rochester Institute of Technology",
+            "name": "Matthew Wright"
+        }
+    ],
+    "url": "http://www.ieee-security.org/TC/SPW2017/ConPro/papers/podolanko-conpro17.pdf",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a Proof-of-Work-based payment system that does not rely on a trusted authority. As its popularity grows, more businesses are starting to accept it as payment, including services like fast food restaurants and vending machines that must deliver goods soon upon payment. Unfortunately, these fast pay scenarios are vulnerable to fraudulent double-spending of Bitcoins. To protect consumers from having to cover the costs of these attacks, there is a growing need to find countermeasures to such attacks that are scalable and realistic to deploy. Several possible countermeasures have been proposed in prior work but not evaluated carefully. In this paper, we analyze these countermeasures and simulate their effects in a scaled Bitcoin P2P network using the Shadow framework. We find that integrating several of these countermeasures into an enhanced observer can be effective in detecting and alerting a vendor to an incoming double-spend attack in less than 28 seconds on average in our model."
+}
