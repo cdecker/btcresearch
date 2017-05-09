@@ -1,0 +1,20 @@
+{
+    "id": "deunderstanding",
+    "title": "Understanding The Blockchain Using Enterprise Ontology",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "Tilburg University",
+            "name": "Joost de Kruijff"
+        },
+        {
+            "affiliation": "Tilburg University",
+            "name": "Hans Weigand"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Joost_De_Kruijff/publication/316636055_Understanding_the_Blockchain_Using_Enterprise_Ontology/links/5908ed280f7e9b1d08146d47/Understanding-the-Blockchain-Using-Enterprise-Ontology.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain technology is regarded as highly disruptive, but there is a lack of formalization and standardization of terminology. Not only because there are several (sometimes propriety) implementation platforms, but also because the academic literature so far is predominantly written from either a purely technical or an economic application perspective. The result of the confusion is an offspring of blockchain solutions, types, roadmaps and interpretations. For blockchain to be accepted as a technology standard in established industries, it is pivotal that ordinary internet users and business executives have a basic yet fundamental understanding of the workings and impact of blockchain. This conceptual paper provides a theoretical contribution and guidance on what blockchain actually is by taking an ontological approach. Enterprise Ontology is used to make a clear distinction between the datalogical, infological and essential level of blockchain transactions and smart contracts. "
+}
