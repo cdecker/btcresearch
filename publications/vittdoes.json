@@ -1,0 +1,16 @@
+{
+    "id": "vittdoes",
+    "title": "Does Fiat-To-Bitcoin Exchange Activity Lead To Increased User-To-User Bitcoin Transaction Activity?",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "Farmingdale State College",
+            "name": "David C Vitt"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/David_Vitt/publication/270142211_Does_fiat-to-Bitcoin_exchange_activity_lead_to_increased_user-to-user_Bitcoin_transaction_activity/links/59022cd54585156502a2f732/Does-fiat-to-Bitcoin-exchange-activity-lead-to-increased-user-to-user-Bitcoin-transaction-activity.pdf",
+    "peer-reviewed": false,
+    "abstract": "I exploit the ``perfect ledger'' feature of Bitcoin to find the degree to which Bitcoin-to-fiat exchange activity is associated with increased user-to-user transactions on the Bitcoin network with two distinct but complementary methodologies. First, I use an instrumental variable strategy to estimate the elasticity of user-to-user Bitcoin transaction activity with respect to fiat-to-Bitcoin exchange activity. Secondly, I use vector autoregression to determine the dynamic effects of fiat-to-Bitcoin exchange innovations in user-to-user Bitcoin transactions. In both approaches I find strong evidence of speculative hoarding of Bitcoin via the weak transmission of fiat-to-Bitcoin exchange activity to user-to-user Bitcoin network transactions."
+}
