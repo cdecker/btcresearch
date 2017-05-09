@@ -1,0 +1,28 @@
+{
+    "id": "danzi2017distributed",
+    "title": "Distributed Proportional-Fairness Control In Microgrids Via Blockchain Smart Contracts",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "Aalborg University",
+            "name": "Pietro Danzi"
+        },
+        {
+            "affiliation": "Aalborg University",
+            "name": "Marko Angjelichinoski"
+        },
+        {
+            "affiliation": "Aalborg University",
+            "name": "Cedomir Stefanovic"
+        },
+        {
+            "affiliation": "Aalborg University",
+            "name": "Petar Popovski"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1705.01453",
+    "peer-reviewed": false,
+    "abstract": "Residential microgrids (MGs) may host a large number of Distributed Energy Resources (DERs). The strategy that maximizes the revenue for each individual DER is the one in which the DER operates at capacity, injecting all available power into the grid. However, when the DER penetration is high and the consumption low, this strategy may lead to power surplus that causes voltage increase over recommended limits. In order to create incentives for the DER to operate below capacity, we propose a proportional-fairness control strategy in which (i) a subset of DERs decrease their own power output, sacrificing the individual revenue, and (ii) the DERs in the subset are dynamically selected based on the record of their previous participation in control. The trustworthy implementation of the scheme is carried out through a custom-designed blockchain mechanism that maintains a distributed database trusted by all DERs. In particular, the blockchain is used to stipulate and store smart contracts that enforce proportional fairness. The simulation results verify the potential of the proposed framework."
+}
