@@ -1,0 +1,36 @@
+{
+    "id": "toshsecurity",
+    "title": "Security Implications Of Blockchain Cloud With Analysis Of Block Withholding Attack",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "Norfolk State University",
+            "name": "Deepak K Tosh"
+        },
+        {
+            "affiliation": " Old Dominion University",
+            "name": "Sachin Shetty"
+        },
+        {
+            "affiliation": "Tennessee State University",
+            "name": "Xueping Liang"
+        },
+        {
+            "affiliation": "Air Force Research Laboratory, Rome",
+            "name": "Charles A Kamhoua"
+        },
+        {
+            "affiliation": "Air Force Research Laboratory, Rome",
+            "name": "Kevin A Kwiat"
+        },
+        {
+            "affiliation": "Air Force Research Laboratory, Rome",
+            "name": "Laurent Njilla"
+        }
+    ],
+    "url": "https://www.cse.unr.edu/~toshd/assets/bwh-blockchain.pdf",
+    "peer-reviewed": false,
+    "abstract": "The blockchain technology has emerged as an attractive solution to address performance and security issues in distributed systems. Blockchain’s public and distributed peer-topeer ledger capability benefits cloud computing services which require functions such as, assured data provenance, auditing, management of digital assets, and distributed consensus. Blockchain’s underlying consensus mechanism allows to build a tamper-proof environment, where transactions on any digital assets are verified by set of authentic participants or miners. With use of strong cryptographic methods, blocks of transactions are chained together to enable immutability on the records. However, achieving consensus demands computational power from the miners in exchange of handsome reward. Therefore, greedy miners always try to exploit the system by augmenting their mining power. In this paper, we first discuss blockchain’s capability in providing assured data provenance in cloud and present vulnerabilities in blockchain cloud. We model the block withholding (BWH) attack in a blockchain cloud considering distinct pool reward mechanisms. BWH attack provides rogue miner ample resources in the blockchain cloud for disrupting honest miners’ mining efforts, which was verified through simulations. Index Terms—Blockchain, cloud computing, block mining, data provenance, proof-of-work, block withholding, distributed ledger, pool mining, blockchain security and vulnerability"
+}
