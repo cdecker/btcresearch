@@ -1,0 +1,28 @@
+{
+    "id": "hukkinen2017blockchain",
+    "title": "A Blockchain Application In Energy",
+    "year": 2017,
+    "type": "techreport",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "Aalto University",
+            "name": "Taneli Hukkinen"
+        },
+        {
+            "affiliation": "The Research Institute of the Finnish Economy",
+            "name": "Juri Mattila"
+        },
+        {
+            "affiliation": "Aalto University",
+            "name": "Juuso Ilomäki"
+        },
+        {
+            "affiliation": "The Research Institute of the Finnish Economy",
+            "name": "Timo Seppälä"
+        }
+    ],
+    "url": "http://www.etla.fi/wp-content/uploads/ETLA-Raportit-Reports-71.pdf",
+    "peer-reviewed": false,
+    "abstract": "This report documents a blockchain application developed for the energy sector that enables distributed market coordination for decentralized energy systems. As its core element, it utilizes Ethereum-based smart contracts to facilitate market matching between individual producers and consumers of electricity. The motive for this application was to understand the process of developing blockchain applications with industrial partners. Moreover, the purpose of this exercise was to examine whether Ethereum-based smart contracts could be effectively utilized for similar applications in industry and society at large. The application and the discussions during its development indicate that similar horizontal market structures may spring up in value chains in which the dynamicity of the market is growing and in which the roles of the market actors are shifting from fixed roles towards switch-role markets."
+}
