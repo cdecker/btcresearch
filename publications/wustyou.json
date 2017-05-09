@@ -1,0 +1,20 @@
+{
+    "id": "wustyou",
+    "title": "Do You Need A Blockchain?",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Karl Wüst"
+        },
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Arthur Gervais"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/375.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain is being praised as a technological innovation which allows to revolutionize how society trades and interacts. This reputation is in particular attributable to its properties of allowing mutually mistrusting entities to exchange financial value and interact without relying on a trusted third party. A blockchain moreover provides an integrity protected data storage and allows to provide process transparency. In this article we critically analyze whether a blockchain is indeed the appropriate technical solution for a particular application scenario. We differentiate between permissionless (e.g., Bitcoin/Ethereum) and permissioned (e.g. Hyperledger/Corda) blockchains and contrast their properties to those of a centrally managed database. We provide a structured methodology to determine the appropriate technical solution to solve a particular application problem. Given our methodology, we analyze in depth three use cases — Supply Chain Management, Interbank and International Payments, and Decentralized Autonomous Organizations and conclude the article with an outlook for further opportunities."
+}
