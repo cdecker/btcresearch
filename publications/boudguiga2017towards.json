@@ -1,0 +1,41 @@
+{
+    "id": "boudguiga2017towards",
+    "title": "Towards Better Availability And Accountability For Iot Updates By Means Of A Blockchain",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "IRT SystemX",
+            "name": "Aymen Boudguiga"
+        },
+        {
+            "affiliation": "IRT SystemX",
+            "name": "Nabil Bouzerna"
+        },
+        {
+            "affiliation": "Airbus Group Innovations",
+            "name": "Louis Granboulan"
+        },
+        {
+            "affiliation": "CEA–LIST",
+            "name": "Alexis Olivereau"
+        },
+        {
+            "affiliation": "IRT SystemX",
+            "name": "Flavien Quesnel"
+        },
+        {
+            "affiliation": "IRT SystemX",
+            "name": "Anthony Roger"
+        },
+        {
+            "affiliation": "IRT SystemX",
+            "name": "Renaud Sirdey"
+        }
+    ],
+    "url": "https://hal.archives-ouvertes.fr/hal-01516350/document",
+    "venue": "Security & Privacy on the Blockchain",
+    "peer-reviewed": true,
+    "abstract": "Building the Internet of Things requires deploying a huge number of devices with full or limited connectivity to the Internet. Given that these devices are exposed to attackers and generally not secured-by-design, it is essential to be able to update them, to patch their vulnerabilities and to prevent hackers from enrolling them into botnets. Ideally, the update infrastructure should implement the CIA triad properties, i.e., confidentiality, integrity and availability. In this work, we investigate how the use of a blockchain infrastructure can meet these requirements, with a focus on availability."
+}
