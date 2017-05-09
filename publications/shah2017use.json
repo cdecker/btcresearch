@@ -1,0 +1,15 @@
+{
+    "id": "shah2017use",
+    "title": "Use Of Blockchain As A Software Component To Send Messages Anonymously For A Data Trading Platform",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "name": "Shrenik Shah"
+        }
+    ],
+    "url": "http://archemy.org/static/docs/blockchain%20based%20trading%20platform.pdf",
+    "peer-reviewed": false,
+    "abstract": "The problem of maintaining complete control over and security while content/ data sharing digitally identity is growing more urgent as our lives become more dependent on online and digital services. What once was rightfully ours and under our control can now be easily stolen and sent to uncountable entities across many locations. Digital Security is a massive problem in the world, especially with recent leaks of Yahoo. According to reports released from Distil Networks, every year data breaches cost the industry around $18.5 billion. Be it banking, healthcare, national security, citizenship documentation or online retailing, identity authentication and authorization is a process intricately woven into commerce and culture worldwide. Identity thefts, hacked databases and breached accounts are shining light on the growing problems of a technologically advanced society, without outpaced identity-based security innovations. Current methods use problematic password-based systems of shared secrets exchanged and stored on insecure systems. Blockchain based authentication systems are based on irrefutable identity verification using digital signatures based on public key cryptography. In this paper an attempt is made built a platform that can address the need of sending messages securely and anonymously over blockchain."
+}
