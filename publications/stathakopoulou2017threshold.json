@@ -1,0 +1,19 @@
+{
+    "id": "stathakopoulou2017threshold",
+    "title": "Threshold Signatures For Blockchain Systems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "ETH Zurich",
+            "name": "Chrysoula Stathakopoulou"
+        },
+        {
+            "affiliation": "IBM Research",
+            "name": "Christian Cachin"
+        }
+    ],
+    "url": "https://domino.research.ibm.com/library/cyberdig.nsf/papers/CA80E201DE9C8A0A852580FA004D412F/$File/rz3910.pdf",
+    "peer-reviewed": false
+}
