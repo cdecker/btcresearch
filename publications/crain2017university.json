@@ -1,0 +1,28 @@
+{
+    "id": "crain2017university",
+    "title": "University Of Sydney, Australia",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "University of Sydney",
+            "name": "Tyler Crain"
+        },
+        {
+            "affiliation": "Data61-CSIRO",
+            "name": "Vincent Gramoli"
+        },
+        {
+            "affiliation": "University of the Basque Country",
+            "name": "Mikel Larrea"
+        },
+        {
+            "affiliation": "IRISA and Universite de Rennes",
+            "name": "Michel Raynal"
+        }
+    ],
+    "url": "https://pdfs.semanticscholar.org/a0e0/1cd16b129d590a9b250bb9935a7504302054.pdf",
+    "peer-reviewed": false,
+    "abstract": "In this paper, we present a new definition of Byzantine consensus that applies to blockchains, applications that allow to transfer digital assets through transactions. More precisely, a blockchain is a distributed abstraction where participants must reach a consensus on a unique block of transactions to be appended to the chain. This new consensus definition requires a validity property based on an application-specific predicate but does not require a decided value to be proposed as long as it is valid. Its novelty is to allow to reach consensus on a value even if this value was proposed only by Byzantine processes, provided that it is considered valid by the application. The advantage of differentiating the validation of a proposed value and the nature of the proposing participant is to make the system progress by appending blocks with transactions, where other algorithms would typically abort."
+}
