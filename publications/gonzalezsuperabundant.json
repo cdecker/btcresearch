@@ -1,0 +1,16 @@
+{
+    "id": "gonzalezsuperabundant",
+    "title": "Superabundant Design: From Waste To Control In Bitcoin Mining",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "University of Warwick",
+            "name": "Pablo R Velasco Gonz{\\'a}lez"
+        }
+    ],
+    "url": "http://www.aprja.net/superabundant-design-from-waste-to-control-in-bitcoin-mining/",
+    "peer-reviewed": false,
+    "abstract": "Tiziana Terranova draws attention to the necessity of questioning how algorithmically-enabled automation works “in terms of control and monetization” and “what kind of time and energy” is being subsumed by it (Terranova 387). Cryptocurrencies are payment technologies that automate the production of money-like tokens (Bergstra and Weijland) following algorithmic rules to maintain a fixed production rate. Different kinds of energy and residues, which are not always acknowledged, are involved in this process. Here I distinguish between two closely linked layers in the Bitcoin token production: first, an algorithmic layer, which contains the instructions and rules for the creation of bitcoins; second, a hardware layer, which performs and embodies the former. While these layers work together, I will argue that they enact their own kind of logics of energy and waste. I will begin at the more visible end of the production cycle, the hardware layer, where the definition of waste and energy consumption is shared with many electronic devices; then I will trace back its algorithmic layer, which as I argue, follows a different logic."
+}
