@@ -1,0 +1,33 @@
+{
+    "id": "shetty2017data",
+    "title": "Data Provenance Assurance In The Cloud Using Blockchain",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170509,
+    "authors": [
+        {
+            "affiliation": "Old Dominion University",
+            "name": "Sachin Shetty"
+        },
+        {
+            "affiliation": "ir Force Research Lab",
+            "name": "Val Red"
+        },
+        {
+            "affiliation": "ir Force Research Lab",
+            "name": "Charles Kamhoua"
+        },
+        {
+            "affiliation": "ir Force Research Lab",
+            "name": "Kevin Kwiat"
+        },
+        {
+            "affiliation": "ir Force Research Lab",
+            "name": "Laurent Njilla"
+        }
+    ],
+    "url": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2625887",
+    "venue": "SPIE Defense+ Security",
+    "peer-reviewed": true,
+    "abstract": "Ever increasing adoption of cloud technology scales up the activities like creation, exchange, and alteration of cloud data objects, which create challenges to track malicious activities and security violations. Addressing this issue requires implementation of data provenance framework so that each data object in the federated cloud environment can be tracked and recorded but cannot be modified. The blockchain technology gives a promising decentralized platform to build tamper-proof systems. Its incorruptible distributed ledger/blockchain complements the need of maintaining cloud data provenance. In this paper, we present a cloud based data provenance framework using block chain which traces data record operations and generates provenance data. We anchor provenance data records into block chain transactions, which provide validation on provenance data and preserve user privacy at the same time. Once the provenance data is uploaded to the global block chain network, it is extremely challenging to tamper the provenance data. Besides, the provenance data uses hashed user identifiers prior to uploading so the blockchain nodes cannot link the operations to a particular user. The framework ensures that the privacy is preserved. We implemented the architecture on ownCloud, uploaded records to blockchain network, stored records in a provenance database and developed a prototype in form of a web service. © (2017) COPYRIGHT Society of Photo-Optical Instrumentation Engineers (SPIE). Downloading of the abstract is permitted for personal use only. "
+}
