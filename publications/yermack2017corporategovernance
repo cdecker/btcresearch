@@ -1,0 +1,64 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "bibentry",
+    "description": "A bibliography entry",
+    "type": "object",
+    "properties":{
+	"id": {
+	    "type": "string",
+	    "description": "Unique entry id used to reference entries."
+	},
+	"title": {
+	    "type": "string",
+	    "description": "Corporate Governance and Blockchains"
+	},
+	"authors": {
+	    "type": "array",
+	    "items": {
+		"type": "object",
+		"properties": {
+		    "name": {
+			"type": "string",
+			"description": "David Yermack"
+		    },
+		    "affiliation": {
+			"type": "string",
+			"description": "NYU Stern School of Business and National Bureau of Economic Research"
+		    }
+		},
+		"required": ["name"]
+	    },
+	    "minItems": 1,
+	    "uniqueItems": true
+	},
+	"year": {
+	    "type": "integer",
+	    "description": "2017"
+	},
+	"peer-reviewed": {
+	    "type": "boolean",
+	    "description": true
+	},
+	"venue": {
+	    "type": "string",
+	    "description": "Review of Finance"
+	},
+	"abstract": {
+	    "type": "Blockchains represent a novel application of cryptography and information technol- ogy to age-old problems of financial record-keeping, and they may lead to far- reaching changes in corporate governance. Many major players in the financial industry have began to invest in this new technology, and stock exchanges have proposed using blockchains as a new method for trading corporate equities and tracking their ownership. This essay evaluates the potential implications of these changes for managers, institutional investors, small shareholders, auditors, and other parties involved in corporate governance. The lower cost, greater liquidity, more accurate record-keeping, and transparency of ownership offered by block- chains may significantly upend the balance of power among these cohorts.
+"
+	},
+	"url": {
+	    "type": "string",
+	    "description": "https://academic.oup.com/rof/article/21/1/7/2888422/Corporate-Governance-and-Blockchains"
+	},
+	"type": {
+	    "enum": ["inproceedings", "masterthesis", "article", "book", "techreport", "misc", "phdthesis", "online", "incollection", "inbook"],
+	    "description": "article"
+	},
+	"sortkey": {
+	    "type": "integer",
+	    "description": "20170110"
+	}
+    },
+    "required": ["id", "title", "authors", "year"]
+}
