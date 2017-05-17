@@ -1,0 +1,24 @@
+{
+    "id": "deshpande2017distributed",
+    "title": "Distributed Ledger Technologies/Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "name": "Advait Deshpande"
+        },
+        {
+            "name": "Katherine Stewart"
+        },
+        {
+            "name": "Louise Lepetit"
+        },
+        {
+            "name": "Salil Gunashekar"
+        }
+    ],
+    "url": "http://www.rand.org/pubs/external_publications/EP67133.html",
+    "peer-reviewed": false,
+    "abstract": "In this report, we present an overview of the current landscape of DLT/Blockchain developments and closely examine the issues that are central to the development of DLT/Blockchain. We articulate a set of areas for further consideration by the DLT/Blockchain community regarding the potential role of standardization. Rather than providing a definitive list of topics, the aim of the study is to provoke further discussion across the DLT/Blockchain community about the potential role of standards in supporting the development and adoption of the technology. The research has been carried out using a mixed methods approach involving a focused review of the literature, in-depth interviews with experts from public and private organizations, and an internal workshop."
+}
