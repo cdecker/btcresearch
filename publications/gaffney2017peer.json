@@ -1,0 +1,15 @@
+{
+    "id": "gaffney2017peer",
+    "title": "The Peer-To-Peer Blockchain Mortgage Recording System: Scraping The Mortgage Electronic Registration System And Replacing It With A System Built Off Of A Blockchain.",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "name": "Thomas Gaffney"
+        }
+    ],
+    "url": "https://litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=17+Wake+Forest+J.+Bus.+%26+Intell.+Prop.+L.+349&srctype=smi&srcid=3B15&key=e218dab36927c67c3dd261f1e7cdeee5",
+    "peer-reviewed": false,
+    "abstract": "This Comment examines the mortgage recording system and suggests that the current system--from registering and tracking the generation of mortgages, to the transfer of mortgages, and the securitization of those mortgages--is inherently flawed. In order to overcome these obstacles, the current system should be replaced with a new decentralized peer-to-peer blockchain network. This form of peer-to-peer recording technology was first developed in the summer of 2008 and is the underlying technology for the ever-increasingly popular cryptocurrency, Bitcoin. 1 Bitcoin is completely decentralized in the sense that the network is not run on one specific server owned by an entity, but rather it is run by every single person or computer operating on the Bitcoin network. 2 The network is maintained by Bitcoin \"miners\" who are rewarded by a distributed consensus system to confirm and verify transactions between users on the network and for recording those transactions to the shared public ledger otherwise known as the Blockchain."
+}
