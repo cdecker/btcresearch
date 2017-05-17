@@ -1,0 +1,20 @@
+{
+    "id": "guegan2017public",
+    "title": "Public Blockchain Versus Private Blockchain",
+    "year": 2017,
+    "type": "techreport",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "University Paris 1 Panthéon-Sorbonne",
+            "name": "Dominique Guegan"
+        },
+        {
+            "affiliation": "University Paris 1 Panthéon-Sorbonne",
+            "name": "others"
+        }
+    ],
+    "url": "ftp://mse.univ-paris1.fr/pub/mse/CES2017/17020.pdf",
+    "peer-reviewed": false,
+  "abstract": "In this document we introduce some thoughts relative to the concept of blockchain, how it works and what are the issues for the banking industry. Therefore, we first recall what cryptography is, then we introduce the concept of blockchain as a protocol for transmitting information in a secure way, distinguishing two possible approaches: the decentralized public approach and the centralized private approach. The notion of cryptocurrency is introduced and two examples of applications of the public blockchains that are the bitcoin and the etherium are provided. There are many questions and issues. Obviously there are numerous discussions around the bitcoin and beyond the technical problems, we can list some open questions relative to the blockchain as the understanding of the attacks to 51% and the way to circumvent them, the double spending, the principle of decentralized clock, the crashes scenarii, the transfers of assets, the smart contracts, the regulation, ... We want to focus on the difference between the use of the public blockchain (without a third party) and what can be called the private or semi-private blockchain. There is lot of controversies from both users and developers of the public blockchain versus the private blockchain. It seems necessary to clarify these two uses and the good way will be to use different terminologies. For the moment, we keep both terminologies. On the other hand it seems necessary to discuss all the possible approaches of the private blockchain, which range from the \"press-button\" and the associated risks, to a technical and secure development, which is still in its infancy. At least the need to identify the risks associated with these approaches, identify them and propose strategies need to be developed. Of course a piece of regulation is possible but it has to be done. "
+}
