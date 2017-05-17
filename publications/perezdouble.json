@@ -1,0 +1,28 @@
+{
+    "id": "perezdouble",
+    "title": "Double-Spending Prevention For Bitcoin Zero-Confirmation Transactions",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "Universitat Aut`onoma de Barcelona",
+            "name": "Cristina Pérez-Solà"
+        },
+        {
+            "affiliation": "Universitat Aut`onoma de Barcelona",
+            "name": "Sergi Delgado-Segura"
+        },
+        {
+            "affiliation": "Universitat Aut`onoma de Barcelona",
+            "name": "Guillermo Navarro-Arribas"
+        },
+        {
+            "affiliation": "Universitat Aut`onoma de Barcelona",
+            "name": "Jordi Herrera-Joancomartí"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/394/20170509:121524",
+    "peer-reviewed": false,
+    "abstract": "Zero-confirmation transactions, i.e., transactions that have been broadcast but are still pending to be included in the blockchain, have gained attention in order to enable fast payments in Bitcoin, shortening the time for performing payments. Fast payments are desirable in certain scenarios, for instance, when buying in vending machines, fast food restaurants, or withdrawing from an ATM. Despite being fast propagated through the network, zero-confirmation transactions are not protected against double-spending attacks, since the double spending protection Bitcoin offers relays on the blockchain and, by definition, such transactions are not yet included in it. In this paper, we propose a double-spending prevention mechanism for Bitcoin zero-confirmation transactions. Our proposal is based on exploiting the flexibility of the Bitcoin scripting language together with a well known vulnerability of the ECDSA signature scheme to discourage attackers from performing such an attack."
+}
