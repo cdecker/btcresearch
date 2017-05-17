@@ -1,0 +1,16 @@
+{
+    "id": "awan2017blockchain",
+    "title": "Blockchain Transaction Analysis Using Dominant Sets",
+    "year": 2017,
+    "type": "masterthesis",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "Università Ca'Foscari Venezia",
+            "name": "Malik Khurram Awan"
+        }
+    ],
+    "url": "http://dspace.unive.it/handle/10579/9435",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a famous decentralized electronic currency system with a blockchain containing the complete transaction history publically at each node. The peers or nodes generate transactions and broadcast them to the network. Miners are those nodes that collects the transactions and try to generate block so database is updated by miners and it is then shared to all the nodes in the network in the form of blockchain. Bitcoin addresses are used to transfer the amounts in the network for transactions. A block is a collection of transactions and proof-of-work. A Miner that solves and inserts proof-of-work first in the block broadcast the block to the network. All nodes or peers add new blocks on top of previous blocks. The blockchain needs to be analyzed further with different approaches for the scalability point of view. Blockchain analysis under different heuristics can help to study in depth structure of pseudo-anonymity of bitcoin. Clustering and categories with blockchain data plays an important role to get to know useful information about blockchain. It can also help to extract the deep intelligence about the users and the network activity. Clustering concept in Artificial Intelligence is different from clustering concepts in data mining. Pairwise dominant sets method due to of its more generalized approach makes dominant set or a cluster in the form of maximal clique which can then be applied to the edge weighted graphs. These weights are used to calclute the similarity. The affinity between the nodes in the same set is higher than those which are external to that set. Pairwise dominant set clustering can work with both directed graphs and undirected graphs with a slight modification in replicator dynamic system equation. In this thesis blockchain data has been analyzed with dominant set clustering method and the clustering results are evaluated with the results obtained from other clustering techniques. The scalability issues with blockchain has been discussed. The behavior of nodes and their strategies is discussed with game theoretic point of view. The work contribution is about analysis of blockchain, performance evaluation with case studies. The work is concluded with the need of using the blockchain for non-critical or non-functional approaches as a potential future works. "
+}
