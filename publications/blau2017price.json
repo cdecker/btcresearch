@@ -1,0 +1,17 @@
+{
+    "id": "blau2017price",
+    "title": "Price Dynamics And Speculative Trading In Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "Utah State University",
+            "name": "Benjamin M Blau"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0275531917303057",
+    "venue": "Research in International Business and Finance",
+    "peer-reviewed": true,
+    "abstract": "Few innovations in the money markets have brought more attention by regulators and policy makers than the digital currency Bitcoin. However, few studies in the literature have examined the price dynamics of Bitcoin. Besides providing an exploratory glace at the value and volatility of the Bitcoin across time, we also test whether the unusual level of Bitcoin’s volatility is attributable to speculative trading. Results in this study do not find that, during 2013, speculative trading contributed to the unprecedented rise and subsequent crash in Bitcoin’s value nor do we find that speculative trading is directly associated with Bitcoin’s unusual level of volatility."
+}
