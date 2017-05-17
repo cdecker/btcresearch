@@ -1,0 +1,28 @@
+{
+    "id": "fukumitsu2017proposal",
+    "title": "A Proposal Of A Secure P2P-Type Storage Scheme By Using The Secret Sharing And The Blockchain",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "name": "Masayuki Fukumitsu"
+        },
+        {
+            "name": "Shingo Hasegawa"
+        },
+        {
+            "name": "Junya Iwazaki"
+        },
+        {
+            "name": "Masao Sakai"
+        },
+        {
+            "name": "Daiki Takahashi"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7920990/",
+    "venue": "Advanced Information Networking and Applications (AINA)",
+    "peer-reviewed": true,
+    "abstract": "We propose a new secure online storage scheme based on an open P2P network without a central server. In the proposed scheme, attackers cannot detect target user data in the online storage because the user data is divided into some parts by the secret sharing, and they are distributed to P2P nodes via the anonymous communication. The proposed scheme can prevent the direct attack on the target user node because metadata for the reconstruction also hidden in the online storage, hence nothing remains in the user node. Even if the state of the P2P network varies over time between the storing and restoring operation, the proposed scheme ensures that the user can identify the target nodes which stored his metadata by utilizing the Blockchain technology with only memorable secure information for user authentication. Furthermore, a malicious node to attack on others can be detected and ruled out by the mutual monitoring among the nodes and the majority decision rule."
+}
