@@ -1,0 +1,32 @@
+{
+    "id": "kokorisomniledger",
+    "title": "Omniledger: A Secure, Scale-Out, Decentralized Ledger",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "Ecole polytechnique f ´ ed´ erale de Lausanne",
+            "name": "Eleftherios Kokoris-Kogias"
+        },
+        {
+            "affiliation": "Ecole polytechnique f ´ ed´ erale de Lausanne",
+            "name": "Philipp Jovanovic"
+        },
+        {
+            "affiliation": "Ecole polytechnique f ´ ed´ erale de Lausanne",
+            "name": "Linus Gasser"
+        },
+        {
+            "affiliation": "Ecole polytechnique f ´ ed´ erale de Lausanne",
+            "name": "Nicolas Gailly"
+        },
+        {
+            "affiliation": "Ecole polytechnique f ´ ed´ erale de Lausanne",
+            "name": "Bryan Ford"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/406.pdf",
+    "peer-reviewed": false,
+    "abstract": "Designing a secure and open Distributed Ledger (DL) system that performs on par with classic payment-service providers such as Visa is a challenging task. Current proposals either do not scale-out or do so only at the cost of security or decentralization. OmniLedger is a new scalable DL that provides secure, decentralized, horizontal scaling by splitting the state into multiple shards and using distributed randomness to assign validators securely. To maintain intraand cross-shard consistency validators run a novel parallel consensus algorithm for the former and an Atomic Commit protocol for the latter. To mitigate storage cost and enable fast, secure bootstrapping, OmniLedger introduces compact state-blocks that summarize shard-states. OmniLedger offers tunable performance based on the assumed strength of the adversaries, and scales linearly with the number of shards. Experiments show that it achieves Visa-level throughput of 6000 transactions per second (peaking at 50000) for 1800 validators, of which up to 12.5% (5%) are assumed to be malicious. Finally, OmniLedger significantly reduces bandwidth cost for out-of-date validators to update: for a one-month-old view, a validator downloads 40% of the amount of data compared to Bitcoin, whereas a new validator downloads only 7% while bootstrapping."
+}
