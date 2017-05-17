@@ -1,0 +1,16 @@
+{
+    "id": "hesch2017establishment",
+    "title": "The Establishment Of Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "Allegheny College",
+            "name": "Phillip Hesch"
+        }
+    ],
+    "url": "https://dspace.allegheny.edu/bitstream/handle/10456/42858/Comp%20Final%20Phill%20Hesch.pdf?sequence=1",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin originated as a decentralized currency-meaning there is a lack of government regulations and/or central power that has control over Bitcoin. Bitcoin’s popularity soared as major retailers such as Overstock.com and Microsoft began accepting them as a form of payment. The rise and overall success of Bitcoin is unique due to its popularity despite previously established transaction programs, such as PayPal or Google Wallet. In this essay I will examine the underlying incentives for the establishment of a currency such as Bitcoin. Using Karl Menger’s work on the Origin of Money, the establishment of Bitcoin can be explained through the saleableness to the Silk Road community. Saleableness is a term used to describe the amount of demand by a certain group or person. The Silk Road was an online marketplace primarily used for buying and selling of illegal drugs. Bitcoin was used in a majority of Silk Road transactions due to its anonymous nature, thus making the currency very saleable to the Silk Road Community. Not only is Bitcoin anonymous, but it also prevents Menger’s double spend problem, which is using the same units of currency for two separate transactions. Bitcoin does this through a validation process from the users of the Bitcoin community. In order to understand how Bitcoin came to be thing one must first be aware of how Bitcoin and Blockchain technology actually work. This paper will take an in depth look at the Blockchain technology along with the Silk Road to further understand how Bitcoin became established."
+}
