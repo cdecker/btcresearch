@@ -1,0 +1,20 @@
+{
+    "id": "nair2017blockchain",
+    "title": "Blockchain Technology Centralised Ledger To Distributed Ledger",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "Christ University, Bangalore",
+            "name": "Greeshma R Nair"
+        },
+        {
+            "affiliation": "Christ University, Bangalore",
+            "name": "Shoney Sebastian"
+        }
+    ],
+    "url": "https://www.irjet.net/archives/V4/i3/IRJET-V4I3711.pdf",
+    "peer-reviewed": false,
+    "abstract": "This paper talks about block chain technology and its working principle. The paper is drafted to create an understanding of the blockchain technology and how it is different from the currently used centralized transactions systems. The paper also describes the advantages of block chain and various evaluation techniques"
+}
