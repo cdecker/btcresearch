@@ -1,0 +1,21 @@
+{
+    "id": "butgereit2017comparison",
+    "title": "A Comparison Of Two Blockchain Architectures For Inspiring Corporate Excellence In South Africa",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "Nelson Mandela Metropolitan University",
+            "name": "Laurie Butgereit"
+        },
+        {
+            "affiliation": "Bowmans",
+            "name": "Chris Martinus"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7920656/",
+    "venue": "Information Communication Technology and Society",
+    "peer-reviewed": true,
+    "abstract": "Throughout history, currencies or money have three different uses: means of exchange, unit of accounting, and store of wealth. People have used different types of currencies at different times throughout history. Commodity currencies represented items which are either mined from the Earth or produced by agriculture such as gold or salt. Fiat currencies are created by decree by a sovereign nation or groups of nations. Complementary currencies have been created by much smaller groups of people to solve problems which cannot be solved by commodity currencies or fiat currencies. For example, in times of economic depression when people attempt to hoard money (store wealth) there is often not enough currency to accommodate a means of exchange. With the advent of blockchains and crypto-currencies, it is now possible to easily create complementary currencies to attempt to solve problems which can not be solved using commodity currencies or fiat currencies. This paper discusses and compares two different architectures which are being used in two independent projects in South Africa to create complementary currencies by using the Ethereum blockchain and crypto-currency in order to encourage corporate excellence. It is important to note that this paper is not about the underlying success or failure of the complementary currencies created by the architectures. The paper is about the architectures themselves."
+}
