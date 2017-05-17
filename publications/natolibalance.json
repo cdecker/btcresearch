@@ -1,0 +1,20 @@
+{
+    "id": "natolibalance",
+    "title": "The Balance Attack Or Why Forkable Blockchains Are Ill-Suited For Consortium",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "University of Sydney",
+            "name": "Christopher Natoli"
+        },
+        {
+            "affiliation": "University of Sydney",
+            "name": "Vincent Gramoli"
+        }
+    ],
+    "url": "http://poseidon.it.usyd.edu.au/~gramoli/web/doc/pubs2/Balance_Attack_DSN17.pdf",
+    "peer-reviewed": false,
+    "abstract": "Most blockchain systems are forkable in that they require participants to agree on a chain out of multiple possible branches of blocks. In this paper, we identify a new form of attack, called the Balance attack, against these forkable blockchain systems. The novelty of this attack consists of delaying network communications between multiple subgroups of nodes with balanced mining power. Our theoretical analysis captures the tradeoff between the network delay and the mining power of the attacker needed to double-spend in the GHOST protocol with high probability. We quantify our analysis in the settings of the Ethereum testnet of the R3 consortium where we show that a single machine needs to delay messages for 20 minutes to double spend while a coalition with a third of the mining power would simply need 4 minutes to double spend with 94% of success. We experiment the attack in our private Ethereum chain before arguing for a non-forkable blockchain design to protect against Balance attacks."
+}
