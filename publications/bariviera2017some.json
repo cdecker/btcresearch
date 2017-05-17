@@ -1,0 +1,29 @@
+{
+    "id": "bariviera2017some",
+    "title": "Some Stylized Facts Of The Bitcoin Market",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170517,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Aurelio F Bariviera"
+        },
+        {
+            "affiliation": "Universidad Nacional de La Plata",
+            "name": "María José Basgall"
+        },
+        {
+            "affiliation": "Universidad Nacional de La Plata",
+            "name": "Waldo Hasperué"
+        },
+        {
+            "affiliation": "Universidad Nacional de La Plata",
+            "name": "Marcelo Naiouf"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0378437117304697",
+    "venue": "Physica A: Statistical Mechanics and its Applications",
+    "peer-reviewed": true,
+    "abstract": "In recent years a new type of tradable assets appeared, generically known as cryptocurrencies. Among them, the most widespread is Bitcoin. Given its novelty, this paper investigates some statistical properties of the Bitcoin market. This study compares Bitcoin and standard currencies dynamics and focuses on the analysis of returns at different time scales. We test the presence of long memory in return time series from 2011 to 2017, using transaction data from one Bitcoin platform. We compute the Hurst exponent by means of the Detrended Fluctuation Analysis method, using a sliding window in order to measure long range dependence. We detect that Hurst exponents changes significantly during the first years of existence of Bitcoin, tending to stabilize in recent times. Additionally, multiscale analysis shows a similar behavior of the Hurst exponent, implying a self-similar process. "
+}
