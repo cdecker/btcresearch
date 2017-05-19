@@ -1,0 +1,28 @@
+{
+    "id": "norblockchain",
+    "title": "Blockchain Sadaqa Mechanism For Disaster Aid Crowd Funding",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170519,
+    "authors": [
+        {
+            "affiliation": "IIUM, Malaysia",
+            "name": "Rizal Mohd Nor"
+        },
+        {
+            "affiliation": "IIUM, Malaysia",
+            "name": "MM Hafizur Rahman"
+        },
+        {
+            "affiliation": "IIUM, Malaysia",
+            "name": "Towfiqur Rahman"
+        },
+        {
+            "affiliation": "IIUM, Malaysia",
+            "name": "Adam Abdullah"
+        }
+    ],
+    "url": "http://icoci.cms.net.my/PROCEEDINGS/2017/Pdf_Version_Chap07e/PID211-400-405e.pdf",
+    "peer-reviewed": false,
+    "abstract": "There exist many online donation platform in the world and yet issues concerning extra fees, accountability and processing delay still exist. In this paper, we propose a decentralized, authentic and transparent donation system to address these issues. We explored several blockchain technologies and formulate smart contracts to be used in this sadaqa system to provide an efficient means to raising funds and managing aid relief for victims during disasters."
+}
