@@ -1,0 +1,14 @@
+{
+    "title": "The Unreasonable Effectiveness of Address Clustering",
+    "peer-reviewed": true,
+    "url": "http://dx.doi.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0071",
+    "year": 2016,
+    "authors": [{
+      "name": "Martin Harrigan", "affiliation": "Waterford Institute of Technology"
+      }, {
+        "name": "Christoph Fretter", "affiliation": "Elliptic Enterprises Ltd."
+    }],
+    "venue": "13th International Conference on Advanced and Trusted Computing (ATC), France",
+    "id": "harrigan2016clustering",
+    "abstract": "Address clustering tries to construct the one-to-many mapping from entities to addresses in the Bitcoin system. Simple heuristics based on the micro-structure of transactions have proved very effective in practice. In this paper we describe the primary reasons behind this effectiveness: address reuse, avoidable merging, super-clusters with high centrality,, the incremental growth of address clusters. We quantify their impact during Bitcoin's first seven years of existence."
+}
