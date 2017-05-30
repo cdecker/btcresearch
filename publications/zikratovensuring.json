@@ -1,0 +1,32 @@
+{
+    "id": "zikratovensuring",
+    "title": "Ensuring Data Integrity Using Blockchain Technology",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "ITMO University",
+            "name": "Igor Zikratov"
+        },
+        {
+            "affiliation": "ITMO University",
+            "name": "Alexander Kuzmin"
+        },
+        {
+            "affiliation": "ITMO University",
+            "name": "Vladislav Akimenko"
+        },
+        {
+            "affiliation": "ITMO University",
+            "name": "Viktor Niculichev"
+        },
+        {
+            "affiliation": "ITMO University",
+            "name": "Lucas Yalansky"
+        }
+    ],
+    "url": "https://fruct.org/publications/fruct20/files/Zik2.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain is a relatively new technology that has shown a lot of possibilities. It emerged in 2009 as a public ledger of all Bitcoin transactions. Blockchain technology is finding applications in wide range of areas: digital assets and stocks, smart contracts, record keeping, ID systems, cloud storage, ride sharing, etc. We investigate the blockchains’ activity in terms of how to store, retrieve and share files in decentralized network."
+}
