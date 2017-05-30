@@ -1,0 +1,29 @@
+{
+    "id": "qi2017blockchain",
+    "title": "Blockchain-Powered Internet Of Things, E-Governance And E-Democracy",
+    "year": 2017,
+    "type": "incollection",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "School of Engineering",
+            "name": "Renming Qi"
+        },
+        {
+            "affiliation": "School of Engineering",
+            "name": "Chen Feng"
+        },
+        {
+            "affiliation": "School of Engineering",
+            "name": "Zheng Liu"
+        },
+        {
+            "affiliation": "Defence Research and Development Canada (DRDC)",
+            "name": "Nezih Mrad"
+        }
+    ],
+    "url": "http://link.springer.com/chapter/10.1007/978-981-10-4035-1_17",
+    "venue": "E-Democracy for Smart Cities",
+    "peer-reviewed": true,
+    "abstract": "Digital technologies have dramatically changed people’s daily life and made our life components much smarter. Nowadays, all users, including both human beings and devices, are connected to centralized servers. These servers act as the authorities, which are trusted by all users, making it possible to exchange critical information and money between untrusted users. However, maintaining large servers is costly and it’s not affordable if such digital systems for cities’ critical infrastructures are hacked. Blockchain, a technology revolution starting from 2014, offer the potential to solve these problems. It is essentially a tool that records every single transaction and digital event that happen in the virtual world. All the records are open to every user and the information asymmetries between two users are minimized. Thus, it’s not possible for one user to cheat or hide information from another user. In other words, two strangers do not need to worry about being cheated by each other. They are allowed, for the first time in history, to do business without a centralized authority. Since a centralized authority is no longer a necessity, these two problems disappear naturally. This survey first explains how blockchain makes this magic happen and then introduces the blockchain’s powerful applications in Internet of Things, E-governance, and E-democracy."
+}
