@@ -1,0 +1,31 @@
+{
+    "id": "wu2017democratic",
+    "title": "Democratic Centralism: A Hybrid Blockchain Architecture And Its Applications In Energy Internet",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "name": "Lijun Wu"
+        },
+        {
+            "name": "Kun Meng"
+        },
+        {
+            "name": "Shuo Xu"
+        },
+        {
+            "name": "Shuqin Li"
+        },
+        {
+            "name": "Meng Ding"
+        },
+        {
+            "name": "Yanfeng Suo"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7926870/",
+    "venue": "Energy Internet (ICEI)",
+    "peer-reviewed": true,
+    "abstract": "Blockchain is attracting more and more attentions from many kinds of fields, such as finance, industry, and theory researchers. Rather than viewing blockchain as a novel technology, we should think it as an innovation for managing digital society, which provides fundamental principles to support democratically distributed applications. Based on the design and application of the Energy Internet, this paper analyzes the core architecture of the initial blockchain technology, and combines the security of the public chain with the efficiency of the private chain, solving the poor efficiency problem of the initial blockchain by using the high efficiency of private chain. At the same time, it inherits the security and non-tampering of initial blockchain. This paper designs a new hybrid blockchain storaging mode that is Block Static Storage(BSS, internal structure is N+X hybrid blockchain, following can be referred to as N+X HBC),for purpose that improving the overall efficiency of the Internet running, achieving decentralized supervision, and provoding a credible, safe and efficient performance of the Energy Internet in the storage of its massive data, as well as a huge business system. "
+}
