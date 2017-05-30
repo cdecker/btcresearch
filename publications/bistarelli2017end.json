@@ -1,0 +1,29 @@
+{
+    "id": "bistarelli2017end",
+    "title": "An End-To-End Voting-System Based On Bitcoin",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "University of Perugia",
+            "name": "Stefano Bistarelli"
+        },
+        {
+            "affiliation": "University of Perugia",
+            "name": "Marco Mantilacci"
+        },
+        {
+            "affiliation": "University of Perugia",
+            "name": "Paolo Santancini"
+        },
+        {
+            "affiliation": "University of Perugia",
+            "name": "Francesco Santini"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3019841",
+    "venue": "Symposium on Applied Computing",
+    "peer-reviewed": true,
+    "abstract": "In this work we re-adapt the Bitcoin e-payment system and propose it as a decentralised end-to-end voting platform (from voters to candidates). We describe the main architectural choices behind the implementation, which consists of the pre-voting, voting, and post-voting phases. The resulting implementation is completely decentralised: it is possible to directly cast a vote in the block-chain without any collecting intermediate-level. All the votes can be verified by anyone reading such a public ledger. We also exploit digital asset coins to directly keep track of votes (through the Open Asset Protocol), and we show the election cost for n voters."
+}
