@@ -1,0 +1,16 @@
+{
+    "id": "witherspoon2017advancing",
+    "title": "Advancing Consumer Adoption Of Blockchain Applications",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "University of San Francisco",
+            "name": "Zane Witherspoon"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1705.04769",
+    "peer-reviewed": false,
+    "abstract": "Blockchain technology as a whole is experiencing a dramatic rise in adoption, in no small part due to the developer-friendly Ethereum network. While the number of smart-contract powered distributed applications (Dapps) continues to rise, they face many of the same challenges all new technologies face as they are introduced to a market. By modeling the consumer adoption of blockchain technology and analyzing scholarly literature on supply-side factors affecting the diffusion of technology, we seek to prove the growth of a Dapp can be accelerated using abstraction, whole product planning, and complimentaries."
+}
