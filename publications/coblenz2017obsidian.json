@@ -1,0 +1,17 @@
+{
+    "id": "coblenz2017obsidian",
+    "title": "Obsidian: A Safer Blockchain Programming Language",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "Carnegie Mellon University",
+            "name": "Michael Coblenz"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3098376",
+    "venue": "International Conference on Software Engineering Companion",
+    "peer-reviewed": true,
+    "abstract": "Blockchain platforms, such as Ethereum, promise to facilitate transactions on a decentralized computing platform among parties that have not established trust. Recognition of the unique challenges of blockchain programming has inspired developers to create domain-specific languages, such as Solidity, for programming blockchain systems. Unfortunately, bugs in Solidity programs have recently been exploited to steal money. We propose a new programming language, Obsidian, to make it easier for programmers to write correct programs."
+}
