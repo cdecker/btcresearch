@@ -1,0 +1,25 @@
+{
+    "id": "lajoie2017handling",
+    "title": "Handling Bitcoin Conflicts Through A Glimpse Of Structure",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "CNRS",
+            "name": "Thibaut Lajoie-Mazenc"
+        },
+        {
+            "affiliation": "ENSAI",
+            "name": "Romaric Ludinard"
+        },
+        {
+            "affiliation": "CNRS",
+            "name": "Emmanuelle Anceaume"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3019657",
+    "venue": "Symposium on Applied Computing",
+    "peer-reviewed": true,
+    "abstract": "Double spending and blockchain forks are two main issues that the Bitcoin crypto-system is confronted with. The former refers to an adversary's ability to use the very same coin more than once while the latter reflects the occurrence of transient inconsistencies in the history of the blockchain distributed data structure. We present a new approach to tackle these issues: it consists in adding some local synchronization constraints on Bitcoin's validation operations, and in making these constraints independent from the native blockchain protocol. Synchronization constraints are handled by nodes which are randomly and dynamically chosen in the Bitcoin system. We show that with such an approach, content of the blockchain is consistent with all validated transactions and blocks which guarantees the absence of both double-spending attacks and blockchain forks."
+}
