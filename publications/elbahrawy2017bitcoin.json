@@ -1,0 +1,32 @@
+{
+    "id": "elbahrawy2017bitcoin",
+    "title": "Bitcoin Is Not Alone: Quantifying And Modelling The Long-Term Dynamics Of The Cryptocurrency Market",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "City, University of London",
+            "name": "Abeer ElBahrawy"
+        },
+        {
+            "affiliation": "City, University of London",
+            "name": "Laura Alessandretti"
+        },
+        {
+            "affiliation": "Max Planck Institute for Evolutionary Anthropology",
+            "name": "Anne Kandler"
+        },
+        {
+            "affiliation": " Universitat Politècnica de Catalunya",
+            "name": "Romualdo Pastor Satorras"
+        },
+        {
+            "affiliation": "City, University of London",
+            "name": "Andrea Baronchelli"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1705.05334",
+    "peer-reviewed": false,
+    "abstract": "The cryptocurrency market has reached a record of $54 billion in 2017 after months of steady growth. However, a comprehensive analysis of the whole system has been lacking so far, since most studies have focused on the behaviour of one (Bitcoin) or few cryptocurrencies. Here we consider the entire market and analyse the behaviour of ∼ 1, 500 cryptocurrencies introduced since April 2013. We reveal that, while new cryptocurrencies appear and disappear continuously and the market share of Bitcoin has been constantly decreasing, several statistical properties of the market have been stable for years. These include the number of active cryptocurrencies, the market share distribution and the turnover of cryptocurrencies. Finally, we adopt an ecological perspective and show that the so-called ‘neutral model’ of evolution, despite its simplicity, reproduces a number of key empirical observations. We anticipate that our results will be of interest to researchers interested in the study and modelling of the structural properties of the cryptocurrency market."
+}
