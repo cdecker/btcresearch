@@ -1,0 +1,16 @@
+{
+    "id": "mansfield2017beyond",
+    "title": "Beyond Bitcoin: Using Blockchain Technology To Provide Assurance In The Commercial World",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "name": "Steve Mansfield-Devine"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S1361372317300428",
+    "venue": "Computer Fraud & Security",
+    "peer-reviewed": true,
+    "abstract": "Mention the word ‘blockchain’ to most people and, assuming that they've heard of it at all, they will most likely associate it with Bitcoin, or perhaps another crypto-currency. As a decentralised, cryptographically authenticated record of transactions, the blockchain is the key concept that makes Bitcoin feasible. Yet, as Patrick Hubbard, technical product marketing director at SolarWinds, explains in this interview, the same concept has applications far beyond the contentious world of alternative currencies – in fact, far beyond finance altogether."
+}
