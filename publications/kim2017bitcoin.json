@@ -1,0 +1,36 @@
+{
+    "id": "kim2017bitcoin",
+    "title": "When Bitcoin Encounters Information In An Online Forum: Using Text Mining To Analyse User Opinions And Predict Value Fluctuation",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "Korea University",
+            "name": "Young Bin Kim"
+        },
+        {
+            "affiliation": "Korea University",
+            "name": "Jurim Lee"
+        },
+        {
+            "affiliation": "Korea University",
+            "name": "Nuri Park"
+        },
+        {
+            "affiliation": "Korea University",
+            "name": "Jaegul Choo"
+        },
+        {
+            "affiliation": "Kangnam University",
+            "name": "Jong-Hyun Kim"
+        },
+        {
+            "affiliation": "Korea University",
+            "name": "Chang Hun Kim"
+        }
+    ],
+    "url": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177630",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is an online currency that is used worldwide to make online payments. It has consequently become an investment vehicle in itself and is traded in a way similar to other open currencies. The ability to predict the price fluctuation of Bitcoin would therefore facilitate future investment and payment decisions. In order to predict the price fluctuation of Bitcoin, we analyse the comments posted in the Bitcoin online forum. Unlike most research on Bitcoin-related online forums, which is limited to simple sentiment analysis and does not pay sufficient attention to note-worthy user comments, our approach involved extracting keywords from Bitcoin-related user comments posted on the online forum with the aim of analytically predicting the price and extent of transaction fluctuation of the currency. The effectiveness of the proposed method is validated based on Bitcoin online forum data ranging over a period of 2.8 years from December 2013 to September 2016."
+}
