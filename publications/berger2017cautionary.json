@@ -1,0 +1,16 @@
+{
+    "id": "berger2017cautionary",
+    "title": "A Cautionary Tale Of Blockchain Standards",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "Monash University",
+            "name": "Tyrone Berger"
+        }
+    ],
+    "url": "https://works.bepress.com/tyrone_berger/26/download/",
+    "peer-reviewed": false,
+    "abstract": "Australia is leading the way in the development of blockchain (or distributed ledger technology) standards. Recently, Standards Australia released its Roadmap report for Blockchain standards, marking the commencement of the development of international standards along with other leading economies such as Germany, UK, Japan and the US. The establishment of the Roadmap involved workshops and an industry survey to identify key stakeholder issues and develop a list of priorities for the technical committee ISO/TC 307. Blockchain technologies are used for more than just to create digital currencies (Bitcoin) or transform financial markets (FinTech). It is predicted that blockchain technologies will “catalyse exceptional levels of innovation”. The Roadmap report declares that blockchain will impact a range of government services or ‘use cases’ – health records, land and vehicle registrations, welfare distributions, and public transport scheduling. At the same time, blockchain is predicted to “fundamentally reorder the mechanics of financial and other transactions” according to another report. The actual technology behind blockchain and distributed ledgers, and of its benefits and limitations, have been frequently reported on."
+}
