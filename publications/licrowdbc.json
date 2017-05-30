@@ -1,0 +1,24 @@
+{
+    "id": "licrowdbc",
+    "title": "Crowdbc: A Blockchain-Based Decentralized Framework For Crowdsourcing",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "name": "Ming Li"
+        },
+        {
+            "name": "Jian Weng"
+        },
+        {
+            "name": "Anjia Yang"
+        },
+        {
+            "name": "Wei Lu"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/444.pdf",
+    "peer-reviewed": false,
+    "abstract": "Crowdsourcing systems have gained considerable interest and adoption in recent years. They coordinate the human intelligence of individual and businesses together from all over the world to solve complex tasks. However, these central systems are subject to the weaknesses of the trust based model like traditional financial institutions, such as single point of failure, high services fee and privacy disclosure. In this paper, we conceptualize a blockchain-based decentralized framework for crowdsourcing, in which a requester’s task can be solved by a crowd of workers without relying on central crowdsourcing systems or requiring users to access services with registering true identities. In particular, we present the architecture of our proposed framework and separate CrowdBC into three layer: application layer, blockchain layer and storage layer. Users can register, post or receive a task securely under this structure. We enhance the scalability of crowdsourcing by depicting complex crowdsourcing logic with smart contract. Moreover, we give a detailed scheme for the whole process of crowdsourcing and also discuss the security of decentralized crowdsourcing framework. Finally, we implement a software prototype on Ethereum to show the validity and effectiveness of our proposed framework design for crowdsourcing."
+}
