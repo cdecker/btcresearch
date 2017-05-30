@@ -1,0 +1,16 @@
+{
+    "id": "heilman2017bitcoin",
+    "title": "Bitcoin: What Is It, How Does It Work: Is It The Gold Rush Of'49 Or Just Another Losing Lottery Ticket?",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "Bridgewater State University",
+            "name": "Ward Heilman"
+        }
+    ],
+    "url": "http://vc.bridgew.edu/may_celebrations/2017/session2/20/",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is an electronic cryptocurrency whose overall value has surged in the last few years to over 16 billion dollars. Some people suggest that its use represents a paradigm shift in human financial history. From its creation (2 months after the collapse of Lehman Brothers) by the mysterious and still anonymous Satoshi Nakamoto, it has been surrounded in myth and confusion. In the presence of greed, hackers, cyberpunks and the vicious world of financial institutions, how is it possible to have a decentralized consensus algorithm that protects billions of dollars of a non-physical currency which can be bought, sold and traded without banks, the government or any trusted authority? Bitcoin is an amazing amalgamation of mathematical cryptography, ingenious computer science techniques and some very clever social engineering. We introduce the basics and attempt to outline the complex interaction of ideas and techniques that make up Bitcoin. "
+}
