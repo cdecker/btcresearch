@@ -1,0 +1,44 @@
+{
+    "id": "kiktenko2017quantum",
+    "title": "Quantum-Secured Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "EO Kiktenko"
+        },
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "NO Pozhar"
+        },
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "MN Anufriev"
+        },
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "AS Trushechkin"
+        },
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "RR Yunusov"
+        },
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "YV Kurochkin"
+        },
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "AI Lvovsky"
+        },
+        {
+            "affiliation": "Russian Quantum Center",
+            "name": "AK Fedorov"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1705.09258",
+    "peer-reviewed": false,
+    "abstract": "Blockchain is a distributed database which is cryptographically protected against malicious modifications. While promising for a wide range of applications, current blockchain platforms rely on digital signatures, which are vulnerable to attacks by means of quantum computers. The same, albeit to a lesser extent, applies to cryptographic hash functions that are used in preparing new blocks, so parties with access to quantum computation would have unfair advantage in procuring mining rewards. Here we propose a possible solution to the quantum-era blockchain challenge and report an experimental realization of a quantum-safe blockchain platform that utilizes quantum key distribution across an urban fiber network for information-theoretically secure authentication. These results address important questions about realizability and scalability of quantum-safe blockchains for commercial and governmental applications."
+}
