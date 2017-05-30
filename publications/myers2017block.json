@@ -1,0 +1,16 @@
+{
+    "id": "myers2017block",
+    "title": "Block-By-Block: Leveraging The Power Of Blockchain Technology To Build Trust And Promote Cyber Peace",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170530,
+    "authors": [
+        {
+            "name": "Steve Myers"
+        }
+    ],
+    "url": "http://yjolt.org/sites/default/files/Shackelford19YJoLT334.pdf",
+    "venue": "Yale JL & Tech.",
+    "peer-reviewed": false,
+    "abstract": "There has been increasing interest in the transformative power of not only crypto-currencies like Bitcoin, but also the technology underlying them—namely blockchain. To the uninitiated, a blockchain is a sophisticated, distributed online ledger that has the potential, according to Goldman Sachs, to “change ‘everything.’” From making businesses more efficient to recording property deeds to engendering the growth of ‘smart’ contracts, blockchain technology is now being investigated by a huge range of organizations and is attracting billions in venture funding. Even the U.S. Defense Advanced Research Projects Agency (DARPA) is investigating blockchain technology to “create an unhackable messaging system.” However, the legal literature has largely ignored the rise of blockchain technology outside of its finance, securities, and copyright implications. This Article seeks to address this omission by analyzing the potential impact of blockchain technology on advancing the cybersecurity of firms across an array of sectors and industries with a particular focus on certificate authorities and the critical infrastructure context. Moreover, we examine the rise of blockchains through the lens of the literature on polycentric governance to ascertain what lessons this research holds to build trust in distributed systems and ultimately promote cyber peace."
+}
