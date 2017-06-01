@@ -1,0 +1,14 @@
+{
+    "title": "Buy Your Coffee with Bitcoin: Real-World Deployment of a Bitcoin Point of Sale Terminal",
+    "peer-reviewed": true,
+    "url": "http://dx.doi.org/10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0071",
+    "year": 2016,
+    "venue": "13th International Conference on Advanced and Trusted Computing (ATC), France",
+    "abstract": "In this paper we discuss existing approaches for Bitcoin payments, as suitable for a small business for small-value transactions. We develop an evaluation framework utilizing security, usability, deployability criteria and examine several existing systems and tools. Following a requirements engineering approach, we designed and implemented a new Point of Sale (PoS) system that satisfies an optimal set of criteria within our evaluation framework. Our open source system, Aunja PoS, has been deployed in a real world café since October 2014.",
+    "authors": [
+	    {"name": "Shayan Eskandari", "affiliation": "Bitaccess"},
+	    {"name": "Jeremy Clark", "affiliation": "Concordia University"},
+	    {"name": "Abdelwahab Hamou-Lhadj", "affiliation": "Concordia University"}
+    ],
+    "id": "eskandari2016pointofsale"
+}
