@@ -1,0 +1,20 @@
+{
+    "id": "linsurvey",
+    "title": "A Survey Of Blockchain Security Issues And Challenges",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170603,
+    "authors": [
+        {
+            "affiliation": "National Chung Hsing University",
+            "name": "Iuon-Chang Lin"
+        },
+        {
+            "affiliation": "National Chung Hsing University",
+            "name": "Tzu-Chun Liao"
+        }
+    ],
+    "url": "http://ijns.jalaxy.com.tw/contents/ijns-v19-n5/ijns-2017-v19-n5-p653-659.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain technologies is one of the most popular issue in recent years, it has already changed people’s lifestyle in some area due to its great influence on many business or industry, and what it can do will still continue cause impact in many places. Although the feature of blockchain technologies may bring us more reliable and convenient services, the security issues and challenges behind this innovative technique is also an important topic that we need to concern."
+}
