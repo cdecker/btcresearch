@@ -1,0 +1,37 @@
+{
+    "id": "barger2017scalable",
+    "title": "Scalable Communication Middleware For Permissioned Distributed Ledgers",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170601,
+    "authors": [
+        {
+            "affiliation": "IBM Haifa Research Lab",
+            "name": "Artem Barger"
+        },
+        {
+            "affiliation": "IBM Haifa Research Lab",
+            "name": "Yacov Manevich"
+        },
+        {
+            "affiliation": "IBM Haifa Research Lab",
+            "name": "Benjamin Mandler"
+        },
+        {
+            "affiliation": "IBM Haifa Research Lab",
+            "name": "Vita Bortnikov"
+        },
+        {
+            "affiliation": "IBM Haifa Research Lab",
+            "name": "Gennady Laventman"
+        },
+        {
+            "affiliation": "IBM Haifa Research Lab",
+            "name": "Gregory Chockler"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3078492",
+    "venue": "International Systems and Storage Conference",
+    "peer-reviewed": true,
+    "abstract": "Distributed Ledger Technology (DLT) is rapidly emerging as a new paradigm for automating complex business processes in secure and decentralised fashion. Currently, however, its wider adoption is hampered by scalability problems [3] rooted in an inherent tension between stringent consistency, security, and robustness requirements on one hand, and growing application demand coupled with high performance expectations on the other. For example, popular peer-to-peer DLTs based on proof-of-work consensus [4] can only improve the transaction throughput by degrading their security and consistency guarantees, which is unacceptable in the enterprise and mission-critical settings."
+}
