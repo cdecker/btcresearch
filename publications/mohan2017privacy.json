@@ -1,0 +1,21 @@
+{
+    "id": "mohan2017privacy",
+    "title": "Privacy Preserving Non-Interactive Proof Of Assets For Bitcoin Exchanges",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170603,
+    "authors": [
+        {
+            "affiliation": "NSSCE",
+            "name": "Maya Mohan"
+        },
+        {
+            "affiliation": "TCE",
+            "name": "MK Kavitha Devi"
+        }
+    ],
+    "url": "http://naturalspublishing.com/files/published/tl2hn14p9lv952.pdf",
+    "venue": "Applied Mathematics & Information Sciences",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is a decentralized cryptocurrency for e-payments.Bitcoin exchanges stand for the trading of customers’ bitcoins against major paramount currencies.The users’ bitcoins can be stored in a digital wallet offered by the Bitcoin exchange.Precisely, Bitcoin exchanges are equivalent to banks,providing security for the customer’s bitcoins in their absence.An exchange always need to be solvent interms of its assets and liabilities to meet its long term financial obligations .Maxwell was the first one who proposed a cryptographic based proof of liabilities .But the scheme is not secure enough to keep the user information confidential.Later Dagher et al. proposed a privacy preserving proof of solvency for Bitcoin exchanges.But the scheme works in an interactive manner.This restricts the proof computation offline.This paper addresses the first non interactive proof of assets using hybrid commitment schemes in the non programmable random oracle model.The non-interactive zero knowledge proof is defined in the common reference string model."
+}
