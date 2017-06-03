@@ -1,0 +1,15 @@
+{
+    "id": "wesemannblockchain",
+    "title": "Blockchain based Heritage",
+    "type": "article",
+    "sortkey": 20170603,
+    "authors": [
+	{"name": "Lukas Wesemann", "affiliation": "21m.io"},
+	{"name": "Pascal Tilgner", "affiliation": "21m.io"},
+	{"name": "Bastian Bleker", "affiliation": "21m.io"}
+    ],
+    "year": 2017,
+    "peer-reviewed": false,
+    "url": "https://www.21m.io/wp-content/uploads/2017/04/Blockchain_Based_Heritage_21m.pdf",
+    "abstract": "In this whitepaper we propose a system that enables secure descent of cryptocurrencies and other blockchain based assets with involvement of an untrusted third party. A multisignature authentication principle in cooperation with two third party services, that A) identify the date of one’s demise and B) store a part of the multisignature authentification, are the core of the system. It is thus a novel approach towards blockchain based testaments."
+}
