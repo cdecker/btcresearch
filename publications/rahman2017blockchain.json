@@ -1,0 +1,33 @@
+{
+    "id": "rahman2017blockchain",
+    "title": "Blockchain Security Hole: Issues And Solutions",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170601,
+    "authors": [
+	{
+	    "affiliation": "Universiti Malaysia Pahang",
+	    "name": "Norul Suhaliana bt Abd Halim"
+	},
+        {
+            "affiliation": "Universiti Malaysia Pahang",
+            "name": "Arafatur Rahman"
+        },
+        {
+            "affiliation": "Universiti Malaysia Pahang",
+            "name": "Saiful Azad"
+        },
+        {
+            "affiliation": "Universiti Malaysia Pahang",
+            "name": "Muhammad Nomani Kabir"
+        },
+        {
+            "affiliation": "",
+            "name": "others"
+        }
+    ],
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-59427-9_76",
+    "venue": "International Conference of Reliable Information and Communication Technology",
+    "peer-reviewed": true,
+    "abstract": "Blockchain technology is widely known because it is the underlying technology used by the bitcoin. It became more popular because it also can be used as backbone for various applications in finance, media, security and others. One of the main concerns for this technology is how secure the information that the users distributed over the network. This paper studies and highlights the important security issues concerned and discusses the solutions that proposed by the researchers and theoretical solution proposed to address some of the issues. However, this approach needs to be investigated further if it is to be implemented later in the near future. This paper can give direction for future researchers who are interested of this area."
+}
