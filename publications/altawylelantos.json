@@ -1,0 +1,28 @@
+{
+    "id": "altawylelantos",
+    "title": "Lelantos: A Blockchain-Based Anonymous Physical Delivery System",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170603,
+    "authors": [
+        {
+            "affiliation": "University of Waterloo",
+            "name": "Riham AlTawy"
+        },
+        {
+            "affiliation": "Concordia University",
+            "name": "Muhammad ElSheikh"
+        },
+        {
+            "affiliation": "Concordia University",
+            "name": "Amr M Youssef"
+        },
+        {
+            "affiliation": "University of Waterloo",
+            "name": "Guang Gong"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/465.pdf",
+    "peer-reviewed": false,
+    "abstract": "—Real world physical shopping offers customers the privilege of maintaining their privacy by giving them the option of using cash, and thus providing no personal information such as their names and home addresses. On the contrary, electronic shopping mandates the use of all sorts of personally identifiable information for both billing and shipping purposes. Cryptocurrencies such as Bitcoin have created a stimulated growth in private billing by enabling pseudonymous payments. However, the anonymous delivery of the purchased physical goods is still an open research problem. In this work, we present a blockchain-based physical delivery system called Lelantos1 that within a realistic threat model, offers customer anonymity, fair exchange and merchantcustomer unlinkability. Our system is inspired by the onion routing techniques which are used to achieve anonymous message delivery. Additionally, Lelantos relies on the decentralization and pseudonymity of the blockchain to enable pseudonymity that is hard to compromise, and the distributed consensus mechanisms provided by smart contracts to enforce fair irrefutable transactions between distrustful contractual parties."
+}
