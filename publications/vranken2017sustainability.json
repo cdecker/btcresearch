@@ -1,0 +1,17 @@
+{
+    "id": "vranken2017sustainability",
+    "title": "Sustainability Of Bitcoin And Blockchains",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170603,
+    "authors": [
+        {
+            "affiliation": "Radbound University",
+            "name": "Harald Vranken"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S1877343517300015",
+    "venue": "Current Opinion in Environmental Sustainability",
+    "peer-reviewed": true,
+    "abstract": "Bitcoin is an electronic currency that has become increasingly popular since its introduction in 2008. Transactions in the bitcoin system are stored in a public transaction ledger (‘the blockchain’), which is stored in a decentralized, peer-to-peer network. Bitcoin provides decentralized currency issuance and transaction clearance. The security of the blockchain depends on a compute-intensive algorithm for bitcoin mining, which prevents double spending of bitcoins and tampering with confirmed transactions. This ‘proof-of-work’ algorithm is energy demanding. How much energy is actually consumed, is subject of debate. We argue that this energy consumption currently is in the range of 100–500 MW. We discuss the developments in bitcoin mining hardware. We also briefly outline alternative schemes that are less energy demanding. We finally look at other blockchain applications, and argue that also here energy consumption is not of primary concern."
+}
