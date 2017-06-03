@@ -1,0 +1,25 @@
+{
+    "id": "kinkeldey2017bitconduite",
+    "title": "Bitconduite: Visualizing And Analyzing Activity On The Bitcoin Network",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170603,
+    "authors": [
+        {
+            "affiliation": "INRIA",
+            "name": "Christoph Kinkeldey"
+        },
+        {
+            "affiliation": "INRIA",
+            "name": "Jean-Daniel Fekete"
+        },
+        {
+            "affiliation": "INRIA",
+            "name": "Petra Isenberg"
+        }
+    ],
+    "url": "https://hal.inria.fr/hal-01528605/document",
+    "venue": "Eurographics Conference on Visualization",
+    "peer-reviewed": true,
+    "abstract": "BitConduite is a system we are developing for the visual exploration of financial activity on the Bitcoin network. Bitcoin is the largest digital pseudo-currency worldwide and its study is of increasing interest and importance to economists, bankers, policymakers, and law enforcement authorities. All financial transactions in Bitcoin are available in an openly accessible online ledger—the (Bitcoin) blockchain. Yet, the open data does not lend itself easily to an analysis of how different individuals and institutions—or entities on the network—actually use Bitcoin. Our system BitConduite offers a data transformation back end that gives us an entity-based access to the blockchain data and a visualization front end that supports a novel high-level view on transactions over time. In particular, it facilitates the exploration of activity through filtering and clustering interactions. We are developing our system with experts in economics and will conduct a formal user study to assess our approach of Bitcoin activity analysis."
+}
