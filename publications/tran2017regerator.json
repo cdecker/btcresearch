@@ -1,0 +1,32 @@
+{
+    "id": "tran2017regerator",
+    "title": "Regerator: A Registry Generator For Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170603,
+    "authors": [
+        {
+            "affiliation": "UNSW, Sydney",
+            "name": "An Binh Tran"
+        },
+        {
+            "affiliation": "UNSW, Sydney",
+            "name": "Xiwei Xu"
+	},
+	{
+            "affiliation": "UNSW, Sydney",
+	    "name": "Ingo Weber"
+        },
+        {
+            "affiliation": "UNSW, Sydney",
+            "name": "Mark Staples"
+        },
+        {
+            "affiliation": "UNSW, Sydney",
+            "name": "Paul Rimba"
+        }
+    ],
+    "url": "http://ceur-ws.org/Vol-1848/CAiSE2017_Forum_Paper11.pdf",
+    "peer-reviewed": false,
+    "abstract": "A registry is a list of information recorded by a trusted authority. Registries have security requirements for data integrity and availability, and for the ability to connect with other registries. Building registries on a blockchain leverages key properties of blockchains, including data integrity, immutability, and availability. By using a blockchain as uniform infrastructure, different registries can also more easily interact with each other. In this paper, we present a browser-based tool for the model-driven generation and deployment of registries as smart contracts on blockchain. The tool also generates web-based RESTful APIs and user interfaces to interact with the generated registries. We evaluate the feasibility and transaction costs for this approach using metadata from data.gov.au, stored on a decentralised derivative of CKAN (a web-based open-source data registration system) built on the Ethereum blockchain"
+}
