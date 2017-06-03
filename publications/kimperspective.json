@@ -1,0 +1,20 @@
+{
+    "id": "kimperspective",
+    "title": "A Perspective On Blockchain Smart Contracts",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170601,
+    "authors": [
+        {
+            "affiliation": "York University",
+            "name": "Henry Kim"
+        },
+        {
+            "affiliation": "York University",
+            "name": "Marek Laskowski"
+        }
+    ],
+    "url": "http://blockchain.lab.yorku.ca/files/2017/05/UBC_blockchain_paper_HK_and-Marek.pdf",
+    "peer-reviewed": false,
+    "abstract": "The blockchain constitutes a technology-based, rather than social or regulation based, means to lower uncertainty about one another in order to exchange value. However, its use may very well also lead to increased complexity resulting from having to subsume work that displaced intermediary institutions had performed. We present our perspective that smart contracts may be used to mitigate this increased complexity. We further posit that smart contracts can be delineated according to complexity: Smart contracts that can be verified objectively without much uncertainty belong in an inter-organizational context; those that cannot be objectively verified belong in an intra-organizational context. We state that smart contracts that implement a formal (e.g. mathematical or simulation) model are especially beneficial for both contexts: They can be used to express and enforce inter-organizational agreements, and their basis in a common formalism may ensure effective evaluation and comparison between different intraorganizational contracts. Finally, we present a case study of our perspective by describing Intellichain, which implements formal, agent-based simulation model as a smart contract to provide epidemiological decision support."
+}
