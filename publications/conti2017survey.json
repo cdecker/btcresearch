@@ -1,0 +1,28 @@
+{
+    "id": "conti2017survey",
+    "title": "A Survey On Security And Privacy Issues Of Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170610,
+    "authors": [
+        {
+            "affiliation": "University of Padua",
+            "name": "Mauro Conti"
+        },
+        {
+            "affiliation": "Ramaiah Institute of Technology",
+            "name": "Sandeep Kumar"
+        },
+        {
+            "affiliation": "University of Padua",
+            "name": "Chhagan Lal"
+        },
+        {
+            "affiliation": "Indian Statistical Institute",
+            "name": "Sushmita Ruj"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1706.00916",
+    "peer-reviewed": false,
+    "abstract": "Bitcoin is a popular “cryptocurrency” that records all transactions in an distributed append-only public ledger called “blockchain”. The security of Bitcoin heavily relies on the incentive-compatible distributed consensus protocol which is run by participants called “miners”. In exchange of the incentive, the miners are expected to honestly maintain the blockchain. Since its launch in 2009, Bitcoin economy has grown at an enormous rate is now worth about 40 billions of dollars. This exponential growth in the market value of Bitcoin motivates adversaries to exploit weaknesses for profit, and researchers to identify vulnerabilities in the system, propose countermeasures, and predict upcoming trends. In this paper, we present a systematic survey on security and privacy aspects of Bitcoin. We start by presenting an overview of the Bitcoin protocol and discuss its major components with their functionality and interactions. We review the existing vulnerabilities in Bitcoin which leads to the execution of various security threats in Bitcoin system. We discuss the feasibility and robustness of the state-of-the-art security solutions. We present privacy and anonymity considerations, and discuss the threats to enabling user privacy along with the analysis of existing privacy preserving solutions. Finally, we summarize the critical open challenges, and suggest directions for future research towards provisioning stringent security and privacy techniques for Bitcoin."
+}
