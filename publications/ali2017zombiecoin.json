@@ -1,0 +1,29 @@
+{
+    "id": "ali2017zombiecoin",
+    "title": "Zombiecoin 2.0: Managing Next-Generation Botnets Using Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170606,
+    "authors": [
+        {
+            "affiliation": "National University of Sciences and Technology, Islamabad",
+            "name": "Syed Taha Ali"
+        },
+        {
+            "affiliation": "Newcastle University",
+            "name": "Patrick McCorry"
+        },
+        {
+            "affiliation": "Paysafe Group",
+            "name": "Peter Hyun-Jeen Lee"
+        },
+        {
+            "affiliation": "Newcastle University",
+            "name": "Feng Hao"
+        }
+    ],
+    "url": "http://link.springer.com/article/10.1007/s10207-017-0379-8",
+    "venue": "International Journal of Information Security",
+    "peer-reviewed": true,
+    "abstract": "Botnets are the preeminent source of online crime and arguably one of the greatest threats to the Internet infrastructure. In this paper, we present ZombieCoin, a botnet command-and-control (C&C) mechanism that leverages the Bitcoin network. ZombieCoin offers considerable advantages over existing C&C techniques, most notably the fact that Bitcoin is designed to resist the very same takedown campaigns and regulatory processes that are the most often-used methods to combat botnets today. Furthermore, we describe how the Bitcoin network enables novel C&C techniques, which dramatically expand the scope of this threat, including the possibilities of flexible rendezvous scheduling, efficient botnet partitioning, and fine-grained control over bots. We validate our claims by implementing ZombieCoin bots which we then deploy and successfully control over the Bitcoin network. Our findings lead us to believe that Bitcoin-based C&C mechanisms are a highly desirable option that botmasters will pursue in the near future. We hope our study provides a useful first step towards devising effective countermeasures for this threat."
+}
