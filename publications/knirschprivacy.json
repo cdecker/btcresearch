@@ -1,0 +1,28 @@
+{
+    "id": "knirschprivacy",
+    "title": "Privacy-Preserving Smart Grid Tariff Decisions With Blockchain-Based Smart Contracts",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170610,
+    "authors": [
+        {
+            "affiliation": "Salzburg University of Applied Sciences",
+            "name": "F Knirsch"
+        },
+        {
+            "affiliation": "Salzburg University of Applied Sciences",
+            "name": "A Unterweger"
+        },
+        {
+            "affiliation": "Salzburg University of Applied Sciences",
+            "name": "G Eibl"
+        },
+        {
+            "affiliation": "Salzburg University of Applied Sciences",
+            "name": "D Engel"
+        }
+    ],
+    "url": "https://www.en-trust.at/papers/Knirsch17b-t.pdf",
+    "peer-reviewed": false,
+    "abstract": "The smart grid changes the way how energy and information are exchanged and offers opportunities for incentive-based load balancing. For instance, customers may shift the time of energy consumption of household appliances in exchange for a cheaper energy tariff. This paves the path towards a full range of modular tariffs and dynamic pricing that incorporate the overall grid capacity as well as individual customer demands. This also allows customers to frequently switch within a variety of tariffs from different utility providers based on individual energy consumption and provision forecasts. For automated tariff decisions it is desirable to have a tool that assists in choosing the optimum tariff based on a prediction of individual energy need and production. However, the revelation of individual load patterns for smart grid applications poses severe privacy threats for customers as analyzed in depth in literature. Similarly, accurate and fine-grained regional load forecasts are sensitive business information of utility providers that are not supposed to be released publicly. This paper extends previous work in the domain of privacy-preserving load profile matching where load profiles from utility providers and load profile forecasts from customers are transformed in a distance-preserving embedding in order to find a matching tariff. The embeddings neither reveal individual contributions of customers, nor those of utility providers. Prior work requires a dedicated entity that needs to be trustworthy at least to some extent for determining the matches. In this paper we propose an adaption of this protocol, where we use blockchains and smart contracts for this matching process, instead. Blockchains are gaining widespread adaption in the smart grid domain as a powerful tool for public commitments and accountable calculations. While the use of a decentralized and trust-free blockchain for this protocol comes at the price of some privacy degradation (for which a mitigation is outlined), this drawback is outweighed for it enables verifiability, reliability and transparency"
+}
