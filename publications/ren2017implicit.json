@@ -1,0 +1,28 @@
+{
+    "id": "ren2017implicit",
+    "title": "Implicit Consensus: Blockchain With Unbounded Throughput",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170606,
+    "authors": [
+        {
+            "affiliation": "Delft University of Technology",
+            "name": "Zhijie Ren"
+        },
+        {
+            "affiliation": "Delft University of Technology",
+            "name": "Kelong Cong"
+        },
+        {
+            "affiliation": "Delft University of Technology",
+            "name": "Johan Pouwelse"
+        },
+        {
+            "affiliation": "Delft University of Technology",
+            "name": "Zekeriya Erkin"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1705.11046",
+    "peer-reviewed": false,
+    "abstract": "Recently, the blockchain technique was put in the spotlight as it introduced a systematic approach for multiple parties to reach consensus without needing trust. However, the application of this technique in practice is severely restricted due to its limitations in throughput, reliability, storage requirement, and privacy. In this paper, we propose a novel consensus model, namely the implicit consensus, with a distinctive blockchain-based distributed ledger in which each node holds its individual blockchain. In our system, the agreement is not on the transactions, but on a special type of blocks called Check Points that are used to validate individual transactions. Our system achieves superior performance over all existing blockchain techniques in multiple aspects with equivalent reliability. Most remarkably, our system achieves unbounded throughput which is by far the best throughput achieved by any blockchain technique."
+}
