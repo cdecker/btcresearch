@@ -1,0 +1,28 @@
+{
+    "id": "krishnan2017peer",
+    "title": "Peer To Peer File Sharing By Blockchain Using Iot",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170610,
+    "authors": [
+        {
+            "affiliation": "SKP Engineering College",
+            "name": "M Amirtha Krishnan"
+        },
+        {
+            "affiliation": "SKP Engineering College",
+            "name": "C Gowri Shankar"
+        },
+        {
+            "affiliation": "SKP Engineering College",
+            "name": "S Arvind Raj"
+        },
+        {
+            "affiliation": "SKP Engineering College",
+            "name": "A Ragavan"
+        }
+    ],
+    "url": "http://ijsrset.com/paper/2349.pdf",
+    "peer-reviewed": false,
+    "abstract": "Hadoop envisioned as the next-generation architecture of IT enterprise. It moves the application software and databases to the centralized large data centers. Sender using IBE does not required public key, but directly encrypts message with receiver’s identity. Accordingly, receiver obtaining the private key associated with the corresponding identity from Private Key Generator (PKG) is able to decrypt such cipher text. The problem of ensuring the integrity of data storage in Hadoop. The task of allowing a Third-Party Auditor (TPA) to verify the integrity of dynamic data stored in the cloud. Aiming at tackling the critical issue of identity revocation, we introduce outsourcing computation into IBE for the first time and propose a revocable IBE scheme in the server-aided setting. By using IOT layers we can able to track our files or data where it is currently located. Keywords : Hadoop- PKG-Cloud Security- Block-Chain-Peer to Peer-IOT."
+}
