@@ -1,0 +1,21 @@
+{
+    "id": "moura2017blockchain",
+    "title": "Blockchain Voting And Its Effects On Election Transparency And Voter Confidence",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170606,
+    "authors": [
+        {
+            "affiliation": "Universidade de Brasilia",
+            "name": "Teogenes Moura"
+        },
+        {
+            "affiliation": "Universidade de Brasilia",
+            "name": "Alexandre Gomes"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3085263",
+    "venue": "International Conference on Digital Government Research",
+    "peer-reviewed": true,
+    "abstract": "Public elections are one of the basis upon which representative democracy is built. Thus, it is of the utmost importance that governments and organizations are able to successfully hold non-fraudulent representative elections. Several methods are employed in order to allow citizens to cast their votes, such as Ballot-based voting, purely electronic methods, and Electronic Voting Machines, among others. However, we argue that current methods, specially those based on electronic platforms, provide unsatisfactory levels of transparency to voters, thus harming the trust voters have that the vote they cast was the same one counted by election officials, a problem known as voter confidence. Instead of stepping back to traditional and inefficient offline strategies, we suggest the modernization of State structures by the use of emerging technologies. In this research, we explore the possibility of using Blockchain technology to help in solving those transparency and confidence problems. First, we give an overview of Blockchain itself and other uses focused on societal problems and their respective analysis. We then analyze how the adoption of Blockchain into a digital government repertoire can contribute to common e-voting issues and also promote elections transparency, increase auditability, enhance voter confidence and strengthen democracy. By attending to this poster presentation, visitors will have a clear understanding of what is Blockchain and its basic concepts, why are market and researchers so excited about it, how it can help to solve common voting systems issues, who is already using it and the benefits and potential risks of its adoption."
+}
