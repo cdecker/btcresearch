@@ -1,0 +1,24 @@
+{
+    "id": "moinet2017blockchain",
+    "title": "Blockchain Based Trust \\& Authentication For Decentralized Sensor Networks",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170610,
+    "authors": [
+        {
+            "affiliation": "FRE CNRS",
+            "name": "Axel Moinet"
+        },
+        {
+            "affiliation": "FRE CNRS",
+            "name": "Benoìt Darties"
+        },
+        {
+            "affiliation": "FRE CNRS",
+            "name": "Jean-Luc Baril"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1706.01730",
+    "peer-reviewed": false,
+    "abstract": "Sensor networks and Wireless Sensor Networks (WSN) are key components for the development of the Internet of Things. These networks are subject of two kinds of constraints. Adaptability by the mean of mutability and evolutivity, and constrained node resources such as energy consumption, computational complexity or memory usage. In this context, none of the existing protocols and models allows reliable peer authentication and trust level management. In the field of virtual economic transactions, Bitcoin has proposed a new decentralized and evolutive way to model and acknowledge trust and data validity in a peer network by the mean of the blockchain. We propose a new security model and its protocol based on the blockchain technology to ensure validity and integrity of cryptographic authentication data and associate peer trust level, from the beginning to the end of the sensor network lifetime."
+}
