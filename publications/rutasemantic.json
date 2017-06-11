@@ -1,0 +1,32 @@
+{
+    "id": "rutasemantic",
+    "title": "Semantic Blockchain To Improve Scalability In The Internet Of Things",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170606,
+    "authors": [
+        {
+            "affiliation": "Politecnico di Bari",
+            "name": "Michele Ruta"
+        },
+        {
+            "affiliation": "Politecnico di Bari",
+            "name": "Floriano Scioscia"
+        },
+        {
+            "affiliation": "Politecnico di Bari",
+            "name": "Saverio Ieva"
+        },
+        {
+            "affiliation": "Politecnico di Bari",
+            "name": "Giovanna Capurso"
+        },
+        {
+            "affiliation": "Politecnico di Bari",
+            "name": "Eugenio Di Sciascio"
+        }
+    ],
+    "url": "http://sisinflab.poliba.it/publications/2017/RSICD17/VLIoT_VLDB2017_accepted.pdf",
+    "peer-reviewed": false,
+    "abstract": "Generally scarce computational and memory resource availability are well known problems for the IoT, whose intrinsic volatility makes unfeasible complex applications. Noteworthy efforts in overcoming unpredictability (particularly in case of large dimensions) are the ones integrating Knowledge Representation technologies to build the so-called Semantic Web of Things (SWoT). In spite of allowed advanced discovery features, transactions in the SWoT still suffer from not viable trust management strategies. Given its intrinsic characteristic, blockchain technology appears as interesting from this perspective: a semantic resource/service discovery layer built upon a basic blockchain infrastructure gains a consensus validation. This paper proposes a novel Service-oriented Architecture (SOA) based on a semantic blockchain for registration, discovery, selection and payment. Such operations are implemented as smart contracts, allowing distributed execution and trust. Reported experiments early assess the sustainability of the proposal."
+}
