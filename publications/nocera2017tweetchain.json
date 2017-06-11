@@ -1,0 +1,17 @@
+{
+    "id": "nocera2017tweetchain",
+    "title": "Tweetchain: An Alternative To Blockchain For Crowd-Based Applications",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170606,
+    "authors": [
+        {
+            "affiliation": "University Mediterranea of Reggio Calabria",
+            "name": "Antonino Nocera"
+        }
+    ],
+    "url": "https://books.google.com/books?id=kiYmDwAAQBAJ&pg=PA386&dq=Tweetchain:+An+Alternative+to+Blockchain+for+Crowd-Based+Applications",
+    "venue": "International Conference on Web Engineering (ICWE)",
+    "peer-reviewed": true,
+    "abstract": "The assurance of information in the crowdsourcing domain cannot be committed to a single party, but should be distributed over the crowd. Blockchain is an infrastructure allowing this, because transactions are broadcast to the entire community and verified by miners. A node (or a coalition of nodes) with high computational power can play the role of miner to verify and approve transactions by computing the proof of work. Miners follows a highest-fee-first-served policy, so that a provider of a Blockchain-based application has to pay a non-negligible fee per transaction, to increase the likelihood that the application proceeds. This makes Blockchain not suitable for small-value transactions often occurring in the crowdsourcing paradigm. To overcome this drawback, in this paper we propose an alternative to Blockchain, leveraging an online social network (we choose Twitter to provide a proof of concept). Our protocol works by building a meshed chain of public posts to ensure transaction security instead of proof of work, and no trustworthiness assumption is required for the social network provider."
+}
