@@ -1,0 +1,29 @@
+{
+    "id": "wan2017bug",
+    "title": "Bug Characteristics In Blockchain Systems: A Large-Scale Empirical Study",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170610,
+    "authors": [
+        {
+            "affiliation": "Zhejiang University",
+            "name": "Zhiyuan Wan"
+        },
+        {
+            "affiliation": "Singapore Management University",
+            "name": "David Lo"
+        },
+        {
+            "affiliation": "University of British Columbia",
+            "name": "Xin Xia"
+        },
+        {
+            "affiliation": "Zhejiang University",
+            "name": "Liang Cai"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3104238",
+    "venue": "International Conference on Mining Software Repositories",
+    "peer-reviewed": true,
+    "abstract": "Bugs severely hurt blockchain system dependability. A thorough understanding of blockchain bug characteristics is required to design effective tools for preventing, detecting and mitigating bugs. We perform an empirical study on bug characteristics in eight representative open source blockchain systems. First, we manually examine 1,108 bug reports to understand the nature of the reported bugs. Second, we leverage card sorting to label the bug reports, and obtain ten bug categories in blockchain systems. We further investigate the frequency distribution of bug categories across projects and programming languages. Finally, we study the relationship between bug categories and bug fixing time. The findings include: (1) semantic bugs are the dominant runtime bug category; (2) frequency distributions of bug types show similar trends across different projects and programming languages; (3) security bugs take the longest median time to be fixed; (4) 35.71% performance bugs are fixed in more than one year; performance bugs take the longest average time to be fixed."
+}
