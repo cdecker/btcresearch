@@ -1,0 +1,15 @@
+{
+    "id": "antonopoulos2017mastering",
+    "title": "Mastering Bitcoin: Programming The Open Blockchain",
+    "year": 2017,
+    "type": "book",
+    "sortkey": 20170620,
+    "authors": [
+        {
+            "name": "Andreas M Antonopoulos"
+        }
+    ],
+    "url": "https://books.google.com/books?hl=en&lr=&id=tponDwAAQBAJ&oi=fnd&pg=PT7&dq=Mastering+Bitcoin:+Programming+the+Open+Blockchain&ots=Qqz_TSZ2gR&sig=H_9bwwg3tz30eRzEr6LG9QwifIY",
+    "peer-reviewed": false,
+    "abstract": "Want to join the technological revolution that’s taking the world of finance by storm? Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the requisite knowledge to help you participate in the internet of money. Whether you’re building the next killer app, investing in a startup, or simply curious about the technology, this practical book is essential reading. Bitcoin, the first successful decentralized digital currency, is still in its infancy and it’s already spawned a multi-billion dollar global economy. This economy is open to anyone with the knowledge and passion to participate. Mastering Bitcoin provides you with the knowledge you need (passion not included). This book includes: * A broad introduction to bitcoin―ideal for non-technical users, investors, and business executives * An explanation of the technical foundations of bitcoin and cryptographic currencies for developers, engineers, and software and systems architects * Details of the bitcoin decentralized network, peer-to-peer architecture, transaction lifecycle, and security principles * Offshoots of the bitcoin and blockchain inventions, including alternative chains, currencies, and applications * User stories, analogies, examples, and code snippets illustrating key technical concepts"
+}
