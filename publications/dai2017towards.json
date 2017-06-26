@@ -1,0 +1,21 @@
+{
+    "id": "dai2017towards",
+    "title": "Towards Blockchain-Based Accounting And Assurance",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170620,
+    "authors": [
+        {
+            "affiliation": "Rutgers, the State University of New Jersey",
+            "name": "Jun Dai"
+        },
+        {
+            "affiliation": "Rutgers, the State University of New Jersey",
+            "name": "Miklos A Vasarhelyi"
+        }
+    ],
+    "url": "http://www.aaajournals.org/doi/abs/10.2308/isys-51804",
+    "venue": "Journal of Information Systems",
+    "peer-reviewed": true,
+    "abstract": "Since 2009, blockchain has served as a potentially transformative information technology expected to be as revolutionary as the Internet. Originally developed as a methodology to record crypto-currency transactions, blockchain's functionality has evolved into a large number of applications such as banking, financial markets, insurance, voting systems, leasing contracts, and government service. Despite such advancements, the application of blockchain to accounting and assurance remains under-explored. This paper aims to provide an initial discussion on how blockchain could enable a real-time, verifiable, and transparent accounting ecosystem. Additionally, blockchain has potential to transform current auditing practices resulting in a more precise and timely automatic assurance system."
+}
