@@ -1,0 +1,23 @@
+{
+    "id": "conley2017blockchain",
+    "title": "Blockchain And The Economics Of Crypto-Tokens And Initial Coin Offerings''",
+    "year": 2017,
+    "type": "techreport",
+    "sortkey": 20170614,
+    "authors": [
+        {
+            "affiliation": "Vanderbilt University",
+            "name": "John P Conley"
+        }
+    ],
+    "url": "http://www.accessecon.com/Pubs/VUECON/VUECON-17-00008.pdf",
+    "peer-reviewed": false,
+    "abstract": "Blockchain startups have embraced initial coin offerings (ICOs) as a vehicle to raise early capital. The crypto-tokens
+offered in these sales are intended to fill a widely varied set of roles on different platforms. Some tokens are similar to
+currencies, others are more like securities, and others have properties that are entirely new. Each company's
+technological vision calls for a token with unique properties and uses. The main point of this paper is that designing a
+successful token must take into account certain aspects of monetary theory, financial economics, and game theory.
+Failing to do so can put an otherwise excellent project at risk. We also explore what economics tells us about how to
+assess the value of tokens offered for sale, how startups should structure their ICOs, and what the implications of
+assigning various roles to tokens on a platform might be."
+}
