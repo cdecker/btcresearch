@@ -1,0 +1,17 @@
+{
+    "id": "fremantle2017enhancing",
+    "title": "Enhancing IoT Security and Privacy with Distributed Ledgers - a Position Paper",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170711,
+    "authors": [
+	{"name": "Paul Fremantle", "affiliation": "University of Portsmouth"},
+	{"name": "Benjamin Aziz", "affiliation": "University of Portsmouth"},
+	{"name": "Tom Kirkham", "affiliation": "Science and Technology Funding Council"}
+    ],
+    "peer-reviewed": true,
+    "venue": "Internet of Things, Big Data and Security",
+    "url": "http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=DDbvQKhtNV0=",
+    "abstract": "The Internet of Things has a number of well-publicised security flaws, resulting in numerous recent attacks. In this paper we lay out a framework for looking at how distributed ledgers and Blockchain technology can be used to enhance the security, privacy and manageability of IoT devices and networks. A significant concern is the inability to process blockchains on small devices. We propose an architecture for IoT security and privacy based on blockchains that addresses this and other issues. We look at related work and propose areas of further research.",
+    "type": "inproceedings"
+}
