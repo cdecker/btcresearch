@@ -3,13 +3,12 @@ from glob2 import glob
 import json
 import os
 import codecs
-import cgi
 
 entries = {}
 
 def main():
     global entries
-    
+
     s = make_site(
         contexts=[
             ('.*.json', load_publication),
@@ -34,17 +33,17 @@ def load_entries(template):
             raise ValueError('ID collision with %s' % (entry['id']))
         ids.append(entry['id'])
         entries.append(entry)
-        
+
     from collections import OrderedDict
     groups = OrderedDict()
     for year in sorted(set([e['year'] for e in entries]))[::-1]:
         groups[year] = []
-    
+
     for e in entries:
         groups[e['year']].append(e)
 
     return {'entry_groups': groups}
-    
+
 def load_publication(template):
     with codecs.open(template.filename, encoding='utf-8') as f:
         entry = json.loads(f.read())
