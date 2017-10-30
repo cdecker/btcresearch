@@ -1,0 +1,29 @@
+{
+    "id": "jin2017blockndn",
+    "title": "Blockndn: A Bitcoin Blockchain Decentralized System Over Named Data Networking",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170803,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Tong Jin"
+        },
+        {
+            "affiliation": "",
+            "name": "Xiang Zhang"
+        },
+        {
+            "affiliation": "",
+            "name": "Yirui Liu"
+        },
+        {
+            "affiliation": "",
+            "name": "Kai Lei"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7993751/",
+    "venue": "Ubiquitous and Future Networks (ICUFN), 2017 Ninth International Conference on",
+    "peer-reviewed": true,
+    "abstract": ""
+}

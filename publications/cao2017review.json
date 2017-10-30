@@ -1,0 +1,28 @@
+{
+    "id": "cao2017review",
+    "title": "A Review Of Researches On Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170803,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Shuyan Cao"
+        },
+        {
+            "affiliation": "",
+            "name": "Yanan Cao"
+        },
+        {
+            "affiliation": "",
+            "name": "Xiaoyu Wang"
+        },
+        {
+            "affiliation": "",
+            "name": "Yanqiao Lu"
+        }
+    ],
+    "url": "http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1012&context=whiceb2017",
+    "peer-reviewed": false,
+    "abstract": ""
+}

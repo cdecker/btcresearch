@@ -1,0 +1,25 @@
+{
+    "id": "brunnler2017logic",
+    "title": "A Logic Of Blockchain Updates",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170712,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Kai Br{\\\"u}nnler"
+        },
+        {
+            "affiliation": "",
+            "name": "Dandolo Flumini"
+        },
+        {
+            "affiliation": "",
+            "name": "Thomas Studer"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1707.01766",
+    "venue": "arXiv preprint arXiv:1707.01766",
+    "peer-reviewed": true,
+    "abstract": ""
+}

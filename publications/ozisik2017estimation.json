@@ -1,0 +1,25 @@
+{
+    "id": "ozisik2017estimation",
+    "title": "Estimation Of Miner Hash Rates And Consensus On Blockchains (Draft)",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170709,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "A Pinar Ozisik"
+        },
+        {
+            "affiliation": "",
+            "name": "George Bissias"
+        },
+        {
+            "affiliation": "",
+            "name": "Brian Levine"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1707.00082",
+    "venue": "arXiv preprint arXiv:1707.00082",
+    "peer-reviewed": true,
+    "abstract": ""
+}

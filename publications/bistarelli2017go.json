@@ -1,0 +1,21 @@
+{
+    "id": "bistarelli2017go",
+    "title": "Go With The-Bitcoin-Flow, With Visual Analytics",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170821,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Stefano Bistarelli"
+        },
+        {
+            "affiliation": "",
+            "name": "Francesco Santini"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3098972",
+    "venue": "Proceedings of the 12th International Conference on Availability, Reliability and Security",
+    "peer-reviewed": true,
+    "abstract": ""
+}

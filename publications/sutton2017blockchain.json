@@ -1,0 +1,21 @@
+{
+    "id": "sutton2017blockchain",
+    "title": "Blockchain Enabled Privacy Audit Logs",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Andrew Sutton"
+        },
+        {
+            "affiliation": "",
+            "name": "Reza Samavi"
+        }
+    ],
+    "url": "https://iswc2017.semanticweb.org/wp-content/uploads/papers/MainProceedings/141.pdf",
+    "venue": "International Semantic Web Conference",
+    "peer-reviewed": true,
+    "abstract": ""
+}

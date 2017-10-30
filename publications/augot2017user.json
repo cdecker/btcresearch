@@ -1,0 +1,33 @@
+{
+    "id": "augot2017user",
+    "title": "A User-Centric System For Verified Identities On The Bitcoin Blockchain",
+    "year": 2017,
+    "type": "incollection",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Daniel Augot"
+        },
+        {
+            "affiliation": "",
+            "name": "Herv{\\'e} Chabanne"
+        },
+        {
+            "affiliation": "",
+            "name": "Thomas Chenevier"
+        },
+        {
+            "affiliation": "",
+            "name": "William George"
+        },
+        {
+            "affiliation": "",
+            "name": "Laurent Lambert"
+        }
+    ],
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-67816-0_22",
+    "venue": "Data Privacy Management, Cryptocurrencies and Blockchain Technology",
+    "peer-reviewed": true,
+    "abstract": ""
+}

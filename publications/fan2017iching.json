@@ -1,0 +1,20 @@
+{
+    "id": "fan2017iching",
+    "title": "Iching: A Scalable Proof-Of-Stake Blockchain In The Open Se Ing",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170712,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Lei Fan"
+        },
+        {
+            "affiliation": "",
+            "name": "Hong-Sheng Zhou"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/656.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

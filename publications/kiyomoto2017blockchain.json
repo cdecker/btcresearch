@@ -1,0 +1,25 @@
+{
+    "id": "kiyomoto2017blockchain",
+    "title": "On Blockchain-Based Anonymized Dataset Distribution Platform",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170709,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Shinsaku Kiyomoto"
+        },
+        {
+            "affiliation": "",
+            "name": "Mohammad Shahriar Rahman"
+        },
+        {
+            "affiliation": "",
+            "name": "Anirban Basu"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/iel7/7956014/7965690/07965711.pdf",
+    "venue": "Software Engineering Research, Management and Applications (SERA), 2017 IEEE 15th International Conference on",
+    "peer-reviewed": true,
+    "abstract": ""
+}

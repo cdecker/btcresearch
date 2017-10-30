@@ -1,0 +1,37 @@
+{
+    "id": "xia2017medshare",
+    "title": "Medshare: Trust-Less Medical Data Sharing Among Cloud Service Providers Via Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170811,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Qi Xia"
+        },
+        {
+            "affiliation": "",
+            "name": "Emmanuel Boateng Sifah"
+        },
+        {
+            "affiliation": "",
+            "name": "Kwame Omono Asamoah"
+        },
+        {
+            "affiliation": "",
+            "name": "Jianbin Gao"
+        },
+        {
+            "affiliation": "",
+            "name": "Xiaojiang Du"
+        },
+        {
+            "affiliation": "",
+            "name": "Mohsen Guizani"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/iel7/6287639/6514899/07990130.pdf",
+    "venue": "IEEE Access",
+    "peer-reviewed": true,
+    "abstract": ""
+}

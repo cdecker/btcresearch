@@ -1,0 +1,32 @@
+{
+    "id": "tranobscuro",
+    "title": "Obscuro: A Bitcoin Mixer Using Trusted Execution Environments",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171023,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Muoi Tran"
+        },
+        {
+            "affiliation": "",
+            "name": "Loi Luu"
+        },
+        {
+            "affiliation": "",
+            "name": "Min Suk Kang"
+        },
+        {
+            "affiliation": "",
+            "name": "Iddo Bentov"
+        },
+        {
+            "affiliation": "",
+            "name": "Prateek Saxena"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/974.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

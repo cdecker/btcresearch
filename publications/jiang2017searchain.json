@@ -1,0 +1,33 @@
+{
+    "id": "jiang2017searchain",
+    "title": "Searchain: Blockchain-Based Private Keyword Search In Decentralized Storage",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Peng Jiang"
+        },
+        {
+            "affiliation": "",
+            "name": "Fuchun Guo"
+        },
+        {
+            "affiliation": "",
+            "name": "Kaitai Liang"
+        },
+        {
+            "affiliation": "",
+            "name": "Jianchang Lai"
+        },
+        {
+            "affiliation": "",
+            "name": "Qiaoyan Wen"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0167739X17318630",
+    "venue": "Future Generation Computer Systems",
+    "peer-reviewed": true,
+    "abstract": ""
+}

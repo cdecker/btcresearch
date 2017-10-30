@@ -1,0 +1,24 @@
+{
+    "id": "kiayiasnon",
+    "title": "Non-Interactive Proofs Of Proof-Of-Work",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Aggelos Kiayias"
+        },
+        {
+            "affiliation": "",
+            "name": "Andrew Miller"
+        },
+        {
+            "affiliation": "",
+            "name": "Dionysis Zindros"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/963.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

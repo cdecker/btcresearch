@@ -1,0 +1,20 @@
+{
+    "id": "eberhardtor",
+    "title": "On Or Off The Blockchain? Insights On Off-Chaining Computation And Data",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Jacob Eberhardt"
+        },
+        {
+            "affiliation": "",
+            "name": "Stefan Tai"
+        }
+    ],
+    "url": "http://www.ise.tu-berlin.de/fileadmin/fg308/publications/2017/2017-eberhardt-tai-offchaining-patterns.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

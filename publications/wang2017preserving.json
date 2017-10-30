@@ -1,0 +1,29 @@
+{
+    "id": "wang2017preserving",
+    "title": "Preserving Transaction Privacy In Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170910,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Qin Wang"
+        },
+        {
+            "affiliation": "",
+            "name": "Bo Qin"
+        },
+        {
+            "affiliation": "",
+            "name": "Jiankun Hu"
+        },
+        {
+            "affiliation": "",
+            "name": "Fu Xiao"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0167739X17318393",
+    "venue": "Future Generation Computer Systems",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,33 @@
+{
+    "id": "raju2017design",
+    "title": "Design And Analysis Of Elastic Handoff In Cognitive Cellular Networks",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170807,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Saravanan Raju"
+        },
+        {
+            "affiliation": "",
+            "name": "Sai Boddepalli"
+        },
+        {
+            "affiliation": "",
+            "name": "Neelabjo Choudhury"
+        },
+        {
+            "affiliation": "",
+            "name": "Qiben Yan"
+        },
+        {
+            "affiliation": "",
+            "name": "Jitender S Deogun"
+        }
+    ],
+    "url": "http://cse.unl.edu/~qyan/paper/ICC17_ElasticHandoff.pdf",
+    "venue": "Communications (ICC), 2017 IEEE International Conference on",
+    "peer-reviewed": true,
+    "abstract": ""
+}

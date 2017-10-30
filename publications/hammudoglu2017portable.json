@@ -1,0 +1,45 @@
+{
+    "id": "hammudoglu2017portable",
+    "title": "Portable Trust: Biometric-Based Authentication And Blockchain Storage For Self-Sovereign Identity Systems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170620,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "JS Hammudoglu"
+        },
+        {
+            "affiliation": "",
+            "name": "J Sparreboom"
+        },
+        {
+            "affiliation": "",
+            "name": "JI Rauhamaa"
+        },
+        {
+            "affiliation": "",
+            "name": "JK Faber"
+        },
+        {
+            "affiliation": "",
+            "name": "LC Guerchi"
+        },
+        {
+            "affiliation": "",
+            "name": "IP Samiotis"
+        },
+        {
+            "affiliation": "",
+            "name": "SP Rao"
+        },
+        {
+            "affiliation": "",
+            "name": "JA Pouwelse"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1706.03744",
+    "venue": "arXiv preprint arXiv:1706.03744",
+    "peer-reviewed": true,
+    "abstract": ""
+}

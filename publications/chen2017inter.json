@@ -1,0 +1,29 @@
+{
+    "id": "chen2017inter",
+    "title": "Inter-Blockchain Communication",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170807,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Zhi-dong CHEN"
+        },
+        {
+            "affiliation": "",
+            "name": "YU Zhuo"
+        },
+        {
+            "affiliation": "",
+            "name": "Zhang-bo DUAN"
+        },
+        {
+            "affiliation": "",
+            "name": "HU Kai"
+        }
+    ],
+    "url": "http://www.dpi-proceedings.com/index.php/dtcse/article/view/12539",
+    "venue": "DEStech Transactions on Computer Science and Engineering",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,33 @@
+{
+    "id": "buchmann2017enhancing",
+    "title": "Enhancing Breeder Document Long-Term Security Using Blockchain Technology",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Nicolas Buchmann"
+        },
+        {
+            "affiliation": "",
+            "name": "Christian Rathgeb"
+        },
+        {
+            "affiliation": "",
+            "name": "Harald Baier"
+        },
+        {
+            "affiliation": "",
+            "name": "Christoph Busch"
+        },
+        {
+            "affiliation": "",
+            "name": "Marian Margraf"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/8030023/",
+    "venue": "Computer Software and Applications Conference (COMPSAC), 2017 IEEE 41st Annual",
+    "peer-reviewed": true,
+    "abstract": ""
+}

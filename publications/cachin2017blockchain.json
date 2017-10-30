@@ -1,0 +1,16 @@
+{
+    "id": "cachin2017blockchain",
+    "title": "Blockchain, Cryptography, And Consensus",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170719,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Christian Cachin"
+        }
+    ],
+    "url": "https://www.zurich.ibm.com/~cca/talks/20170622-blockchain-ice.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

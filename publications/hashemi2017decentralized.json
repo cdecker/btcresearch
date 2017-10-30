@@ -1,0 +1,25 @@
+{
+    "id": "hashemi2017decentralized",
+    "title": "Decentralized User-Centric Access Control Using Pubsub Over Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Sayed Hadi Hashemi"
+        },
+        {
+            "affiliation": "",
+            "name": "Faraz Faghri"
+        },
+        {
+            "affiliation": "",
+            "name": "Roy H Campbell"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1710.00110",
+    "venue": "arXiv preprint arXiv:1710.00110",
+    "peer-reviewed": true,
+    "abstract": ""
+}

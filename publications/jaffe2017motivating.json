@@ -1,0 +1,25 @@
+{
+    "id": "jaffe2017motivating",
+    "title": "Motivating Urban Cycling Through A Blockchain-Based Financial Incentives System",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170914,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Caroline Jaffe"
+        },
+        {
+            "affiliation": "",
+            "name": "Cristina Mata"
+        },
+        {
+            "affiliation": "",
+            "name": "Sepandar Kamvar"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3123141",
+    "venue": "Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers",
+    "peer-reviewed": true,
+    "abstract": ""
+}

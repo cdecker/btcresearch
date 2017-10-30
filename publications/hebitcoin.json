@@ -1,0 +1,33 @@
+{
+    "id": "hebitcoin",
+    "title": "A Bitcoin Based Incentive Mechanism For Distributed P2P Applications",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170616,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Yunhua He"
+        },
+        {
+            "affiliation": "",
+            "name": "Hong Li"
+        },
+        {
+            "affiliation": "",
+            "name": "Xiuzhen Cheng"
+        },
+        {
+            "affiliation": "",
+            "name": "Yan Liu"
+        },
+        {
+            "affiliation": "",
+            "name": "Limin Sun"
+        }
+    ],
+    "url": "https://books.google.com/books?hl=en&lr=&id=IFEnDwAAQBAJ&oi=fnd&pg=PA457&dq=A+Bitcoin+Based+Incentive+Mechanism+for+Distributed+P2P+Applications&ots=lv7KqR4VJr&sig=Nhpglp8iiG8_0li6RuSb6uBU118",
+    "venue": "Wireless Algorithms, Systems, and Applications",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,32 @@
+{
+    "id": "ruta2017supply",
+    "title": "Supply Chain Object Discovery With Semantic-Enhanced Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Michele Ruta"
+        },
+        {
+            "affiliation": "",
+            "name": "Floriano Scioscia"
+        },
+        {
+            "affiliation": "",
+            "name": "Saverio Ieva"
+        },
+        {
+            "affiliation": "",
+            "name": "Giovanna Capurso"
+        },
+        {
+            "affiliation": "",
+            "name": "Eugenio Di Sciascio"
+        }
+    ],
+    "url": "http://www-ictserv.poliba.it/publications/2017/RSICD17b/ruta_et_al_SenSys2017.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

@@ -1,0 +1,29 @@
+{
+    "id": "sun2017ringct",
+    "title": "Ringct 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol For Blockchain Cryptocurrency Monero",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170910,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Shi-Feng Sun"
+        },
+        {
+            "affiliation": "",
+            "name": "Man Ho Au"
+        },
+        {
+            "affiliation": "",
+            "name": "Joseph K Liu"
+        },
+        {
+            "affiliation": "",
+            "name": "Tsz Hon Yuen"
+        }
+    ],
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-66399-9_25",
+    "venue": "European Symposium on Research in Computer Security",
+    "peer-reviewed": true,
+    "abstract": ""
+}

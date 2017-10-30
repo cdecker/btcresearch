@@ -1,0 +1,20 @@
+{
+    "id": "kuzunoblockchain",
+    "title": "Blockchain Explorer: An Analytical Process And Investigation Environment For Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170620,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Hiroki Kuzuno"
+        },
+        {
+            "affiliation": "",
+            "name": "Christian Karam"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/iel7/7937992/7945047/07945049.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

@@ -1,0 +1,21 @@
+{
+    "id": "sato2017long",
+    "title": "Long-Term Public Blockchain: Resilience Against Compromise Of Underlying Cryptography",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170709,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Masashi Sato"
+        },
+        {
+            "affiliation": "",
+            "name": "others"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7966969/",
+    "venue": "Security and Privacy Workshops (EuroS\\&PW), 2017 IEEE European Symposium on",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,29 @@
+{
+    "id": "surmeli2017rahmenwerk",
+    "title": "Ein Rahmenwerk Zur Protokollierung Von Transaktionen In Distributed Ledgers",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171023,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Jan S{\\\"u}rmeli"
+        },
+        {
+            "affiliation": "",
+            "name": "Uwe Der"
+        },
+        {
+            "affiliation": "",
+            "name": "Stefan J{\\\"a}hnichen"
+        },
+        {
+            "affiliation": "",
+            "name": "Andreas Vogelsang"
+        }
+    ],
+    "url": "https://link.springer.com/article/10.1007/s00287-017-1080-z",
+    "venue": "Informatik-Spektrum",
+    "peer-reviewed": true,
+    "abstract": ""
+}

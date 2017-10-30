@@ -1,0 +1,24 @@
+{
+    "id": "meshkovrevisiting",
+    "title": "Revisiting Difficulty Control For Blockchain Systems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170807,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Dmitry Meshkov"
+        },
+        {
+            "affiliation": "",
+            "name": "Alexander Chepurnoy"
+        },
+        {
+            "affiliation": "",
+            "name": "Marc Jansen"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/731.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

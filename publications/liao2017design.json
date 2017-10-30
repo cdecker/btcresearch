@@ -1,0 +1,29 @@
+{
+    "id": "liao2017design",
+    "title": "On Design Issues And Architectural Styles For Blockchain-Driven Iot Services",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170803,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Chun-Feng Liao"
+        },
+        {
+            "affiliation": "",
+            "name": "Sheng-Wen Bao"
+        },
+        {
+            "affiliation": "",
+            "name": "Ching-Ju Cheng"
+        },
+        {
+            "affiliation": "",
+            "name": "Kung Chen"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7991140/",
+    "venue": "Consumer Electronics-Taiwan (ICCE-TW), 2017 IEEE International Conference on",
+    "peer-reviewed": true,
+    "abstract": ""
+}

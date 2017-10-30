@@ -1,0 +1,40 @@
+{
+    "id": "weberavailability",
+    "title": "On Availability For Blockchain-Based Systems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170821,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Ingo Weber"
+        },
+        {
+            "affiliation": "",
+            "name": "Vincent Gramoli"
+        },
+        {
+            "affiliation": "",
+            "name": "Alex Ponomarev"
+        },
+        {
+            "affiliation": "",
+            "name": "Mark Staples"
+        },
+        {
+            "affiliation": "",
+            "name": "Ralph Holz"
+        },
+        {
+            "affiliation": "",
+            "name": "An Binh Tran"
+        },
+        {
+            "affiliation": "",
+            "name": "Paul Rimba"
+        }
+    ],
+    "url": "https://ralphholz.science/publications/OnAvailabilityForBlockchainbasedSystems.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

@@ -1,0 +1,25 @@
+{
+    "id": "otte2017trustchain",
+    "title": "Trustchain: A Sybil-Resistant Scalable Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170910,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Pim Otte"
+        },
+        {
+            "affiliation": "",
+            "name": "Martijn de Vos"
+        },
+        {
+            "affiliation": "",
+            "name": "Johan Pouwelse"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0167739X17318988",
+    "venue": "Future Generation Computer Systems",
+    "peer-reviewed": true,
+    "abstract": ""
+}

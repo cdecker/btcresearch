@@ -1,0 +1,21 @@
+{
+    "id": "romano2017beyond",
+    "title": "Beyond Bitcoin: A Critical Look At Blockchain-Based Systems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170910,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Diego Romano"
+        },
+        {
+            "affiliation": "",
+            "name": "Giovanni Schmid"
+        }
+    ],
+    "url": "http://www.mdpi.com/2410-387X/1/2/15htm",
+    "venue": "Cryptography",
+    "peer-reviewed": true,
+    "abstract": ""
+}

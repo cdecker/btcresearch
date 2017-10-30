@@ -1,0 +1,40 @@
+{
+    "id": "lundbaek2017medixain",
+    "title": "Medixain: Robust Blockchain Optimization Enabling Individual Medical Wallet Architecture",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170911,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Leif-Nissen Lundb{\\ae}k"
+        },
+        {
+            "affiliation": "",
+            "name": "XAIN AG"
+        },
+        {
+            "affiliation": "",
+            "name": "Laurence Kirk"
+        },
+        {
+            "affiliation": "",
+            "name": "Dean Ottewell"
+        },
+        {
+            "affiliation": "",
+            "name": "Daniel Janes Beutel"
+        },
+        {
+            "affiliation": "",
+            "name": "Alfonso Delgado de Molina Rius"
+        },
+        {
+            "affiliation": "",
+            "name": "Michael Huth"
+        }
+    ],
+    "url": "http://medixain.com/assets/pdf/medical_wallet.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

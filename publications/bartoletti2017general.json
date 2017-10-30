@@ -1,0 +1,29 @@
+{
+    "id": "bartoletti2017general",
+    "title": "A General Framework For Bitcoin Analytics",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170709,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Massimo Bartoletti"
+        },
+        {
+            "affiliation": "",
+            "name": "Andrea Bracciali"
+        },
+        {
+            "affiliation": "",
+            "name": "Stefano Lande"
+        },
+        {
+            "affiliation": "",
+            "name": "Livio Pompianu"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1707.01021",
+    "venue": "arXiv preprint arXiv:1707.01021",
+    "peer-reviewed": true,
+    "abstract": ""
+}

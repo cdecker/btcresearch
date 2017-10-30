@@ -1,0 +1,25 @@
+{
+    "id": "zolotavkin2017incentive",
+    "title": "Incentive Compatibility Of Pay Per Last N Shares In Bitcoin Mining Pools",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171023,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Yevhen Zolotavkin"
+        },
+        {
+            "affiliation": "",
+            "name": "Julian Garc{\\'\\i}a"
+        },
+        {
+            "affiliation": "",
+            "name": "Carsten Rudolph"
+        }
+    ],
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-68711-7_2",
+    "venue": "International Conference on Decision and Game Theory for Security",
+    "peer-reviewed": true,
+    "abstract": ""
+}

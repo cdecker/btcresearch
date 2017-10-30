@@ -1,0 +1,21 @@
+{
+    "id": "kim2017binary",
+    "title": "Binary Blockchain: Solving The Mining Congestion Problem By Dynamically Adjusting The Mining Capacity",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170719,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Yoohwan Kim"
+        },
+        {
+            "affiliation": "",
+            "name": "Juyeon Jo"
+        }
+    ],
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-64051-8_3",
+    "venue": "International Conference on Applied Computing and Information Technology",
+    "peer-reviewed": true,
+    "abstract": ""
+}

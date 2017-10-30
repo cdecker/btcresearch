@@ -1,0 +1,33 @@
+{
+    "id": "li2017survey",
+    "title": "A Survey On The Security Of Blockchain Systems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Xiaoqi Li"
+        },
+        {
+            "affiliation": "",
+            "name": "Peng Jiang"
+        },
+        {
+            "affiliation": "",
+            "name": "Ting Chen"
+        },
+        {
+            "affiliation": "",
+            "name": "Xiapu Luo"
+        },
+        {
+            "affiliation": "",
+            "name": "Qiaoyan Wen"
+        }
+    ],
+    "url": "http://www.sciencedirect.com/science/article/pii/S0167739X17318332",
+    "venue": "Future Generation Computer Systems",
+    "peer-reviewed": true,
+    "abstract": ""
+}

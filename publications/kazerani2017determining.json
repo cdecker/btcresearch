@@ -1,0 +1,25 @@
+{
+    "id": "kazerani2017determining",
+    "title": "Determining The Usability Of Bitcoin For Beginners Using Change Tip And Coinbase",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170821,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Ali Kazerani"
+        },
+        {
+            "affiliation": "",
+            "name": "Domenic Rosati"
+        },
+        {
+            "affiliation": "",
+            "name": "Brian Lesser"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3121125",
+    "venue": "Proceedings of the 35th ACM International Conference on the Design of Communication",
+    "peer-reviewed": true,
+    "abstract": ""
+}

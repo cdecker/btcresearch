@@ -1,0 +1,28 @@
+{
+    "id": "lopezcaterpillar",
+    "title": "Caterpillar: A Blockchain-Based Business Process Management System",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Orlenys L{\\'o}pez-Pintado"
+        },
+        {
+            "affiliation": "",
+            "name": "Luciano Garc{\\i}a-Banuelos"
+        },
+        {
+            "affiliation": "",
+            "name": "Marlon Dumas"
+        },
+        {
+            "affiliation": "",
+            "name": "Ingo Weber"
+        }
+    ],
+    "url": "http://www.imweber.de/downloads/Caterpillar-ABlockchain-BasedBusinessProcessManagementSystem-BPMDemo2017--authors-copy.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

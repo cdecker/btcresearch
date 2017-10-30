@@ -1,0 +1,44 @@
+{
+    "id": "schmidt2017unibyte",
+    "title": "Unibyte-A Unified Framework For Blockchain Based Business Integration",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171023,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Stefan Schmidt"
+        },
+        {
+            "affiliation": "",
+            "name": "Marten Jung"
+        },
+        {
+            "affiliation": "",
+            "name": "Thomas Schmidt"
+        },
+        {
+            "affiliation": "",
+            "name": "Ingo Sterzinger"
+        },
+        {
+            "affiliation": "",
+            "name": "G{\\\"u}nter Schmidt"
+        },
+        {
+            "affiliation": "",
+            "name": "Moritz Gomm"
+        },
+        {
+            "affiliation": "",
+            "name": "Klaus Tschirschke"
+        },
+        {
+            "affiliation": "",
+            "name": "Tapio Reisinger"
+        }
+    ],
+    "url": "https://unibyte.io/download/unibyte_whitepaper.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

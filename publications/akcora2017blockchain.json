@@ -1,0 +1,25 @@
+{
+    "id": "akcora2017blockchain",
+    "title": "Blockchain: A Graph Primer",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Cuneyt Gurcan Akcora"
+        },
+        {
+            "affiliation": "",
+            "name": "Yulia R Gel"
+        },
+        {
+            "affiliation": "",
+            "name": "Murat Kantarcioglu"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1708.08749",
+    "venue": "arXiv preprint arXiv:1708.08749",
+    "peer-reviewed": true,
+    "abstract": ""
+}

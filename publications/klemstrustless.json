@@ -1,0 +1,36 @@
+{
+    "id": "klemstrustless",
+    "title": "Trustless Intermediation In Blockchain-Based Decentralized Service Marketplaces",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Markus Klems"
+        },
+        {
+            "affiliation": "",
+            "name": "Jacob Eberhardt"
+        },
+        {
+            "affiliation": "",
+            "name": "Stefan Tai"
+        },
+        {
+            "affiliation": "",
+            "name": "Steffen H{\\\"a}rtlein"
+        },
+        {
+            "affiliation": "",
+            "name": "Simon Buchholz"
+        },
+        {
+            "affiliation": "",
+            "name": "Ahmed Tidjani"
+        }
+    ],
+    "url": "http://www.ise.tu-berlin.de/fileadmin/fg308/publications/2017/2017-klems-eberhardt-tai-service-marketplace.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

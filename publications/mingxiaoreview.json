@@ -1,0 +1,32 @@
+{
+    "id": "mingxiaoreview",
+    "title": "A Review On Consensus Algorithm Of Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Du Mingxiao"
+        },
+        {
+            "affiliation": "",
+            "name": "Ma Xiaofeng"
+        },
+        {
+            "affiliation": "",
+            "name": "Zhang Zhe"
+        },
+        {
+            "affiliation": "",
+            "name": "Wang Xiangwei"
+        },
+        {
+            "affiliation": "",
+            "name": "Chen Qijun"
+        }
+    ],
+    "url": "http://www.smc2017.org/SMC2017_Papers/media/files/0525.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

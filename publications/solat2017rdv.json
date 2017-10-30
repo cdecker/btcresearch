@@ -1,0 +1,16 @@
+{
+    "id": "solat2017rdv",
+    "title": "Rdv: Register, Deposit, Vote: A Full Decentralized Consensus Algorithm For Blockchain Based Networks",
+    "year": 2017,
+    "type": "phdthesis",
+    "sortkey": 20170719,
+    "authors": [
+        {
+            "affiliation": "Sorbonne University, UPMC",
+            "name": "Siamak Solat"
+        }
+    ],
+    "url": "https://hal-lara.archives-ouvertes.fr/hal-01560617/document",
+    "peer-reviewed": false,
+    "abstract": ""
+}

@@ -1,0 +1,24 @@
+{
+    "id": "prietodistributed",
+    "title": "Distributed Sequential Consensus In Networks. Analysis Of Partially-Connected Blockchains With Uncertainty.",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171023,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Francisco Prieto-Castrillo"
+        },
+        {
+            "affiliation": "",
+            "name": "Sergi Kushch"
+        },
+        {
+            "affiliation": "",
+            "name": "Juan Manuel Corchado Rodr{\\'\\i}guez"
+        }
+    ],
+    "url": "http://downloads.hindawi.com/journals/complexity/aip/4832740.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

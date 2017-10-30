@@ -1,0 +1,25 @@
+{
+    "id": "van2017process",
+    "title": "Process Memory Investigation Of The Bitcoin Clients Electrum And Bitcoin Core",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Luuc van der Horst"
+        },
+        {
+            "affiliation": "",
+            "name": "Kim-Kwang Raymond Choo"
+        },
+        {
+            "affiliation": "",
+            "name": "Nhien-An Le-Khac"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/iel7/6287639/6514899/08058429.pdf",
+    "venue": "IEEE Access",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,36 @@
+{
+    "id": "liuidentity",
+    "title": "An Identity Management System Based On Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170909,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Yuan Liu"
+        },
+        {
+            "affiliation": "",
+            "name": "Zheng Zhao"
+        },
+        {
+            "affiliation": "",
+            "name": "Guibing Guo"
+        },
+        {
+            "affiliation": "",
+            "name": "Xingwei Wang"
+        },
+        {
+            "affiliation": "",
+            "name": "Zhenhua Tan"
+        },
+        {
+            "affiliation": "",
+            "name": "Shuang Wang"
+        }
+    ],
+    "url": "https://www.ucalgary.ca/pst2017/files/pst2017/paper-8.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

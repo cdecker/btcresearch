@@ -1,0 +1,33 @@
+{
+    "id": "xiong2017edge",
+    "title": "Edge Computing Resource Management And Pricing For Mobile Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Zehui Xiong"
+        },
+        {
+            "affiliation": "",
+            "name": "Shaohan Feng"
+        },
+        {
+            "affiliation": "",
+            "name": "Dusit Niyato"
+        },
+        {
+            "affiliation": "",
+            "name": "Ping Wang"
+        },
+        {
+            "affiliation": "",
+            "name": "Zhu Han"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1710.01567",
+    "venue": "arXiv preprint arXiv:1710.01567",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,29 @@
+{
+    "id": "li2017securing",
+    "title": "Securing Proof-Of-Stake Blockchain Protocols",
+    "year": 2017,
+    "type": "incollection",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Wenting Li"
+        },
+        {
+            "affiliation": "",
+            "name": "S{\\'e}bastien Andreina"
+        },
+        {
+            "affiliation": "",
+            "name": "Jens-Matthias Bohli"
+        },
+        {
+            "affiliation": "",
+            "name": "Ghassan Karame"
+        }
+    ],
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-67816-0_17",
+    "venue": "Data Privacy Management, Cryptocurrencies and Blockchain Technology",
+    "peer-reviewed": true,
+    "abstract": ""
+}

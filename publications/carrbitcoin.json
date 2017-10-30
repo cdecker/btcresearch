@@ -1,0 +1,25 @@
+{
+    "id": "carrbitcoin",
+    "title": "Bitcoin Unchained",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170717,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Christopher Carr"
+        },
+        {
+            "affiliation": "",
+            "name": "Colin Boyd"
+        },
+        {
+            "affiliation": "",
+            "name": "Xavier Boyen"
+        }
+    ],
+    "url": "https://ercim-news.ercim.eu/images/stories/EN110/EN110-web.pdf#page=15",
+    "venue": "Blockchain Engineering",
+    "peer-reviewed": true,
+    "abstract": ""
+}

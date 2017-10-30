@@ -1,0 +1,25 @@
+{
+    "id": "yang2017double",
+    "title": "Double-Spending Detection For Fast Bitcoin Payment Based On Artificial Immune",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171023,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Jin Yang"
+        },
+        {
+            "affiliation": "",
+            "name": "Tao Yang"
+        },
+        {
+            "affiliation": "",
+            "name": "Ping Lin"
+        }
+    ],
+    "url": "https://books.google.com/books?hl=en&lr=&id=I-85DwAAQBAJ&oi=fnd&pg=PA133&dq=Double-Spending+Detection+for+Fast+Bitcoin+Payment+Based+on+Artificial+Immune+J+Yang,+T+Yang,+P+Lin%3F-+%3F%3FComputer+Science:+35th+National+Conference,+NCTCS%3F%3F,+2017&ots=JQ7225qQ3a&sig=aVsFhM0ZlWsWjvIwaO47eGA5iBs",
+    "venue": "Theoretical Computer Science: 35th National Conference, NCTCS 2017, Wuhan, China, October 14-15, 2017, Proceedings",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,25 @@
+{
+    "id": "meshkov2017short",
+    "title": "Short Paper: Revisiting Difficulty Control For Blockchain Systems",
+    "year": 2017,
+    "type": "incollection",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Dmitry Meshkov"
+        },
+        {
+            "affiliation": "",
+            "name": "Alexander Chepurnoy"
+        },
+        {
+            "affiliation": "",
+            "name": "Marc Jansen"
+        }
+    ],
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-67816-0_25",
+    "venue": "Data Privacy Management, Cryptocurrencies and Blockchain Technology",
+    "peer-reviewed": true,
+    "abstract": ""
+}

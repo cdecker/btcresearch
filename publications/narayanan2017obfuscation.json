@@ -1,0 +1,21 @@
+{
+    "id": "narayanan2017obfuscation",
+    "title": "Obfuscation In Bitcoin: Techniques And Politics",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170626,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Arvind Narayanan"
+        },
+        {
+            "affiliation": "",
+            "name": "Malte M{\\\"o}ser"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1706.05432",
+    "venue": "arXiv preprint arXiv:1706.05432",
+    "peer-reviewed": true,
+    "abstract": ""
+}

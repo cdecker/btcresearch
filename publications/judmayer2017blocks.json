@@ -1,0 +1,29 @@
+{
+    "id": "judmayer2017blocks",
+    "title": "Blocks And Chains: Introduction To Bitcoin, Cryptocurrencies, And Their Consensus Mechanisms",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170626,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Aljosha Judmayer"
+        },
+        {
+            "affiliation": "",
+            "name": "Nicholas Stifter"
+        },
+        {
+            "affiliation": "",
+            "name": "Katharina Krombholz"
+        },
+        {
+            "affiliation": "",
+            "name": "Edgar Weippl"
+        }
+    ],
+    "url": "http://www.morganclaypool.com/doi/abs/10.2200/S00773ED1V01Y201704SPT020",
+    "venue": "Synthesis Lectures on Information Security, Privacy, \\& Trust",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,25 @@
+{
+    "id": "oliver2017proposal",
+    "title": "Proposal For A Fully Decentralized Blockchain And Proof-Of-Work Algorithm For Solving Np-Complete Problems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170910,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Carlos G Oliver"
+        },
+        {
+            "affiliation": "",
+            "name": "Alessandro Ricottone"
+        },
+        {
+            "affiliation": "",
+            "name": "Pericles Philippopoulos"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1708.09419",
+    "venue": "arXiv preprint arXiv:1708.09419",
+    "peer-reviewed": true,
+    "abstract": ""
+}

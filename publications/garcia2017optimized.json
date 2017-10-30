@@ -1,0 +1,29 @@
+{
+    "id": "garcia2017optimized",
+    "title": "Optimized Execution Of Business Processes On Blockchain",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170910,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Luciano Garc{\\'\\i}a-Ba{\\~n}uelos"
+        },
+        {
+            "affiliation": "",
+            "name": "Alexander Ponomarev"
+        },
+        {
+            "affiliation": "",
+            "name": "Marlon Dumas"
+        },
+        {
+            "affiliation": "",
+            "name": "Ingo Weber"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1612.03152",
+    "venue": "International Conference on Business Process Management",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,24 @@
+{
+    "id": "burchertscalable",
+    "title": "Scalable Funding Of Bitcoin Micropayment Channel Networks",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170914,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Conrad Burchert"
+        },
+        {
+            "affiliation": "",
+            "name": "Christian Decker"
+        },
+        {
+            "affiliation": "",
+            "name": "Roger Wattenhofer"
+        }
+    ],
+    "url": "https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba96/Scalable_Funding_Of_Blockchain_Micropayment_Networks.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

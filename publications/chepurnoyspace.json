@@ -1,0 +1,20 @@
+{
+    "id": "chepurnoyspace",
+    "title": "On Space-Scarce Economy In Blockchain Systems",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170712,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Alexander Chepurnoy"
+        },
+        {
+            "affiliation": "",
+            "name": "Dmitry Meshkov"
+        }
+    ],
+    "url": "http://eprint.iacr.org/2017/644.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

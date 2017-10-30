@@ -1,0 +1,29 @@
+{
+    "id": "goldfeder2017cookie",
+    "title": "When The Cookie Meets The Blockchain: Privacy Risks Of Web Payments Via Cryptocurrencies",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170821,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Steven Goldfeder"
+        },
+        {
+            "affiliation": "",
+            "name": "Harry Kalodner"
+        },
+        {
+            "affiliation": "",
+            "name": "Dillon Reisman"
+        },
+        {
+            "affiliation": "",
+            "name": "Arvind Narayanan"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1708.04748",
+    "venue": "arXiv preprint arXiv:1708.04748",
+    "peer-reviewed": true,
+    "abstract": ""
+}

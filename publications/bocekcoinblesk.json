@@ -1,0 +1,29 @@
+{
+    "id": "bocekcoinblesk",
+    "title": "Coinblesk--A Real-Time, Bitcoin-Based Payment Approach And App",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170717,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Thomas Bocek"
+        },
+        {
+            "affiliation": "",
+            "name": "Sina Rafati"
+        },
+        {
+            "affiliation": "",
+            "name": "Bruno Rodrigues"
+        },
+        {
+            "affiliation": "",
+            "name": "Burkhard Stiller"
+        }
+    ],
+    "url": "https://ercim-news.ercim.eu/images/stories/EN110/EN110-web.pdf#page=14",
+    "venue": "Blockchain Engineering",
+    "peer-reviewed": true,
+    "abstract": ""
+}

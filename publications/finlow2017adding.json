@@ -1,0 +1,16 @@
+{
+    "id": "finlow2017adding",
+    "title": "Adding Trust To Cap: Blockchain As A Strong Eventual Consistency Recovery Strategy",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Keir Finlow-Bates"
+        }
+    ],
+    "url": "http://www.chainfrog.com/wp-content/uploads/2017/09/CAP-paper.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

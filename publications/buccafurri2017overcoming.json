@@ -1,0 +1,29 @@
+{
+    "id": "buccafurri2017overcoming",
+    "title": "Overcoming Limits Of Blockchain For Iot Applications",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170821,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Francesco Buccafurri"
+        },
+        {
+            "affiliation": "",
+            "name": "Gianluca Lax"
+        },
+        {
+            "affiliation": "",
+            "name": "Serena Nicolazzo"
+        },
+        {
+            "affiliation": "",
+            "name": "Antonino Nocera"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3098983",
+    "venue": "Proceedings of the 12th International Conference on Availability, Reliability and Security",
+    "peer-reviewed": true,
+    "abstract": ""
+}

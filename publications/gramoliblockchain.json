@@ -1,0 +1,16 @@
+{
+    "id": "gramoliblockchain",
+    "title": "From Blockchain Consensus Back To Byzantine Consensus",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Vincent Gramoli"
+        }
+    ],
+    "url": "http://poseidon.it.usyd.edu.au/~gramoli/web/doc/pubs2/Blockchain2Byzantine.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

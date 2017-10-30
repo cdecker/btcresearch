@@ -1,0 +1,24 @@
+{
+    "id": "garay2017proofs",
+    "title": "Proofs Of Work For Blockchain Protocols",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Juan A Garay"
+        },
+        {
+            "affiliation": "",
+            "name": "Aggelos Kiayias"
+        },
+        {
+            "affiliation": "",
+            "name": "Giorgos Panagiotakos"
+        }
+    ],
+    "url": "https://eprint.iacr.org/2017/775.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

@@ -1,0 +1,33 @@
+{
+    "id": "al2017chainspace",
+    "title": "Chainspace: A Sharded Smart Contracts Platform",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170821,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Mustafa Al-Bassam"
+        },
+        {
+            "affiliation": "",
+            "name": "Alberto Sonnino"
+        },
+        {
+            "affiliation": "",
+            "name": "Shehar Bano"
+        },
+        {
+            "affiliation": "",
+            "name": "Dave Hrycyszyn"
+        },
+        {
+            "affiliation": "",
+            "name": "George Danezis"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1708.03778",
+    "venue": "arXiv preprint arXiv:1708.03778",
+    "peer-reviewed": true,
+    "abstract": ""
+}

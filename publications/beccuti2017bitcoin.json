@@ -1,0 +1,24 @@
+{
+    "id": "beccuti2017bitcoin",
+    "title": "The Bitcoin Mining Game: On The Optimality Of Honesty In Proof-Of-Work Consensus Mechanism",
+    "year": 2017,
+    "type": "techreport",
+    "sortkey": 20170803,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Juan Beccuti"
+        },
+        {
+            "affiliation": "",
+            "name": "Christian Jaag"
+        },
+        {
+            "affiliation": "",
+            "name": "others"
+        }
+    ],
+    "url": "http://www.swiss-economics.ch/RePEc/files/0060JaagBeccuti.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

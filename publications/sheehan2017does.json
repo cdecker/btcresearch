@@ -1,0 +1,37 @@
+{
+    "id": "sheehan2017does",
+    "title": "Does Miner Pooling Impact Bitcoin'S Ability To Stay Decentralized?",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "David Sheehan"
+        },
+        {
+            "affiliation": "",
+            "name": "Rob Gleasure"
+        },
+        {
+            "affiliation": "",
+            "name": "Joe Feller"
+        },
+        {
+            "affiliation": "",
+            "name": "Phillip O'Reilly"
+        },
+        {
+            "affiliation": "",
+            "name": "Shanping Li"
+        },
+        {
+            "affiliation": "",
+            "name": "Jerry Cristiforo"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3125462",
+    "venue": "Proceedings of the 13th International Symposium on Open Collaboration",
+    "peer-reviewed": true,
+    "abstract": ""
+}

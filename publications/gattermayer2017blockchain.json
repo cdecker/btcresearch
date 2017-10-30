@@ -1,0 +1,21 @@
+{
+    "id": "gattermayer2017blockchain",
+    "title": "Blockchain-Based Multi-Level Scoring System For P2P Clusters",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170914,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Josef Gattermayer"
+        },
+        {
+            "affiliation": "",
+            "name": "Pavel Tvrdik"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/8026098/",
+    "venue": "Parallel Processing Workshops (ICPPW), 2017 46th International Conference on",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,25 @@
+{
+    "id": "maesa2017blockchain",
+    "title": "Blockchain Based Access Control",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170620,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Damiano Di Francesco Maesa"
+        },
+        {
+            "affiliation": "",
+            "name": "Paolo Mori"
+        },
+        {
+            "affiliation": "",
+            "name": "Laura Ricci"
+        }
+    ],
+    "url": "http://link.springer.com/chapter/10.1007/978-3-319-59665-5_15",
+    "venue": "IFIP International Conference on Distributed Applications and Interoperable Systems",
+    "peer-reviewed": true,
+    "abstract": ""
+}

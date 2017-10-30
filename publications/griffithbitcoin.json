@@ -1,0 +1,20 @@
+{
+    "id": "griffithbitcoin",
+    "title": "Bitcoin Verification Latency",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Ken Griffith"
+        },
+        {
+            "affiliation": "",
+            "name": "Ian Grigg"
+        }
+    ],
+    "url": "https://pdfs.semanticscholar.org/7aa2/4df1361eba488c85d06264cfdbcd09c1abde.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

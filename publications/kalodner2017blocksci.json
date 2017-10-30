@@ -1,0 +1,33 @@
+{
+    "id": "kalodner2017blocksci",
+    "title": "Blocksci: Design And Applications Of A Blockchain Analysis Platform",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170919,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Harry Kalodner"
+        },
+        {
+            "affiliation": "",
+            "name": "Steven Goldfeder"
+        },
+        {
+            "affiliation": "",
+            "name": "Alishah Chator"
+        },
+        {
+            "affiliation": "",
+            "name": "Malte M{\\\"o}ser"
+        },
+        {
+            "affiliation": "",
+            "name": "Arvind Narayanan"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1709.02489",
+    "venue": "arXiv preprint arXiv:1709.02489",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,29 @@
+{
+    "id": "chanson2017blockchain",
+    "title": "Blockchain As A Privacy Enabler: An Odometer Fraud Prevention System",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170914,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Mathieu Chanson"
+        },
+        {
+            "affiliation": "",
+            "name": "Andreas Bogner"
+        },
+        {
+            "affiliation": "",
+            "name": "Felix Wortmann"
+        },
+        {
+            "affiliation": "",
+            "name": "Elgar Fleisch"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3123078",
+    "venue": "Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers",
+    "peer-reviewed": true,
+    "abstract": ""
+}

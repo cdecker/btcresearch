@@ -1,0 +1,25 @@
+{
+    "id": "knirsch2017privacy",
+    "title": "Privacy-Preserving Blockchain-Based Electric Vehicle Charging With Dynamic Tariff Decisions",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170909,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Fabian Knirsch"
+        },
+        {
+            "affiliation": "",
+            "name": "Andreas Unterweger"
+        },
+        {
+            "affiliation": "",
+            "name": "Dominik Engel"
+        }
+    ],
+    "url": "https://link.springer.com/article/10.1007/s00450-017-0348-5",
+    "venue": "Computer Science-Research and Development",
+    "peer-reviewed": true,
+    "abstract": ""
+}

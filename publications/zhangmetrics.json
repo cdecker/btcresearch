@@ -1,0 +1,28 @@
+{
+    "id": "zhangmetrics",
+    "title": "Metrics For Assessing Blockchain-Based Healthcare Decentralized Apps",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170909,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Peng Zhang"
+        },
+        {
+            "affiliation": "",
+            "name": "Douglas C Schmidt"
+        },
+        {
+            "affiliation": "",
+            "name": "Jules White"
+        },
+        {
+            "affiliation": "",
+            "name": "Gunther Lenz"
+        }
+    ],
+    "url": "http://www.dre.vanderbilt.edu/~schmidt/PDF/IEEE-Healthcom-2017.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

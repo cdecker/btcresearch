@@ -1,0 +1,32 @@
+{
+    "id": "malavoltaconcurrency",
+    "title": "Concurrency And Privacy With Payment-Channel Networks",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170709,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Giulio Malavolta"
+        },
+        {
+            "affiliation": "",
+            "name": "Pedro Moreno-Sanchez"
+        },
+        {
+            "affiliation": "",
+            "name": "Aniket Kate"
+        },
+        {
+            "affiliation": "",
+            "name": "Matteo Maffei"
+        },
+        {
+            "affiliation": "",
+            "name": "Srivatsan Ravi"
+        }
+    ],
+    "url": "https://www.cs.purdue.edu/homes/pmorenos/public/paychannels.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

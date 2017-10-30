@@ -1,0 +1,33 @@
+{
+    "id": "kwon2017selfish",
+    "title": "Be Selfish And Avoid Dilemmas: Fork After Withholding (Faw) Attacks On Bitcoin",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170910,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Yujin Kwon"
+        },
+        {
+            "affiliation": "",
+            "name": "Dohyun Kim"
+        },
+        {
+            "affiliation": "",
+            "name": "Yunmok Son"
+        },
+        {
+            "affiliation": "",
+            "name": "Eugene Vasserman"
+        },
+        {
+            "affiliation": "",
+            "name": "Yongdae Kim"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1708.09790",
+    "venue": "arXiv preprint arXiv:1708.09790",
+    "peer-reviewed": true,
+    "abstract": ""
+}

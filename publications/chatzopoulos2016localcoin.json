@@ -1,0 +1,29 @@
+{
+    "id": "chatzopoulos2016localcoin",
+    "title": "Localcoin: An Ad-Hoc Payment Scheme For Areas With High Connectivity: Poster",
+    "year": 2016,
+    "type": "inproceedings",
+    "sortkey": 20170904,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Dimitris Chatzopoulos"
+        },
+        {
+            "affiliation": "",
+            "name": "Sujit Gujar"
+        },
+        {
+            "affiliation": "",
+            "name": "Boi Faltings"
+        },
+        {
+            "affiliation": "",
+            "name": "Pan Hui"
+        }
+    ],
+    "url": "https://infoscience.epfl.ch/record/224715/files/p365-chatzopoulos.pdf",
+    "venue": "Proceedings of the 17th ACM International Symposium on Mobile Ad Hoc Networking and Computing",
+    "peer-reviewed": true,
+    "abstract": ""
+}
