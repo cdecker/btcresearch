@@ -1,0 +1,28 @@
+{
+    "id": "zhangapplying",
+    "title": "Applying Software Patterns To Address Interoperability In Blockchain-Based Healthcare Apps",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170616,
+    "authors": [
+        {
+            "affiliation": "Vanderbilt University",
+            "name": "Peng Zhang"
+        },
+        {
+            "affiliation": "Vanderbilt University",
+            "name": "Jules White"
+        },
+        {
+            "affiliation": "Vanderbilt University",
+            "name": "Douglas C Schmidt"
+        },
+        {
+            "affiliation": "Varian Medical Systems",
+            "name": "Gunther Lenz"
+        }
+    ],
+    "url": "https://www.dre.vanderbilt.edu/~schmidt/PDF/PLoP-2017-blockchain.pdf",
+    "peer-reviewed": false,
+    "abstract": "Since the inception of Bitcoin, its underlying decentralized data structure–the blockchain–has garnered much attention due to its key properties, such as decentralization, transparency, and immutability. These properties, combined with programmable smart contracts, make blockchains suitable for decentralized apps (DApps) that require disintermediation through trustless exchange, consistent and incorruptible transaction records, and operational models beyond cryptocurrency. In particular, blockchains have the potential to address healthcare interoperability issues, such as enabling effective interactions between users and medical applications, delivering patient data securely to a variety of organizations and devices, and improving the overall efficiency of medical practice workflow. Despite the interest in using blockchain technology for healthcare interoperability, however, little information is available on the approaches for designing blockchain-based DApps targeting healthcare. This paper provides an initial step in filling this gap by showing: (1) the features and implementation challenges in healthcare interoperability, (2) an end-to-end case study of a blockchain-based healthcare DApps we are developing, and (3) how designing blockchain-based DApps using familiar software patterns can help address healthcare specific challenges."
+}

@@ -1,0 +1,16 @@
+{
+    "id": "van2017blockchain",
+    "title": "Blockchain: A Suitable Technology In A Research Information Context?",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170626,
+    "authors": [
+        {
+            "affiliation": "Ghent University",
+            "name": "Geert Van Grootel"
+        }
+    ],
+    "url": "http://dspacecris.eurocris.org/handle/11366/588",
+    "peer-reviewed": false,
+    "abstract": "The presentation argues that the blockchain model for transactions among strangers without a central authority -- with bitcoin as its most popular current application -- could also be applied in the realm of research information management. The basics of the blockchain technology are explained and a case study is presented showing how such approach might work."
+}

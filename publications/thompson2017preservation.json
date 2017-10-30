@@ -1,0 +1,16 @@
+{
+    "id": "thompson2017preservation",
+    "title": "The Preservation Of Digital Signatures On The Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170807,
+    "authors": [
+        {
+            "affiliation": "Unversity of British Columbia",
+            "name": "Stephen Thompson"
+        }
+    ],
+    "url": "http://ojs.library.ubc.ca/index.php/seealso/article/view/188841/186526",
+    "peer-reviewed": false,
+    "abstract": "The blockchain is a distributed network that records digital transactions on a publicly accessible ledger. This paper explores whether blockchain technology is a suitable platform for the preservation of digital signatures and public/private key pairs. Conventional infrastructures use digital certificates, issued by certification authorities, to declare the authentication of key pairs and digital signatures. This paper suggests that the blockchain’s hash functions offer a better strategy for signature preservation than digital certificates. Compared to digital certificates, hashing provides better privacy and security. It is a form of authentication that does not require trust in a third-party authority, and the distributed nature of the blockchain network removes the problem of a single point of failure. This article is an appendix to the research paper Blockchain Technology for Recordkeeping (Lemieux, 2016)."
+}

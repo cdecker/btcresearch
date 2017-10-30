@@ -1,0 +1,28 @@
+{
+    "id": "xiang2017jcledger",
+    "title": "Jcledger: A Blockchain Based Distributed Ledger For Jointcloud Computing",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170731,
+    "authors": [
+        {
+            "name": "Fu Xiang"
+        },
+        {
+            "name": "Wang Huaimin"
+        },
+        {
+            "name": "Shi Peichang"
+        },
+        {
+            "name": "Fu Yingwei"
+        },
+        {
+            "name": "Wang Yijie"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7979833/",
+    "venue": "Distributed Computing Systems Workshops (ICDCSW)",
+    "peer-reviewed": true,
+    "abstract": "With the development of Economic Globalization, traditional single-cloud providers can not meet the needs of the explosive, global, diverse cloud services. JointCloud aims at empowering the cooperation among multiple Cloud Service Providers (CSP) to provide cross-cloud services. Our work in this paper is mainly focused on the accounting technology for JointCloud computing and we propose the JCLedger — a blockchain based distributed ledger. A new participant CCP (Cryptocurrency Provider) is introduced into the JointCloud collaboration environment to provide the cryptocurrency transferred. We have a detailed description of JCLedger model. We further analyze the four most important mechanisms for JCLedger and provide basic perspectives for in-depth analysis. Finally, we discuss the innovations of JCLedger and our future work in this field."
+}

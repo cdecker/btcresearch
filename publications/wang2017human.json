@@ -1,0 +1,37 @@
+{
+    "id": "wang2017human",
+    "title": "Human Resource Information Management Model Based On Blockchain Technology",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170614,
+    "authors": [
+        {
+            "affiliation": "Dalian Maritime University",
+            "name": "Xin Wang"
+        },
+        {
+            "affiliation": "Beihang University",
+            "name": "Libo Feng"
+        },
+        {
+            "affiliation": "Beihang University",
+            "name": "Hui Zhang"
+        },
+        {
+            "affiliation": "University of Science and Technology Macau",
+            "name": "Chan Lyu"
+        },
+        {
+            "affiliation": "Beihang University",
+            "name": "Li Wang"
+        },
+        {
+            "affiliation": "Beihang University",
+            "name": "Yue You"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7943308/",
+    "venue": "Service-Oriented System Engineering (SOSE)",
+    "peer-reviewed": true,
+    "abstract": "The authenticity of human resource information has become an important factor that affects the cost and efficiency of human resource management. With the rapid development of mobile devices and Internet technology, various human resource risks caused by information asymmetry constantly bring economic loss, and even a fatal blow, to enterprises. Based on Blockchain(BC), this paper aims to combine traditional encryption technology with Internet-distributed technology, to establish a human resource information management model that reduces the risk of authenticity of human resource information. This model aims to solve the lack of discrimination of the authenticity of human resource information, and to provide authentic and effective decision support information to the human resource management of an organization. The operation method, such as Bitcoin, is used to certify the human resource documentations, as well as to bind the information and the documentation. Furthermore, human resource information is recorded in an accounting book based on BC technology; thus, modifying and validating may be difficult in the entire net work. Consensus mechanism, smart contract, accounting, and payment functions of BC can provide the basic support for human resource information management. Moreover, decentralization of the protection mechanism can be achieved to achieve low cost and high efficiency of information transfer, and to ensure a high-performance work system in the human resource management of enterprises."
+}

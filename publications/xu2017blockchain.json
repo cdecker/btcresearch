@@ -1,0 +1,29 @@
+{
+    "id": "xu2017blockchain",
+    "title": "A Blockchain-Based Storage System For Data Analytics In The Internet Of Things",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170702,
+    "authors": [
+        {
+            "affiliation": "A*Star",
+            "name": "Quanqing Xu"
+        },
+        {
+            "affiliation": "A*Star",
+            "name": "Khin Mi Mi Aung"
+        },
+        {
+            "affiliation": "A*Star",
+            "name": "Yongqing Zhu"
+        },
+        {
+            "affiliation": "A*Star",
+            "name": "Khai Leong Yong"
+        }
+    ],
+    "url": "https://books.google.com/books?hl=en&lr=&id=iXYpDwAAQBAJ&oi=fnd&pg=PA119&dq=A+Blockchain-Based+Storage+System+for+Data+Analytics+in+the+Internet+of+Things+Q+Xu,+KMM+Aung,+Y+Zhu,+KL+Yong&ots=XT2RLXiG75&sig=9zQrqSSkvhzXK7D81ZRxhS7k60I",
+    "venue": "New Advances in the Internet of Things",
+    "peer-reviewed": true,
+    "abstract": "Without a central authority, blockchains can easily enable the management of transactions. Smart contracts stored on blockchains are self-executing contractual states that are not controlled by anybody, so they can be trusted. In addition, due to increasing improvements in processor and memory technology, IoT (Internet of Things) devices have more powerful processing power and greater memory space, which allow them to execute ..."
+}

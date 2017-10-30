@@ -1,0 +1,31 @@
+{
+    "id": "zheng2017overview",
+    "title": "An Overview Of Blockchain Technology: Architecture, Consensus, And Future Trends",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170807,
+    "authors": [
+        {
+            "affiliation": "Sun Yat-Sen University",
+            "name": "Zibin Zheng"
+        },
+        {
+            "affiliation": "Sun Yat-Sen University",
+            "name": "Shaoan Xie"
+        },
+        {
+            "affiliation": "Macau University of Science and Technology",
+            "name": "Hongning Dai"
+        },
+        {
+            "name": "Xiangping Chen"
+        },
+        {
+            "name": "Huaimin Wang"
+        }
+    ],
+    "url": "https://www.researchgate.net/profile/Shaoan_Xie/publication/318131748_An_Overview_of_Blockchain_Technology_Architecture_Consensus_and_Future_Trends/links/595b87c4aca272f3c08872e8/An-Overview-of-Blockchain-Technology-Architecture-Consensus-and-Future-Trends.pdf",
+    "venue": "International Congress on Big Data",
+    "peer-reviewed": true,
+    "abstract": "Blockchain, the foundation of Bitcoin, has received extensive attentions recently. Blockchain serves as an immutable ledger which allows transactions take place in a decentralized manner. Blockchain-based applications are springing up, covering numerous fields including financial services, reputation system and Internet of Things (IoT), and so on. However, there are still many challenges of blockchain technology such as scalability and security problems waiting to be overcome. This paper presents a comprehensive overview on blockchain technology. We provide an overview of blockchain architechture firstly and compare some typical consensus algorithms used in different blockchains. Furthermore, technical challenges and recent advances are briefly listed. We also lay out possible future trends for blockchain."
+}

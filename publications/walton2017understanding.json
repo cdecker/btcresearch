@@ -1,0 +1,20 @@
+{
+    "id": "walton2017understanding",
+    "title": "Understanding Digital Crime, Trust, And Control In Blockchain Technologies",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170616,
+    "authors": [
+        {
+            "affiliation": "Virginia Commonwealth University College of Humanities and Sciences",
+            "name": "Joseph B Walton"
+        },
+        {
+            "affiliation": "University of North Carolina Greensboro",
+            "name": "Gurpreet Dhillon"
+        }
+    ],
+    "url": "http://aisel.aisnet.org/amcis2017/InformationSystems/Presentations/36/",
+    "peer-reviewed": false,
+    "abstract": "We review seminal social science theories of Trust & Control to consider how their application to Blockchain and Cryptocurrency (DLT, e.g., Bitcoin, Ethereum, Ripple) provide the potential for fresh criminal and information security challenges to traditional mechanisms of criminal detection and law enforcement. The social science theories of trust and control provide an accessible matrix to evaluate malicious behavior related to these new forms of money and currency. This foreshadows the ability for DLTs to become the ‘poison of choice’ for crime and security objectives or perhaps be avoided altogether by criminals. We argue that an understanding of DLTs is incomplete without a social science underpinning and framework which trust and control provide. The continued use of these technologies will require public and private institutions to rethink their approaches to crime prevention and information security for purely digital threats. "
+}

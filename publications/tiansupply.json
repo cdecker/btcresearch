@@ -1,0 +1,16 @@
+{
+    "id": "tiansupply",
+    "title": "A Supply Chain Traceability System For Food Safety Based On Haccp, Blockchain \\& Internet Of Things",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170807,
+    "authors": [
+        {
+            "affiliation": "Vienna University of Economics and Business",
+            "name": "Feng Tian"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/iel7/7988695/7996114/07996119.pdf",
+    "peer-reviewed": false,
+    "abstract": "In recent times food safety has drawn upsurge of academic and commercial concerns. In supply chain area, with the rapid growth of internet technologies, a lot of emerging technologies have been applied in traceability systems. However, to date, nearly all of these systems are centralized which are monopolistic, asymmetric and opaque that could result in the trust problem, such as fraud, corruption, tampering and falsifying information. Besides, centralized system is vulnerable to collapse, since a single point of breakdown will lead the whole system to be crashed. Today, a new technology called the blockchain which is a ground-breaking innovation in decentralized information technology presents a whole new approach. However, since this technology is still in its early stages, it has some inherent defects, in which scalability become a primary and urgent one when we face the mass data in the real world. In this paper we will build a food supply chain traceability system for real-time food tracing based on HACCP (Hazard Analysis and Critical Control Points), blockchain and Internet of things, which could provide an information platform for all the supply chain members with openness, transparency, neutrality, reliability and security. Furthermore, we introduce a new concept BigchainDB to fill the gap in the decentralized systems at scale. The paper concludes with a description of a use case and the challenges to adopt blockchain technology in the future food supply chain traceability systems are discussed."
+}

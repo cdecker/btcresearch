@@ -1,0 +1,33 @@
+{
+    "id": "wang2017pos",
+    "title": "Pos (Cenet2017) 085 An Unified Payment Method Of Charging Piles Based On Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20170803,
+    "authors": [
+        {
+            "affiliation": "Beijing Huitong Financial Information Technology CO. LTD",
+            "name": "Junsheng Wang"
+        },
+        {
+            "affiliation": "Beijing Huitong Financial Information Technology CO. LTD",
+            "name": "Qingsu Heb"
+        },
+        {
+            "affiliation": "Beijing Huitong Financial Information Technology CO. LTD",
+            "name": "Yu Xuc"
+        },
+        {
+            "affiliation": "Beijing Huitong Financial Information Technology CO. LTD",
+            "name": "Qingzhi Hand"
+        },
+        {
+            "affiliation": "Zhejiang Electric Power Corporation",
+            "name": "Ziqiang Zhou"
+        }
+    ],
+    "url": "https://pos.sissa.it/archive/conferences/299/085/CENet2017_085.pdf",
+    "peer-reviewed": true,
+    "venue": "International Conference on Computer Engineering and Network(CENet 2017)",
+    "abstract": "In order to reduce the dependence on oil,develop clean energy, alleviate environmental pollution and other issues, the electric car, as the representative of the new energy industry, has been greatly supported by the government and achieved vigorous development. Blockchain is an innovative revolution over the internet finance; however, the current trading mode involves the third party. As a result, the cost has increased while accompanied with reduced efficiency. In this article, in respect of the problem between different current charging piles not to achieve unified charge payment, we use the consortium blockchain to establish an unified payment channel without involvement of the third party. It can solve the problems such as great inconvenience to users caused by different charges and payment methods in different charging pile operators, and thus promote the rapid popularization of electric vehicles."
+}

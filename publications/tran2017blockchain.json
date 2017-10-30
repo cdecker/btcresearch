@@ -1,0 +1,20 @@
+{
+    "id": "tran2017blockchain",
+    "title": "Blockchain, The Future Opportunity For Trading Progression?",
+    "year": 2017,
+    "type": "misc",
+    "sortkey": 20170626,
+    "authors": [
+        {
+            "affiliation": "KTH Royal Institute Of Technology School Of Technology And Health",
+            "name": "Tony Tran"
+        },
+        {
+            "affiliation": "KTH Royal Institute Of Technology School Of Technology And Health",
+            "name": "Mats Levin"
+        }
+    ],
+    "url": "http://www.diva-portal.org/smash/get/diva2:1109208/FULLTEXT01.pdf",
+    "peer-reviewed": false,
+    "abstract": "The rapid expansion of computer technology have forced several business sectors to integrate with the continuous development of techniques in order to assist them in various tasks. Many fields have happily embraced the technology implementing it in numerous ways, however the development speed have proven difficult to keep up with. The insurance industry have struggled with ridding themselves of old and monolithic legacy systems with a haphazard construction. These systems are costly, cumbersome and often reliant on a “third party” centered structure creating such flaws as data leaks and monopolisation. Blockchain is a distributed ledger operating over a peer-to-peer basis, with the intention to unshackle contemporary system from their dependence towards central authorities. Additionally, the peer-to-peer architecture introduced a new form of transparency which differs from contemporary solutions used in centralised systems, beyond the peer-to-peer architecture, the blockchain also incorporated consensus algorithms, allowing peers to verify one another to achieve consensus regarding the validity of each block. This resulted in a \"trustless system\" considering no single party in the community is dependent on the credibility of a central authority. In order for the blockchain technology to be applicable on the market it must overcome obstacles such as privacy and the new EU data protection regulation “General protection data regulation”. However a vague defi- nition of personal data have caused ambiguity which appears to be irreconcilable with the blockchain technology. Research have therefore shifted its focus to explore opportunities for the technology to collaborate with techniques from centralisation in order to overcome its obstacles."
+}

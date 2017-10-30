@@ -1,0 +1,25 @@
+{
+    "id": "wang2017blockchain",
+    "title": "Blockchain Router: A Cross-Chain Communication Protocol",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170614,
+    "authors": [
+        {
+            "affiliation": "ZhongAn Information Technology Service Co.,Ltd",
+            "name": "Hui Wang"
+        },
+        {
+            "affiliation": "ZhongAn Information Technology Service Co.,Ltd",
+            "name": "Yuanyuan Cen"
+        },
+        {
+            "affiliation": "ZhongAn Information Technology Service Co.,Ltd",
+            "name": "Xuefeng Li"
+        }
+    ],
+    "url": "http://dl.acm.org/citation.cfm?id=3070634",
+    "venue": "International Conference on Informatics, Environment, Energy and Applications",
+    "peer-reviewed": true,
+    "abstract": "Cross-chain communication is one of the major design considerations in current blockchain systems [4-7] such as Ethereum[8]. Currently, Blockchain operates like information isolated island, they cannot obtain external data or execute transactions on their own. Motivated by recent studies [1-3] on blockchain's multiChain framework, we investigate the cross-chain communication. We introduces blockchain router, which empowers blockchains to connect and communicate cross chains. By establishing an economic model, blockchain router enables different blockchains in the network communicate with each other same like Internet network. In the network of blockchain router, some blockchain plays the role of a router which, according to the communication protocol, analyzes and transmits communication requests, dynamically maintaining a topology structure of the blockchain network."
+}

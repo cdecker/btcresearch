@@ -1,0 +1,22 @@
+{
+    "id": "yeh2017nchc",
+    "title": "Nchc Blockchain Construction Platform (Nbcp): Rapidly Constructing Blockchain Nodes Around Taiwan",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20170803,
+    "authors": [
+        {
+            "name": "Lo-Yao Yeh"
+        },
+        {
+            "name": "Peggy Joy Lu"
+        },
+        {
+            "name": "Jen-Wei Hu"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/7991607/",
+    "venue": "Digital Libraries (JCDL)",
+    "peer-reviewed": true,
+    "abstract": "Blockchain is an emerging technology that can be utilized to break ground for secure provenance through the use of a centralized-based application. The method of distributed ledger can serve as the trust machine mechanism to prevent the malicious attacks. This paper introduces a novel service to complement some open-source blockchain protocols. A vital point of adopting blockchain technology is to encourage more and more parties to join for higher security and better efficiency. National Center for High-performance Computing (NCHC) has initiated a service, named NBCP, for rapidly constructing multiple blockchain nodes around Taiwan. With several pros, users can easily construct private blockchain nodes, catering to the need of developing various prototypes of blockchain-based applications."
+}
