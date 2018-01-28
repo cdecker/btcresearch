@@ -1,0 +1,25 @@
+{
+    "id": "abraham2017blockchain",
+    "title": "The Blockchain Consensus Layer And Bft",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Ittai Abraham"
+        },
+        {
+            "affiliation": "",
+            "name": "Dahlia Malkhi"
+        },
+        {
+            "affiliation": "",
+            "name": "others"
+        }
+    ],
+    "url": null,
+    "venue": "Bulletin of EATCS",
+    "peer-reviewed": true,
+    "abstract": ""
+}

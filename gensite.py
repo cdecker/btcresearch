@@ -19,7 +19,7 @@ def main():
             ('.*.json', render_publication),
         ],
         outpath='output',
-        staticpaths=('static/',)
+        staticpaths=('static/',),
     )
     s.render()
 
@@ -28,6 +28,7 @@ def load_entries(template):
     entries = []
     ids = []
     for fname in glob("publications/**/*.json"):
+        print "Loading", fname
         entry = json.loads(open(fname, 'r').read())
         if entry['id'] in ids:
             raise ValueError('ID collision with %s' % (entry['id']))

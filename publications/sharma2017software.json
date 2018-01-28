@@ -1,0 +1,25 @@
+{
+    "id": "sharma2017software",
+    "title": "A Software Defined Fog Node Based Distributed Blockchain Cloud Architecture For Iot",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Pradip Kumar Sharma"
+        },
+        {
+            "affiliation": "",
+            "name": "Mu-Yen Chen"
+        },
+        {
+            "affiliation": "",
+            "name": "Jong Hyuk Park"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/iel7/6287639/6514899/08053750.pdf",
+    "venue": "IEEE Access",
+    "peer-reviewed": true,
+    "abstract": ""
+}

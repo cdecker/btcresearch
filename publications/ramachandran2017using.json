@@ -1,0 +1,25 @@
+{
+    "id": "ramachandran2017using",
+    "title": "Using Blockchain And Smart Contracts For Secure Data Provenance Management",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Aravind Ramachandran"
+        },
+        {
+            "affiliation": "",
+            "name": "Dr Kantarcioglu"
+        },
+        {
+            "affiliation": "",
+            "name": "others"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1709.10000",
+    "venue": "arXiv preprint arXiv:1709.10000",
+    "peer-reviewed": true,
+    "abstract": ""
+}

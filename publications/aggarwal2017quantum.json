@@ -1,0 +1,33 @@
+{
+    "id": "aggarwal2017quantum",
+    "title": "Quantum Attacks On Bitcoin, And How To Protect Against Them",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Divesh Aggarwal"
+        },
+        {
+            "affiliation": "",
+            "name": "Gavin K Brennen"
+        },
+        {
+            "affiliation": "",
+            "name": "Troy Lee"
+        },
+        {
+            "affiliation": "",
+            "name": "Miklos Santha"
+        },
+        {
+            "affiliation": "",
+            "name": "Marco Tomamichel"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1710.10377",
+    "peer-reviewed": true,
+    "abstract": ""
+}

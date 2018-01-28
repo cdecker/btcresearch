@@ -1,0 +1,33 @@
+{
+    "id": "liu2017evolutionary",
+    "title": "Evolutionary Game For Mining Pool Selection In Blockchain Networks",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171219,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Xiaojun Liu"
+        },
+        {
+            "affiliation": "",
+            "name": "Wenbo Wang"
+        },
+        {
+            "affiliation": "",
+            "name": "Dusit Niyato"
+        },
+        {
+            "affiliation": "",
+            "name": "Narisa Zhao"
+        },
+        {
+            "affiliation": "",
+            "name": "Ping Wang"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1712.02027",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,29 @@
+{
+    "id": "li2017searchable",
+    "title": "A Searchable Symmetric Encryption Scheme Using Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Huige Li"
+        },
+        {
+            "affiliation": "",
+            "name": "Fangguo Zhang"
+        },
+        {
+            "affiliation": "",
+            "name": "Jiejie He"
+        },
+        {
+            "affiliation": "",
+            "name": "Haibo Tian"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1711.01030",
+    "peer-reviewed": true,
+    "abstract": ""
+}

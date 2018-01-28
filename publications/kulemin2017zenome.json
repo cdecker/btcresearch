@@ -1,0 +1,24 @@
+{
+    "id": "kulemin2017zenome",
+    "title": "The Zenome Project: Whitepaper Blockchain-Based Genomic Ecosystem",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Nikolay Kulemin"
+        },
+        {
+            "affiliation": "",
+            "name": "Sergey Popov"
+        },
+        {
+            "affiliation": "",
+            "name": "Alexey Gorbachev"
+        }
+    ],
+    "url": "https://www.zenome.io/download/whitepaper.pdf",
+    "peer-reviewed": false,
+    "abstract": ""
+}

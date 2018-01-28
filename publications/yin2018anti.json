@@ -1,0 +1,33 @@
+{
+    "id": "yin2018anti",
+    "title": "An Anti-Quantum Transaction Authentication Approach In Blockchain",
+    "year": 2018,
+    "type": "article",
+    "sortkey": 20180114,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Wei Yin"
+        },
+        {
+            "affiliation": "",
+            "name": "Qiaoyan Wen"
+        },
+        {
+            "affiliation": "",
+            "name": "Wenmin Li"
+        },
+        {
+            "affiliation": "",
+            "name": "Hua Zhang"
+        },
+        {
+            "affiliation": "",
+            "name": "Zhengping Jin"
+        }
+    ],
+    "url": null,
+    "venue": "IEEE Access",
+    "peer-reviewed": true,
+    "abstract": ""
+}

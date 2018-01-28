@@ -1,0 +1,37 @@
+{
+    "id": "chen2017smart",
+    "title": "Smart Contract Execution-The (+-)-Biased Ballot Problem",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171219,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Lin Chen"
+        },
+        {
+            "affiliation": "",
+            "name": "Lei Xu"
+        },
+        {
+            "affiliation": "",
+            "name": "Zhimin Gao"
+        },
+        {
+            "affiliation": "",
+            "name": "Nolan Shah"
+        },
+        {
+            "affiliation": "",
+            "name": "Yang Lu"
+        },
+        {
+            "affiliation": "",
+            "name": "Weidong Shi"
+        }
+    ],
+    "url": null,
+    "venue": "LIPIcs-Leibniz International Proceedings in Informatics",
+    "peer-reviewed": true,
+    "abstract": ""
+}

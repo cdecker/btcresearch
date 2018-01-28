@@ -1,0 +1,44 @@
+{
+    "id": "bentovtesseract",
+    "title": "Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171219,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Iddo Bentov"
+        },
+        {
+            "affiliation": "",
+            "name": "Yan Ji"
+        },
+        {
+            "affiliation": "",
+            "name": "Fan Zhang"
+        },
+        {
+            "affiliation": "",
+            "name": "Yunqi Li"
+        },
+        {
+            "affiliation": "",
+            "name": "Xueyuan Zhao"
+        },
+        {
+            "affiliation": "",
+            "name": "Lorenz Breidenbach"
+        },
+        {
+            "affiliation": "",
+            "name": "Philip Daian"
+        },
+        {
+            "affiliation": "",
+            "name": "Ari Juels"
+        }
+    ],
+    "url": null,
+    "peer-reviewed": false,
+    "abstract": ""
+}

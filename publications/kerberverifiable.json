@@ -1,0 +1,16 @@
+{
+    "id": "kerberverifiable",
+    "title": "Verifiable Computation In Smart Contracts",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171204,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Thomas Kerber"
+        }
+    ],
+    "url": null,
+    "peer-reviewed": false,
+    "abstract": ""
+}

@@ -1,0 +1,25 @@
+{
+    "id": "isenberg2017exploring",
+    "title": "Exploring Entity Behavior On The Bitcoin Blockchain",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171218,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Petra Isenberg"
+        },
+        {
+            "affiliation": "",
+            "name": "Christoph Kinkeldey"
+        },
+        {
+            "affiliation": "",
+            "name": "Jean-Daniel Fekete"
+        }
+    ],
+    "url": null,
+    "venue": "Posters of the IEEE Conference on Visualization",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,21 @@
+{
+    "id": "fanti2017deanonymization",
+    "title": "Deanonymization In The Bitcoin P2P Network",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171204,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Giulia Fanti"
+        },
+        {
+            "affiliation": "",
+            "name": "Pramod Viswanath"
+        }
+    ],
+    "url": null,
+    "venue": "Advances in Neural Information Processing Systems",
+    "peer-reviewed": true,
+    "abstract": ""
+}

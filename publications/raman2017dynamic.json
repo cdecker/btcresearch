@@ -1,0 +1,21 @@
+{
+    "id": "raman2017dynamic",
+    "title": "Dynamic Distributed Storage For Scaling Blockchains",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171204,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Ravi Kiran Raman"
+        },
+        {
+            "affiliation": "",
+            "name": "Lav R Varshney"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1711.07617",
+    "peer-reviewed": true,
+    "abstract": ""
+}

@@ -1,0 +1,28 @@
+{
+    "id": "maxwell2018simple",
+    "title": "Simple Schnorr Multi-Signatures With Applications To Bitcoin",
+    "year": 2018,
+    "type": "article",
+    "sortkey": 20180128,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Gregory Maxwell"
+        },
+        {
+            "affiliation": "",
+            "name": "Andrew Poelstra"
+        },
+        {
+            "affiliation": "",
+            "name": "Yannick Seurin"
+        },
+        {
+            "affiliation": "",
+            "name": "Pieter Wuille"
+        }
+    ],
+    "url": null,
+    "peer-reviewed": false,
+    "abstract": ""
+}

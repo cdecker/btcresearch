@@ -1,0 +1,29 @@
+{
+    "id": "dorri2017lsb",
+    "title": "Lsb: A Lightweight Scalable Blockchain For Iot Security And Privacy",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171218,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Ali Dorri"
+        },
+        {
+            "affiliation": "",
+            "name": "Salil S Kanhere"
+        },
+        {
+            "affiliation": "",
+            "name": "Raja Jurdak"
+        },
+        {
+            "affiliation": "",
+            "name": "Praveen Gauravaram"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1712.02969",
+    "peer-reviewed": true,
+    "abstract": ""
+}

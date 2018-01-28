@@ -1,0 +1,33 @@
+{
+    "id": "engelmann2017towards",
+    "title": "Towards An Economic Analysis Of Routing In Payment Channel Networks",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Felix Engelmann"
+        },
+        {
+            "affiliation": "",
+            "name": "Florian Glaser"
+        },
+        {
+            "affiliation": "",
+            "name": "Henning Kopp"
+        },
+        {
+            "affiliation": "",
+            "name": "Frank Kargl"
+        },
+        {
+            "affiliation": "",
+            "name": "Christof Weinhardt"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1711.02597",
+    "peer-reviewed": true,
+    "abstract": ""
+}

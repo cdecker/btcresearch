@@ -1,0 +1,25 @@
+{
+    "id": "sousa2017byzantine",
+    "title": "A Byzantine Fault-Tolerant Ordering Service For The Hyperledger Fabric Blockchain Platform",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20180128,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Joao Sousa"
+        },
+        {
+            "affiliation": "",
+            "name": "Alysson Bessani"
+        },
+        {
+            "affiliation": "",
+            "name": "Marko Vukoli{\\'c}"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1709.06921",
+    "peer-reviewed": true,
+    "abstract": ""
+}

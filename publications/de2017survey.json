@@ -1,0 +1,37 @@
+{
+    "id": "de2017survey",
+    "title": "A Survey Of Blockchain Technologies For Open Innovation",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171204,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Josep Lluis de la Rosa"
+        },
+        {
+            "affiliation": "",
+            "name": "L Maicher"
+        },
+        {
+            "affiliation": "",
+            "name": "V Torres"
+        },
+        {
+            "affiliation": "",
+            "name": "A El-Fakdi"
+        },
+        {
+            "affiliation": "",
+            "name": "F Miralles"
+        },
+        {
+            "affiliation": "",
+            "name": "D Gibovic"
+        }
+    ],
+    "url": null,
+    "venue": "4rd Annual World Open Innovation Conf. WOIC",
+    "peer-reviewed": true,
+    "abstract": ""
+}

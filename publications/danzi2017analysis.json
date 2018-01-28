@@ -1,0 +1,29 @@
+{
+    "id": "danzi2017analysis",
+    "title": "Analysis Of The Communication Traffic For Blockchain Synchronization Of Iot Devices",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Pietro Danzi"
+        },
+        {
+            "affiliation": "",
+            "name": "Anders Ellersgaard Kal{\\o}r"
+        },
+        {
+            "affiliation": "",
+            "name": "{\\v{C}}edomir Stefanovi{\\'c}"
+        },
+        {
+            "affiliation": "",
+            "name": "Petar Popovski"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1711.00540",
+    "peer-reviewed": true,
+    "abstract": ""
+}

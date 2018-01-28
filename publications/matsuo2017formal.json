@@ -1,0 +1,17 @@
+{
+    "id": "matsuo2017formal",
+    "title": "How Formal Analysis And Verification Add Security To Blockchain-Based Systems",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171220,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Shin'Ichiro Matsuo"
+        }
+    ],
+    "url": null,
+    "venue": "Formal Methods in Computer Aided Design (FMCAD), 2017",
+    "peer-reviewed": true,
+    "abstract": ""
+}

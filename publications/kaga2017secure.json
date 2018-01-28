@@ -1,0 +1,41 @@
+{
+    "id": "kaga2017secure",
+    "title": "A Secure And Practical Signature Scheme For Blockchain Based On Biometrics",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171219,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Yosuke Kaga"
+        },
+        {
+            "affiliation": "",
+            "name": "Masakazu Fujio"
+        },
+        {
+            "affiliation": "",
+            "name": "Ken Naganuma"
+        },
+        {
+            "affiliation": "",
+            "name": "Kenta Takahashi"
+        },
+        {
+            "affiliation": "",
+            "name": "Takao Murakami"
+        },
+        {
+            "affiliation": "",
+            "name": "Tetsushi Ohki"
+        },
+        {
+            "affiliation": "",
+            "name": "Masakatsu Nishigaki"
+        }
+    ],
+    "url": null,
+    "venue": "International Conference on Information Security Practice and Experience",
+    "peer-reviewed": true,
+    "abstract": ""
+}

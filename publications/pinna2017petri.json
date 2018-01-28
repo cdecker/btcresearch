@@ -1,0 +1,29 @@
+{
+    "id": "pinna2017petri",
+    "title": "A Petri Nets Model For Blockchain Analysis",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Andrea Pinna"
+        },
+        {
+            "affiliation": "",
+            "name": "Roberto Tonelli"
+        },
+        {
+            "affiliation": "",
+            "name": "Matteo Orr{\\'u}"
+        },
+        {
+            "affiliation": "",
+            "name": "Michele Marchesi"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1709.07790",
+    "venue": "arXiv preprint arXiv:1709.07790",
+    "peer-reviewed": true,
+    "abstract": ""
+}

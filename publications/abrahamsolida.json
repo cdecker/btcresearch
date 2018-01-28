@@ -1,0 +1,32 @@
+{
+    "id": "abrahamsolida",
+    "title": "Solida: A Blockchain Protocol Based On Reconfigurable Byzantine Consensus",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171204,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Ittai Abraham"
+        },
+        {
+            "affiliation": "",
+            "name": "Dahlia Malkhi"
+        },
+        {
+            "affiliation": "",
+            "name": "Kartik Nayak"
+        },
+        {
+            "affiliation": "",
+            "name": "Ling Ren"
+        },
+        {
+            "affiliation": "",
+            "name": "Alexander Spiegelman"
+        }
+    ],
+    "url": null,
+    "peer-reviewed": false,
+    "abstract": ""
+}

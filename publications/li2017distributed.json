@@ -1,0 +1,25 @@
+{
+    "id": "li2017distributed",
+    "title": "A Distributed Authentication Protocol Using Identity-Based Encryption And Blockchain For Leo Network",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171219,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Shuai Li"
+        },
+        {
+            "affiliation": "",
+            "name": "Meilin Liu"
+        },
+        {
+            "affiliation": "",
+            "name": "Songjie Wei"
+        }
+    ],
+    "url": null,
+    "venue": "International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage",
+    "peer-reviewed": true,
+    "abstract": ""
+}

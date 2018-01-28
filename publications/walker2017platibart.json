@@ -1,0 +1,29 @@
+{
+    "id": "walker2017platibart",
+    "title": "Platibart: A Platform For Transactive Iot Blockchain Applications With Repeatable Testing",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Michael A Walker"
+        },
+        {
+            "affiliation": "",
+            "name": "Abhishek Dubey"
+        },
+        {
+            "affiliation": "",
+            "name": "Aron Laszka"
+        },
+        {
+            "affiliation": "",
+            "name": "Douglas C Schmidt"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1709.09612",
+    "venue": "arXiv preprint arXiv:1709.09612",
+    "peer-reviewed": true,
+    "abstract": ""
+}

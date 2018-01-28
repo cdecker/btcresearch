@@ -1,0 +1,21 @@
+{
+    "id": "pass2017rethinking",
+    "title": "Rethinking Large-Scale Consensus",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Rafael Pass"
+        },
+        {
+            "affiliation": "",
+            "name": "Elaine Shi"
+        }
+    ],
+    "url": "http://ieeexplore.ieee.org/abstract/document/8049715/",
+    "venue": "Computer Security Foundations Symposium (CSF), 2017 IEEE 30th",
+    "peer-reviewed": true,
+    "abstract": ""
+}

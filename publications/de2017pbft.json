@@ -1,0 +1,36 @@
+{
+    "id": "de2017pbft",
+    "title": "Pbft Vs Proof-Of-Authority: Applying The Cap Theorem To Permissioned Blockchain",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Stefano De Angelis"
+        },
+        {
+            "affiliation": "",
+            "name": "Leonardo Aniello"
+        },
+        {
+            "affiliation": "",
+            "name": "Roberto Baldoni"
+        },
+        {
+            "affiliation": "",
+            "name": "Federico Lombardi"
+        },
+        {
+            "affiliation": "",
+            "name": "Andrea Margheri"
+        },
+        {
+            "affiliation": "",
+            "name": "Vladimiro Sassone"
+        }
+    ],
+    "url": null,
+    "peer-reviewed": false,
+    "abstract": ""
+}

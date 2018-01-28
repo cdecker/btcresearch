@@ -1,0 +1,33 @@
+{
+    "id": "huangseshare",
+    "title": "Seshare: Secure Cloud Data Sharing Based On Blockchain And Public Auditing",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Longxia Huang"
+        },
+        {
+            "affiliation": "",
+            "name": "Gongxuan Zhang"
+        },
+        {
+            "affiliation": "",
+            "name": "Shui Yu"
+        },
+        {
+            "affiliation": "",
+            "name": "Anmin Fu"
+        },
+        {
+            "affiliation": "",
+            "name": "John Yearwood"
+        }
+    ],
+    "url": null,
+    "venue": "Concurrency and Computation: Practice and Experience",
+    "peer-reviewed": true,
+    "abstract": ""
+}

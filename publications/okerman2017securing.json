@@ -1,0 +1,16 @@
+{
+    "id": "okerman2017securing",
+    "title": "Securing Bitcoin On Embedded Devices Using Threshold Elliptic Curve Dsa And The Haspoc Hypervisor",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Egon Okerman"
+        }
+    ],
+    "url": null,
+    "peer-reviewed": false,
+    "abstract": ""
+}

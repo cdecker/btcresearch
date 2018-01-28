@@ -1,0 +1,25 @@
+{
+    "id": "fiz2017confirmation",
+    "title": "Confirmation Delay Prediction Of Transactions In The Bitcoin Network",
+    "year": 2017,
+    "type": "incollection",
+    "sortkey": 20180108,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Beltran Fiz"
+        },
+        {
+            "affiliation": "",
+            "name": "Stefan Hommes"
+        },
+        {
+            "affiliation": "",
+            "name": "others"
+        }
+    ],
+    "url": null,
+    "venue": "Advances in Computer Science and Ubiquitous Computing",
+    "peer-reviewed": true,
+    "abstract": ""
+}

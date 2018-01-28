@@ -1,0 +1,21 @@
+{
+    "id": "bissias2017bobtail",
+    "title": "Bobtail: A Proof-Of-Work Target That Minimizes Blockchain Mining Variance (Draft)",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "George Bissias"
+        },
+        {
+            "affiliation": "",
+            "name": "Brian Neil Levine"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1709.08750",
+    "venue": "arXiv preprint arXiv:1709.08750",
+    "peer-reviewed": true,
+    "abstract": ""
+}

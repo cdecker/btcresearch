@@ -1,0 +1,37 @@
+{
+    "id": "frey2017effect",
+    "title": "The Effect Of A Blockchain-Supported, Privacy-Preserving System On Disclosure Of Personal Data",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171113,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Remo M Frey"
+        },
+        {
+            "affiliation": "",
+            "name": "Pascal B{\\\"u}hler"
+        },
+        {
+            "affiliation": "",
+            "name": "Alexander Gerdes"
+        },
+        {
+            "affiliation": "",
+            "name": "Thomas Hardjono"
+        },
+        {
+            "affiliation": "",
+            "name": "Klaus L Fuchs"
+        },
+        {
+            "affiliation": "",
+            "name": "Alexander Ilic"
+        }
+    ],
+    "url": null,
+    "venue": "The 16th IEEE International Symposium on Network Computing and Applications (NCA 2017)",
+    "peer-reviewed": true,
+    "abstract": ""
+}

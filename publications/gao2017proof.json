@@ -1,0 +1,21 @@
+{
+    "id": "gao2017proof",
+    "title": "A Proof Of Stake Sharding Protocol For Scalable Blockchains",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Yuefei Gao"
+        },
+        {
+            "affiliation": "",
+            "name": "Hajime Nobuhara"
+        }
+    ],
+    "url": null,
+    "venue": "Proceedings of the Asia-Pacific Advanced Network",
+    "peer-reviewed": true,
+    "abstract": ""
+}

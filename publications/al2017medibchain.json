@@ -1,0 +1,29 @@
+{
+    "id": "al2017medibchain",
+    "title": "Medibchain: A Blockchain Based Privacy Preserving Platform For Healthcare Data",
+    "year": 2017,
+    "type": "inproceedings",
+    "sortkey": 20171218,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Abdullah Al Omar"
+        },
+        {
+            "affiliation": "",
+            "name": "Mohammad Shahriar Rahman"
+        },
+        {
+            "affiliation": "",
+            "name": "Anirban Basu"
+        },
+        {
+            "affiliation": "",
+            "name": "Shinsaku Kiyomoto"
+        }
+    ],
+    "url": null,
+    "venue": "International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage",
+    "peer-reviewed": true,
+    "abstract": ""
+}

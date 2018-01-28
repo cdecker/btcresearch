@@ -1,0 +1,25 @@
+{
+    "id": "bano2017road",
+    "title": "The Road To Scalable Blockchain Designs",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171219,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Shehar Bano"
+        },
+        {
+            "affiliation": "",
+            "name": "MUSTAFA Al-Bassam"
+        },
+        {
+            "affiliation": "",
+            "name": "GEORGE Danezis"
+        }
+    ],
+    "url": null,
+    "venue": "USENIX; login: magazine",
+    "peer-reviewed": true,
+    "abstract": ""
+}

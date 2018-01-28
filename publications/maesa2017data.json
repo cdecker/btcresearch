@@ -1,0 +1,25 @@
+{
+    "id": "maesa2017data",
+    "title": "Data-Driven Analysis Of Bitcoin Properties: Exploiting The Users Graph",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Damiano Di Francesco Maesa"
+        },
+        {
+            "affiliation": "",
+            "name": "Andrea Marino"
+        },
+        {
+            "affiliation": "",
+            "name": "Laura Ricci"
+        }
+    ],
+    "url": "https://link.springer.com/article/10.1007/s41060-017-0074-x",
+    "venue": "International Journal of Data Science and Analytics",
+    "peer-reviewed": true,
+    "abstract": ""
+}

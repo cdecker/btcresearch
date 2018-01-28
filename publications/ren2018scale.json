@@ -1,0 +1,21 @@
+{
+    "id": "ren2018scale",
+    "title": "A Scale-Out Blockchain For Value Transfer With Spontaneous Sharding",
+    "year": 2018,
+    "type": "article",
+    "sortkey": 20180114,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Zhijie Ren"
+        },
+        {
+            "affiliation": "",
+            "name": "Zekeriya Erkin"
+        }
+    ],
+    "url": null,
+    "venue": "arXiv preprint arXiv:1801.02531",
+    "peer-reviewed": true,
+    "abstract": ""
+}

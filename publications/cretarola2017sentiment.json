@@ -1,0 +1,25 @@
+{
+    "id": "cretarola2017sentiment",
+    "title": "A Sentiment-Based Model For The Bitcoin: Theory, Estimation And Option Pricing",
+    "year": 2017,
+    "type": "article",
+    "sortkey": 20171030,
+    "authors": [
+        {
+            "affiliation": "",
+            "name": "Alessandra Cretarola"
+        },
+        {
+            "affiliation": "",
+            "name": "Gianna Fig{\\`a}-Talamanca"
+        },
+        {
+            "affiliation": "",
+            "name": "Marco Patacca"
+        }
+    ],
+    "url": "https://arxiv.org/pdf/1709.08621",
+    "venue": "arXiv preprint arXiv:1709.08621",
+    "peer-reviewed": true,
+    "abstract": ""
+}
