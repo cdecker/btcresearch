@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CABRA - Comprehensive Academic Bitcoin Research Archive</title>
+    <meta charset="UTF-8"/>
+    <style>
+      body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+      }
+      main {
+        flex: 1 0 auto;
+      }
+      nav a:hover {
+      color: white;
+      text-decoration: none;
+      }
+      nav i {
+      height: 15px !important;
+      }
+    </style>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <style>
+    </style>
+  </head>
+  <body>
+      <div class="container">
+	<nav class="navbar navbar-top blue-grey darken-2">
+	  &nbsp;
+	<a class="navbar-brand" href="http://cdecker.github.io/btcresearch/" style="padding: 6px 12px 6px 12px; margin: 0px;">
+
+	  <img src="http://cdecker.github.io/btcresearch/static/logo.png"/>
+	</a>
+	<ul id="nav-mobile" class="right white-text">
+        <li><a href="http://cdecker.github.io/btcresearch">Publications</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/cabra.bib"><i class="fa fa-file-text-o" aria-hidden="true"></i> Bibtex</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/about.html">About</a></li>
+      </ul>
+	</nav>
+      </div>
+    
+      <div class="container">
+	  
+<div class="row">
+  <div class="col-md-7">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">The Blockchain Anomaly</p>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="University of Sydney">
+	    Christopher Natoli</abbr></div>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="University of Sydney">
+	    Vincent Gramoli</abbr></div>
+	
+	
+	<blockquote style="border-color: #607d8b;">
+	  Most popular blockchain solutions, like Bitcoin, rely on proof-of-work, guaranteeing that the output of the consensus is agreed upon with high probability. However, this probability depends on the delivery of messages and that the computational power of the system is sufficiently scattered among pools of nodes in the network so that no pool can mine more blocks faster than the crowd. New approaches, like Ethereum, generalise the proof-of-work approach by letting individuals deploy their own private blockchain with high transaction throughput. As companies are starting to deploy private chains, it has become crucial to better understand the guarantees blockchains offer in such a small and controlled environment. In this paper, we present the Blockchain Anomaly, an execution that we experienced when building our private chain at NICTA/Data61. Even though this anomaly has never been acknowledged before, it may translate into dramatic consequences for the user of blockchains. Named after the infamous Paxos anomaly, this anomaly makes dependent transactions, like “Bob sends money to Carole after he received money from Alice” impossible. This anomaly relies on the fact that existing blockchains do not ensure consensus safety deterministically: there is no way for Bob to make sure that Alice actually sent him coins without Bob using an external mechanism, like converting these coins into a fiat currency that allows him to withdraw. We also explore smart contracts as a potential alternative to transactions in order to freeze coins, and show implementations of smart contract that can suffer from the Blockchain anomaly and others that may cope with it.
+	</blockquote>
+	
+      </div>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Metadata</p>
+	<table>
+          <tbody>
+            <tr>
+              <td>Year</td>
+              <td>2016</td>
+            </tr>
+            <tr>
+              <td>Peer Reviewed</td>
+              <td>
+		
+		<i class="material-icons dp48">not_interested</i>
+		
+	      </td>
+            </tr>
+	    
+	    
+	    <tr>
+	      <td colspan="2">
+		<center>
+		  <a href="http://arxiv.org/pdf/1605.05438.pdf"><i class="fa fa-file-pdf-o fa-5x"></i></a>
+		</center>
+	      </td>
+	    </tr>
+	    
+          </tbody>
+	</table>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red" href="https://github.com/cdecker/btcresearch/blob/master/publications/natoli2016blockchain.json">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+  </div>
+
+ 
+    </div>
+    <footer class="page-footer blue-grey">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Bitcoin research at your fingertips!</h5>
+            <p class="grey-text text-lighten-4">
+	      This page attempts to collect and organize academic publications about Bitcoin and Blockchain technology.
+	      It was created and maintained by <a href="https://github.com/cdecker">Christian Decker</a>.
+	    </p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="white-text">Links</h5>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="https://github.com/cdecker/btcresearch">Fork on Github</a></li>
+              <li><a class="grey-text text-lighten-3" href="https://blockchain.info/address/1AQp9kfD5hKA1mia7YnKCAT2khPfY6jTPC">Donate</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          © 2016 - 2017 Christian Decker
+        </div>
+      </div>
+    </footer>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90080-24', 'auto');
+  ga('send', 'pageview');
+</script>
+  </body>
+</html>

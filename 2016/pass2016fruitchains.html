@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CABRA - Comprehensive Academic Bitcoin Research Archive</title>
+    <meta charset="UTF-8"/>
+    <style>
+      body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+      }
+      main {
+        flex: 1 0 auto;
+      }
+      nav a:hover {
+      color: white;
+      text-decoration: none;
+      }
+      nav i {
+      height: 15px !important;
+      }
+    </style>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <style>
+    </style>
+  </head>
+  <body>
+      <div class="container">
+	<nav class="navbar navbar-top blue-grey darken-2">
+	  &nbsp;
+	<a class="navbar-brand" href="http://cdecker.github.io/btcresearch/" style="padding: 6px 12px 6px 12px; margin: 0px;">
+
+	  <img src="http://cdecker.github.io/btcresearch/static/logo.png"/>
+	</a>
+	<ul id="nav-mobile" class="right white-text">
+        <li><a href="http://cdecker.github.io/btcresearch">Publications</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/cabra.bib"><i class="fa fa-file-text-o" aria-hidden="true"></i> Bibtex</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/about.html">About</a></li>
+      </ul>
+	</nav>
+      </div>
+    
+      <div class="container">
+	  
+<div class="row">
+  <div class="col-md-7">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">FruitChains: A Fair Blockchain</p>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="Cornell University">
+	    Rafael Pass</abbr></div>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="Cornell Tech">
+	    Elaine Shi</abbr></div>
+	
+	
+	<blockquote style="border-color: #607d8b;">
+	  Nakamoto’s famous blockchain protocol enables achieving consensus in a so-called permissionless setting—anyone can join (or leave) the protocol execution, and the protocol instructions do not depend on the identities of the players. His ingenious protocol prevents “sybil attacks” (where an adversary spawns any number of new players) by relying on computational puzzles (a.k.a. “moderately hard functions”) introduced by Dwork and Naor (Crypto’92). Recent work by Garay et al (EuroCrypt’15) and Pass et al (manuscript, 2016) demonstrate that this protocol provably achieves consistency and liveness assuming a) honest players control a majority of the computational power in the network, b) the puzzle-hardness is appropriately set as a function of the maximum network delay and the total computational power of the network, and c) the computational puzzle is modeled as a random oracle. Assuming honest participation, however, is a strong assumption, especially in a setting where honest players are expected to perform a lot of work (to solve the computational puzzles). In Nakamoto’s Bitcoin application of the blockchain protocol, players are incentivized to solve these puzzles by receiving rewards for every “blocks” (of transactions) they contribute to the blockchain. An elegant work by Eyal and Sirer (FinancialCrypt’14), strengthening and formalizing an earlier attack discussed on the Bitcoin forum, demonstrates that a coalition controlling even a minority fraction of the computational power in the network can gain (close to) 2 times its “fair share” of the rewards (and transation fees) by deviating from the protocol instructions. In contrast, in a fair protocol, one would expect that players controlling a φ fraction of the computational resources to reap a φ fraction of the rewards. In this work, we present a new blockchain protocol—the FruitChain protocol—which satis- fies the same consistency and liveness properties as Nakamoto’s protocol (assuming an honest majority of the computing power), and additionally is δ-approximately fair : with overwhelming probability, any honest set of players controlling a φ fraction of computational power is guaranteed to get at least a fraction (1 − δ)φ of the blocks (and thus rewards) in any Ω( κ δ) length segment of the chain (where κ is the security parameter). As a consequence, if this blockchain protocol is used as the ledger underlying a cryptocurrency system, where rewards and transaction fees are evenly distributed among the miners of blocks in a length κ segment of the chain, no coalition controlling less than a majority of the computing power can gain more than a factor (1 + 3δ) by deviating from the protocol (i.e., honest participation is an n 2 -coalition-safe 3δ-Nash equilibrium). Finally, the fruit chain protocol enables decreasing the variance of mining rewards and as such significantly lessens (or even obliterates) the need for mining pools
+	</blockquote>
+	
+      </div>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Metadata</p>
+	<table>
+          <tbody>
+            <tr>
+              <td>Year</td>
+              <td>2016</td>
+            </tr>
+            <tr>
+              <td>Peer Reviewed</td>
+              <td>
+		
+		<i class="material-icons dp48">not_interested</i>
+		
+	      </td>
+            </tr>
+	    
+	    
+	    <tr>
+	      <td colspan="2">
+		<center>
+		  <a href="http://eprint.iacr.org/2016/916.pdf"><i class="fa fa-file-pdf-o fa-5x"></i></a>
+		</center>
+	      </td>
+	    </tr>
+	    
+          </tbody>
+	</table>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red" href="https://github.com/cdecker/btcresearch/blob/master/publications/pass2016fruitchains.json">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+  </div>
+
+ 
+    </div>
+    <footer class="page-footer blue-grey">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Bitcoin research at your fingertips!</h5>
+            <p class="grey-text text-lighten-4">
+	      This page attempts to collect and organize academic publications about Bitcoin and Blockchain technology.
+	      It was created and maintained by <a href="https://github.com/cdecker">Christian Decker</a>.
+	    </p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="white-text">Links</h5>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="https://github.com/cdecker/btcresearch">Fork on Github</a></li>
+              <li><a class="grey-text text-lighten-3" href="https://blockchain.info/address/1AQp9kfD5hKA1mia7YnKCAT2khPfY6jTPC">Donate</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          © 2016 - 2017 Christian Decker
+        </div>
+      </div>
+    </footer>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90080-24', 'auto');
+  ga('send', 'pageview');
+</script>
+  </body>
+</html>

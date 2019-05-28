@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CABRA - Comprehensive Academic Bitcoin Research Archive</title>
+    <meta charset="UTF-8"/>
+    <style>
+      body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+      }
+      main {
+        flex: 1 0 auto;
+      }
+      nav a:hover {
+      color: white;
+      text-decoration: none;
+      }
+      nav i {
+      height: 15px !important;
+      }
+    </style>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <style>
+    </style>
+  </head>
+  <body>
+      <div class="container">
+	<nav class="navbar navbar-top blue-grey darken-2">
+	  &nbsp;
+	<a class="navbar-brand" href="http://cdecker.github.io/btcresearch/" style="padding: 6px 12px 6px 12px; margin: 0px;">
+
+	  <img src="http://cdecker.github.io/btcresearch/static/logo.png"/>
+	</a>
+	<ul id="nav-mobile" class="right white-text">
+        <li><a href="http://cdecker.github.io/btcresearch">Publications</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/cabra.bib"><i class="fa fa-file-text-o" aria-hidden="true"></i> Bibtex</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/about.html">About</a></li>
+      </ul>
+	</nav>
+      </div>
+    
+      <div class="container">
+	  
+<div class="row">
+  <div class="col-md-7">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">On Bitcoin and Red Balloons</p>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="Microsoft Research">
+	    Moshe Babaioff</abbr></div>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="Cornell University">
+	    Shahar Dobzinski</abbr></div>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="Cornell University">
+	    Sigal Oren</abbr></div>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="Microsoft Research">
+	    Aviv Zohar</abbr></div>
+	
+	
+	<blockquote style="border-color: #607d8b;">
+	  We study scenarios in which the goal is to ensure that some information will propagate through a large network of nodes. In these scenarios all nodes that are aware of the information compete for the same prize, and thus have an incentive not to propagate information. One example for such a scenario is the 2009 DARPA Network Challenge (finding red balloons). We give special attention to a second domain, Bitcoin, a decentralized electronic currency system. Bitcoin, which has been getting a large amount of public attention over the last year, represents a radical new approach to monetary systems which has appeared in policy discussions and in the popular press [3, 11]. Its cryptographic fundamentals have largely held up even as its usage has become increasingly widespread. We find, however, that it exhibits a fundamental problem of a different nature, based on how its incentives are structured. We propose a modification to the protocol that can fix this problem. Bitcoin relies on a peer-to-peer network to track transactions that are performed with the currency. For this purpose, every transaction a node learns about should be transmitted to its neighbors in the network. As the protocol is currently defined and implemented, it does not provide an incentive for nodes to broadcast transactions they are aware of. In fact, it provides a strong incentive not to do so. Our solution is to augment the protocol with a scheme that rewards information propagation. We show that our proposed scheme succeeds in setting the correct incentives, that it is Sybil-proof, and that it requires only a small payment overhead, all this is achieved with iterated elimination of dominated strategies. We provide lower bounds on the overhead that is required to implement schemes with the stronger solution concept of Dominant Strategies, indicating that such schemes might be impractical.
+	</blockquote>
+	
+      </div>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Metadata</p>
+	<table>
+          <tbody>
+            <tr>
+              <td>Year</td>
+              <td>2011</td>
+            </tr>
+            <tr>
+              <td>Peer Reviewed</td>
+              <td>
+		
+		<i class="material-icons dp48">not_interested</i>
+		
+	      </td>
+            </tr>
+	    
+	    
+	    <tr>
+	      <td colspan="2">
+		<center>
+		  <a href="http://arxiv.org/pdf/1111.2626v1"><i class="fa fa-file-pdf-o fa-5x"></i></a>
+		</center>
+	      </td>
+	    </tr>
+	    
+          </tbody>
+	</table>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red" href="https://github.com/cdecker/btcresearch/blob/master/publications/babaioff2011balloons.json">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+  </div>
+
+ 
+    </div>
+    <footer class="page-footer blue-grey">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Bitcoin research at your fingertips!</h5>
+            <p class="grey-text text-lighten-4">
+	      This page attempts to collect and organize academic publications about Bitcoin and Blockchain technology.
+	      It was created and maintained by <a href="https://github.com/cdecker">Christian Decker</a>.
+	    </p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="white-text">Links</h5>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="https://github.com/cdecker/btcresearch">Fork on Github</a></li>
+              <li><a class="grey-text text-lighten-3" href="https://blockchain.info/address/1AQp9kfD5hKA1mia7YnKCAT2khPfY6jTPC">Donate</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          © 2016 - 2017 Christian Decker
+        </div>
+      </div>
+    </footer>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90080-24', 'auto');
+  ga('send', 'pageview');
+</script>
+  </body>
+</html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CABRA - Comprehensive Academic Bitcoin Research Archive</title>
+    <meta charset="UTF-8"/>
+    <style>
+      body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+      }
+      main {
+        flex: 1 0 auto;
+      }
+      nav a:hover {
+      color: white;
+      text-decoration: none;
+      }
+      nav i {
+      height: 15px !important;
+      }
+    </style>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <style>
+    </style>
+  </head>
+  <body>
+      <div class="container">
+	<nav class="navbar navbar-top blue-grey darken-2">
+	  &nbsp;
+	<a class="navbar-brand" href="http://cdecker.github.io/btcresearch/" style="padding: 6px 12px 6px 12px; margin: 0px;">
+
+	  <img src="http://cdecker.github.io/btcresearch/static/logo.png"/>
+	</a>
+	<ul id="nav-mobile" class="right white-text">
+        <li><a href="http://cdecker.github.io/btcresearch">Publications</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/cabra.bib"><i class="fa fa-file-text-o" aria-hidden="true"></i> Bibtex</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/about.html">About</a></li>
+      </ul>
+	</nav>
+      </div>
+    
+      <div class="container">
+	  
+<div class="row">
+  <div class="col-md-7">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Mimblewimble</p>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="Death Eaters">
+	    Tom Elvis Jedusor (Lord Voldemort)</abbr></div>
+	
+	
+	<blockquote style="border-color: #607d8b;">
+	  Bitcoin is the first widely used financial system for which all the necessary data to validate the system status can be cryptographically verified by anyone. However, it accomplishes this feat by storing all transactions in a public database called "the blockchain" and someone who genuinely wishes to check this state must download the whole thing and basically replay each transaction, check each one as they go. Meanwhile, most of these transactions have not affected the actual final state (they create outputs that are destroyed a transaction later). At the time of this writing, there were nearly 150 million transactions committed in the blockchain, which must be replayed to produce a set of only 4 million unspent outputs. It would be better if an auditor needed only to check data on the outputs themselves, but this is impossible because they are valid if and only if the output is at the end of a chain of previous outputs, each signs the next. In other words, the whole blockchain must be validated to confirm the final state. Add to this that these transactions are cryptographically atomic, it is clear what outputs go into every transaction and what emerges. The "transaction graph" resulting reveals a lot of information and is subjected to analysis by many companies whose business model is to monitor and control the lower classes. This makes it very non-private and even dangerous for people to use. Some solutions to this have been proposed. Greg Maxwell discovered to encrypt the amounts, so that the graph of the transaction is faceless but still allow validation that the sums are correct [1]. Dr Maxwell also produced CoinJoin, a system for Bitcoin users to combine interactively transactions, confusing the transaction graph. Nicolas van Saberhagen has developed a system to blind the transaction entries, goes much further to cloud the transaction graph (as well as not needed the user interaction) [3]. Later, Shen Noether combined the two approaches to obtain "confidential transactions" of Maxwell AND the darkening of van Saberhagen [4]. These solutions are very good and would make Bitcoin very safe to use. But the problem of too much data is made even worse. Confidential transactions require multi-kilobyte proofs on every output, and van Saberhagen signatures require every output to be stored for ever, since it is not possible to tell when they are truly spent. Dr. Maxwell's CoinJoin has the problem of needing interactivity. Dr. Yuan Horas Mouton fixed this by making transactions freely mergeable [5], but he needed to use pairing-based cryptography, which is potentially slower and more difficult to trust. He called this "one-way aggregate signatures" (OWAS). OWAS had the good idea to combine the transactions in blocks. Imagine that we can combine across blocks (perhaps with some glue data) so that when the outputs are created and destroyed, it is the same as if they never existed. Then, to validate the entire chain, users only need to know when money is entered into the system (new money in each block as in Bitcoin or Monero or peg-ins for sidechains [6]) and final unspent outputs, the rest can be removed and forgotten. Then we can have Confidential Transactions to hide the amounts and OWAS to blur the transaction graph, and use LESS space than Bitcoin to allow users to fully verify the blockchain. And also imagine that we must not pairing-based cryptography or new hypotheses, just regular discrete logarithms signatures like Bitcoin. Here is what I propose. I call my creation Mimblewimble because it is used to prevent the blockchain from talking about all user's information [7].
+	</blockquote>
+	
+      </div>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Metadata</p>
+	<table>
+          <tbody>
+            <tr>
+              <td>Year</td>
+              <td>2016</td>
+            </tr>
+            <tr>
+              <td>Peer Reviewed</td>
+              <td>
+		
+		<i class="material-icons dp48">not_interested</i>
+		
+	      </td>
+            </tr>
+	    
+	    
+	    <tr>
+	      <td colspan="2">
+		<center>
+		  <a href="http://mimblewimble.cash/20160719-OriginalWhitePaper.txt"><i class="fa fa-file-pdf-o fa-5x"></i></a>
+		</center>
+	      </td>
+	    </tr>
+	    
+          </tbody>
+	</table>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red" href="https://github.com/cdecker/btcresearch/blob/master/publications/jedusor2016mimblewimble.json">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+  </div>
+
+ 
+    </div>
+    <footer class="page-footer blue-grey">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Bitcoin research at your fingertips!</h5>
+            <p class="grey-text text-lighten-4">
+	      This page attempts to collect and organize academic publications about Bitcoin and Blockchain technology.
+	      It was created and maintained by <a href="https://github.com/cdecker">Christian Decker</a>.
+	    </p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="white-text">Links</h5>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="https://github.com/cdecker/btcresearch">Fork on Github</a></li>
+              <li><a class="grey-text text-lighten-3" href="https://blockchain.info/address/1AQp9kfD5hKA1mia7YnKCAT2khPfY6jTPC">Donate</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          © 2016 - 2017 Christian Decker
+        </div>
+      </div>
+    </footer>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90080-24', 'auto');
+  ga('send', 'pageview');
+</script>
+  </body>
+</html>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CABRA - Comprehensive Academic Bitcoin Research Archive</title>
+    <meta charset="UTF-8"/>
+    <style>
+      body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+      }
+      main {
+        flex: 1 0 auto;
+      }
+      nav a:hover {
+      color: white;
+      text-decoration: none;
+      }
+      nav i {
+      height: 15px !important;
+      }
+    </style>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <style>
+    </style>
+  </head>
+  <body>
+      <div class="container">
+	<nav class="navbar navbar-top blue-grey darken-2">
+	  &nbsp;
+	<a class="navbar-brand" href="http://cdecker.github.io/btcresearch/" style="padding: 6px 12px 6px 12px; margin: 0px;">
+
+	  <img src="http://cdecker.github.io/btcresearch/static/logo.png"/>
+	</a>
+	<ul id="nav-mobile" class="right white-text">
+        <li><a href="http://cdecker.github.io/btcresearch">Publications</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/cabra.bib"><i class="fa fa-file-text-o" aria-hidden="true"></i> Bibtex</a></li>
+        <li><a href="http://cdecker.github.io/btcresearch/about.html">About</a></li>
+      </ul>
+	</nav>
+      </div>
+    
+      <div class="container">
+	  
+<div class="row">
+  <div class="col-md-7">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Ibm Blockchain: An Enterprise Deployment Of A Distributed Consensus-Based Transaction Log</p>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="IBM">
+	    Ben Smith</abbr></div>
+	
+	<div class="chip" style="margin: 2px 0px 2px 0px;"><abbr title="IBM">
+	    Konstantinos Christidis</abbr></div>
+	
+	
+	<blockquote style="border-color: #607d8b;">
+	  The backdrop of multiple scandals involving the corruption and falsification of our financial and business organizations’ records accentuates the need for tamperresistant data stores [2]. The United States alone has over 10,000 [8] rules and regulations that pertain to the proper storage and maintenance of an organization’s data [6]. The Sarbanes Oxley Act [1], for example, include standards around the trustworthiness of data, emphasizing the importance of the audit log of an organization’s records. A motivating example of the reason for these rules and regulations is as follows: if a member of an organization with a vested interest in pertinent outcomes can manipulate the organization’s data after the fact, he or she can make it appear that an organization had no record of an embezzlement scheme, which limits or eradicates the organization’s liability. Situations like these point to a broader notion: the future of the world’s economic stability hinges on the ability to trust and believe in the integrity of data that is maintained by our institutions in health care, finance, business, and government. Blockchain networks can help address this issue of data tampering and falsification. In a blockchain network, peer nodes (hereafter peers) run a piece of software that allows operations on a common, shared data store. Each peer maintains a local copy of the data store and a record of transactions with that store, but all modifications to the data store must be proposed to and agreed upon by the network. Peers use public key cryptography to achieve authenticity and non-repudiation of proposed changes to the datastore. Peers must also form a consensus on which transactions to accept, which to discard, and the order of transactions’ occurrence. Choosing the right consensus algorithm depends on a number of factors, including network characteristics and performance targets [14, 13]. In a blockchain network, each peer wishing to modify the data store signs their proposed transaction using their private key and then broadcasts. Peers who receive this transaction only relay the transaction after inspecting its syntactical validity and its authenticity (using the transmitting peer’s stored public keys). Peers group and package incoming transactions into a set, called a ”candidate block,” after a prespecified time interval elapses (the block period) 1 . Receiving peers validate the candidate block by ensuring that it contains valid transactions, and that it contains the hash digest of the preceding block. If a peer determines the candidate to be valid, it adopts the candidate as the next block in the chain. Each peer then appends the included transactions to the local transaction log and updates its local copy of the data store accordingly. This set of linked authenticated, verified transaction batches is what we refer to as the blockchain. Blockchain and its use in blockchain networks makes it difficult to repudiate (deny) that a transaction has occurred, or manipulate the history of transactions post hoc. A peer may be able to filter out transactions from their own copy of the ledger, but other peers will reject these post hoc changes, meaning that all other copies on the network will remain untouched. To use the blockchain network, developers make use of a REST API that allows the deployment of chain code, which is the programmatic articulation of the functions entailed in a transaction. This is often referred to in the literature as a smart contract [11, 12]. For example, if the application using the blockchain needs to record that user A has transferred the ownership of an item to user B, the chain code will contain source code that implements this transaction. This chain code will check, for example, that A has the item to begin with, check that B can receive the item, and then record that A transferred the item to B as a transaction. IBM is a premiere member in the Hyperledger Project, a collaborative effort run by the Linux Foundation whose goal is identifying and articulating goals for a cross-industry standard for blockchain. IBM has contributed open source software3 for blockchain network peers that is available from GitHub. Additionally, users can obtain a deployed and configured network of peers through IBM’s Blockchain Service, which is available from IBM’s next generation cloud application development platform, Bluemix4 . IBM has produced several demos that utilize blockchain technology, available from IBM’s blockchain website, and deployable as applications on Bluemix5 . The blockchain peers in IBM’s implementation form a private network where communication is established via HTTP 2.0 and the gRPC protocol [9]. The fact that the network is private, or permissioned, means that there is no risk of a Sybil attack [7]. The consensus mechanism is a pluggable component that can be changed according to the network’s requirements. Existing implementations include (a) the classic Practical Byzantine Fault Tolerant (PBFT) algorithm [5, 3], which offers a solution to the Byzantine Generals Problem [10] in asynchronous settings, like the Internet, and (b) Sieve [4], an algorithm developed by IBM Research that adds a speculative execution and verification phase to the PBFT protocol to allow the network to reach consensus on the output state of candidate transactions. Blockchain networks like IBM’s can help prevent the post hoc tampering of transaction histories and organizations’ data. Effective use of blockchain networks requires that non-trusting (and indeed competitive) organizations agree to participate in a shared network. Each organization can use the REST API described above to create and record transactions on the blockchain that are then validated by the other participating organizations in the network. Consider a consortium of organizations agreed to store their financial holdings on a shared blockchain network–it would be difficult (if not prohibitively expensive) for a paricipant in this network to manipulate transactions stored on the blockchain after the fact. This level of transparency and non-repudiation makes covering up a financial scandal more dif- ficult than it is today. Finally, organizations will be incentivized to participate in blockchain networks in the future because there is no central mediating authority– the network as a whole acts as the validator and purveyor of truth. This presentation will review blockchain concepts and implementation details. Additionally, this presentation will provide information on how to access and utilize IBM’s Blockchain Service in Bluemix and provide a demonstration of how blockchain technology can help shape the nature of future business transactions
+	</blockquote>
+	
+      </div>
+    </div>
+  </div>
+  <div class="col-md-5">
+    <div class="card">
+      <div class="card-content">
+	<p class="card-title">Metadata</p>
+	<table>
+          <tbody>
+            <tr>
+              <td>Year</td>
+              <td>2016</td>
+            </tr>
+            <tr>
+              <td>Peer Reviewed</td>
+              <td>
+		
+		<i class="material-icons dp48">done</i>
+		
+	      </td>
+            </tr>
+	    
+	    <tr>
+	      <td>Venue</td>
+	      <td>IBM Cloud Academy Conference (ICACON)</td>
+	    </tr>
+	    
+	    
+	    <tr>
+	      <td colspan="2">
+		<center>
+		  <a href="http://bensmith.s3.amazonaws.com/website/papers/icacon-2016.pdf"><i class="fa fa-file-pdf-o fa-5x"></i></a>
+		</center>
+	      </td>
+	    </tr>
+	    
+          </tbody>
+	</table>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red" href="https://github.com/cdecker/btcresearch/blob/master/publications/smithibm.json">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+  </div>
+
+ 
+    </div>
+    <footer class="page-footer blue-grey">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Bitcoin research at your fingertips!</h5>
+            <p class="grey-text text-lighten-4">
+	      This page attempts to collect and organize academic publications about Bitcoin and Blockchain technology.
+	      It was created and maintained by <a href="https://github.com/cdecker">Christian Decker</a>.
+	    </p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="white-text">Links</h5>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="https://github.com/cdecker/btcresearch">Fork on Github</a></li>
+              <li><a class="grey-text text-lighten-3" href="https://blockchain.info/address/1AQp9kfD5hKA1mia7YnKCAT2khPfY6jTPC">Donate</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          © 2016 - 2017 Christian Decker
+        </div>
+      </div>
+    </footer>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90080-24', 'auto');
+  ga('send', 'pageview');
+</script>
+  </body>
+</html>
