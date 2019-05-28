@@ -1,4 +1,4 @@
-{% for group, entries in entry_groups.iteritems() %}
+{% for group, entries in entry_groups.items() %}
 ### {{ group }} ###
   {%- for entry in entries %}
 @{% if entry.type %}{{ entry.type }}{% else %}misc{% endif %}{{ '{' }}{{ entry.id }},
